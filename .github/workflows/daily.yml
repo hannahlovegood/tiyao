@@ -1,0 +1,44 @@
+name: Daily Tiyao
+
+# 每天自动出刊：抓取 → 去重 → 打分 → 精选 → 提交更新后的网页/存档/RSS；GitHub Pages 随之刷新。
+# 00:00 UTC = 08:00 北京时间。零 secret 即可工作；
+# 在仓库 Settings → Secrets/Variables 配好 LLM_API_KEY / LLM_BASE_URL / LLM_MODEL 后自动升级为 LLM 中文标题+理由。
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-tiyao
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate today's issue
+        env:
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_MODEL: ${{ vars.ANTHROPIC_MODEL }}
+        run: node tiyao.mjs
+
+      - name: Commit new issue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.html archive digests feed.xml
+          git diff --staged --quiet || git commit -m "chore: issue $(date -u +%F) [skip ci]"
+          git push
