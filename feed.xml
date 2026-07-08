@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 07 Jul 2026 01:55:23 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 01:25:58 GMT</lastBuildDate>
   <item>
-    <title>Meetily：隐私优先的AI会议助手，转录快4倍</title>
+    <title>Claude Code 驱动的 AI 求职框架开源</title>
+    <link>https://github.com/MadsLorentzen/ai-job-search</link>
+    <guid isPermaLink="false">github.com/MadsLorentzen/ai-job-search-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>直接复用 Claude 评估职位，降低求职自动化门槛。（开源 · GitHub · 原题 MadsLorentzen/ai-job-search）</description>
+  </item>
+  <item>
+    <title>Rowboat：开源本地优先的 Claude Desktop 替代</title>
+    <link>https://github.com/rowboatlabs/rowboat</link>
+    <guid isPermaLink="false">github.com/rowboatlabs/rowboat-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>本地运行，数据不离开设备，适合隐私敏感场景。（社区 · Hacker News · 原题 Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop）</description>
+  </item>
+  <item>
+    <title>一键从 Hugging Face 部署到 SageMaker Studio</title>
+    <link>https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio</link>
+    <guid isPermaLink="false">huggingface.co/blog/amazon/one-click-to-sagemaker-studio-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>简化模型迁移流程，节省工程配置时间。（博客 · Hugging Face · 原题 From Hugging Face to Amazon SageMaker Studio in one click）</description>
+  </item>
+  <item>
+    <title>谷歌指数级扩张正加剧气候与数字膨胀</title>
+    <link>https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/</link>
+    <guid isPermaLink="false">ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>揭示大模型算力扩张的环境成本，影响合规决策。（社区 · Lobste.rs · 原题 Google’s exponential path to climate-wrecking digital bloat）</description>
+  </item>
+  <item>
+    <title>Gemini API 新增后台任务与远程 MCP 支持</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>扩展 Agent 能力边界，适合构建持久化自动化流程。（官方 · Google AI · 原题 Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more）</description>
+  </item>
+  <item>
+    <title>Hugging Face 模型登陆 Foundry 托管计算</title>
+    <link>https://huggingface.co/blog/microsoft/foundry-managed-compute</link>
+    <guid isPermaLink="false">huggingface.co/blog/microsoft/foundry-managed-compute-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>提供企业级托管推理，降低自建 GPU 集群成本。（博客 · Hugging Face · 原题 Hugging Face Models on Foundry Managed Compute）</description>
+  </item>
+  <item>
+    <title>澳大利亚支付巨头用 ChatGPT 加速业务</title>
+    <link>https://openai.com/index/australian-payments-plus</link>
+    <guid isPermaLink="false">openai.com/index/australian-payments-plus-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>金融业落地案例，验证 LLM 在合规场景的可行性。（官方 · OpenAI · 原题 Australian Payments Plus moves faster with ChatGPT and Codex）</description>
+  </item>
+  <item>
+    <title>三菱日联金融集团借 OpenAI 转型 AI 原生</title>
+    <link>https://openai.com/index/mufg</link>
+    <guid isPermaLink="false">openai.com/index/mufg-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>顶级银行全面拥抱 AI，标志行业范式转变信号。（官方 · OpenAI · 原题 MUFG aims to become AI-native with OpenAI）</description>
+  </item>
+  <item>
+    <title>Meetily：隐私优先的 AI 会议助手开源</title>
     <link>https://github.com/Zackriya-Solutions/meetily</link>
-    <guid isPermaLink="false">github.com/Zackriya-Solutions/meetily-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>开源方案，实时转录与说话人分离，适合企业自建会议工具。（开源 · GitHub · 原题 Zackriya-Solutions/meetily）</description>
+    <guid isPermaLink="false">github.com/Zackriya-Solutions/meetily-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>本地实时转录+说话人识别，兼顾效率与数据安全。（开源 · GitHub · 原题 Zackriya-Solutions/meetily）</description>
   </item>
   <item>
-    <title>Anthropic 如何快速消耗公众好感</title>
-    <link>https://raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps/</link>
-    <guid isPermaLink="false">raheeljunaid.com/blog/anthropics-method-to-losing-goodwill-in-a-few-easy-steps-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>反思AI公司公关策略，对社区信任建设有警示意义。（社区 · Hacker News · 原题 Anthropic's Method to Losing Goodwill in a Few Easy Steps）</description>
-  </item>
-  <item>
-    <title>LeRobot v0.6.0：想象、评估、改进</title>
-    <link>https://huggingface.co/blog/lerobot-release-v060</link>
-    <guid isPermaLink="false">huggingface.co/blog/lerobot-release-v060-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>机器人学习框架迭代，强化模拟到现实迁移能力。（博客 · Hugging Face · 原题 LeRobot v0.6.0: Imagine, Evaluate, Improve）</description>
-  </item>
-  <item>
-    <title>PRX 第四部分：我们的数据策略</title>
-    <link>https://huggingface.co/blog/Photoroom/prx-part4-data</link>
-    <guid isPermaLink="false">huggingface.co/blog/Photoroom/prx-part4-data-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>公开数据治理细节，对AI训练数据合规有参考价值。（博客 · Hugging Face · 原题 PRX Part 4: Our Data Strategy）</description>
-  </item>
-  <item>
-    <title>阿尔伯塔省用 Claude 修复政府系统漏洞</title>
-    <link>https://www.anthropic.com/news/alberta-government-claude-cybersecurity</link>
-    <guid isPermaLink="false">anthropic.com/news/alberta-government-claude-cybersecurity-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>AI辅助网络安全实战案例，验证大模型在安全审计中的效用。（官方 · Anthropic · 原题 Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems）</description>
-  </item>
-  <item>
-    <title>Hugging Face Kernels 重大更新</title>
-    <link>https://huggingface.co/blog/revamped-kernels</link>
-    <guid isPermaLink="false">huggingface.co/blog/revamped-kernels-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>核心计算库升级，直接影响模型训练与推理效率。（博客 · Hugging Face · 原题 🤗 Kernels: Major Updates）</description>
-  </item>
-  <item>
-    <title>GLM 5.2 与即将到来的AI利润崩溃</title>
-    <link>https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/</link>
-    <guid isPermaLink="false">martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>分析模型成本下降趋势，对AI商业化前景有预警意义。（社区 · Hacker News · 原题 GLM 5.2 and the coming AI margin collapse）</description>
-  </item>
-  <item>
-    <title>Taste-Skill：让AI生成有品位的输出</title>
-    <link>https://github.com/Leonxlnx/taste-skill</link>
-    <guid isPermaLink="false">github.com/Leonxlnx/taste-skill-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>开源工具解决AI内容同质化，提升生成质量与多样性。（开源 · GitHub · 原题 Leonxlnx/taste-skill）</description>
-  </item>
-  <item>
-    <title>Claude与ChatGPT系统提示词泄露</title>
+    <title>多款大模型系统提示词遭泄露公开</title>
     <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-    <guid isPermaLink="false">github.com/asgeirtj/system_prompts_leaks-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>暴露主流模型底层指令，对安全研究与逆向工程有价值。（开源 · GitHub · 原题 asgeirtj/system_prompts_leaks）</description>
-  </item>
-  <item>
-    <title>sqlite-utils 4.0rc2：Claude Fable 编写，成本$149</title>
-    <link>https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/5/sqlite-utils-fable-2026-07-07</guid>
-    <pubDate>Tue, 07 Jul 2026 01:55:23 GMT</pubDate>
-    <description>展示AI编程成本与产出，验证大模型代码生成的经济性。（博客 · Simon Willison · 原题 sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)）</description>
+    <guid isPermaLink="false">github.com/asgeirtj/system_prompts_leaks-2026-07-08</guid>
+    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
+    <description>暴露闭源模型内部指令，对提示工程与安全研究有直接参考。（开源 · GitHub · 原题 asgeirtj/system_prompts_leaks）</description>
   </item>
 </channel>
 </rss>
