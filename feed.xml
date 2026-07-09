@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 08 Jul 2026 01:25:58 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 01:47:40 GMT</lastBuildDate>
   <item>
-    <title>Claude Code 驱动的 AI 求职框架开源</title>
-    <link>https://github.com/MadsLorentzen/ai-job-search</link>
-    <guid isPermaLink="false">github.com/MadsLorentzen/ai-job-search-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>直接复用 Claude 评估职位，降低求职自动化门槛。（开源 · GitHub · 原题 MadsLorentzen/ai-job-search）</description>
+    <title>OfficeCLI：首个为AI代理打造的办公套件</title>
+    <link>https://github.com/iOfficeAI/OfficeCLI</link>
+    <guid isPermaLink="false">github.com/iOfficeAI/OfficeCLI-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>开源项目，直接降低AI操作办公文档的工程门槛。（开源 · GitHub · 原题 iOfficeAI/OfficeCLI）</description>
   </item>
   <item>
-    <title>Rowboat：开源本地优先的 Claude Desktop 替代</title>
-    <link>https://github.com/rowboatlabs/rowboat</link>
-    <guid isPermaLink="false">github.com/rowboatlabs/rowboat-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>本地运行，数据不离开设备，适合隐私敏感场景。（社区 · Hacker News · 原题 Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop）</description>
+    <title>OpenAI公布政府与国家安全合作策略</title>
+    <link>https://openai.com/index/government-national-security-partnerships</link>
+    <guid isPermaLink="false">openai.com/index/government-national-security-partnerships-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>官方路线图，影响AI监管与商业落地的政策风向。（官方 · OpenAI · 原题 Our approach to government and national security partnerships）</description>
   </item>
   <item>
-    <title>一键从 Hugging Face 部署到 SageMaker Studio</title>
-    <link>https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio</link>
-    <guid isPermaLink="false">huggingface.co/blog/amazon/one-click-to-sagemaker-studio-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>简化模型迁移流程，节省工程配置时间。（博客 · Hugging Face · 原题 From Hugging Face to Amazon SageMaker Studio in one click）</description>
+    <title>OpenAI：如何从代码评测中剔除噪音</title>
+    <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations</link>
+    <guid isPermaLink="false">openai.com/index/separating-signal-from-noise-coding-evaluations-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>方法论干货，提升模型评估可信度的实操指南。（官方 · OpenAI · 原题 Separating signal from noise in coding evaluations）</description>
   </item>
   <item>
-    <title>谷歌指数级扩张正加剧气候与数字膨胀</title>
-    <link>https://ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat/</link>
-    <guid isPermaLink="false">ketanjoshi.co/2026/07/01/googles-exponential-path-to-climate-wrecking-digital-bloat-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>揭示大模型算力扩张的环境成本，影响合规决策。（社区 · Lobste.rs · 原题 Google’s exponential path to climate-wrecking digital bloat）</description>
+    <title>OpenAI助力K-12教师构建AI实操技能</title>
+    <link>https://openai.com/index/k-12-educators-practical-skills</link>
+    <guid isPermaLink="false">openai.com/index/k-12-educators-practical-skills-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>教育场景落地案例，从业者可参考的培训框架。（官方 · OpenAI · 原题 Helping K–12 educators build practical AI skills）</description>
   </item>
   <item>
-    <title>Gemini API 新增后台任务与远程 MCP 支持</title>
-    <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>扩展 Agent 能力边界，适合构建持久化自动化流程。（官方 · Google AI · 原题 Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more）</description>
+    <title>Anthropic的Fable分类器被指过度拦截</title>
+    <link>https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html</link>
+    <guid isPermaLink="false">combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>社区实测反馈，暴露内容安全策略的平衡难题。（社区 · Hacker News · 原题 The classifiers Anthropic puts in front of Fable are too zealous）</description>
   </item>
   <item>
-    <title>Hugging Face 模型登陆 Foundry 托管计算</title>
-    <link>https://huggingface.co/blog/microsoft/foundry-managed-compute</link>
-    <guid isPermaLink="false">huggingface.co/blog/microsoft/foundry-managed-compute-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>提供企业级托管推理，降低自建 GPU 集群成本。（博客 · Hugging Face · 原题 Hugging Face Models on Foundry Managed Compute）</description>
+    <title>Simon Willison发布GPT-Live工具</title>
+    <link>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/8/introducing-gptlive-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>技术博主新作，展示实时交互场景的工程实现。（博客 · Simon Willison · 原题 Introducing GPT‑Live）</description>
   </item>
   <item>
-    <title>澳大利亚支付巨头用 ChatGPT 加速业务</title>
-    <link>https://openai.com/index/australian-payments-plus</link>
-    <guid isPermaLink="false">openai.com/index/australian-payments-plus-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>金融业落地案例，验证 LLM 在合规场景的可行性。（官方 · OpenAI · 原题 Australian Payments Plus moves faster with ChatGPT and Codex）</description>
+    <title>Hugging Face：面向代理的数据方案</title>
+    <link>https://huggingface.co/blog/nvidia/open-data-for-agents</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/open-data-for-agents-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>填补Agent数据缺口，推动自主智能体开发。（博客 · Hugging Face · 原题 Data for Agents）</description>
   </item>
   <item>
-    <title>三菱日联金融集团借 OpenAI 转型 AI 原生</title>
-    <link>https://openai.com/index/mufg</link>
-    <guid isPermaLink="false">openai.com/index/mufg-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>顶级银行全面拥抱 AI，标志行业范式转变信号。（官方 · OpenAI · 原题 MUFG aims to become AI-native with OpenAI）</description>
+    <title>agent-skills：AI编码代理的生产级技能库</title>
+    <link>https://github.com/addyosmani/agent-skills</link>
+    <guid isPermaLink="false">github.com/addyosmani/agent-skills-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>工程化最佳实践，直接复用可提升代理代码质量。（开源 · GitHub · 原题 addyosmani/agent-skills）</description>
   </item>
   <item>
-    <title>Meetily：隐私优先的 AI 会议助手开源</title>
-    <link>https://github.com/Zackriya-Solutions/meetily</link>
-    <guid isPermaLink="false">github.com/Zackriya-Solutions/meetily-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>本地实时转录+说话人识别，兼顾效率与数据安全。（开源 · GitHub · 原题 Zackriya-Solutions/meetily）</description>
+    <title>GPT-5.6 Sol与Terra、Luna本周四公开上线</title>
+    <link>https://twitter.com/OpenAI/status/2074704958419792299</link>
+    <guid isPermaLink="false">twitter.com/OpenAI/status/2074704958419792299-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>多模型同步发布，预示OpenAI产品矩阵新布局。（社区 · Hacker News · 原题 GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday）</description>
   </item>
   <item>
-    <title>多款大模型系统提示词遭泄露公开</title>
+    <title>system_prompts_leaks：Claude与ChatGPT提示泄露</title>
     <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-    <guid isPermaLink="false">github.com/asgeirtj/system_prompts_leaks-2026-07-08</guid>
-    <pubDate>Wed, 08 Jul 2026 01:25:58 GMT</pubDate>
-    <description>暴露闭源模型内部指令，对提示工程与安全研究有直接参考。（开源 · GitHub · 原题 asgeirtj/system_prompts_leaks）</description>
+    <guid isPermaLink="false">github.com/asgeirtj/system_prompts_leaks-2026-07-09</guid>
+    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
+    <description>逆向工程结果，揭示顶级模型系统指令设计细节。（开源 · GitHub · 原题 asgeirtj/system_prompts_leaks）</description>
   </item>
 </channel>
 </rss>
