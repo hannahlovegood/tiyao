@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 09 Jul 2026 01:47:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 01:46:01 GMT</lastBuildDate>
   <item>
-    <title>OfficeCLI：首个为AI代理打造的办公套件</title>
-    <link>https://github.com/iOfficeAI/OfficeCLI</link>
-    <guid isPermaLink="false">github.com/iOfficeAI/OfficeCLI-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>开源项目，直接降低AI操作办公文档的工程门槛。（开源 · GitHub · 原题 iOfficeAI/OfficeCLI）</description>
+    <title>AI求职框架：用 Claude Code 自动评估职位</title>
+    <link>https://github.com/MadsLorentzen/ai-job-search</link>
+    <guid isPermaLink="false">github.com/MadsLorentzen/ai-job-search-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>开源项目，可快速搭建自动化求职流程，降低重复劳动。（开源 · GitHub · 原题 MadsLorentzen/ai-job-search）</description>
   </item>
   <item>
-    <title>OpenAI公布政府与国家安全合作策略</title>
-    <link>https://openai.com/index/government-national-security-partnerships</link>
-    <guid isPermaLink="false">openai.com/index/government-national-security-partnerships-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>官方路线图，影响AI监管与商业落地的政策风向。（官方 · OpenAI · 原题 Our approach to government and national security partnerships）</description>
+    <title>GPT-5.6 成为微软 365 Copilot 首选模型</title>
+    <link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
+    <guid isPermaLink="false">openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>企业级落地信号，影响办公 AI 选型与部署策略。（官方 · OpenAI · 原题 GPT-5.6 is now the preferred model in Microsoft 365 Copilot）</description>
   </item>
   <item>
-    <title>OpenAI：如何从代码评测中剔除噪音</title>
-    <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations</link>
-    <guid isPermaLink="false">openai.com/index/separating-signal-from-noise-coding-evaluations-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>方法论干货，提升模型评估可信度的实操指南。（官方 · OpenAI · 原题 Separating signal from noise in coding evaluations）</description>
+    <title>ChatGPT 定位升级：面向高难度工作场景</title>
+    <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
+    <guid isPermaLink="false">openai.com/index/chatgpt-for-your-most-ambitious-work-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>官方明确产品方向，预示功能与定价可能调整。（官方 · OpenAI · 原题 ChatGPT is now a partner for your most ambitious work）</description>
   </item>
   <item>
-    <title>OpenAI助力K-12教师构建AI实操技能</title>
-    <link>https://openai.com/index/k-12-educators-practical-skills</link>
-    <guid isPermaLink="false">openai.com/index/k-12-educators-practical-skills-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>教育场景落地案例，从业者可参考的培训框架。（官方 · OpenAI · 原题 Helping K–12 educators build practical AI skills）</description>
+    <title>OpenAI 悬赏 GPT-5.5 生物安全漏洞</title>
+    <link>https://openai.com/index/bio-bug-bounty</link>
+    <guid isPermaLink="false">openai.com/index/bio-bug-bounty-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>安全优先级提升，从业者需关注模型生物风险防控。（官方 · OpenAI · 原题 GPT-5.5 Bio Bug Bounty）</description>
   </item>
   <item>
-    <title>Anthropic的Fable分类器被指过度拦截</title>
-    <link>https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html</link>
-    <guid isPermaLink="false">combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>社区实测反馈，暴露内容安全策略的平衡难题。（社区 · Hacker News · 原题 The classifiers Anthropic puts in front of Fable are too zealous）</description>
+    <title>Simon Willison 评 OpenAI 最新动态</title>
+    <link>https://simonwillison.net/2026/Jul/10/openai/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/10/openai-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>技术博主深度解读，助你快速理解官方公告背后逻辑。（博客 · Simon Willison · 原题 Quoting OpenAI）</description>
   </item>
   <item>
-    <title>Simon Willison发布GPT-Live工具</title>
-    <link>https://simonwillison.net/2026/Jul/8/introducing-gptlive/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/8/introducing-gptlive-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>技术博主新作，展示实时交互场景的工程实现。（博客 · Simon Willison · 原题 Introducing GPT‑Live）</description>
+    <title>Anthropic 推出 Claude 使用反思功能</title>
+    <link>https://www.anthropic.com/news/reflect-with-claude</link>
+    <guid isPermaLink="false">anthropic.com/news/reflect-with-claude-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>帮助用户优化交互，提升模型输出质量与效率。（官方 · Anthropic + Hacker News · 原题 Introducing a way to reflect on how you use Claude）</description>
   </item>
   <item>
-    <title>Hugging Face：面向代理的数据方案</title>
-    <link>https://huggingface.co/blog/nvidia/open-data-for-agents</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/open-data-for-agents-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>填补Agent数据缺口，推动自主智能体开发。（博客 · Hugging Face · 原题 Data for Agents）</description>
+    <title>前美联储主席伯南克加入 Anthropic 信托</title>
+    <link>https://www.anthropic.com/news/ben-bernanke</link>
+    <guid isPermaLink="false">anthropic.com/news/ben-bernanke-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>强化长期治理，影响 AI 安全与监管方向。（官方 · Anthropic · 原题 Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust）</description>
   </item>
   <item>
-    <title>agent-skills：AI编码代理的生产级技能库</title>
-    <link>https://github.com/addyosmani/agent-skills</link>
-    <guid isPermaLink="false">github.com/addyosmani/agent-skills-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>工程化最佳实践，直接复用可提升代理代码质量。（开源 · GitHub · 原题 addyosmani/agent-skills）</description>
+    <title>UST 将 Claude 引入物理 AI 场景</title>
+    <link>https://www.anthropic.com/news/ust-claude</link>
+    <guid isPermaLink="false">anthropic.com/news/ust-claude-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>AI 从数字走向实体，开辟机器人等新应用领域。（官方 · Anthropic · 原题 UST is bringing Claude to physical AI）</description>
   </item>
   <item>
-    <title>GPT-5.6 Sol与Terra、Luna本周四公开上线</title>
-    <link>https://twitter.com/OpenAI/status/2074704958419792299</link>
-    <guid isPermaLink="false">twitter.com/OpenAI/status/2074704958419792299-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>多模型同步发布，预示OpenAI产品矩阵新布局。（社区 · Hacker News · 原题 GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday）</description>
+    <title>GPT-5.6 家族曝光：Luna、Terra、Sol</title>
+    <link>https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/9/gpt-5-6-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>模型分层命名，暗示不同性能与成本定位。（博客 · Simon Willison · 原题 The new GPT-5.6 family: Luna, Terra, Sol）</description>
   </item>
   <item>
-    <title>system_prompts_leaks：Claude与ChatGPT提示泄露</title>
-    <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-    <guid isPermaLink="false">github.com/asgeirtj/system_prompts_leaks-2026-07-09</guid>
-    <pubDate>Thu, 09 Jul 2026 01:47:40 GMT</pubDate>
-    <description>逆向工程结果，揭示顶级模型系统指令设计细节。（开源 · GitHub · 原题 asgeirtj/system_prompts_leaks）</description>
+    <title>llm-meta-ai 0.1 发布：元 AI 工具</title>
+    <link>https://simonwillison.net/2026/Jul/9/llm-meta-ai/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/9/llm-meta-ai-2026-07-10</guid>
+    <pubDate>Fri, 10 Jul 2026 01:46:01 GMT</pubDate>
+    <description>简化多模型调用，提升开发与实验效率。（博客 · Simon Willison · 原题 llm-meta-ai 0.1）</description>
   </item>
 </channel>
 </rss>
