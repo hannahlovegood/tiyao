@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 11 Jul 2026 01:25:25 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 01:27:01 GMT</lastBuildDate>
   <item>
-    <title>工程师技能仓库：从 .claude 目录提炼的实战技巧</title>
-    <link>https://github.com/mattpocock/skills</link>
-    <guid isPermaLink="false">github.com/mattpocock/skills-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>直接来自一线工程师的 AI 编码经验，可复用、可验证。（开源 · GitHub · 原题 mattpocock/skills）</description>
+    <title>DesktopCommanderMCP：为 Claude 注入终端与文件编辑能力</title>
+    <link>https://github.com/wonderwhy-er/DesktopCommanderMCP</link>
+    <guid isPermaLink="false">github.com/wonderwhy-er/DesktopCommanderMCP-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>开源 MCP 服务器，直接扩展 Claude 的实操边界，开发者必看。（开源 · GitHub · 原题 wonderwhy-er/DesktopCommanderMCP）</description>
   </item>
   <item>
-    <title>苹果起诉 OpenAI，指控前员工窃取商业机密</title>
-    <link>https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/</link>
-    <guid isPermaLink="false">9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>揭示大模型公司间人才与知识产权争夺的真实案例。（社区 · Hacker News · 原题 Apple sues OpenAI, accuses ex-employees of stealing trade secrets）</description>
+    <title>别再让我问 LLM——社区对过度依赖 AI 的反思</title>
+    <link>https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/</link>
+    <guid isPermaLink="false">blog.yaelwrites.com/stop-telling-me-to-ask-an-llm-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>Hacker News 热帖，戳中从业者日常痛点，值得警惕工具异化。（社区 · Hacker News · 原题 Stop Telling Me to Ask an LLM）</description>
   </item>
   <item>
-    <title>德国电信如何用 AI 重构电信业务</title>
+    <title>Superpowers：一套可落地的智能体技能框架与方法论</title>
+    <link>https://github.com/obra/superpowers</link>
+    <guid isPermaLink="false">github.com/obra/superpowers-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>开源框架+开发方法论，直指智能体工程化痛点，实操价值高。（开源 · GitHub · 原题 obra/superpowers）</description>
+  </item>
+  <item>
+    <title>AI 监控与社会进步：技术伦理的冷思考</title>
+    <link>https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html</link>
+    <guid isPermaLink="false">schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>Lobste.rs 深度讨论，提醒从业者关注 AI 部署的社会代价。（社区 · Lobste.rs · 原题 AI Surveillance and Social Progress）</description>
+  </item>
+  <item>
+    <title>德国电信如何用 AI 重构电信网络</title>
     <link>https://openai.com/index/deutsche-telekom</link>
-    <guid isPermaLink="false">openai.com/index/deutsche-telekom-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>传统行业 AI 落地的标杆案例，有具体场景与路径。（官方 · OpenAI · 原题 How Deutsche Telekom is rewiring telecommunications with AI）</description>
+    <guid isPermaLink="false">openai.com/index/deutsche-telekom-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>OpenAI 官方案例，展示 LLM 在通信行业的真实落地路径。（官方 · OpenAI · 原题 How Deutsche Telekom is rewiring telecommunications with AI）</description>
   </item>
   <item>
-    <title>OfficeCLI：专为 AI Agent 打造的 Office 命令行工具</title>
-    <link>https://github.com/iOfficeAI/OfficeCLI</link>
-    <guid isPermaLink="false">github.com/iOfficeAI/OfficeCLI-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>填补 AI 自动化办公工具空白，降低集成门槛。（开源 · GitHub · 原题 iOfficeAI/OfficeCLI）</description>
+    <title>请别停掉 Gemini 2.5 Flash——社区联名呼吁</title>
+    <link>https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246</link>
+    <guid isPermaLink="false">discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>用户对模型迭代的强烈反馈，反映开发者对性价比模型的依赖。（社区 · Hacker News · 原题 Please don't discontinue Gemini 2.5 Flash）</description>
   </item>
   <item>
     <title>GPT-5.6 成为 Microsoft 365 Copilot 首选模型</title>
     <link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
-    <guid isPermaLink="false">openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>微软生态内模型更迭信号，影响企业级 AI 选型。（官方 · OpenAI · 原题 GPT-5.6 is now the preferred model in Microsoft 365 Copilot）</description>
+    <guid isPermaLink="false">openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>官方确认模型升级，直接影响企业级 AI 工具链选型。（官方 · OpenAI · 原题 GPT-5.6 is now the preferred model in Microsoft 365 Copilot）</description>
   </item>
   <item>
-    <title>GPT-5.6：可随野心扩展的前沿智能</title>
+    <title>GPT-5.6：前沿智能，随你野心扩展</title>
     <link>https://openai.com/index/gpt-5-6</link>
-    <guid isPermaLink="false">openai.com/index/gpt-5-6-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>官方定义模型能力边界，直接指导应用层规划。（官方 · OpenAI · 原题 GPT-5.6: Frontier intelligence that scales with your ambition）</description>
+    <guid isPermaLink="false">openai.com/index/gpt-5-6-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>OpenAI 官方定义新模型定位，从业者需理解其能力边界。（官方 · OpenAI · 原题 GPT-5.6: Frontier intelligence that scales with your ambition）</description>
   </item>
   <item>
-    <title>PyTorch 性能剖析第三篇：注意力机制全量分析</title>
+    <title>PyTorch 性能剖析（三）：Attention 是一切剖析的核心</title>
     <link>https://huggingface.co/blog/torch-attention-profile</link>
-    <guid isPermaLink="false">huggingface.co/blog/torch-attention-profile-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>深入 Transformer 核心优化，适合模型部署工程师。（博客 · Hugging Face · 原题 Profiling in PyTorch (Part 3): Attention is all you profile）</description>
+    <guid isPermaLink="false">huggingface.co/blog/torch-attention-profile-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>Hugging Face 系列第三篇，专注 Attention 优化，模型部署必读。（博客 · Hugging Face · 原题 Profiling in PyTorch (Part 3): Attention is all you profile）</description>
   </item>
   <item>
-    <title>生产级 AI 编码技能库：面向 Agent 的工程实践</title>
-    <link>https://github.com/addyosmani/agent-skills</link>
-    <guid isPermaLink="false">github.com/addyosmani/agent-skills-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>从玩具到生产的关键技能集合，提升 Agent 可靠性。（开源 · GitHub · 原题 addyosmani/agent-skills）</description>
-  </item>
-  <item>
-    <title>引用 OpenAI：Simon Willison 的观察与思考</title>
+    <title>Simon Willison 引用 OpenAI 最新动态</title>
     <link>https://simonwillison.net/2026/Jul/10/openai/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/10/openai-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>知名开发者对 OpenAI 动态的独立解读，有行业视角。（博客 · Simon Willison · 原题 Quoting OpenAI）</description>
-  </item>
-  <item>
-    <title>Prolog 库：让逻辑编程与大语言模型对话</title>
-    <link>https://github.com/vagos/llmpl</link>
-    <guid isPermaLink="false">github.com/vagos/llmpl-2026-07-11</guid>
-    <pubDate>Sat, 11 Jul 2026 01:25:25 GMT</pubDate>
-    <description>探索符号推理与 LLM 结合的新范式，适合研究型读者。（社区 · Lobste.rs · 原题 A Prolog library for interfacing with LLMs）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/10/openai-2026-07-12</guid>
+    <pubDate>Sun, 12 Jul 2026 01:27:01 GMT</pubDate>
+    <description>知名博主精准点评，快速把握 OpenAI 官方消息的行业影响。（博客 · Simon Willison · 原题 Quoting OpenAI）</description>
   </item>
 </channel>
 </rss>
