@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 13 Jul 2026 01:28:35 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 01:17:40 GMT</lastBuildDate>
   <item>
-    <title>Vibe-Trading：你的个人交易智能体开源了</title>
+    <title>Vibe-Trading：开源个人交易智能体</title>
     <link>https://github.com/HKUDS/Vibe-Trading</link>
-    <guid isPermaLink="false">github.com/HKUDS/Vibe-Trading-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>开源交易Agent，可直接部署，降低量化门槛。（开源 · GitHub · 原题 HKUDS/Vibe-Trading）</description>
+    <guid isPermaLink="false">github.com/HKUDS/Vibe-Trading-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>直接可用的交易Agent，降低量化策略开发门槛。（开源 · GitHub · 原题 HKUDS/Vibe-Trading）</description>
   </item>
   <item>
-    <title>Claude Code 预读33k token，OpenCode仅7k</title>
-    <link>https://systima.ai/blog/claude-code-vs-opencode-token-overhead</link>
-    <guid isPermaLink="false">systima.ai/blog/claude-code-vs-opencode-token-overhead-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>揭示主流Agent token消耗差异，优化成本必读。（社区 · Hacker News · 原题 Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k）</description>
+    <title>Graphify：多平台AI编程助手通用技能</title>
+    <link>https://github.com/Graphify-Labs/graphify</link>
+    <guid isPermaLink="false">github.com/Graphify-Labs/graphify-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>统一多IDE代码理解，提升跨平台开发效率。（开源 · GitHub · 原题 Graphify-Labs/graphify）</description>
   </item>
   <item>
-    <title>AI监控与社会进步：技术伦理的冷思考</title>
-    <link>https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html</link>
-    <guid isPermaLink="false">schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>从社会视角审视AI监控，适合关注治理与合规的从业者。（社区 · Lobste.rs · 原题 AI Surveillance and Social Progress）</description>
-  </item>
-  <item>
-    <title>Claude Cookbooks：官方实用Notebook合集</title>
-    <link>https://github.com/anthropics/claude-cookbooks</link>
-    <guid isPermaLink="false">github.com/anthropics/claude-cookbooks-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>官方最佳实践，快速上手Claude高级用法。（开源 · GitHub · 原题 anthropics/claude-cookbooks）</description>
-  </item>
-  <item>
-    <title>德国电信如何用AI重塑通信行业</title>
-    <link>https://openai.com/index/deutsche-telekom</link>
-    <guid isPermaLink="false">openai.com/index/deutsche-telekom-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>大型运营商AI落地案例，对产业应用有直接参考价值。（官方 · OpenAI · 原题 How Deutsche Telekom is rewiring telecommunications with AI）</description>
-  </item>
-  <item>
-    <title>100+ AI Agent与RAG应用，可运行可定制</title>
+    <title>awesome-llm-apps：百款可运行AI应用合集</title>
     <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-    <guid isPermaLink="false">github.com/Shubhamsaboo/awesome-llm-apps-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>即用型应用仓库，适合快速原型验证与二次开发。（开源 · GitHub · 原题 Shubhamsaboo/awesome-llm-apps）</description>
+    <guid isPermaLink="false">github.com/Shubhamsaboo/awesome-llm-apps-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>即克隆即部署，加速RAG与Agent原型落地。（开源 · GitHub · 原题 Shubhamsaboo/awesome-llm-apps）</description>
   </item>
   <item>
-    <title>思想有基因组：科学推理与创意生成基准</title>
-    <link>https://huggingface.co/papers/2607.08758</link>
-    <guid isPermaLink="false">huggingface.co/papers/2607.08758-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>新基准评估AI科学推理与创意生成，研究前沿。（论文 · HF Papers · 原题 Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation）</description>
+    <title>Zig创始人直言Anthropic宣传夸大</title>
+    <link>https://raymyers.org/post/zed-creator-calls-spade-a-spade/</link>
+    <guid isPermaLink="false">raymyers.org/post/zed-creator-calls-spade-a-spade-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>揭示AI公司营销与实况差距，助你理性选型。（社区 · Hacker News · 原题 Zig Creator Calls Spade a Spade, Anthropic Blows Smoke）</description>
   </item>
   <item>
-    <title>生产级AI Agent迁移至GPT-5.6：快2.2倍省27%</title>
-    <link>https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6</link>
-    <guid isPermaLink="false">ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>真实迁移数据，性能与成本双优化，决策参考。（社区 · Hacker News · 原题 Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper）</description>
+    <title>AI监控与社会进步：技术伦理再审视</title>
+    <link>https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html</link>
+    <guid isPermaLink="false">schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>反思AI部署的社会代价，避免合规与声誉风险。（社区 · Lobste.rs · 原题 AI Surveillance and Social Progress）</description>
   </item>
   <item>
-    <title>LongE2V：长时序事件视频重建与预测</title>
-    <link>https://huggingface.co/papers/2607.08770</link>
-    <guid isPermaLink="false">huggingface.co/papers/2607.08770-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>视频扩散模型新突破，适合计算机视觉与机器人领域。（论文 · HF Papers · 原题 LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models）</description>
+    <title>Claude Code预读33K token，远超OpenCode</title>
+    <link>https://systima.ai/blog/claude-code-vs-opencode-token-overhead</link>
+    <guid isPermaLink="false">systima.ai/blog/claude-code-vs-opencode-token-overhead-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>Token消耗差异影响成本与响应速度，选型关键。（社区 · Hacker News · 原题 Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k）</description>
   </item>
   <item>
-    <title>UniClawBench：真实世界任务通用智能体基准</title>
-    <link>https://huggingface.co/papers/2607.08768</link>
-    <guid isPermaLink="false">huggingface.co/papers/2607.08768-2026-07-13</guid>
-    <pubDate>Mon, 13 Jul 2026 01:28:35 GMT</pubDate>
-    <description>首个真实任务通用基准，评估Agent实用能力。（论文 · HF Papers · 原题 UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks）</description>
+    <title>视频生成模型可作通用视觉学习器</title>
+    <link>https://huggingface.co/papers/2607.09024</link>
+    <guid isPermaLink="false">huggingface.co/papers/2607.09024-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>拓展视频模型应用边界，启发多模态研究新方向。（论文 · HF Papers · 原题 Video Generation Models are General-Purpose Vision Learners）</description>
+  </item>
+  <item>
+    <title>可扩展视觉预训练提升语言智能</title>
+    <link>https://huggingface.co/papers/2607.09657</link>
+    <guid isPermaLink="false">huggingface.co/papers/2607.09657-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>视觉数据助力语言模型，低成本增强理解能力。（论文 · HF Papers · 原题 Scalable Visual Pretraining for Language Intelligence）</description>
+  </item>
+  <item>
+    <title>Claude Code插件：等待时播放动画音效</title>
+    <link>https://github.com/thephw/claude-meseeks</link>
+    <guid isPermaLink="false">github.com/thephw/claude-meseeks-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>趣味性设计改善开发者体验，提升工具亲和力。（社区 · Hacker News · 原题 Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting）</description>
+  </item>
+  <item>
+    <title>PanoWorld：真实场景全景生成新方法</title>
+    <link>https://huggingface.co/papers/2607.09661</link>
+    <guid isPermaLink="false">huggingface.co/papers/2607.09661-2026-07-14</guid>
+    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
+    <description>突破全景生成真实感瓶颈，赋能VR与仿真应用。（论文 · HF Papers · 原题 PanoWorld: Real-World Panoramic Generation）</description>
   </item>
 </channel>
 </rss>
