@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 14 Jul 2026 01:17:40 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 01:14:24 GMT</lastBuildDate>
   <item>
-    <title>Vibe-Trading：开源个人交易智能体</title>
-    <link>https://github.com/HKUDS/Vibe-Trading</link>
-    <guid isPermaLink="false">github.com/HKUDS/Vibe-Trading-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>直接可用的交易Agent，降低量化策略开发门槛。（开源 · GitHub · 原题 HKUDS/Vibe-Trading）</description>
-  </item>
-  <item>
-    <title>Graphify：多平台AI编程助手通用技能</title>
+    <title>Graphify：多平台AI编程助手技能包</title>
     <link>https://github.com/Graphify-Labs/graphify</link>
-    <guid isPermaLink="false">github.com/Graphify-Labs/graphify-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>统一多IDE代码理解，提升跨平台开发效率。（开源 · GitHub · 原题 Graphify-Labs/graphify）</description>
+    <guid isPermaLink="false">github.com/Graphify-Labs/graphify-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>一套技能适配Claude、Cursor等主流工具，减少重复配置。（开源 · GitHub · 原题 Graphify-Labs/graphify）</description>
   </item>
   <item>
-    <title>awesome-llm-apps：百款可运行AI应用合集</title>
-    <link>https://github.com/Shubhamsaboo/awesome-llm-apps</link>
-    <guid isPermaLink="false">github.com/Shubhamsaboo/awesome-llm-apps-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>即克隆即部署，加速RAG与Agent原型落地。（开源 · GitHub · 原题 Shubhamsaboo/awesome-llm-apps）</description>
+    <title>mattpocock/skills：工程师实战技能集</title>
+    <link>https://github.com/mattpocock/skills</link>
+    <guid isPermaLink="false">github.com/mattpocock/skills-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>来自资深工程师的.claude目录，可直接复用提升编码效率。（开源 · GitHub · 原题 mattpocock/skills）</description>
   </item>
   <item>
-    <title>Zig创始人直言Anthropic宣传夸大</title>
-    <link>https://raymyers.org/post/zed-creator-calls-spade-a-spade/</link>
-    <guid isPermaLink="false">raymyers.org/post/zed-creator-calls-spade-a-spade-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>揭示AI公司营销与实况差距，助你理性选型。（社区 · Hacker News · 原题 Zig Creator Calls Spade a Spade, Anthropic Blows Smoke）</description>
+    <title>Tensor是计算之王</title>
+    <link>https://zserge.com/posts/tensor/</link>
+    <guid isPermaLink="false">zserge.com/posts/tensor-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>重新审视张量在AI系统中的核心地位，启发架构设计。（社区 · Lobste.rs · 原题 Tensor is the might）</description>
   </item>
   <item>
-    <title>AI监控与社会进步：技术伦理再审视</title>
-    <link>https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html</link>
-    <guid isPermaLink="false">schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>反思AI部署的社会代价，避免合规与声誉风险。（社区 · Lobste.rs · 原题 AI Surveillance and Social Progress）</description>
+    <title>Google庆祝视觉搜索25周年</title>
+    <link>https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/google-images-25th-anniversary-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>回顾搜索技术演进，预示多模态AI的下一步方向。（官方 · Google AI · 原题 Celebrating 25 years of visual search innovation）</description>
   </item>
   <item>
-    <title>Claude Code预读33K token，远超OpenCode</title>
-    <link>https://systima.ai/blog/claude-code-vs-opencode-token-overhead</link>
-    <guid isPermaLink="false">systima.ai/blog/claude-code-vs-opencode-token-overhead-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>Token消耗差异影响成本与响应速度，选型关键。（社区 · Hacker News · 原题 Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k）</description>
+    <title>OpenAI：Agent时代AI投资管理指南</title>
+    <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
+    <guid isPermaLink="false">openai.com/index/managing-ai-investments-in-agentic-era-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>为决策者提供AI投资策略框架，避免盲目投入。（官方 · OpenAI · 原题 How to manage AI investments in the agentic era）</description>
   </item>
   <item>
-    <title>视频生成模型可作通用视觉学习器</title>
-    <link>https://huggingface.co/papers/2607.09024</link>
-    <guid isPermaLink="false">huggingface.co/papers/2607.09024-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>拓展视频模型应用边界，启发多模态研究新方向。（论文 · HF Papers · 原题 Video Generation Models are General-Purpose Vision Learners）</description>
+    <title>Codex开始加密子代理提示</title>
+    <link>https://github.com/openai/codex/issues/28058</link>
+    <guid isPermaLink="false">github.com/openai/codex/issues/28058-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>安全升级影响Agent工作流，开发者需关注兼容性。（社区 · Hacker News · 原题 Codex starts encrypting sub-agent prompts）</description>
   </item>
   <item>
-    <title>可扩展视觉预训练提升语言智能</title>
-    <link>https://huggingface.co/papers/2607.09657</link>
-    <guid isPermaLink="false">huggingface.co/papers/2607.09657-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>视觉数据助力语言模型，低成本增强理解能力。（论文 · HF Papers · 原题 Scalable Visual Pretraining for Language Intelligence）</description>
+    <title>Anthropic向加拿大AI研究注资1000万</title>
+    <link>https://www.anthropic.com/news/canadian-ai-research</link>
+    <guid isPermaLink="false">anthropic.com/news/canadian-ai-research-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>资金流向预示北美AI人才与政策布局新动向。（官方 · Anthropic · 原题 Anthropic commits $10 million to Canadian AI research）</description>
   </item>
   <item>
-    <title>Claude Code插件：等待时播放动画音效</title>
-    <link>https://github.com/thephw/claude-meseeks</link>
-    <guid isPermaLink="false">github.com/thephw/claude-meseeks-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>趣味性设计改善开发者体验，提升工具亲和力。（社区 · Hacker News · 原题 Claude Code plugin that plays a Mr. Meeseeks voice line whene Claude is waiting）</description>
+    <title>Claude for Teachers正式发布</title>
+    <link>https://www.anthropic.com/news/claude-for-teachers</link>
+    <guid isPermaLink="false">anthropic.com/news/claude-for-teachers-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>教育场景专用工具，降低AI教学应用门槛。（官方 · Anthropic + Hacker News · 原题 Introducing Claude for Teachers）</description>
   </item>
   <item>
-    <title>PanoWorld：真实场景全景生成新方法</title>
-    <link>https://huggingface.co/papers/2607.09661</link>
-    <guid isPermaLink="false">huggingface.co/papers/2607.09661-2026-07-14</guid>
-    <pubDate>Tue, 14 Jul 2026 01:17:40 GMT</pubDate>
-    <description>突破全景生成真实感瓶颈，赋能VR与仿真应用。（论文 · HF Papers · 原题 PanoWorld: Real-World Panoramic Generation）</description>
+    <title>数据科学团队如何用ChatGPT Work</title>
+    <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
+    <guid isPermaLink="false">openai.com/academy/codex-for-work/how-data-science-teams-use-codex-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>真实团队案例，展示ChatGPT在数据分析中的落地路径。（官方 · OpenAI · 原题 How data science teams use ChatGPT Work）</description>
+  </item>
+  <item>
+    <title>销售团队如何用ChatGPT Work</title>
+    <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
+    <guid isPermaLink="false">openai.com/academy/codex-for-work/how-sales-teams-use-codex-2026-07-15</guid>
+    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
+    <description>销售场景实战经验，直接复制可提升客户转化效率。（官方 · OpenAI · 原题 How sales teams use ChatGPT Work）</description>
   </item>
 </channel>
 </rss>
