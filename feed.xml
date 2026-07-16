@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 15 Jul 2026 01:14:24 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 01:24:04 GMT</lastBuildDate>
   <item>
-    <title>Graphify：多平台AI编程助手技能包</title>
-    <link>https://github.com/Graphify-Labs/graphify</link>
-    <guid isPermaLink="false">github.com/Graphify-Labs/graphify-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>一套技能适配Claude、Cursor等主流工具，减少重复配置。（开源 · GitHub · 原题 Graphify-Labs/graphify）</description>
-  </item>
-  <item>
-    <title>mattpocock/skills：工程师实战技能集</title>
+    <title>从.claude目录提炼的工程师实战技能</title>
     <link>https://github.com/mattpocock/skills</link>
-    <guid isPermaLink="false">github.com/mattpocock/skills-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>来自资深工程师的.claude目录，可直接复用提升编码效率。（开源 · GitHub · 原题 mattpocock/skills）</description>
+    <guid isPermaLink="false">github.com/mattpocock/skills-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>开源真实工作流，适合想提升AI协作效率的开发者。（开源 · GitHub · 原题 mattpocock/skills）</description>
   </item>
   <item>
-    <title>Tensor是计算之王</title>
-    <link>https://zserge.com/posts/tensor/</link>
-    <guid isPermaLink="false">zserge.com/posts/tensor-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>重新审视张量在AI系统中的核心地位，启发架构设计。（社区 · Lobste.rs · 原题 Tensor is the might）</description>
+    <title>Inkling：975B参数开放权重大模型</title>
+    <link>https://thinkingmachines.ai/inkling/</link>
+    <guid isPermaLink="false">thinkingmachines.ai/inkling-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>千亿级开源模型，研究者和企业可低成本复现与微调。（社区 · Hacker News · 原题 Inkling – Open-Weights 975B Parameter LLM）</description>
   </item>
   <item>
-    <title>Google庆祝视觉搜索25周年</title>
-    <link>https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/google-images-25th-anniversary-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>回顾搜索技术演进，预示多模态AI的下一步方向。（官方 · Google AI · 原题 Celebrating 25 years of visual search innovation）</description>
+    <title>Brainless：复刻Claude Code等UI组件</title>
+    <link>https://brainless.swerdlow.dev</link>
+    <guid isPermaLink="false">brainless.swerdlow.dev-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>Shadcn风格组件库，前端开发者可直接复用主流AI界面。（社区 · Hacker News · 原题 Brainless: Shadcn components that look like Claude Code, Codex and Grok）</description>
   </item>
   <item>
-    <title>OpenAI：Agent时代AI投资管理指南</title>
-    <link>https://openai.com/index/managing-ai-investments-in-agentic-era</link>
-    <guid isPermaLink="false">openai.com/index/managing-ai-investments-in-agentic-era-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>为决策者提供AI投资策略框架，避免盲目投入。（官方 · OpenAI · 原题 How to manage AI investments in the agentic era）</description>
+    <title>ELIZA诞生记：首个聊天机器人如何塑造AI</title>
+    <link>https://mitpress.mit.edu/9780262052481/inventing-eliza/</link>
+    <guid isPermaLink="false">mitpress.mit.edu/9780262052481/inventing-eliza-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>回溯对话AI原点，理解人机交互设计的历史根基。（社区 · Lobste.rs · 原题 Inventing ELIZA - How the First Chatbot Shaped the Future of AI）</description>
   </item>
   <item>
-    <title>Codex开始加密子代理提示</title>
-    <link>https://github.com/openai/codex/issues/28058</link>
-    <guid isPermaLink="false">github.com/openai/codex/issues/28058-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>安全升级影响Agent工作流，开发者需关注兼容性。（社区 · Hacker News · 原题 Codex starts encrypting sub-agent prompts）</description>
+    <title>美国通过州与联邦行动推进AI安全</title>
+    <link>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</link>
+    <guid isPermaLink="false">openai.com/index/advancing-ai-safety-through-state-and-federal-action-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>政策动向直接影响合规与市场准入，从业者需关注。（官方 · OpenAI · 原题 The US is advancing AI safety through state and federal action）</description>
   </item>
   <item>
-    <title>Anthropic向加拿大AI研究注资1000万</title>
-    <link>https://www.anthropic.com/news/canadian-ai-research</link>
-    <guid isPermaLink="false">anthropic.com/news/canadian-ai-research-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>资金流向预示北美AI人才与政策布局新动向。（官方 · Anthropic · 原题 Anthropic commits $10 million to Canadian AI research）</description>
+    <title>GPT-Red：解锁模型鲁棒性的自改进方法</title>
+    <link>https://openai.com/index/unlocking-self-improvement-gpt-red</link>
+    <guid isPermaLink="false">openai.com/index/unlocking-self-improvement-gpt-red-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>OpenAI内部技术路线，对安全对齐研究有直接参考价值。（官方 · OpenAI + Hacker News · 原题 GPT-Red: Unlocking Self-Improvement for Robustness）</description>
   </item>
   <item>
-    <title>Claude for Teachers正式发布</title>
-    <link>https://www.anthropic.com/news/claude-for-teachers</link>
-    <guid isPermaLink="false">anthropic.com/news/claude-for-teachers-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>教育场景专用工具，降低AI教学应用门槛。（官方 · Anthropic + Hacker News · 原题 Introducing Claude for Teachers）</description>
+    <title>Claude价值观在多模型与语言中的差异</title>
+    <link>https://www.anthropic.com/research/claude-values-models-languages</link>
+    <guid isPermaLink="false">anthropic.com/research/claude-values-models-languages-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>揭示对齐策略的跨文化挑战，AI伦理从业者必读。（社区 · Hacker News · 原题 Societal Impacts: Claude's values across models and languages）</description>
   </item>
   <item>
-    <title>数据科学团队如何用ChatGPT Work</title>
-    <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
-    <guid isPermaLink="false">openai.com/academy/codex-for-work/how-data-science-teams-use-codex-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>真实团队案例，展示ChatGPT在数据分析中的落地路径。（官方 · OpenAI · 原题 How data science teams use ChatGPT Work）</description>
+    <title>Mermaid转Unicode字符画：grok-mermaid</title>
+    <link>https://simonwillison.net/2026/Jul/16/grok-mermaid/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/16/grok-mermaid-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>轻量工具将流程图转为纯文本，适合终端与文档场景。（博客 · Simon Willison · 原题 Mermaid to Unicode box art (grok-mermaid)）</description>
   </item>
   <item>
-    <title>销售团队如何用ChatGPT Work</title>
-    <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
-    <guid isPermaLink="false">openai.com/academy/codex-for-work/how-sales-teams-use-codex-2026-07-15</guid>
-    <pubDate>Wed, 15 Jul 2026 01:14:24 GMT</pubDate>
-    <description>销售场景实战经验，直接复制可提升客户转化效率。（官方 · OpenAI · 原题 How sales teams use ChatGPT Work）</description>
+    <title>xai-org/grok-build正式开源</title>
+    <link>https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/15/grok-build-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>xAI构建工具链公开，可学习其模型部署与优化实践。（博客 · Simon Willison · 原题 xai-org/grok-build, now open source）</description>
+  </item>
+  <item>
+    <title>从Shippy项目学到的智能体构建经验</title>
+    <link>https://huggingface.co/blog/allenai/shippy-tech-blog</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/shippy-tech-blog-2026-07-16</guid>
+    <pubDate>Thu, 16 Jul 2026 01:24:04 GMT</pubDate>
+    <description>Hugging Face实战总结，智能体开发者可避坑复用。（博客 · Hugging Face · 原题 What building Shippy taught us about building agents）</description>
   </item>
 </channel>
 </rss>
