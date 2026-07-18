@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 17 Jul 2026 01:26:57 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 01:19:10 GMT</lastBuildDate>
   <item>
-    <title>hallmark：给 Claude Code 与 Cursor 的反 AI 设计规范</title>
+    <title>Nutlope/hallmark：反AI套话的设计技巧</title>
     <link>https://github.com/Nutlope/hallmark</link>
-    <guid isPermaLink="false">github.com/Nutlope/hallmark-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>开源工具直接提升 AI 编码输出质量，避免生成千篇一律的代码。（开源 · GitHub · 原题 Nutlope/hallmark）</description>
+    <guid isPermaLink="false">github.com/Nutlope/hallmark-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>为Claude Code等工具提供反AI套话设计，提升代码质量（开源 · GitHub · 原题 Nutlope/hallmark）</description>
   </item>
   <item>
-    <title>OpenAI 发文：青少年应有权使用安全的 AI</title>
+    <title>Apple向数十名OpenAI员工发律师函</title>
+    <link>https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</link>
+    <guid isPermaLink="false">ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>揭示科技巨头间人才与法律博弈，影响AI行业竞争格局（社区 · Hacker News · 原题 Apple targets dozens of OpenAI employees with legal letters）</description>
+  </item>
+  <item>
+    <title>OpenAI发布AI时代评分卡</title>
+    <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
+    <guid isPermaLink="false">openai.com/index/a-scorecard-for-the-ai-age-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>官方评估框架，助从业者量化AI系统安全与性能（官方 · OpenAI · 原题 A scorecard for the AI age）</description>
+  </item>
+  <item>
+    <title>NVIDIA NeMo与Diffusers联合微调视频模型</title>
+    <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>规模化微调方案，降低视频与图像模型部署门槛（博客 · Hugging Face · 原题 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers）</description>
+  </item>
+  <item>
+    <title>Simon Willison引用Kimi K3观点</title>
+    <link>https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/17/kimi-k3-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>关键人物对AI趋势的洞察，启发技术决策者思路（博客 · Simon Willison · 原题 Quoting Kimi K3）</description>
+  </item>
+  <item>
+    <title>OpenAI：青少年应获得安全AI访问权</title>
     <link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
-    <guid isPermaLink="false">openai.com/index/why-teens-deserve-access-safe-ai-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>官方立场影响未来产品合规与教育市场准入策略。（官方 · OpenAI · 原题 Why teens deserve access to safe AI）</description>
+    <guid isPermaLink="false">openai.com/index/why-teens-deserve-access-safe-ai-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>官方立场影响教育领域AI政策与产品设计方向（官方 · OpenAI · 原题 Why teens deserve access to safe AI）</description>
   </item>
   <item>
-    <title>Google AI：让更多应用接入搜索能力</title>
+    <title>LLM套话高亮器：识别AI文本陈词</title>
+    <link>https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/17/llm-cliche-highlighter-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>实用工具，帮内容创作者规避模型生成常见模式（博客 · Simon Willison · 原题 LLM cliché highlighter）</description>
+  </item>
+  <item>
+    <title>Google AI：更多应用接入搜索功能</title>
     <link>https://blog.google/products-and-platforms/products/search/connected-apps/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/connected-apps-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>搜索 API 扩展直接降低开发者集成成本，拓宽应用场景。（官方 · Google AI · 原题 Connect more of your apps to Search）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/connected-apps-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>扩展AI搜索生态，为开发者提供新集成接口（官方 · Google AI · 原题 Connect more of your apps to Search）</description>
   </item>
   <item>
-    <title>Google Vids 更新：视频创作、编辑与参演一体化</title>
+    <title>Google Vids更新：创作、编辑与参演视频</title>
     <link>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>多模态视频生成落地，降低内容制作门槛，值得关注。（官方 · Google AI · 原题 Create, edit and star in videos with two Google Vids updates）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>视频生成新功能，降低内容制作门槛，提升效率（官方 · Google AI · 原题 Create, edit and star in videos with two Google Vids updates）</description>
   </item>
   <item>
-    <title>至少 105 位 YC 创始人曾任职 OpenAI 与 Anthropic</title>
-    <link>https://joinedanthropic.com</link>
-    <guid isPermaLink="false">joinedanthropic.com-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>数据揭示顶级 AI 人才向创业生态的溢出路径。（社区 · Hacker News · 原题 At least 105 past YC founders have worked at OpenAI and Anthropic）</description>
-  </item>
-  <item>
-    <title>DeepMind 发布生物韧性研究框架</title>
+    <title>DeepMind生物韧性研究路径公开</title>
     <link>https://deepmind.google/blog/our-approach-to-bioresilience/</link>
-    <guid isPermaLink="false">deepmind.google/blog/our-approach-to-bioresilience-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>AI 应对生物威胁的战略布局，影响安全与政策方向。（官方 · DeepMind · 原题 Our approach to bioresilience）</description>
-  </item>
-  <item>
-    <title>NVIDIA Nemotron 3 Embed 登顶 RTEB 检索榜</title>
-    <link>https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>新嵌入模型刷新 Agentic 检索 SOTA，直接提升 RAG 效果。（博客 · Hugging Face · 原题 NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval）</description>
-  </item>
-  <item>
-    <title>Cars24 用 OpenAI 规模化客服与构建速度</title>
-    <link>https://openai.com/index/cars24</link>
-    <guid isPermaLink="false">openai.com/index/cars24-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>真实企业案例展示 AI 在客服场景的 ROI 与落地路径。（官方 · OpenAI · 原题 How Cars24 scales conversations and builds faster with OpenAI）</description>
-  </item>
-  <item>
-    <title>Kimi K3 与鹈鹕基准：我们还能学到什么</title>
-    <link>https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/16/kimi-k3-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>经典基准对比新模型，揭示评估方法对模型选型的实际价值。（博客 · Simon Willison · 原题 Kimi K3, and what we can still learn from the pelican benchmark）</description>
-  </item>
-  <item>
-    <title>新模型依旧占优：Hugging Face 的持续观察</title>
-    <link>https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages</link>
-    <guid isPermaLink="false">huggingface.co/blog/Dharma-AI/newer-models-same-advantages-2026-07-17</guid>
-    <pubDate>Fri, 17 Jul 2026 01:26:57 GMT</pubDate>
-    <description>验证模型迭代中早期优势的持续性，指导选型决策。（博客 · Hugging Face · 原题 Newer Models, Same Advantage）</description>
+    <guid isPermaLink="false">deepmind.google/blog/our-approach-to-bioresilience-2026-07-18</guid>
+    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
+    <description>前沿安全策略，为AI在生物领域的应用提供风险管控参考（官方 · DeepMind · 原题 Our approach to bioresilience）</description>
   </item>
 </channel>
 </rss>
