@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 18 Jul 2026 01:19:10 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 19 Jul 2026 01:25:12 GMT</lastBuildDate>
   <item>
-    <title>Nutlope/hallmark：反AI套话的设计技巧</title>
-    <link>https://github.com/Nutlope/hallmark</link>
-    <guid isPermaLink="false">github.com/Nutlope/hallmark-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>为Claude Code等工具提供反AI套话设计，提升代码质量（开源 · GitHub · 原题 Nutlope/hallmark）</description>
+    <title>LingBot-MAP：流式数据实时重建的前馈3D基础模型</title>
+    <link>https://github.com/Robbyant/lingbot-map</link>
+    <guid isPermaLink="false">github.com/Robbyant/lingbot-map-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>开源前馈3D模型，流式重建场景，对空间智能从业者极具参考价值。（开源 · GitHub · 原题 Robbyant/lingbot-map）</description>
   </item>
   <item>
-    <title>Apple向数十名OpenAI员工发律师函</title>
-    <link>https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</link>
-    <guid isPermaLink="false">ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>揭示科技巨头间人才与法律博弈，影响AI行业竞争格局（社区 · Hacker News · 原题 Apple targets dozens of OpenAI employees with legal letters）</description>
+    <title>GPT-5.6 用提示词攻克凸优化30年难题</title>
+    <link>https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</link>
+    <guid isPermaLink="false">old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>提示词解决经典数学难题，验证LLM在理论优化中的实际突破力。（社区 · Hacker News · 原题 GPT-5.6 used a prompt to close a 30-year gap in convex optimization）</description>
   </item>
   <item>
-    <title>OpenAI发布AI时代评分卡</title>
+    <title>Pangram 内部机制深度解析</title>
+    <link>https://pangram.substack.com/p/how-does-pangram-work</link>
+    <guid isPermaLink="false">pangram.substack.com/p/how-does-pangram-work-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>技术拆解Pangram实现，适合关注搜索与语言模型架构的工程师。（社区 · Lobste.rs · 原题 How does Pangram work?）</description>
+  </item>
+  <item>
+    <title>OpenAI 发布AI时代评分卡</title>
     <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
-    <guid isPermaLink="false">openai.com/index/a-scorecard-for-the-ai-age-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>官方评估框架，助从业者量化AI系统安全与性能（官方 · OpenAI · 原题 A scorecard for the AI age）</description>
+    <guid isPermaLink="false">openai.com/index/a-scorecard-for-the-ai-age-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>官方评估框架，为AI治理与安全从业者提供可操作的度量标准。（官方 · OpenAI · 原题 A scorecard for the AI age）</description>
   </item>
   <item>
-    <title>NVIDIA NeMo与Diffusers联合微调视频模型</title>
+    <title>Claude 让 Fable 5 永久化</title>
+    <link>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>AI工具改变游戏内容持久性，对游戏与创意产业有直接启示。（博客 · Simon Willison + Hacker News · 原题 Claude make Fable 5 permanent）</description>
+  </item>
+  <item>
+    <title>NVIDIA NeMo 与 Diffusers 联合微调视频与图像模型</title>
     <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>规模化微调方案，降低视频与图像模型部署门槛（博客 · Hugging Face · 原题 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers）</description>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>规模化微调方案，降低视频/图像模型落地门槛，工程团队必读。（博客 · Hugging Face · 原题 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers）</description>
   </item>
   <item>
-    <title>Simon Willison引用Kimi K3观点</title>
+    <title>Apple 向数十名 OpenAI 员工发律师函</title>
+    <link>https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</link>
+    <guid isPermaLink="false">ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>巨头间人才与法律博弈升级，揭示AI行业竞争暗线。（社区 · Hacker News · 原题 Apple targets dozens of OpenAI employees with legal letters）</description>
+  </item>
+  <item>
+    <title>Simon Willison 引用 Kimi K3 观点</title>
     <link>https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/17/kimi-k3-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>关键人物对AI趋势的洞察，启发技术决策者思路（博客 · Simon Willison · 原题 Quoting Kimi K3）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/17/kimi-k3-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>Kimi K3 新动态，关注国产模型进展的读者不应错过。（博客 · Simon Willison · 原题 Quoting Kimi K3）</description>
   </item>
   <item>
-    <title>OpenAI：青少年应获得安全AI访问权</title>
+    <title>OpenAI 呼吁：青少年应安全使用AI</title>
     <link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
-    <guid isPermaLink="false">openai.com/index/why-teens-deserve-access-safe-ai-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>官方立场影响教育领域AI政策与产品设计方向（官方 · OpenAI · 原题 Why teens deserve access to safe AI）</description>
+    <guid isPermaLink="false">openai.com/index/why-teens-deserve-access-safe-ai-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>官方青少年AI安全立场，影响教育产品设计与监管方向。（官方 · OpenAI · 原题 Why teens deserve access to safe AI）</description>
   </item>
   <item>
-    <title>LLM套话高亮器：识别AI文本陈词</title>
+    <title>LLM 陈词滥调高亮器</title>
     <link>https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/17/llm-cliche-highlighter-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>实用工具，帮内容创作者规避模型生成常见模式（博客 · Simon Willison · 原题 LLM cliché highlighter）</description>
-  </item>
-  <item>
-    <title>Google AI：更多应用接入搜索功能</title>
-    <link>https://blog.google/products-and-platforms/products/search/connected-apps/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/connected-apps-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>扩展AI搜索生态，为开发者提供新集成接口（官方 · Google AI · 原题 Connect more of your apps to Search）</description>
-  </item>
-  <item>
-    <title>Google Vids更新：创作、编辑与参演视频</title>
-    <link>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>视频生成新功能，降低内容制作门槛，提升效率（官方 · Google AI · 原题 Create, edit and star in videos with two Google Vids updates）</description>
-  </item>
-  <item>
-    <title>DeepMind生物韧性研究路径公开</title>
-    <link>https://deepmind.google/blog/our-approach-to-bioresilience/</link>
-    <guid isPermaLink="false">deepmind.google/blog/our-approach-to-bioresilience-2026-07-18</guid>
-    <pubDate>Sat, 18 Jul 2026 01:19:10 GMT</pubDate>
-    <description>前沿安全策略，为AI在生物领域的应用提供风险管控参考（官方 · DeepMind · 原题 Our approach to bioresilience）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/17/llm-cliche-highlighter-2026-07-19</guid>
+    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
+    <description>识别模型套话的工具，提升输出质量，对提示工程有直接帮助。（博客 · Simon Willison · 原题 LLM cliché highlighter）</description>
   </item>
 </channel>
 </rss>
