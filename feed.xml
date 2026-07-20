@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 19 Jul 2026 01:25:12 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 02:57:17 GMT</lastBuildDate>
   <item>
-    <title>LingBot-MAP：流式数据实时重建的前馈3D基础模型</title>
-    <link>https://github.com/Robbyant/lingbot-map</link>
-    <guid isPermaLink="false">github.com/Robbyant/lingbot-map-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>开源前馈3D模型，流式重建场景，对空间智能从业者极具参考价值。（开源 · GitHub · 原题 Robbyant/lingbot-map）</description>
+    <title>《深入理解 AI Agent》开源全书与配套代码</title>
+    <link>https://github.com/bojieli/ai-agent-book</link>
+    <guid isPermaLink="false">github.com/bojieli/ai-agent-book-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>从原理到工程，系统掌握 Agent 设计，适合进阶开发者。（开源 · GitHub · 原题 bojieli/ai-agent-book）</description>
   </item>
   <item>
-    <title>GPT-5.6 用提示词攻克凸优化30年难题</title>
+    <title>AI 狂热正在摧毁全球决策能力</title>
+    <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/19/ai-mania-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>Simon Willison 尖锐批评 AI 泡沫对理性决策的侵蚀。（博客 · Simon Willison · 原题 AI Mania Is Eviscerating Global Decision-Making）</description>
+  </item>
+  <item>
+    <title>Claude Code 改用 Rust 编写的 Bun</title>
+    <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>运行时替换影响工具链性能与生态兼容性，值得关注。（博客 · Simon Willison + Hacker News · 原题 Claude Code uses Bun written in Rust now）</description>
+  </item>
+  <item>
+    <title>GPT-5.6 用提示词攻克凸优化三十年难题</title>
     <link>https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</link>
-    <guid isPermaLink="false">old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>提示词解决经典数学难题，验证LLM在理论优化中的实际突破力。（社区 · Hacker News · 原题 GPT-5.6 used a prompt to close a 30-year gap in convex optimization）</description>
+    <guid isPermaLink="false">old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>大模型在数学优化领域取得突破性实证成果。（社区 · Hacker News · 原题 GPT-5.6 used a prompt to close a 30-year gap in convex optimization）</description>
   </item>
   <item>
-    <title>Pangram 内部机制深度解析</title>
+    <title>Pangram 内部工作原理详解</title>
     <link>https://pangram.substack.com/p/how-does-pangram-work</link>
-    <guid isPermaLink="false">pangram.substack.com/p/how-does-pangram-work-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>技术拆解Pangram实现，适合关注搜索与语言模型架构的工程师。（社区 · Lobste.rs · 原题 How does Pangram work?）</description>
+    <guid isPermaLink="false">pangram.substack.com/p/how-does-pangram-work-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>揭秘新型 AI 工具架构，对系统设计者有启发。（社区 · Lobste.rs · 原题 How does Pangram work?）</description>
   </item>
   <item>
-    <title>OpenAI 发布AI时代评分卡</title>
+    <title>OpenAI 发布 AI 时代记分卡</title>
     <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
-    <guid isPermaLink="false">openai.com/index/a-scorecard-for-the-ai-age-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>官方评估框架，为AI治理与安全从业者提供可操作的度量标准。（官方 · OpenAI · 原题 A scorecard for the AI age）</description>
+    <guid isPermaLink="false">openai.com/index/a-scorecard-for-the-ai-age-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>官方评估框架出炉，影响行业标准与合规策略。（官方 · OpenAI · 原题 A scorecard for the AI age）</description>
   </item>
   <item>
-    <title>Claude 让 Fable 5 永久化</title>
+    <title>Claude 让 Fable 5 永久保留</title>
     <link>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>AI工具改变游戏内容持久性，对游戏与创意产业有直接启示。（博客 · Simon Willison + Hacker News · 原题 Claude make Fable 5 permanent）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>模型长期记忆能力落地，对应用场景有示范意义。（博客 · Simon Willison · 原题 Claude make Fable 5 permanent）</description>
   </item>
   <item>
     <title>NVIDIA NeMo 与 Diffusers 联合微调视频与图像模型</title>
     <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>规模化微调方案，降低视频/图像模型落地门槛，工程团队必读。（博客 · Hugging Face · 原题 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers）</description>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>大规模多模态微调方案开源，降低工程门槛。（博客 · Hugging Face · 原题 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers）</description>
   </item>
   <item>
-    <title>Apple 向数十名 OpenAI 员工发律师函</title>
-    <link>https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166</link>
-    <guid isPermaLink="false">ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>巨头间人才与法律博弈升级，揭示AI行业竞争暗线。（社区 · Hacker News · 原题 Apple targets dozens of OpenAI employees with legal letters）</description>
+    <title>本地优先代码图谱：MCP 与 CLI 集成</title>
+    <link>https://github.com/tirth8205/code-review-graph</link>
+    <guid isPermaLink="false">github.com/tirth8205/code-review-graph-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>持久化代码库映射，提升 AI 编码工具上下文理解。（开源 · GitHub · 原题 tirth8205/code-review-graph）</description>
   </item>
   <item>
-    <title>Simon Willison 引用 Kimi K3 观点</title>
-    <link>https://simonwillison.net/2026/Jul/17/kimi-k3/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/17/kimi-k3-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>Kimi K3 新动态，关注国产模型进展的读者不应错过。（博客 · Simon Willison · 原题 Quoting Kimi K3）</description>
-  </item>
-  <item>
-    <title>OpenAI 呼吁：青少年应安全使用AI</title>
-    <link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
-    <guid isPermaLink="false">openai.com/index/why-teens-deserve-access-safe-ai-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>官方青少年AI安全立场，影响教育产品设计与监管方向。（官方 · OpenAI · 原题 Why teens deserve access to safe AI）</description>
-  </item>
-  <item>
-    <title>LLM 陈词滥调高亮器</title>
-    <link>https://simonwillison.net/2026/Jul/17/llm-cliche-highlighter/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/17/llm-cliche-highlighter-2026-07-19</guid>
-    <pubDate>Sun, 19 Jul 2026 01:25:12 GMT</pubDate>
-    <description>识别模型套话的工具，提升输出质量，对提示工程有直接帮助。（博客 · Simon Willison · 原题 LLM cliché highlighter）</description>
+    <title>OpenAI 将 Codex 模型上下文从 372k 降至 272k</title>
+    <link>https://github.com/openai/codex/pull/33972/files</link>
+    <guid isPermaLink="false">github.com/openai/codex/pull/33972/files-2026-07-20</guid>
+    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
+    <description>上下文窗口缩减，影响长代码任务与成本优化。（社区 · Hacker News · 原题 OpenAI reduces Codex Model Context Size from 372k to 272k）</description>
   </item>
 </channel>
 </rss>
