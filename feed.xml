@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 20 Jul 2026 02:57:17 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 01:24:49 GMT</lastBuildDate>
   <item>
-    <title>《深入理解 AI Agent》开源全书与配套代码</title>
-    <link>https://github.com/bojieli/ai-agent-book</link>
-    <guid isPermaLink="false">github.com/bojieli/ai-agent-book-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>从原理到工程，系统掌握 Agent 设计，适合进阶开发者。（开源 · GitHub · 原题 bojieli/ai-agent-book）</description>
-  </item>
-  <item>
-    <title>AI 狂热正在摧毁全球决策能力</title>
-    <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/19/ai-mania-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>Simon Willison 尖锐批评 AI 泡沫对理性决策的侵蚀。（博客 · Simon Willison · 原题 AI Mania Is Eviscerating Global Decision-Making）</description>
-  </item>
-  <item>
-    <title>Claude Code 改用 Rust 编写的 Bun</title>
-    <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>运行时替换影响工具链性能与生态兼容性，值得关注。（博客 · Simon Willison + Hacker News · 原题 Claude Code uses Bun written in Rust now）</description>
-  </item>
-  <item>
-    <title>GPT-5.6 用提示词攻克凸优化三十年难题</title>
-    <link>https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/</link>
-    <guid isPermaLink="false">old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>大模型在数学优化领域取得突破性实证成果。（社区 · Hacker News · 原题 GPT-5.6 used a prompt to close a 30-year gap in convex optimization）</description>
-  </item>
-  <item>
-    <title>Pangram 内部工作原理详解</title>
-    <link>https://pangram.substack.com/p/how-does-pangram-work</link>
-    <guid isPermaLink="false">pangram.substack.com/p/how-does-pangram-work-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>揭秘新型 AI 工具架构，对系统设计者有启发。（社区 · Lobste.rs · 原题 How does Pangram work?）</description>
-  </item>
-  <item>
-    <title>OpenAI 发布 AI 时代记分卡</title>
-    <link>https://openai.com/index/a-scorecard-for-the-ai-age</link>
-    <guid isPermaLink="false">openai.com/index/a-scorecard-for-the-ai-age-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>官方评估框架出炉，影响行业标准与合规策略。（官方 · OpenAI · 原题 A scorecard for the AI age）</description>
-  </item>
-  <item>
-    <title>Claude 让 Fable 5 永久保留</title>
-    <link>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>模型长期记忆能力落地，对应用场景有示范意义。（博客 · Simon Willison · 原题 Claude make Fable 5 permanent）</description>
-  </item>
-  <item>
-    <title>NVIDIA NeMo 与 Diffusers 联合微调视频与图像模型</title>
-    <link>https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>大规模多模态微调方案开源，降低工程门槛。（博客 · Hugging Face · 原题 Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers）</description>
-  </item>
-  <item>
-    <title>本地优先代码图谱：MCP 与 CLI 集成</title>
+    <title>Code-Review-Graph：本地优先的代码智能图谱</title>
     <link>https://github.com/tirth8205/code-review-graph</link>
-    <guid isPermaLink="false">github.com/tirth8205/code-review-graph-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>持久化代码库映射，提升 AI 编码工具上下文理解。（开源 · GitHub · 原题 tirth8205/code-review-graph）</description>
+    <guid isPermaLink="false">github.com/tirth8205/code-review-graph-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>为AI编码工具构建持久代码地图，提升上下文理解效率。（开源 · GitHub · 原题 tirth8205/code-review-graph）</description>
   </item>
   <item>
-    <title>OpenAI 将 Codex 模型上下文从 372k 降至 272k</title>
-    <link>https://github.com/openai/codex/pull/33972/files</link>
-    <guid isPermaLink="false">github.com/openai/codex/pull/33972/files-2026-07-20</guid>
-    <pubDate>Mon, 20 Jul 2026 02:57:17 GMT</pubDate>
-    <description>上下文窗口缩减，影响长代码任务与成本优化。（社区 · Hacker News · 原题 OpenAI reduces Codex Model Context Size from 372k to 272k）</description>
+    <title>Kimi K3、Qwen 3.8 与 Anthropic 的潜在裂变</title>
+    <link>https://www.emergingtrajectories.com/lh/frontier-lab-economics/</link>
+    <guid isPermaLink="false">emergingtrajectories.com/lh/frontier-lab-economics-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>社区热议三大模型竞争格局，折射行业洗牌信号。（社区 · Hacker News · 原题 Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling）</description>
+  </item>
+  <item>
+    <title>OpenAI 发布长周期模型安全对齐指南</title>
+    <link>https://openai.com/index/safety-alignment-long-horizon-models</link>
+    <guid isPermaLink="false">openai.com/index/safety-alignment-long-horizon-models-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>长时任务场景下的安全方法论，直接影响Agent部署策略。（官方 · OpenAI · 原题 Safety and alignment in an era of long-horizon models）</description>
+  </item>
+  <item>
+    <title>Hugging Face 推出 Cosmos 3 Edge 模型</title>
+    <link>https://huggingface.co/blog/nvidia/cosmos3edge</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/cosmos3edge-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>边缘端轻量模型新选择，降低部署门槛与推理成本。（博客 · Hugging Face · 原题 Introducing Cosmos 3 Edge）</description>
+  </item>
+  <item>
+    <title>Anthropic 开放罕见病科研基金申请</title>
+    <link>https://www.anthropic.com/news/rare-disease-research-grants</link>
+    <guid isPermaLink="false">anthropic.com/news/rare-disease-research-grants-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>AI+生物医药赛道获顶级机构资金与算力支持。（官方 · Anthropic · 原题 Apply for Anthropic’s AI for Science rare disease research grants）</description>
+  </item>
+  <item>
+    <title>OmniRoute：一站式免费AI网关，支持268家供应商</title>
+    <link>https://github.com/diegosouzapw/OmniRoute</link>
+    <guid isPermaLink="false">github.com/diegosouzapw/OmniRoute-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>零成本接入500+模型，大幅降低API切换与测试成本。（开源 · GitHub · 原题 diegosouzapw/OmniRoute）</description>
+  </item>
+  <item>
+    <title>AI狂热正在摧毁全球决策能力</title>
+    <link>https://simonwillison.net/2026/Jul/19/ai-mania/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/19/ai-mania-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>尖锐批评AI盲目崇拜，提醒从业者警惕技术泡沫。（博客 · Simon Willison · 原题 AI Mania Is Eviscerating Global Decision-Making）</description>
+  </item>
+  <item>
+    <title>Claude Code 改用 Rust 编写的 Bun 运行时</title>
+    <link>https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>底层技术栈迁移至Rust，性能与安全性双提升。（博客 · Simon Willison · 原题 Claude Code uses Bun written in Rust now）</description>
+  </item>
+  <item>
+    <title>Claude 让《神鬼寓言5》永久化</title>
+    <link>https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>AI生成游戏内容永久保留，探索创意资产持久化路径。（博客 · Simon Willison · 原题 Claude make Fable 5 permanent）</description>
+  </item>
+  <item>
+    <title>Agency-Agents：一站式AI代理工具集</title>
+    <link>https://github.com/msitarzewski/agency-agents</link>
+    <guid isPermaLink="false">github.com/msitarzewski/agency-agents-2026-07-21</guid>
+    <pubDate>Tue, 21 Jul 2026 01:24:49 GMT</pubDate>
+    <description>从前端到社区运营全覆盖，降低多Agent系统搭建门槛。（开源 · GitHub · 原题 msitarzewski/agency-agents）</description>
   </item>
 </channel>
 </rss>
