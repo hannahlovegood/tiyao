@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 23 Jul 2026 01:42:56 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 01:27:40 GMT</lastBuildDate>
   <item>
-    <title>WorldMonitor：实时全球情报与AI聚合仪表盘</title>
+    <title>世界监控仪表盘：AI 聚合新闻与地缘追踪</title>
     <link>https://github.com/koala73/worldmonitor</link>
-    <guid isPermaLink="false">github.com/koala73/worldmonitor-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>开源AI情报聚合工具，适合关注地缘与基建的从业者直接部署。（开源 · GitHub · 原题 koala73/worldmonitor）</description>
+    <guid isPermaLink="false">github.com/koala73/worldmonitor-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>开源实时情报工具，适合关注 AI 与地缘交叉的从业者。（开源 · GitHub · 原题 koala73/worldmonitor）</description>
   </item>
   <item>
-    <title>OpenAI与埃芬厄姆县共建AI基础设施</title>
+    <title>OpenAI 与 Anthropic 联手反对开源权重风险</title>
+    <link>https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china</link>
+    <guid isPermaLink="false">axios.com/2026/07/22/openai-anthropic-open-models-trump-china-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>两大巨头罕见联手，揭示开源模型对商业模式的真实威胁。（社区 · Hacker News · 原题 OpenAI and Anthropic unite against open-weight AI risks to their bottom line）</description>
+  </item>
+  <item>
+    <title>首个失控 AI 代理？还是糟糕营销噱头</title>
+    <link>https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>事件争议性高，关乎 AI 代理安全与行业信任边界。（博客 · Simon Willison · 原题 The first known runaway AI agent - or a very bad marketing stunt?）</description>
+  </item>
+  <item>
+    <title>ChatGPT 推出健康功能</title>
+    <link>https://openai.com/index/health-in-chatgpt</link>
+    <guid isPermaLink="false">openai.com/index/health-in-chatgpt-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>官方正式切入医疗场景，影响 AI 合规与产品设计方向。（官方 · OpenAI + Hacker News · 原题 Launching Health in ChatGPT）</description>
+  </item>
+  <item>
+    <title>玫瑰花瓣教我们什么：归纳法的启示</title>
+    <link>https://www.oranlooney.com/post/rose-petals/</link>
+    <guid isPermaLink="false">oranlooney.com/post/rose-petals-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>从自然现象反思 AI 归纳推理，适合算法研究者细读。（社区 · Lobste.rs · 原题 What Rose Petals Teach Us about Induction）</description>
+  </item>
+  <item>
+    <title>OpenAI 与埃芬汉县共建 AI 基础设施</title>
     <link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
-    <guid isPermaLink="false">openai.com/index/building-ai-infrastructure-with-the-effingham-county-community-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>揭示OpenAI落地策略，对理解其基建布局有直接参考。（官方 · OpenAI · 原题 Building AI infrastructure with the Effingham County community）</description>
+    <guid isPermaLink="false">openai.com/index/building-ai-infrastructure-with-the-effingham-county-community-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>地方社区合作案例，揭示 AI 基建落地的实际路径与挑战。（官方 · OpenAI · 原题 Building AI infrastructure with the Effingham County community）</description>
   </item>
   <item>
-    <title>新闻机构如何用AI推进核心使命</title>
+    <title>新闻机构如何用 AI 推进使命</title>
     <link>https://openai.com/index/how-news-organizations-are-using-ai</link>
-    <guid isPermaLink="false">openai.com/index/how-news-organizations-are-using-ai-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>官方案例集，媒体从业者可借鉴AI落地的实际路径。（官方 · OpenAI · 原题 How news organizations are using AI to advance their vital missions）</description>
+    <guid isPermaLink="false">openai.com/index/how-news-organizations-are-using-ai-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>官方案例集，为媒体从业者提供 AI 落地的真实参考。（官方 · OpenAI · 原题 How news organizations are using AI to advance their vital missions）</description>
   </item>
   <item>
-    <title>OpenAI推动国家科学新纪元</title>
-    <link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
-    <guid isPermaLink="false">openai.com/index/advancing-the-next-era-of-national-science-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>政策信号明确，科研与AI交叉领域从业者必读。（官方 · OpenAI · 原题 Advancing the next era of national science）</description>
+    <title>Nunchaku 4 位扩散推理接入 Diffusers</title>
+    <link>https://huggingface.co/blog/nunchaku-diffusers</link>
+    <guid isPermaLink="false">huggingface.co/blog/nunchaku-diffusers-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>低比特推理新工具，直接降低生成模型部署成本。（博客 · Hugging Face · 原题 Bringing Nunchaku 4-bit Diffusion Inference to Diffusers）</description>
   </item>
   <item>
-    <title>DeepMind 4000万美元投入Genesis科学发现任务</title>
+    <title>谷歌 4000 万美元资助 Genesis 科学任务</title>
     <link>https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/</link>
-    <guid isPermaLink="false">deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>大额定向资助，揭示AI驱动基础科研的前沿方向。（官方 · DeepMind · 原题 Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission）</description>
+    <guid isPermaLink="false">deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>DeepMind 重注科学发现，标志 AI 从实验室走向前沿科研。（官方 · DeepMind · 原题 Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission）</description>
   </item>
   <item>
-    <title>Galaxy Unpacked 2026：Google三项AI更新</title>
+    <title>Galaxy Unpacked 2026 上的 3 项 Google AI 更新</title>
     <link>https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>三星与Google合作动向，移动端AI从业者需关注。（官方 · Google AI · 原题 3 Google updates from Galaxy Unpacked 2026）</description>
-  </item>
-  <item>
-    <title>OpenAI误攻Hugging Face：科幻成真的意外事故</title>
-    <link>https://simonwillison.net/2026/Jul/22/openai-cyberattack/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/22/openai-cyberattack-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>安全事件复盘，对AI运维与供应链风险有警示价值。（博客 · Simon Willison · 原题 OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened）</description>
-  </item>
-  <item>
-    <title>AI实验室在「鹈鹕最大化」吗？</title>
-    <link>https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>犀利质疑实验室行为动机，适合反思行业激励机制。（博客 · Simon Willison · 原题 Are AI labs pelicanmaxxing?）</description>
-  </item>
-  <item>
-    <title>用Claude查询Anthropic经济指数</title>
-    <link>https://www.anthropic.com/news/anthropic-economic-index-connector</link>
-    <guid isPermaLink="false">anthropic.com/news/anthropic-economic-index-connector-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>直接上手经济数据工具，适合研究AI就业影响的分析者。（官方 · Anthropic · 原题 Ask Claude about the Anthropic Economic Index）</description>
-  </item>
-  <item>
-    <title>经济未来研究基金的研究议程</title>
-    <link>https://www.anthropic.com/news/economic-futures-research-fund-agenda</link>
-    <guid isPermaLink="false">anthropic.com/news/economic-futures-research-fund-agenda-2026-07-23</guid>
-    <pubDate>Thu, 23 Jul 2026 01:42:56 GMT</pubDate>
-    <description>Anthropic布局AI经济影响，政策与学术从业者必读。（官方 · Anthropic · 原题 A research agenda for the Economic Futures Research Fund）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026-2026-07-24</guid>
+    <pubDate>Fri, 24 Jul 2026 01:27:40 GMT</pubDate>
+    <description>硬件与 AI 结合的最新动态，影响移动端 AI 生态布局。（官方 · Google AI · 原题 3 Google updates from Galaxy Unpacked 2026）</description>
   </item>
 </channel>
 </rss>
