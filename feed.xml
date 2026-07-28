@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 27 Jul 2026 01:48:21 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 01:22:54 GMT</lastBuildDate>
   <item>
-    <title>ego-lite：为AI代理打造的最快浏览器</title>
-    <link>https://github.com/citrolabs/ego-lite</link>
-    <guid isPermaLink="false">github.com/citrolabs/ego-lite-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>开源方案，让AI代理共享登录态，自动化效率翻倍。（开源 · GitHub · 原题 citrolabs/ego-lite）</description>
-  </item>
-  <item>
-    <title>Instatic：开源可视化CMS，对标Webflow</title>
-    <link>https://github.com/CoreBunch/Instatic</link>
-    <guid isPermaLink="false">github.com/CoreBunch/Instatic-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>自托管静态站点生成，替代商业建站工具，成本可控。（开源 · GitHub · 原题 CoreBunch/Instatic）</description>
-  </item>
-  <item>
-    <title>阿里巴巴开源代码审查工具open-code-review</title>
+    <title>阿里开源代码审查工具，混合架构实战验证</title>
     <link>https://github.com/alibaba/open-code-review</link>
-    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>混合架构经大规模验证，确定性流水线+LLM，实战参考。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
+    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>阿里级代码审查工具开源，架构设计可直接复用。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
   </item>
   <item>
-    <title>Simon Willison 详解 Claude Opus 5</title>
-    <link>https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/24/introducing-claude-opus-5-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>一手体验与架构分析，比官方公告更值得从业者深读。（博客 · Simon Willison · 原题 Introducing Claude Opus 5）</description>
+    <title>主流LLM政治倾向左倾，Grok亦不例外</title>
+    <link>https://unslop.run/blog/political-compass-of-llms</link>
+    <guid isPermaLink="false">unslop.run/blog/political-compass-of-llms-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>揭示模型政治偏见，影响AI部署与内容策略。（社区 · Hacker News · 原题 All major LLMs are lib-left. Even Grok, half the time）</description>
   </item>
   <item>
-    <title>Hacker News 热议 Claude Opus 5</title>
-    <link>https://www.anthropic.com/news/claude-opus-5</link>
-    <guid isPermaLink="false">anthropic.com/news/claude-opus-5-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>社区真实反馈与争议，快速判断模型落地价值。（社区 · Hacker News · 原题 Claude Opus 5）</description>
+    <title>Impeccable：让AI设计更懂设计语言</title>
+    <link>https://github.com/pbakaus/impeccable</link>
+    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>设计语言规范工具，提升AI生成UI的可用性。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
   </item>
   <item>
-    <title>开放权重与美国AI领导力之争</title>
-    <link>https://www.microsoft.com/en-us/corporate-responsibility/topics/open-weight/</link>
-    <guid isPermaLink="false">microsoft.com/en-us/corporate-responsibility/topics/open-weight-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>开源与地缘博弈的交叉点，影响技术选型与合规。（社区 · Lobste.rs · 原题 Open Weights and American AI Leadership）</description>
+    <title>OpenAI：AI如何扩展人类工作边界</title>
+    <link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
+    <guid isPermaLink="false">openai.com/index/how-ai-is-expanding-what-people-do-at-work-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>官方案例解读AI赋能，适合企业规划落地场景。（官方 · OpenAI · 原题 How AI is expanding what people do at work）</description>
   </item>
   <item>
-    <title>AREX：递归自我改进的深度研究代理</title>
-    <link>https://huggingface.co/papers/2607.21461</link>
-    <guid isPermaLink="false">huggingface.co/papers/2607.21461-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>探索AI自主迭代路径，对Agent研究者有直接启发。（论文 · HF Papers · 原题 AREX: Towards a Recursively Self-Improving Agent for Deep Research）</description>
+    <title>Moonshot AI发布Kimi-K3新模型</title>
+    <link>https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/27/kimi-k3-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>国产模型新进展，关注长文本能力与性能对比。（博客 · Simon Willison · 原题 moonshotai/Kimi-K3）</description>
   </item>
   <item>
-    <title>K12-KGraph：课程对齐的知识图谱</title>
-    <link>https://huggingface.co/papers/2605.09635</link>
-    <guid isPermaLink="false">huggingface.co/papers/2605.09635-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>教育LLM的基准与训练资源，填补垂直领域空白。（论文 · HF Papers · 原题 K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs）</description>
+    <title>Simon Willison：AI选型实用指南</title>
+    <link>https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>开发者视角的模型对比，减少选型试错成本。（博客 · Simon Willison · 原题 An opinionated guide to which AI to use to do stuff）</description>
   </item>
   <item>
-    <title>编程语言即设计的隐空间</title>
-    <link>https://blog.jsbarretto.com/post/languages-as-latent-spaces</link>
-    <guid isPermaLink="false">blog.jsbarretto.com/post/languages-as-latent-spaces-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>从语言设计看AI表达力，拓宽架构与工具选型视野。（社区 · Lobste.rs · 原题 Languages as designed latent spaces）</description>
+    <title>Cognizant与Anthropic合作，Claude进企业</title>
+    <link>https://www.anthropic.com/news/cognizant-anthropic</link>
+    <guid isPermaLink="false">anthropic.com/news/cognizant-anthropic-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>企业级AI合作案例，关注Claude落地路径。（官方 · Anthropic · 原题 Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients）</description>
   </item>
   <item>
-    <title>视觉对比自蒸馏方法新论文</title>
-    <link>https://huggingface.co/papers/2607.21556</link>
-    <guid isPermaLink="false">huggingface.co/papers/2607.21556-2026-07-27</guid>
-    <pubDate>Mon, 27 Jul 2026 01:48:21 GMT</pubDate>
-    <description>无监督视觉表征学习前沿，提升模型效率与泛化能力。（论文 · HF Papers · 原题 Visual Contrastive Self-Distillation）</description>
+    <title>Anthropic公开表态：开放权重模型立场</title>
+    <link>https://www.anthropic.com/news/position-open-weights-models</link>
+    <guid isPermaLink="false">anthropic.com/news/position-open-weights-models-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>安全与开源博弈，影响行业模型发布策略。（官方 · Anthropic · 原题 Our position on open-weights models）</description>
+  </item>
+  <item>
+    <title>NVIDIA Cosmos-H-Dreams：手术机器人实时仿真</title>
+    <link>https://huggingface.co/blog/nvidia/cosmos-h-dreams</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/cosmos-h-dreams-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>生成式仿真进入医疗，关注实时性与精度突破。（博客 · Hugging Face · 原题 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics）</description>
+  </item>
+  <item>
+    <title>Airi：自托管Grok伴侣，二次元AI容器</title>
+    <link>https://github.com/moeru-ai/airi</link>
+    <guid isPermaLink="false">github.com/moeru-ai/airi-2026-07-28</guid>
+    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
+    <description>开源二次元AI方案，满足个性化与隐私需求。（开源 · GitHub · 原题 moeru-ai/airi）</description>
   </item>
 </channel>
 </rss>
