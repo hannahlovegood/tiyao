@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 28 Jul 2026 01:22:54 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 01:23:44 GMT</lastBuildDate>
   <item>
-    <title>阿里开源代码审查工具，混合架构实战验证</title>
-    <link>https://github.com/alibaba/open-code-review</link>
-    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>阿里级代码审查工具开源，架构设计可直接复用。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
+    <title>Claude 视频理解工具开源：下载、抽帧、转录全流程</title>
+    <link>https://github.com/bradautomates/claude-video</link>
+    <guid isPermaLink="false">github.com/bradautomates/claude-video-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>开源工具让Claude直接分析视频，降低多模态应用门槛。（开源 · GitHub · 原题 bradautomates/claude-video）</description>
   </item>
   <item>
-    <title>主流LLM政治倾向左倾，Grok亦不例外</title>
-    <link>https://unslop.run/blog/political-compass-of-llms</link>
-    <guid isPermaLink="false">unslop.run/blog/political-compass-of-llms-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>揭示模型政治偏见，影响AI部署与内容策略。（社区 · Hacker News · 原题 All major LLMs are lib-left. Even Grok, half the time）</description>
+    <title>用Claude发现加密弱点：AI辅助安全审计新案例</title>
+    <link>https://www.anthropic.com/research/discovering-cryptographic-weaknesses</link>
+    <guid isPermaLink="false">anthropic.com/research/discovering-cryptographic-weaknesses-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>展示大模型在密码学漏洞挖掘中的实际能力与局限。（社区 · Hacker News · 原题 Discovering Cryptographic Weaknesses with Claude）</description>
   </item>
   <item>
-    <title>Impeccable：让AI设计更懂设计语言</title>
-    <link>https://github.com/pbakaus/impeccable</link>
-    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>设计语言规范工具，提升AI生成UI的可用性。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
+    <title>智能体时代的科学计算：OpenAI 提出新范式</title>
+    <link>https://openai.com/index/scientific-computing-agentic-ai</link>
+    <guid isPermaLink="false">openai.com/index/scientific-computing-agentic-ai-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>官方视角定义AI Agent如何重塑科学计算工作流。（官方 · OpenAI + Hacker News · 原题 Scientific computing in the age of agentic AI）</description>
   </item>
   <item>
-    <title>OpenAI：AI如何扩展人类工作边界</title>
-    <link>https://openai.com/index/how-ai-is-expanding-what-people-do-at-work</link>
-    <guid isPermaLink="false">openai.com/index/how-ai-is-expanding-what-people-do-at-work-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>官方案例解读AI赋能，适合企业规划落地场景。（官方 · OpenAI · 原题 How AI is expanding what people do at work）</description>
+    <title>Gemini API 托管智能体：3.6 Flash 与钩子机制</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>新版本降低智能体部署复杂度，提升可扩展性。（官方 · Google AI · 原题 Gemini API Managed Agents: 3.6 Flash, hooks, and more）</description>
   </item>
   <item>
-    <title>Moonshot AI发布Kimi-K3新模型</title>
-    <link>https://simonwillison.net/2026/Jul/27/kimi-k3/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/27/kimi-k3-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>国产模型新进展，关注长文本能力与性能对比。（博客 · Simon Willison · 原题 moonshotai/Kimi-K3）</description>
+    <title>Google搜索AI模式：五种方式助你享受真实世界</title>
+    <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/ai-mode-real-world-tips-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>AI搜索从信息检索转向生活场景，影响用户习惯。（官方 · Google AI · 原题 5 ways AI Mode in Search helps you enjoy the real world）</description>
   </item>
   <item>
-    <title>Simon Willison：AI选型实用指南</title>
-    <link>https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>开发者视角的模型对比，减少选型试错成本。（博客 · Simon Willison · 原题 An opinionated guide to which AI to use to do stuff）</description>
+    <title>用Google搜索策划终极晚宴：AI的实用生活指南</title>
+    <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/dinner-party-hosting-tips-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>展示AI搜索在复杂任务规划中的实际落地价值。（官方 · Google AI · 原题 5 ways to host the ultimate dinner party with Google Search）</description>
   </item>
   <item>
-    <title>Cognizant与Anthropic合作，Claude进企业</title>
-    <link>https://www.anthropic.com/news/cognizant-anthropic</link>
-    <guid isPermaLink="false">anthropic.com/news/cognizant-anthropic-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>企业级AI合作案例，关注Claude落地路径。（官方 · Anthropic · 原题 Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients）</description>
-  </item>
-  <item>
-    <title>Anthropic公开表态：开放权重模型立场</title>
-    <link>https://www.anthropic.com/news/position-open-weights-models</link>
-    <guid isPermaLink="false">anthropic.com/news/position-open-weights-models-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>安全与开源博弈，影响行业模型发布策略。（官方 · Anthropic · 原题 Our position on open-weights models）</description>
-  </item>
-  <item>
-    <title>NVIDIA Cosmos-H-Dreams：手术机器人实时仿真</title>
-    <link>https://huggingface.co/blog/nvidia/cosmos-h-dreams</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/cosmos-h-dreams-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>生成式仿真进入医疗，关注实时性与精度突破。（博客 · Hugging Face · 原题 NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics）</description>
-  </item>
-  <item>
-    <title>Airi：自托管Grok伴侣，二次元AI容器</title>
+    <title>自托管Grok伴侣Airi：开源容器化虚拟生命体</title>
     <link>https://github.com/moeru-ai/airi</link>
-    <guid isPermaLink="false">github.com/moeru-ai/airi-2026-07-28</guid>
-    <pubDate>Tue, 28 Jul 2026 01:22:54 GMT</pubDate>
-    <description>开源二次元AI方案，满足个性化与隐私需求。（开源 · GitHub · 原题 moeru-ai/airi）</description>
+    <guid isPermaLink="false">github.com/moeru-ai/airi-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>开源项目实现个性化AI伴侣，探索本地化部署边界。（开源 · GitHub · 原题 moeru-ai/airi）</description>
+  </item>
+  <item>
+    <title>Claude发现加密弱点：技术细节与实操复盘</title>
+    <link>https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>独立博客深度分析，提供可复现的AI安全研究路径。（博客 · Simon Willison · 原题 Discovering cryptographic weaknesses with Claude）</description>
+  </item>
+  <item>
+    <title>OlmoEarth平台：行星尺度地理空间推理开源</title>
+    <link>https://huggingface.co/blog/allenai/olmoearth-infrastructure</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/olmoearth-infrastructure-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>大规模地理AI推理开源，推动遥感与气候研究。（博客 · Hugging Face · 原题 The OlmoEarth Platform: Geospatial inference at planetary scale）</description>
+  </item>
+  <item>
+    <title>前沿实验室智能体入侵事件：2026年7月技术时间线</title>
+    <link>https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion-2026-07-29</guid>
+    <pubDate>Wed, 29 Jul 2026 01:23:44 GMT</pubDate>
+    <description>真实安全事件复盘，揭示Agent系统攻击面与防御教训。（博客 · Simon Willison · 原题 Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident）</description>
   </item>
 </channel>
 </rss>
