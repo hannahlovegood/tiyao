@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 31 Jul 2026 01:43:53 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 01:44:17 GMT</lastBuildDate>
   <item>
-    <title>openwork 开源：Claude Cowork 的替代方案</title>
-    <link>https://github.com/different-ai/openwork</link>
-    <guid isPermaLink="false">github.com/different-ai/openwork-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>开源 Agent 工作台新选择，值得对比主流闭源方案的实际差距。（开源 · GitHub · 原题 different-ai/openwork）</description>
+    <title>微软 AI 入门课：12 周 24 课，零基础友好</title>
+    <link>https://github.com/microsoft/AI-For-Beginners</link>
+    <guid isPermaLink="false">github.com/microsoft/AI-For-Beginners-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>官方免费课程，系统覆盖 AI 核心概念，适合新手快速建立知识框架。（开源 · GitHub · 原题 microsoft/AI-For-Beginners）</description>
   </item>
   <item>
-    <title>用 Agent Skill 强制文档符合 ASD-STE100 规范</title>
-    <link>https://github.com/AminBlg/SimpleEnglish</link>
-    <guid isPermaLink="false">github.com/AminBlg/SimpleEnglish-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>面向航空/技术写作的自动化合规方案，稀缺且实用。（社区 · Hacker News · 原题 Agent Skill to Force Docs in ASD-STE100 Simplified Technical English）</description>
+    <title>OpenAI 欧洲负责任 AI 推进策略解读</title>
+    <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
+    <guid isPermaLink="false">openai.com/index/advancing-responsible-ai-across-europe-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>合规风向标，直接影响欧洲市场产品设计与数据治理策略。（官方 · OpenAI · 原题 Advancing responsible AI across Europe）</description>
   </item>
   <item>
-    <title>ECC：Agent 性能调优的完整工程框架</title>
-    <link>https://github.com/affaan-m/ECC</link>
-    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>覆盖技能、记忆、安全等维度，是构建可靠 Agent 的参考手册。（开源 · GitHub · 原题 affaan-m/ECC）</description>
+    <title>OpenAI 谈构建富足智能：愿景与路径</title>
+    <link>https://openai.com/index/building-abundant-intelligence</link>
+    <guid isPermaLink="false">openai.com/index/building-abundant-intelligence-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>高层战略阐述，揭示模型演进方向与商业化优先级，值得细读。（官方 · OpenAI + Hacker News · 原题 Building abundant intelligence）</description>
   </item>
   <item>
-    <title>GPT-5.6 发布：价格性能比再突破</title>
-    <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
-    <guid isPermaLink="false">openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>官方定价与能力曲线更新，直接影响应用成本与选型决策。（官方 · OpenAI + Hacker News · 原题 Advancing the price-performance frontier with GPT-5.6）</description>
+    <title>Univé 打造 AI 就绪劳动力实战案例</title>
+    <link>https://openai.com/index/unive</link>
+    <guid isPermaLink="false">openai.com/index/unive-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>企业转型实操样本，展示培训与落地路径，对组织管理者有直接参考。（官方 · OpenAI · 原题 Univé builds an AI-ready workforce）</description>
   </item>
   <item>
-    <title>Gemini Robotics ER 2：视频理解驱动多机器人协作</title>
+    <title>DeepSeek-V4-Flash 发布：轻量高效新选择</title>
+    <link>https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>新模型性能与成本平衡点，开源社区关注度高，值得实测对比。（博客 · Simon Willison · 原题 deepseek-ai/DeepSeek-V4-Flash-0731）</description>
+  </item>
+  <item>
+    <title>llm-mcp-client 0.1a0：轻量 MCP 客户端工具</title>
+    <link>https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/31/llm-mcp-client-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>简化模型调用与工具集成，开发者效率工具，早期版本值得关注。（博客 · Simon Willison · 原题 llm-mcp-client 0.1a0）</description>
+  </item>
+  <item>
+    <title>开源权重革命：Oxide 播客对话 Simon</title>
+    <link>https://simonwillison.net/2026/Jul/31/oxide-and-friends/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Jul/31/oxide-and-friends-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>开源模型生态深度讨论，涉及商业与社区博弈，从业者必听视角。（博客 · Simon Willison · 原题 Oxide and Friends: The Open Weight Revolution with Simon Willison）</description>
+  </item>
+  <item>
+    <title>Gemini Robotics ER 2：视频理解驱动多机协作</title>
     <link>https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/</link>
-    <guid isPermaLink="false">deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>多机协作与视频理解结合，是具身智能落地的关键一步。（官方 · DeepMind · 原题 Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration）</description>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>机器人多模态新突破，视频理解与任务编排结合，具身智能关键进展。（官方 · DeepMind · 原题 Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration）</description>
   </item>
   <item>
-    <title>Simon Willison 解读 GPT-5.6 性价比</title>
-    <link>https://simonwillison.net/2026/Jul/30/luna-price-drop/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/30/luna-price-drop-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>独立视角拆解官方数据，帮你判断是否值得升级迁移。（博客 · Simon Willison · 原题 Advancing the price-performance frontier with GPT‑5.6）</description>
+    <title>Gemini Robotics 2：全身智能赋能机器人</title>
+    <link>https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/</link>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>整机智能升级，硬件与算法协同，机器人赛道重要里程碑。（社区 · Hacker News · 原题 Gemini Robotics 2 brings whole body intelligence to robots）</description>
   </item>
   <item>
-    <title>llm 0.32rc2：命令行工具再迭代</title>
-    <link>https://simonwillison.net/2026/Jul/30/llm-rc2/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/30/llm-rc2-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>常用 CLI 工具更新，关注新特性与兼容性变化。（博客 · Simon Willison · 原题 llm 0.32rc2）</description>
-  </item>
-  <item>
-    <title>Anthropic 披露三起真实网络安全事件</title>
+    <title>Anthropic 网络安全评估：三起真实事件复盘</title>
     <link>https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals</link>
-    <guid isPermaLink="false">anthropic.com/news/investigating-incidents-cybersecurity-evals-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>真实攻防案例复盘，对安全从业者极具参考价值。（官方 · Anthropic · 原题 Investigating three real-world incidents in our cybersecurity evaluations）</description>
-  </item>
-  <item>
-    <title>avatarin 用 GPT-Realtime 打造 24/7 零售 Agent</title>
-    <link>https://openai.com/index/avatarin</link>
-    <guid isPermaLink="false">openai.com/index/avatarin-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>实时语音零售场景落地案例，展示延迟与体验平衡的实践。（官方 · OpenAI · 原题 How avatarin built a 24/7 retail agent with GPT-Realtime）</description>
-  </item>
-  <item>
-    <title>GPU 闲置等于停场飞机：管理新视角</title>
-    <link>https://huggingface.co/blog/Dharma-AI/gpu-management</link>
-    <guid isPermaLink="false">huggingface.co/blog/Dharma-AI/gpu-management-2026-07-31</guid>
-    <pubDate>Fri, 31 Jul 2026 01:43:53 GMT</pubDate>
-    <description>算力成本优化话题，直击集群运维与预算痛点。（博客 · Hugging Face · 原题 GPU Management: Why Idle GPUs Are the New Grounded Aircraft）</description>
+    <guid isPermaLink="false">anthropic.com/news/investigating-incidents-cybersecurity-evals-2026-08-01</guid>
+    <pubDate>Sat, 01 Aug 2026 01:44:17 GMT</pubDate>
+    <description>安全评估实战案例，揭示模型漏洞与防御边界，对安全从业者极具价值。（官方 · Anthropic · 原题 Investigating three real-world incidents in our cybersecurity evaluations）</description>
   </item>
 </channel>
 </rss>
