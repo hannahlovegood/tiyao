@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 03 Aug 2026 01:30:11 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 01:19:52 GMT</lastBuildDate>
+  <item>
+    <title>开源路由包：AI 驱动的逆向工程与渗透测试技能分发</title>
+    <link>https://github.com/zhaoxuya520/reverse-skill</link>
+    <guid isPermaLink="false">github.com/zhaoxuya520/reverse-skill-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>将安全研究技能模块化路由，对红队与安全工程师有直接复用价值。（开源 · GitHub · 原题 zhaoxuya520/reverse-skill）</description>
+  </item>
+  <item>
+    <title>Hacker News 热议：大模型为何偏爱专家经验</title>
+    <link>https://www.seangoedecke.com/llms-reward-expertise/</link>
+    <guid isPermaLink="false">seangoedecke.com/llms-reward-expertise-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>揭示模型评估偏好，帮助从业者调整训练与提示策略。（社区 · Hacker News · 原题 LLMs reward expertise）</description>
+  </item>
+  <item>
+    <title>OpenAI 揭秘：六个月构建实时语音 AI 系统全记录</title>
+    <link>https://openai.com/index/continuous-voice-interaction-with-gpt-live</link>
+    <guid isPermaLink="false">openai.com/index/continuous-voice-interaction-with-gpt-live-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>官方工程实践细节，对语音交互开发者极具参考意义。（官方 · OpenAI · 原题 How we built a realtime system for responsive voice AI in six months）</description>
+  </item>
   <item>
     <title>微软 AI 入门课：12 周 24 课，零基础友好</title>
     <link>https://github.com/microsoft/AI-For-Beginners</link>
-    <guid isPermaLink="false">github.com/microsoft/AI-For-Beginners-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>官方免费课程，结构化路径清晰，适合新手快速建立 AI 知识框架。（开源 · GitHub · 原题 microsoft/AI-For-Beginners）</description>
+    <guid isPermaLink="false">github.com/microsoft/AI-For-Beginners-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>系统化学习路径，适合新手快速建立 AI 知识框架。（开源 · GitHub · 原题 microsoft/AI-For-Beginners）</description>
   </item>
   <item>
-    <title>AI 海报获州博览会大奖，引争议</title>
-    <link>https://www.ohiostatefair.com/p/get-involved/arts/poster-contest</link>
-    <guid isPermaLink="false">ohiostatefair.com/p/get-involved/arts/poster-contest-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>真实案例揭示 AI 创作在传统赛事中的评判标准与伦理边界。（社区 · Hacker News · 原题 AI poster wins Ohio State Fair contest）</description>
+    <title>OpenAI 案例：Circles 用大模型驱动电信个性化</title>
+    <link>https://openai.com/index/circles</link>
+    <guid isPermaLink="false">openai.com/index/circles-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>展示大模型在垂直行业的落地路径，商业价值明确。（官方 · OpenAI · 原题 Circles powers telco personalization with OpenAI technology）</description>
   </item>
   <item>
-    <title>Simon Willison 谈 AI 发展公开信</title>
+    <title>Simon Willison 点评：David Crawshaw 的提示词哲学</title>
+    <link>https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/3/david-crawshaw-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>一线实践者的提示词思考，提升日常 AI 使用效率。（博客 · Simon Willison · 原题 Quoting David Crawshaw's prompt）</description>
+  </item>
+  <item>
+    <title>Lobste.rs 讨论：NLP 分类任务的实用技巧</title>
+    <link>https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/</link>
+    <guid isPermaLink="false">softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>聚焦分类场景的工程细节，对文本处理开发者有直接帮助。（社区 · Lobste.rs · 原题 Categorization with NLP）</description>
+  </item>
+  <item>
+    <title>认知科学家为何反感大模型？2023 年旧文重读</title>
+    <link>https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/</link>
+    <guid isPermaLink="false">minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>跨学科视角审视 LLM 局限，帮助理性评估技术边界。（社区 · Lobste.rs · 原题 Why Do Cognitive Scientists Hate LLMs? (2023)）</description>
+  </item>
+  <item>
+    <title>Simon Willison 谈 AI 发展公开信：理性与噪音</title>
     <link>https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/2/open-letters-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>一线开发者视角剖析公开信争议，助你理解行业核心分歧与立场。（博客 · Simon Willison · 原题 Open letters about AI development）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/2/open-letters-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>梳理行业争议脉络，为决策者提供冷静判断依据。（博客 · Simon Willison · 原题 Open letters about AI development）</description>
   </item>
   <item>
-    <title>OpenAI 数学与理论计算机十大进展</title>
-    <link>https://openai.com/index/ten-advances-in-mathematics</link>
-    <guid isPermaLink="false">openai.com/index/ten-advances-in-mathematics-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>官方披露前沿研究方向，对算法与理论从业者具直接参考价值。（官方 · OpenAI · 原题 Ten advances in mathematics and theoretical computer science）</description>
-  </item>
-  <item>
-    <title>OpenAI 推进欧洲负责任 AI 落地</title>
-    <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
-    <guid isPermaLink="false">openai.com/index/advancing-responsible-ai-across-europe-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>解读监管与合规策略，对面向欧洲市场的 AI 产品团队至关重要。（官方 · OpenAI · 原题 Advancing responsible AI across Europe）</description>
-  </item>
-  <item>
-    <title>OpenAI 构建富足智能的愿景</title>
-    <link>https://openai.com/index/building-abundant-intelligence</link>
-    <guid isPermaLink="false">openai.com/index/building-abundant-intelligence-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>高层战略阐述，揭示算力与智能扩展路径，影响行业投资风向。（官方 · OpenAI · 原题 Building abundant intelligence）</description>
-  </item>
-  <item>
-    <title>DeepSeek-V4-Flash 发布，性能引关注</title>
-    <link>https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>新模型快速迭代，性能与成本平衡值得评测，对选型有实际意义。（博客 · Simon Willison · 原题 deepseek-ai/DeepSeek-V4-Flash-0731）</description>
-  </item>
-  <item>
-    <title>llm-mcp-client 0.1a0 发布，简化集成</title>
-    <link>https://simonwillison.net/2026/Jul/31/llm-mcp-client/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Jul/31/llm-mcp-client-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>轻量客户端降低 MCP 接入门槛，适合快速原型与工具链整合。（博客 · Simon Willison · 原题 llm-mcp-client 0.1a0）</description>
-  </item>
-  <item>
-    <title>reverse-skill：AI 驱动的安全测试路由包</title>
-    <link>https://github.com/zhaoxuya520/reverse-skill</link>
-    <guid isPermaLink="false">github.com/zhaoxuya520/reverse-skill-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>开源项目将 AI 与渗透测试结合，为安全从业者提供新工具思路。（开源 · GitHub · 原题 zhaoxuya520/reverse-skill）</description>
-  </item>
-  <item>
-    <title>AI 狂热：从郁金香到代币的泡沫警示</title>
-    <link>https://seanhelvey.com/tools-and-their-tools/</link>
-    <guid isPermaLink="false">seanhelvey.com/tools-and-their-tools-2026-08-03</guid>
-    <pubDate>Mon, 03 Aug 2026 01:30:11 GMT</pubDate>
-    <description>历史类比剖析当前 AI 投资热潮，提醒理性评估估值与长期价值。（社区 · Hacker News · 原题 AI Mania: From Tulips to Tokens）</description>
+    <title>腾讯云开源：团队级 AI Agent 记忆中枢 TencentDB</title>
+    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+    <guid isPermaLink="false">github.com/TencentCloud/TencentDB-Agent-Memory-2026-08-04</guid>
+    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
+    <description>解决多 Agent 协作中的记忆共享痛点，架构设计值得借鉴。（开源 · GitHub · 原题 TencentCloud/TencentDB-Agent-Memory）</description>
   </item>
 </channel>
 </rss>
