@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 04 Aug 2026 01:19:52 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 01:24:03 GMT</lastBuildDate>
   <item>
-    <title>开源路由包：AI 驱动的逆向工程与渗透测试技能分发</title>
+    <title>reverse-skill：AI 驱动的安全研究技能路由包</title>
     <link>https://github.com/zhaoxuya520/reverse-skill</link>
-    <guid isPermaLink="false">github.com/zhaoxuya520/reverse-skill-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>将安全研究技能模块化路由，对红队与安全工程师有直接复用价值。（开源 · GitHub · 原题 zhaoxuya520/reverse-skill）</description>
+    <guid isPermaLink="false">github.com/zhaoxuya520/reverse-skill-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>开源安全工具包，直接降低逆向与渗透测试门槛，实战价值高。（开源 · GitHub · 原题 zhaoxuya520/reverse-skill）</description>
   </item>
   <item>
-    <title>Hacker News 热议：大模型为何偏爱专家经验</title>
-    <link>https://www.seangoedecke.com/llms-reward-expertise/</link>
-    <guid isPermaLink="false">seangoedecke.com/llms-reward-expertise-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>揭示模型评估偏好，帮助从业者调整训练与提示策略。（社区 · Hacker News · 原题 LLMs reward expertise）</description>
+    <title>OpenAI 模型第三方网络评估报告出炉</title>
+    <link>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</link>
+    <guid isPermaLink="false">openai.com/index/third-party-cyber-evaluations-involving-openai-models-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>官方安全评估细节公开，是判断模型风险与合规的稀缺依据。（官方 · OpenAI + Hacker News · 原题 Third-party cyber evaluations involving OpenAI models）</description>
   </item>
   <item>
-    <title>OpenAI 揭秘：六个月构建实时语音 AI 系统全记录</title>
-    <link>https://openai.com/index/continuous-voice-interaction-with-gpt-live</link>
-    <guid isPermaLink="false">openai.com/index/continuous-voice-interaction-with-gpt-live-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>官方工程实践细节，对语音交互开发者极具参考意义。（官方 · OpenAI · 原题 How we built a realtime system for responsive voice AI in six months）</description>
+    <title>苹果称更多前员工或携机密投奔 OpenAI</title>
+    <link>https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/</link>
+    <guid isPermaLink="false">techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>科技巨头人才与机密纠纷升级，牵动行业竞争格局与法律边界。（社区 · Hacker News · 原题 Apple says more ex-employees may have taken confidential data to OpenAI）</description>
   </item>
   <item>
-    <title>微软 AI 入门课：12 周 24 课，零基础友好</title>
-    <link>https://github.com/microsoft/AI-For-Beginners</link>
-    <guid isPermaLink="false">github.com/microsoft/AI-For-Beginners-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>系统化学习路径，适合新手快速建立 AI 知识框架。（开源 · GitHub · 原题 microsoft/AI-For-Beginners）</description>
+    <title>Google AI 发布 2026 年 7 月最新动态</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>官方月度汇总，快速掌握谷歌模型与产品迭代的关键信号。（官方 · Google AI · 原题 The latest AI news we announced in July 2026）</description>
   </item>
   <item>
-    <title>OpenAI 案例：Circles 用大模型驱动电信个性化</title>
-    <link>https://openai.com/index/circles</link>
-    <guid isPermaLink="false">openai.com/index/circles-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>展示大模型在垂直行业的落地路径，商业价值明确。（官方 · OpenAI · 原题 Circles powers telco personalization with OpenAI technology）</description>
+    <title>LLM 工具更新：支持推理痕迹与服务器端工具</title>
+    <link>https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/4/new-release-of-llm-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>命令行 AI 工具核心升级，提升调试效率与自动化集成能力。（博客 · Simon Willison · 原题 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging）</description>
   </item>
   <item>
-    <title>Simon Willison 点评：David Crawshaw 的提示词哲学</title>
-    <link>https://simonwillison.net/2026/Aug/3/david-crawshaw/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/3/david-crawshaw-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>一线实践者的提示词思考，提升日常 AI 使用效率。（博客 · Simon Willison · 原题 Quoting David Crawshaw's prompt）</description>
+    <title>llm-anthropic 0.26 发布，适配最新 API</title>
+    <link>https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/4/llm-anthropic-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>紧跟 Anthropic 接口变化，保障现有工作流稳定不中断。（博客 · Simon Willison · 原题 llm-anthropic 0.26）</description>
   </item>
   <item>
-    <title>Lobste.rs 讨论：NLP 分类任务的实用技巧</title>
-    <link>https://softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp/</link>
-    <guid isPermaLink="false">softwaremaniacs.org/blog/2026/07/30/categorization-with-nlp-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>聚焦分类场景的工程细节，对文本处理开发者有直接帮助。（社区 · Lobste.rs · 原题 Categorization with NLP）</description>
+    <title>ChatGPT Work 与 Codex 推出教学新功能</title>
+    <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
+    <guid isPermaLink="false">openai.com/index/learn-teach-chatgpt-work-codex-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>官方教育场景落地，预示 AI 编程教学范式的重要转向。（官方 · OpenAI · 原题 New ways to learn and teach with ChatGPT Work and Codex）</description>
   </item>
   <item>
-    <title>认知科学家为何反感大模型？2023 年旧文重读</title>
-    <link>https://minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms/</link>
-    <guid isPermaLink="false">minihf.com/posts/2023-10-16-hermes-lecture-3-why-do-cognitive-scientists-hate-llms-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>跨学科视角审视 LLM 局限，帮助理性评估技术边界。（社区 · Lobste.rs · 原题 Why Do Cognitive Scientists Hate LLMs? (2023)）</description>
+    <title>库埃利亚尔出任 Anthropic 全球事务官</title>
+    <link>https://www.anthropic.com/news/tino-cuellar</link>
+    <guid isPermaLink="false">anthropic.com/news/tino-cuellar-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>前政府高官加盟，强化 AI 政策话语权，影响监管风向。（官方 · Anthropic · 原题 Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer）</description>
   </item>
   <item>
-    <title>Simon Willison 谈 AI 发展公开信：理性与噪音</title>
-    <link>https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/2/open-letters-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>梳理行业争议脉络，为决策者提供冷静判断依据。（博客 · Simon Willison · 原题 Open letters about AI development）</description>
+    <title>AirLLM：单张 4GB 显卡跑 70B 模型</title>
+    <link>https://github.com/lyogavin/airllm</link>
+    <guid isPermaLink="false">github.com/lyogavin/airllm-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>极低显存推理方案，打破硬件限制，普惠中小团队实验。（开源 · GitHub · 原题 lyogavin/airllm）</description>
   </item>
   <item>
-    <title>腾讯云开源：团队级 AI Agent 记忆中枢 TencentDB</title>
-    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
-    <guid isPermaLink="false">github.com/TencentCloud/TencentDB-Agent-Memory-2026-08-04</guid>
-    <pubDate>Tue, 04 Aug 2026 01:19:52 GMT</pubDate>
-    <description>解决多 Agent 协作中的记忆共享痛点，架构设计值得借鉴。（开源 · GitHub · 原题 TencentCloud/TencentDB-Agent-Memory）</description>
+    <title>LFM2.5-2.6B：本地代理部署新选择</title>
+    <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
+    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm2-5-2-6b-2026-08-05</guid>
+    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
+    <description>轻量模型兼顾性能与隐私，适合边缘设备与离线场景落地。（博客 · Hugging Face · 原题 Deploy local agents everywhere with LFM2.5-2.6B）</description>
   </item>
 </channel>
 </rss>
