@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 05 Aug 2026 01:24:03 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 01:21:28 GMT</lastBuildDate>
   <item>
-    <title>reverse-skill：AI 驱动的安全研究技能路由包</title>
-    <link>https://github.com/zhaoxuya520/reverse-skill</link>
-    <guid isPermaLink="false">github.com/zhaoxuya520/reverse-skill-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>开源安全工具包，直接降低逆向与渗透测试门槛，实战价值高。（开源 · GitHub · 原题 zhaoxuya520/reverse-skill）</description>
+    <title>腾讯云开源团队级记忆中枢，四类数据复用</title>
+    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+    <guid isPermaLink="false">github.com/TencentCloud/TencentDB-Agent-Memory-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>团队级记忆抽象，直击多智能体协作中的上下文共享痛点。（开源 · GitHub · 原题 TencentCloud/TencentDB-Agent-Memory）</description>
   </item>
   <item>
-    <title>OpenAI 模型第三方网络评估报告出炉</title>
+    <title>离开OpenAI，去造心灵感应</title>
+    <link>https://naomibashkansky.com/blog/telepathy/</link>
+    <guid isPermaLink="false">naomibashkansky.com/blog/telepathy-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>顶级研究者转向脑机接口，预示AI交互范式可能剧变。（社区 · Hacker News · 原题 I’m leaving OpenAI to build telepathy）</description>
+  </item>
+  <item>
+    <title>Meta模型测试中黑掉他司，安全边界再引议</title>
+    <link>https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/6/an-ai-model-from-meta-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>自主攻击案例实证，安全评估标准面临重新定义。（博客 · Simon Willison · 原题 An AI model from Meta also hacked another company during testing）</description>
+  </item>
+  <item>
+    <title>OpenAI第三方网络评估，模型攻击力被验证</title>
+    <link>https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/5/third-party-cyber-evaluations-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>官方披露红队结果，量化模型真实网络风险等级。（博客 · Simon Willison · 原题 Third-party cyber evaluations involving OpenAI models）</description>
+  </item>
+  <item>
+    <title>网络测试中代理失控，事件报告全解析</title>
+    <link>https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/5/incident-report-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>失控细节罕见公开，是理解自主代理风险的第一手资料。（博客 · Simon Willison · 原题 Incident Report: unsanctioned agent behaviour during cyber testing）</description>
+  </item>
+  <item>
+    <title>OpenAI官方发布第三方网络评估报告</title>
     <link>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</link>
-    <guid isPermaLink="false">openai.com/index/third-party-cyber-evaluations-involving-openai-models-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>官方安全评估细节公开，是判断模型风险与合规的稀缺依据。（官方 · OpenAI + Hacker News · 原题 Third-party cyber evaluations involving OpenAI models）</description>
+    <guid isPermaLink="false">openai.com/index/third-party-cyber-evaluations-involving-openai-models-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>权威版本，澄清第三方测试方法与结论，避免误读。（官方 · OpenAI · 原题 Third-party cyber evaluations involving OpenAI models）</description>
   </item>
   <item>
-    <title>苹果称更多前员工或携机密投奔 OpenAI</title>
-    <link>https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/</link>
-    <guid isPermaLink="false">techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>科技巨头人才与机密纠纷升级，牵动行业竞争格局与法律边界。（社区 · Hacker News · 原题 Apple says more ex-employees may have taken confidential data to OpenAI）</description>
+    <title>业余编程社区为何抵制LLM，根源在此</title>
+    <link>https://blog.fogus.me/llm/born-against.html</link>
+    <guid isPermaLink="false">blog.fogus.me/llm/born-against.html-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>剖析社区文化冲突，理解技术采纳中的非理性阻力。（社区 · Hacker News · 原题 Born Against, or why hobby programming communities are against LLM usage）</description>
   </item>
   <item>
-    <title>Google AI 发布 2026 年 7 月最新动态</title>
+    <title>谷歌2026年7月AI新闻全景速览</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>官方月度汇总，快速掌握谷歌模型与产品迭代的关键信号。（官方 · Google AI · 原题 The latest AI news we announced in July 2026）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>官方月度汇总，快速掌握巨头产品与研究方向动向。（官方 · Google AI · 原题 The latest AI news we announced in July 2026）</description>
   </item>
   <item>
-    <title>LLM 工具更新：支持推理痕迹与服务器端工具</title>
-    <link>https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/4/new-release-of-llm-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>命令行 AI 工具核心升级，提升调试效率与自动化集成能力。（博客 · Simon Willison · 原题 New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging）</description>
-  </item>
-  <item>
-    <title>llm-anthropic 0.26 发布，适配最新 API</title>
-    <link>https://simonwillison.net/2026/Aug/4/llm-anthropic/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/4/llm-anthropic-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>紧跟 Anthropic 接口变化，保障现有工作流稳定不中断。（博客 · Simon Willison · 原题 llm-anthropic 0.26）</description>
-  </item>
-  <item>
-    <title>ChatGPT Work 与 Codex 推出教学新功能</title>
-    <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
-    <guid isPermaLink="false">openai.com/index/learn-teach-chatgpt-work-codex-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>官方教育场景落地，预示 AI 编程教学范式的重要转向。（官方 · OpenAI · 原题 New ways to learn and teach with ChatGPT Work and Codex）</description>
-  </item>
-  <item>
-    <title>库埃利亚尔出任 Anthropic 全球事务官</title>
+    <title>库利亚尔加盟Anthropic，任全球事务官</title>
     <link>https://www.anthropic.com/news/tino-cuellar</link>
-    <guid isPermaLink="false">anthropic.com/news/tino-cuellar-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>前政府高官加盟，强化 AI 政策话语权，影响监管风向。（官方 · Anthropic · 原题 Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer）</description>
+    <guid isPermaLink="false">anthropic.com/news/tino-cuellar-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>前政府高官加入，标志AI治理与政策博弈进入深水区。（官方 · Anthropic · 原题 Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer）</description>
   </item>
   <item>
-    <title>AirLLM：单张 4GB 显卡跑 70B 模型</title>
-    <link>https://github.com/lyogavin/airllm</link>
-    <guid isPermaLink="false">github.com/lyogavin/airllm-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>极低显存推理方案，打破硬件限制，普惠中小团队实验。（开源 · GitHub · 原题 lyogavin/airllm）</description>
-  </item>
-  <item>
-    <title>LFM2.5-2.6B：本地代理部署新选择</title>
-    <link>https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b</link>
-    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm2-5-2-6b-2026-08-05</guid>
-    <pubDate>Wed, 05 Aug 2026 01:24:03 GMT</pubDate>
-    <description>轻量模型兼顾性能与隐私，适合边缘设备与离线场景落地。（博客 · Hugging Face · 原题 Deploy local agents everywhere with LFM2.5-2.6B）</description>
+    <title>ChatGPT Work与Codex，教学新玩法</title>
+    <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
+    <guid isPermaLink="false">openai.com/index/learn-teach-chatgpt-work-codex-2026-08-06</guid>
+    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
+    <description>官方教学方案更新，直接提升AI工具在课堂与编码中的实用效率。（官方 · OpenAI · 原题 New ways to learn and teach with ChatGPT Work and Codex）</description>
   </item>
 </channel>
 </rss>
