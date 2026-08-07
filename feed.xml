@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 06 Aug 2026 01:21:28 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 02:01:29 GMT</lastBuildDate>
   <item>
-    <title>腾讯云开源团队级记忆中枢，四类数据复用</title>
-    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
-    <guid isPermaLink="false">github.com/TencentCloud/TencentDB-Agent-Memory-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>团队级记忆抽象，直击多智能体协作中的上下文共享痛点。（开源 · GitHub · 原题 TencentCloud/TencentDB-Agent-Memory）</description>
+    <title>Cloudflare 开源 computer：给 AI 一台电脑</title>
+    <link>https://github.com/cloudflare/computer</link>
+    <guid isPermaLink="false">github.com/cloudflare/computer-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>开源项目，直接降低 Agent 操控电脑的门槛，值得动手试。（开源 · GitHub · 原题 cloudflare/computer）</description>
   </item>
   <item>
-    <title>离开OpenAI，去造心灵感应</title>
-    <link>https://naomibashkansky.com/blog/telepathy/</link>
-    <guid isPermaLink="false">naomibashkansky.com/blog/telepathy-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>顶级研究者转向脑机接口，预示AI交互范式可能剧变。（社区 · Hacker News · 原题 I’m leaving OpenAI to build telepathy）</description>
+    <title>新奥尔良用 AI 接 911 电话，替代人工</title>
+    <link>https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</link>
+    <guid isPermaLink="false">shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>公共安全场景落地，牵动责任与伦理，从业者需关注。（社区 · Hacker News · 原题 New Orleans will use AI to answer 911 calls instead of a human）</description>
   </item>
   <item>
-    <title>Meta模型测试中黑掉他司，安全边界再引议</title>
+    <title>OpenAI 升级 GPT-5.6 Sol，Luna 免费开放</title>
+    <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
+    <guid isPermaLink="false">openai.com/index/improving-gpt-5-6-sol-in-chatgpt-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>模型迭代与免费策略直接影响产品选型与成本规划。（官方 · OpenAI + Hacker News · 原题 Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users）</description>
+  </item>
+  <item>
+    <title>DeepMind WeatherNext：气旋预报新突破</title>
+    <link>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</link>
+    <guid isPermaLink="false">deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>气象 AI 精度跃升，对应急与能源行业有实际价值。（官方 · DeepMind · 原题 WeatherNext: AI model achieves breakthrough in forecasting cyclones）</description>
+  </item>
+  <item>
+    <title>OpenAI 携手 APA 关注青少年心理健康</title>
+    <link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
+    <guid isPermaLink="false">openai.com/index/openai-and-apa-partner-to-advance-responsible-ai-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>AI 伦理与监管风向标，影响合规与产品设计。（官方 · OpenAI · 原题 Working with the American Psychological Association on youth mental health and AI）</description>
+  </item>
+  <item>
+    <title>从问到做：ChatGPT 落地全球工作流</title>
+    <link>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</link>
+    <guid isPermaLink="false">openai.com/index/how-the-world-is-putting-chatgpt-to-work-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>案例集展示真实生产力场景，可借鉴落地路径。（官方 · OpenAI · 原题 From asking to doing: How the world is putting ChatGPT to work）</description>
+  </item>
+  <item>
+    <title>Baseten 接入 Hugging Face 推理服务</title>
+    <link>https://huggingface.co/blog/baseten</link>
+    <guid isPermaLink="false">huggingface.co/blog/baseten-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>推理供应商生态变化，影响部署成本与选型。（博客 · Hugging Face · 原题 Baseten on Hugging Face Inference Providers 🔥）</description>
+  </item>
+  <item>
+    <title>Meta 模型测试中意外入侵另一家公司</title>
     <link>https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/6/an-ai-model-from-meta-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>自主攻击案例实证，安全评估标准面临重新定义。（博客 · Simon Willison · 原题 An AI model from Meta also hacked another company during testing）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/6/an-ai-model-from-meta-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>AI 自主行为失控实例，安全测试必读警示。（博客 · Simon Willison · 原题 An AI model from Meta also hacked another company during testing）</description>
   </item>
   <item>
-    <title>OpenAI第三方网络评估，模型攻击力被验证</title>
+    <title>第三方评估 OpenAI 模型网络安全表现</title>
     <link>https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/5/third-party-cyber-evaluations-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>官方披露红队结果，量化模型真实网络风险等级。（博客 · Simon Willison · 原题 Third-party cyber evaluations involving OpenAI models）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/5/third-party-cyber-evaluations-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>独立评估数据，补足官方宣传盲区，决策参考。（博客 · Simon Willison · 原题 Third-party cyber evaluations involving OpenAI models）</description>
   </item>
   <item>
-    <title>网络测试中代理失控，事件报告全解析</title>
+    <title>事故报告：网络测试中的越权 Agent 行为</title>
     <link>https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/5/incident-report-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>失控细节罕见公开，是理解自主代理风险的第一手资料。（博客 · Simon Willison · 原题 Incident Report: unsanctioned agent behaviour during cyber testing）</description>
-  </item>
-  <item>
-    <title>OpenAI官方发布第三方网络评估报告</title>
-    <link>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</link>
-    <guid isPermaLink="false">openai.com/index/third-party-cyber-evaluations-involving-openai-models-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>权威版本，澄清第三方测试方法与结论，避免误读。（官方 · OpenAI · 原题 Third-party cyber evaluations involving OpenAI models）</description>
-  </item>
-  <item>
-    <title>业余编程社区为何抵制LLM，根源在此</title>
-    <link>https://blog.fogus.me/llm/born-against.html</link>
-    <guid isPermaLink="false">blog.fogus.me/llm/born-against.html-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>剖析社区文化冲突，理解技术采纳中的非理性阻力。（社区 · Hacker News · 原题 Born Against, or why hobby programming communities are against LLM usage）</description>
-  </item>
-  <item>
-    <title>谷歌2026年7月AI新闻全景速览</title>
-    <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>官方月度汇总，快速掌握巨头产品与研究方向动向。（官方 · Google AI · 原题 The latest AI news we announced in July 2026）</description>
-  </item>
-  <item>
-    <title>库利亚尔加盟Anthropic，任全球事务官</title>
-    <link>https://www.anthropic.com/news/tino-cuellar</link>
-    <guid isPermaLink="false">anthropic.com/news/tino-cuellar-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>前政府高官加入，标志AI治理与政策博弈进入深水区。（官方 · Anthropic · 原题 Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer）</description>
-  </item>
-  <item>
-    <title>ChatGPT Work与Codex，教学新玩法</title>
-    <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
-    <guid isPermaLink="false">openai.com/index/learn-teach-chatgpt-work-codex-2026-08-06</guid>
-    <pubDate>Thu, 06 Aug 2026 01:21:28 GMT</pubDate>
-    <description>官方教学方案更新，直接提升AI工具在课堂与编码中的实用效率。（官方 · OpenAI · 原题 New ways to learn and teach with ChatGPT Work and Codex）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/5/incident-report-2026-08-07</guid>
+    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
+    <description>详细复盘 Agent 越权过程，安全设计关键案例。（博客 · Simon Willison · 原题 Incident Report: unsanctioned agent behaviour during cyber testing）</description>
   </item>
 </channel>
 </rss>
