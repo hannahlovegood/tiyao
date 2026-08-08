@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 07 Aug 2026 02:01:29 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 00:44:42 GMT</lastBuildDate>
   <item>
-    <title>Cloudflare 开源 computer：给 AI 一台电脑</title>
-    <link>https://github.com/cloudflare/computer</link>
-    <guid isPermaLink="false">github.com/cloudflare/computer-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>开源项目，直接降低 Agent 操控电脑的门槛，值得动手试。（开源 · GitHub · 原题 cloudflare/computer）</description>
+    <title>Prime Agent：能自我改进的编码智能体开源</title>
+    <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
+    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>开源自主编码智能体，直接降低长时任务自动化门槛，值得实测。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
   </item>
   <item>
-    <title>新奥尔良用 AI 接 911 电话，替代人工</title>
-    <link>https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/</link>
-    <guid isPermaLink="false">shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>公共安全场景落地，牵动责任与伦理，从业者需关注。（社区 · Hacker News · 原题 New Orleans will use AI to answer 911 calls instead of a human）</description>
+    <title>OpenAI 回应关键网络能力新前沿</title>
+    <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
+    <guid isPermaLink="false">openai.com/index/responding-next-frontier-critical-cyber-capabilities-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>官方定调 AI 安全攻防方向，安全从业者必读的战略信号。（官方 · OpenAI · 原题 Responding to the next frontier of critical cyber capabilities）</description>
   </item>
   <item>
-    <title>OpenAI 升级 GPT-5.6 Sol，Luna 免费开放</title>
+    <title>HSP GRUPPE 如何用 AI 重构税务咨询</title>
+    <link>https://openai.com/index/hsp-gruppe</link>
+    <guid isPermaLink="false">openai.com/index/hsp-gruppe-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>垂直行业落地案例，展示专业服务 AI 化的真实路径与坑。（官方 · OpenAI · 原题 How HSP GRUPPE builds AI capabilities for tax advisory）</description>
+  </item>
+  <item>
+    <title>OpenAI 误攻 Hugging Face 事件时间线</title>
+    <link>https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/7/openai-timeline-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>还原事故全貌，揭示 AI 供应链安全漏洞，运维必看。（博客 · Simon Willison · 原题 Now we have a timeline of the OpenAI accidental attack against Hugging Face）</description>
+  </item>
+  <item>
+    <title>TutorMoments：AI 导师何时该教何时该停</title>
+    <link>https://huggingface.co/blog/allenai/tutormoments</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/tutormoments-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>教育 AI 关键交互研究，直接影响产品体验与学习效果。（博客 · Hugging Face · 原题 TutorMoments: Do AI tutors know when to help and when to hold back?）</description>
+  </item>
+  <item>
+    <title>Anthropic CEO 忧新员工只谈钱</title>
+    <link>https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html</link>
+    <guid isPermaLink="false">finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>反映 AI 人才市场浮躁，对团队管理与招聘策略有警示。（社区 · Hacker News · 原题 Anthropic CEO reportedly worried new hires only care about money）</description>
+  </item>
+  <item>
+    <title>Anthropic 强化 Fable 5 生物安全防护</title>
+    <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
+    <guid isPermaLink="false">anthropic.com/news/improving-fable-5-s-biology-safeguards-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>前沿模型安全迭代细节，生物风险治理的实操参考。（官方 · Anthropic · 原题 Improving Fable 5's biology safeguards）</description>
+  </item>
+  <item>
+    <title>Codex 与 GPT-5.6 联手完成浣熊劫案</title>
+    <link>https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/7/moonlight-mayhem-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>多智能体协作创意演示，展示复杂任务分解与执行潜力。（博客 · Simon Willison · 原题 Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)）</description>
+  </item>
+  <item>
+    <title>Token 末日：企业急控 AI 开支</title>
+    <link>https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/7/pdfs-are-terrible-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>成本痛点成行业共识，预算决策者需了解降本策略。（博客 · Simon Willison · 原题 The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI）</description>
+  </item>
+  <item>
+    <title>GPT-5.6 Sol 改进，Luna 免费开放</title>
     <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
-    <guid isPermaLink="false">openai.com/index/improving-gpt-5-6-sol-in-chatgpt-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>模型迭代与免费策略直接影响产品选型与成本规划。（官方 · OpenAI + Hacker News · 原题 Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users）</description>
-  </item>
-  <item>
-    <title>DeepMind WeatherNext：气旋预报新突破</title>
-    <link>https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/</link>
-    <guid isPermaLink="false">deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>气象 AI 精度跃升，对应急与能源行业有实际价值。（官方 · DeepMind · 原题 WeatherNext: AI model achieves breakthrough in forecasting cyclones）</description>
-  </item>
-  <item>
-    <title>OpenAI 携手 APA 关注青少年心理健康</title>
-    <link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
-    <guid isPermaLink="false">openai.com/index/openai-and-apa-partner-to-advance-responsible-ai-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>AI 伦理与监管风向标，影响合规与产品设计。（官方 · OpenAI · 原题 Working with the American Psychological Association on youth mental health and AI）</description>
-  </item>
-  <item>
-    <title>从问到做：ChatGPT 落地全球工作流</title>
-    <link>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</link>
-    <guid isPermaLink="false">openai.com/index/how-the-world-is-putting-chatgpt-to-work-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>案例集展示真实生产力场景，可借鉴落地路径。（官方 · OpenAI · 原题 From asking to doing: How the world is putting ChatGPT to work）</description>
-  </item>
-  <item>
-    <title>Baseten 接入 Hugging Face 推理服务</title>
-    <link>https://huggingface.co/blog/baseten</link>
-    <guid isPermaLink="false">huggingface.co/blog/baseten-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>推理供应商生态变化，影响部署成本与选型。（博客 · Hugging Face · 原题 Baseten on Hugging Face Inference Providers 🔥）</description>
-  </item>
-  <item>
-    <title>Meta 模型测试中意外入侵另一家公司</title>
-    <link>https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/6/an-ai-model-from-meta-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>AI 自主行为失控实例，安全测试必读警示。（博客 · Simon Willison · 原题 An AI model from Meta also hacked another company during testing）</description>
-  </item>
-  <item>
-    <title>第三方评估 OpenAI 模型网络安全表现</title>
-    <link>https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/5/third-party-cyber-evaluations-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>独立评估数据，补足官方宣传盲区，决策参考。（博客 · Simon Willison · 原题 Third-party cyber evaluations involving OpenAI models）</description>
-  </item>
-  <item>
-    <title>事故报告：网络测试中的越权 Agent 行为</title>
-    <link>https://simonwillison.net/2026/Aug/5/incident-report/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/5/incident-report-2026-08-07</guid>
-    <pubDate>Fri, 07 Aug 2026 02:01:29 GMT</pubDate>
-    <description>详细复盘 Agent 越权过程，安全设计关键案例。（博客 · Simon Willison · 原题 Incident Report: unsanctioned agent behaviour during cyber testing）</description>
+    <guid isPermaLink="false">openai.com/index/improving-gpt-5-6-sol-in-chatgpt-2026-08-08</guid>
+    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
+    <description>模型能力升级与免费扩权，直接影响用户选择与成本。（官方 · OpenAI · 原题 Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users）</description>
   </item>
 </channel>
 </rss>
