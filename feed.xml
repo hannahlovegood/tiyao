@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 08 Aug 2026 00:44:42 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 00:47:41 GMT</lastBuildDate>
   <item>
     <title>Prime Agent：能自我改进的编码智能体开源</title>
     <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
-    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>开源自主编码智能体，直接降低长时任务自动化门槛，值得实测。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
+    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>首个自改进RLM智能体，直击长时任务痛点，值得动手试。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
   </item>
   <item>
-    <title>OpenAI 回应关键网络能力新前沿</title>
+    <title>Claude Code默认开启Auto模式，覆盖三档套餐</title>
+    <link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/8/auto-mode-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>默认自动化改变编码工作流，Pro用户需知行为变化。（博客 · Simon Willison · 原题 Auto mode is now the default in Claude Code for Pro, Max, and Team plans）</description>
+  </item>
+  <item>
+    <title>OpenAI误攻Hugging Face事件时间线曝光</title>
+    <link>https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>罕见事故复盘，揭示AI供应链安全真实风险。（博客 · Simon Willison · 原题 Now we have a timeline of the OpenAI accidental attack against Hugging Face）</description>
+  </item>
+  <item>
+    <title>OpenAI回应关键网络能力新前沿</title>
     <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
-    <guid isPermaLink="false">openai.com/index/responding-next-frontier-critical-cyber-capabilities-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>官方定调 AI 安全攻防方向，安全从业者必读的战略信号。（官方 · OpenAI · 原题 Responding to the next frontier of critical cyber capabilities）</description>
+    <guid isPermaLink="false">openai.com/index/responding-next-frontier-critical-cyber-capabilities-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>官方定调AI安全战略，影响行业合规风向。（官方 · OpenAI · 原题 Responding to the next frontier of critical cyber capabilities）</description>
   </item>
   <item>
-    <title>HSP GRUPPE 如何用 AI 重构税务咨询</title>
+    <title>随机游走混合时间：社交媒体的兔子洞</title>
+    <link>https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html</link>
+    <guid isPermaLink="false">notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>数学视角拆解信息流成瘾，内容推荐可借鉴。（社区 · Lobste.rs · 原题 social media rabbit holes, clusters, and the relative mixing times of random walks）</description>
+  </item>
+  <item>
+    <title>HSP GRUPPE：税务咨询的AI能力构建实录</title>
     <link>https://openai.com/index/hsp-gruppe</link>
-    <guid isPermaLink="false">openai.com/index/hsp-gruppe-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>垂直行业落地案例，展示专业服务 AI 化的真实路径与坑。（官方 · OpenAI · 原题 How HSP GRUPPE builds AI capabilities for tax advisory）</description>
+    <guid isPermaLink="false">openai.com/index/hsp-gruppe-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>垂直领域落地案例，展示AI改造专业服务路径。（官方 · OpenAI · 原题 How HSP GRUPPE builds AI capabilities for tax advisory）</description>
   </item>
   <item>
-    <title>OpenAI 误攻 Hugging Face 事件时间线</title>
+    <title>OpenAI误攻Hugging Face：完整时间线梳理</title>
     <link>https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/7/openai-timeline-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>还原事故全貌，揭示 AI 供应链安全漏洞，运维必看。（博客 · Simon Willison · 原题 Now we have a timeline of the OpenAI accidental attack against Hugging Face）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/7/openai-timeline-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>事件细节补全，供安全团队对照排查自身漏洞。（博客 · Simon Willison + Hacker News · 原题 Now we have a timeline of the OpenAI accidental attack against Hugging Face）</description>
   </item>
   <item>
-    <title>TutorMoments：AI 导师何时该教何时该停</title>
+    <title>TutorMoments：AI导师该何时出手与收手</title>
     <link>https://huggingface.co/blog/allenai/tutormoments</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/tutormoments-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>教育 AI 关键交互研究，直接影响产品体验与学习效果。（博客 · Hugging Face · 原题 TutorMoments: Do AI tutors know when to help and when to hold back?）</description>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/tutormoments-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>教育AI关键问题，数据驱动回答干预时机。（博客 · Hugging Face · 原题 TutorMoments: Do AI tutors know when to help and when to hold back?）</description>
   </item>
   <item>
-    <title>Anthropic CEO 忧新员工只谈钱</title>
-    <link>https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html</link>
-    <guid isPermaLink="false">finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>反映 AI 人才市场浮躁，对团队管理与招聘策略有警示。（社区 · Hacker News · 原题 Anthropic CEO reportedly worried new hires only care about money）</description>
-  </item>
-  <item>
-    <title>Anthropic 强化 Fable 5 生物安全防护</title>
+    <title>Anthropic强化Fable 5生物安全防护</title>
     <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
-    <guid isPermaLink="false">anthropic.com/news/improving-fable-5-s-biology-safeguards-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>前沿模型安全迭代细节，生物风险治理的实操参考。（官方 · Anthropic · 原题 Improving Fable 5's biology safeguards）</description>
+    <guid isPermaLink="false">anthropic.com/news/improving-fable-5-s-biology-safeguards-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>前沿模型安全迭代，生物风险管控成硬指标。（官方 · Anthropic · 原题 Improving Fable 5's biology safeguards）</description>
   </item>
   <item>
-    <title>Codex 与 GPT-5.6 联手完成浣熊劫案</title>
-    <link>https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/7/moonlight-mayhem-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>多智能体协作创意演示，展示复杂任务分解与执行潜力。（博客 · Simon Willison · 原题 Moonlight &amp; Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)）</description>
-  </item>
-  <item>
-    <title>Token 末日：企业急控 AI 开支</title>
-    <link>https://simonwillison.net/2026/Aug/7/pdfs-are-terrible/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/7/pdfs-are-terrible-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>成本痛点成行业共识，预算决策者需了解降本策略。（博客 · Simon Willison · 原题 The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI）</description>
-  </item>
-  <item>
-    <title>GPT-5.6 Sol 改进，Luna 免费开放</title>
-    <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
-    <guid isPermaLink="false">openai.com/index/improving-gpt-5-6-sol-in-chatgpt-2026-08-08</guid>
-    <pubDate>Sat, 08 Aug 2026 00:44:42 GMT</pubDate>
-    <description>模型能力升级与免费扩权，直接影响用户选择与成本。（官方 · OpenAI · 原题 Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users）</description>
+    <title>Anthropic CEO忧新员工只向钱看</title>
+    <link>https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html</link>
+    <guid isPermaLink="false">finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html-2026-08-09</guid>
+    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
+    <description>人才动机失衡信号，或影响AI公司长期创新。（社区 · Hacker News · 原题 Anthropic CEO reportedly worried new hires only care about money）</description>
   </item>
 </channel>
 </rss>
