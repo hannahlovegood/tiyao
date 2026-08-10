@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 09 Aug 2026 00:47:41 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 00:50:45 GMT</lastBuildDate>
   <item>
-    <title>Prime Agent：能自我改进的编码智能体开源</title>
+    <title>Prime Agent：自进化编码智能体开源</title>
     <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
-    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>首个自改进RLM智能体，直击长时任务痛点，值得动手试。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
+    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>自改进RLM直击长时任务痛点，工程落地价值高。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
   </item>
   <item>
-    <title>Claude Code默认开启Auto模式，覆盖三档套餐</title>
+    <title>我用LLM攻克复杂学科的实战法</title>
+    <link>https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</link>
+    <guid isPermaLink="false">laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>学习路径方法论可复制，提升个人技术成长效率。（社区 · Hacker News · 原题 How I use LLMs to learn complex topics）</description>
+  </item>
+  <item>
+    <title>Claude Opus 5系统提示词全文曝光</title>
+    <link>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>顶级模型提示设计细节，直接启发你的工程调优。（博客 · Simon Willison · 原题 Quoting Claude Opus 5 system prompt）</description>
+  </item>
+  <item>
+    <title>Claude Code默认开启Auto模式</title>
     <link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/8/auto-mode-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>默认自动化改变编码工作流，Pro用户需知行为变化。（博客 · Simon Willison · 原题 Auto mode is now the default in Claude Code for Pro, Max, and Team plans）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/8/auto-mode-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>默认行为变更影响自动化流程，需及时适配。（博客 · Simon Willison · 原题 Auto mode is now the default in Claude Code for Pro, Max, and Team plans）</description>
   </item>
   <item>
-    <title>OpenAI误攻Hugging Face事件时间线曝光</title>
+    <title>OpenAI误击Hugging Face时间线梳理</title>
     <link>https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>罕见事故复盘，揭示AI供应链安全真实风险。（博客 · Simon Willison · 原题 Now we have a timeline of the OpenAI accidental attack against Hugging Face）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>事故复盘厘清责任边界，安全运维必读。（博客 · Simon Willison · 原题 Now we have a timeline of the OpenAI accidental attack against Hugging Face）</description>
   </item>
   <item>
-    <title>OpenAI回应关键网络能力新前沿</title>
+    <title>OpenAI回应关键网络防御新前沿</title>
     <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
-    <guid isPermaLink="false">openai.com/index/responding-next-frontier-critical-cyber-capabilities-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>官方定调AI安全战略，影响行业合规风向。（官方 · OpenAI · 原题 Responding to the next frontier of critical cyber capabilities）</description>
+    <guid isPermaLink="false">openai.com/index/responding-next-frontier-critical-cyber-capabilities-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>官方战略定调，指引安全领域投入方向。（官方 · OpenAI · 原题 Responding to the next frontier of critical cyber capabilities）</description>
   </item>
   <item>
-    <title>随机游走混合时间：社交媒体的兔子洞</title>
-    <link>https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html</link>
-    <guid isPermaLink="false">notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>数学视角拆解信息流成瘾，内容推荐可借鉴。（社区 · Lobste.rs · 原题 social media rabbit holes, clusters, and the relative mixing times of random walks）</description>
-  </item>
-  <item>
-    <title>HSP GRUPPE：税务咨询的AI能力构建实录</title>
+    <title>HSP GRUPPE用AI重构税务咨询</title>
     <link>https://openai.com/index/hsp-gruppe</link>
-    <guid isPermaLink="false">openai.com/index/hsp-gruppe-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>垂直领域落地案例，展示AI改造专业服务路径。（官方 · OpenAI · 原题 How HSP GRUPPE builds AI capabilities for tax advisory）</description>
+    <guid isPermaLink="false">openai.com/index/hsp-gruppe-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>垂直行业落地案例，验证AI商业化可行性。（官方 · OpenAI · 原题 How HSP GRUPPE builds AI capabilities for tax advisory）</description>
   </item>
   <item>
-    <title>OpenAI误攻Hugging Face：完整时间线梳理</title>
-    <link>https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/7/openai-timeline-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>事件细节补全，供安全团队对照排查自身漏洞。（博客 · Simon Willison + Hacker News · 原题 Now we have a timeline of the OpenAI accidental attack against Hugging Face）</description>
-  </item>
-  <item>
-    <title>TutorMoments：AI导师该何时出手与收手</title>
+    <title>TutorMoments：AI导师何时该出手</title>
     <link>https://huggingface.co/blog/allenai/tutormoments</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/tutormoments-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>教育AI关键问题，数据驱动回答干预时机。（博客 · Hugging Face · 原题 TutorMoments: Do AI tutors know when to help and when to hold back?）</description>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/tutormoments-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>教学时机研究直击智能辅导核心瓶颈。（博客 · Hugging Face · 原题 TutorMoments: Do AI tutors know when to help and when to hold back?）</description>
   </item>
   <item>
-    <title>Anthropic强化Fable 5生物安全防护</title>
-    <link>https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards</link>
-    <guid isPermaLink="false">anthropic.com/news/improving-fable-5-s-biology-safeguards-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>前沿模型安全迭代，生物风险管控成硬指标。（官方 · Anthropic · 原题 Improving Fable 5's biology safeguards）</description>
+    <title>agency-agents：一站式AI代理全家桶</title>
+    <link>https://github.com/msitarzewski/agency-agents</link>
+    <guid isPermaLink="false">github.com/msitarzewski/agency-agents-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>多角色代理集成，降低自动化部署门槛。（开源 · GitHub · 原题 msitarzewski/agency-agents）</description>
   </item>
   <item>
-    <title>Anthropic CEO忧新员工只向钱看</title>
-    <link>https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html</link>
-    <guid isPermaLink="false">finance.yahoo.com/technology/ai/articles/anthropic-ceo-reportedly-worried-hires-160000647.html-2026-08-09</guid>
-    <pubDate>Sun, 09 Aug 2026 00:47:41 GMT</pubDate>
-    <description>人才动机失衡信号，或影响AI公司长期创新。（社区 · Hacker News · 原题 Anthropic CEO reportedly worried new hires only care about money）</description>
+    <title>社交媒体兔子洞与随机游走混合时间</title>
+    <link>https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html</link>
+    <guid isPermaLink="false">notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html-2026-08-10</guid>
+    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
+    <description>数学视角解构信息流陷阱，内容推荐新思路。（社区 · Lobste.rs · 原题 social media rabbit holes, clusters, and the relative mixing times of random walks）</description>
   </item>
 </channel>
 </rss>
