@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 10 Aug 2026 00:50:45 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 00:49:54 GMT</lastBuildDate>
   <item>
-    <title>Prime Agent：自进化编码智能体开源</title>
+    <title>Prime-Agent：自改进编码代理开源</title>
     <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
-    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>自改进RLM直击长时任务痛点，工程落地价值高。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
+    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>自改进RLM代理直击长时自主编码痛点，值得实测其迭代效率。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
   </item>
   <item>
-    <title>我用LLM攻克复杂学科的实战法</title>
-    <link>https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/</link>
-    <guid isPermaLink="false">laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>学习路径方法论可复制，提升个人技术成长效率。（社区 · Hacker News · 原题 How I use LLMs to learn complex topics）</description>
+    <title>探秘Claude数学能力边界</title>
+    <link>https://www.anthropic.com/research/riemann-zeta</link>
+    <guid isPermaLink="false">anthropic.com/research/riemann-zeta-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>社区实测揭示模型推理短板，为选型与提示设计提供一手参考。（社区 · Hacker News · 原题 Learning more about Claude's mathematical capabilities）</description>
   </item>
   <item>
-    <title>Claude Opus 5系统提示词全文曝光</title>
-    <link>https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>顶级模型提示设计细节，直接启发你的工程调优。（博客 · Simon Willison · 原题 Quoting Claude Opus 5 system prompt）</description>
+    <title>OpenAI亲述AI原生财务转型</title>
+    <link>https://openai.com/index/building-an-ai-native-finance-function</link>
+    <guid isPermaLink="false">openai.com/index/building-an-ai-native-finance-function-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>官方实战复盘，财务数字化路径可复制，含金量高于泛泛趋势文。（官方 · OpenAI · 原题 What building an AI-native finance function taught me）</description>
   </item>
   <item>
-    <title>Claude Code默认开启Auto模式</title>
-    <link>https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/8/auto-mode-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>默认行为变更影响自动化流程，需及时适配。（博客 · Simon Willison · 原题 Auto mode is now the default in Claude Code for Pro, Max, and Team plans）</description>
+    <title>OpenAI致德州州长：AI基建责任书</title>
+    <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
+    <guid isPermaLink="false">openai.com/index/responsible-ai-infrastructure-texas-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>政策风向标，影响算力布局与监管预期，从业者需读懂弦外之音。（官方 · OpenAI + Hacker News · 原题 OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas）</description>
   </item>
   <item>
-    <title>OpenAI误击Hugging Face时间线梳理</title>
-    <link>https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>事故复盘厘清责任边界，安全运维必读。（博客 · Simon Willison · 原题 Now we have a timeline of the OpenAI accidental attack against Hugging Face）</description>
+    <title>GPT-5.6 Sol加速财务自动化</title>
+    <link>https://openai.com/index/model-ml</link>
+    <guid isPermaLink="false">openai.com/index/model-ml-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>模型垂直能力升级，直接关联财务岗位效率重构，值得关注落地案例。（官方 · OpenAI · 原题 Model ML completes finance work more efficiently with GPT-5.6 Sol）</description>
   </item>
   <item>
-    <title>OpenAI回应关键网络防御新前沿</title>
-    <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
-    <guid isPermaLink="false">openai.com/index/responding-next-frontier-critical-cyber-capabilities-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>官方战略定调，指引安全领域投入方向。（官方 · OpenAI · 原题 Responding to the next frontier of critical cyber capabilities）</description>
+    <title>谷歌营销AI工具再进化</title>
+    <link>https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</link>
+    <guid isPermaLink="false">blog.google/products/ads-commerce/google-ads-analytics-ai-updates-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>官方工具迭代，营销自动化门槛降低，实操者应评估迁移成本。（官方 · Google AI · 原题 Evolve your marketing with new AI tools）</description>
   </item>
   <item>
-    <title>HSP GRUPPE用AI重构税务咨询</title>
-    <link>https://openai.com/index/hsp-gruppe</link>
-    <guid isPermaLink="false">openai.com/index/hsp-gruppe-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>垂直行业落地案例，验证AI商业化可行性。（官方 · OpenAI · 原题 How HSP GRUPPE builds AI capabilities for tax advisory）</description>
+    <title>NVIDIA Magpie TTS：低延迟语音代理</title>
+    <link>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>开源权重加全栈控制，多语言语音代理部署成本骤降，工程团队必读。（博客 · Hugging Face · 原题 Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS）</description>
   </item>
   <item>
-    <title>TutorMoments：AI导师何时该出手</title>
-    <link>https://huggingface.co/blog/allenai/tutormoments</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/tutormoments-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>教学时机研究直击智能辅导核心瓶颈。（博客 · Hugging Face · 原题 TutorMoments: Do AI tutors know when to help and when to hold back?）</description>
+    <title>知识蒸馏规模化降本新法</title>
+    <link>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</link>
+    <guid isPermaLink="false">huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>蒸馏成本瓶颈突破，小模型部署更经济，直接影响推理预算规划。（博客 · Hugging Face · 原题 Making Knowledge Distillation Cheap Enough to Run at Scale）</description>
   </item>
   <item>
-    <title>agency-agents：一站式AI代理全家桶</title>
-    <link>https://github.com/msitarzewski/agency-agents</link>
-    <guid isPermaLink="false">github.com/msitarzewski/agency-agents-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>多角色代理集成，降低自动化部署门槛。（开源 · GitHub · 原题 msitarzewski/agency-agents）</description>
+    <title>语音驱动谋杀谜案：AI审讯体验</title>
+    <link>https://www.whodunnitai.com/</link>
+    <guid isPermaLink="false">whodunnitai.com-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>交互范式创新，语音Agent在娱乐场景的落地样本，产品经理可借鉴。（社区 · Hacker News · 原题 Show HN: Voice driven murder mystery, Interview AI suspects with your voice）</description>
   </item>
   <item>
-    <title>社交媒体兔子洞与随机游走混合时间</title>
-    <link>https://notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html</link>
-    <guid isPermaLink="false">notes.hella.cheap/twitter-isnt-a-town-square-its-a-high-school-cafeteria.html-2026-08-10</guid>
-    <pubDate>Mon, 10 Aug 2026 00:50:45 GMT</pubDate>
-    <description>数学视角解构信息流陷阱，内容推荐新思路。（社区 · Lobste.rs · 原题 social media rabbit holes, clusters, and the relative mixing times of random walks）</description>
+    <title>Needle2：14MB端侧智能体</title>
+    <link>https://cactuscompute.com/needle</link>
+    <guid isPermaLink="false">cactuscompute.com/needle-2026-08-11</guid>
+    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
+    <description>超小体积LLM适配多端，边缘计算潜力大，硬件与IoT开发者重点关注。（社区 · Hacker News · 原题 Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots）</description>
   </item>
 </channel>
 </rss>
