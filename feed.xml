@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 11 Aug 2026 00:49:54 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 00:56:24 GMT</lastBuildDate>
   <item>
-    <title>Prime-Agent：自改进编码代理开源</title>
+    <title>Prime Agent：自进化编码智能体开源</title>
     <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
-    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>自改进RLM代理直击长时自主编码痛点，值得实测其迭代效率。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
+    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>自改进RLM智能体直击长时程编码任务，工程落地价值高。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
   </item>
   <item>
-    <title>探秘Claude数学能力边界</title>
-    <link>https://www.anthropic.com/research/riemann-zeta</link>
-    <guid isPermaLink="false">anthropic.com/research/riemann-zeta-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>社区实测揭示模型推理短板，为选型与提示设计提供一手参考。（社区 · Hacker News · 原题 Learning more about Claude's mathematical capabilities）</description>
+    <title>压缩即预测：数据压缩的AI本质</title>
+    <link>https://ngrok.com/blog/compression-is-prediction</link>
+    <guid isPermaLink="false">ngrok.com/blog/compression-is-prediction-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>从信息论切入理解模型原理，对算法选型有启发。（社区 · Lobste.rs · 原题 Compression is prediction）</description>
   </item>
   <item>
-    <title>OpenAI亲述AI原生财务转型</title>
-    <link>https://openai.com/index/building-an-ai-native-finance-function</link>
-    <guid isPermaLink="false">openai.com/index/building-an-ai-native-finance-function-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>官方实战复盘，财务数字化路径可复制，含金量高于泛泛趋势文。（官方 · OpenAI · 原题 What building an AI-native finance function taught me）</description>
+    <title>Agency Agents：一站式AI代理工具集</title>
+    <link>https://github.com/msitarzewski/agency-agents</link>
+    <guid isPermaLink="false">github.com/msitarzewski/agency-agents-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>覆盖前端到社区运营的完整代理方案，降低多场景集成成本。（开源 · GitHub · 原题 msitarzewski/agency-agents）</description>
   </item>
   <item>
-    <title>OpenAI致德州州长：AI基建责任书</title>
-    <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
-    <guid isPermaLink="false">openai.com/index/responsible-ai-infrastructure-texas-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>政策风向标，影响算力布局与监管预期，从业者需读懂弦外之音。（官方 · OpenAI + Hacker News · 原题 OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas）</description>
+    <title>OpenAI伦理负责人上任不足一年离职</title>
+    <link>https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0</link>
+    <guid isPermaLink="false">ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>核心人事变动预示治理方向调整，影响行业合规预期。（社区 · Hacker News · 原题 OpenAI’s head of ethics leaves less than a year after joining）</description>
   </item>
   <item>
-    <title>GPT-5.6 Sol加速财务自动化</title>
-    <link>https://openai.com/index/model-ml</link>
-    <guid isPermaLink="false">openai.com/index/model-ml-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>模型垂直能力升级，直接关联财务岗位效率重构，值得关注落地案例。（官方 · OpenAI · 原题 Model ML completes finance work more efficiently with GPT-5.6 Sol）</description>
+    <title>AMIE医疗AI实现实时临床视频问诊</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>首个临床视频对话研究，医疗AI落地路径再进一步。（官方 · Google AI · 原题 AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.）</description>
   </item>
   <item>
-    <title>谷歌营销AI工具再进化</title>
-    <link>https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</link>
-    <guid isPermaLink="false">blog.google/products/ads-commerce/google-ads-analytics-ai-updates-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>官方工具迭代，营销自动化门槛降低，实操者应评估迁移成本。（官方 · Google AI · 原题 Evolve your marketing with new AI tools）</description>
+    <title>ChatGPT开始测试广告展示</title>
+    <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+    <guid isPermaLink="false">openai.com/index/testing-ads-in-chatgpt-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>商业化关键试探，直接影响用户与开发者生态。（官方 · OpenAI · 原题 Testing ads in ChatGPT）</description>
   </item>
   <item>
-    <title>NVIDIA Magpie TTS：低延迟语音代理</title>
-    <link>https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>开源权重加全栈控制，多语言语音代理部署成本骤降，工程团队必读。（博客 · Hugging Face · 原题 Build Low-Latency Multilingual Voice Agents: Open Weights &amp; Full Deployment Control with NVIDIA Magpie TTS）</description>
+    <title>Daybreak模型登陆AWS云服务</title>
+    <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
+    <guid isPermaLink="false">openai.com/index/daybreak-models-are-now-available-on-aws-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>官方模型上主流云平台，企业部署门槛显著降低。（官方 · OpenAI · 原题 Daybreak models are now available on AWS）</description>
   </item>
   <item>
-    <title>知识蒸馏规模化降本新法</title>
-    <link>https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation</link>
-    <guid isPermaLink="false">huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>蒸馏成本瓶颈突破，小模型部署更经济，直接影响推理预算规划。（博客 · Hugging Face · 原题 Making Knowledge Distillation Cheap Enough to Run at Scale）</description>
+    <title>Semantica：图原生AI上下文基础设施</title>
+    <link>https://github.com/semantica-agi/semantica</link>
+    <guid isPermaLink="false">github.com/semantica-agi/semantica-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>图结构管理上下文与可审计性，面向企业级可信AI。（开源 · GitHub · 原题 semantica-agi/semantica）</description>
   </item>
   <item>
-    <title>语音驱动谋杀谜案：AI审讯体验</title>
-    <link>https://www.whodunnitai.com/</link>
-    <guid isPermaLink="false">whodunnitai.com-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>交互范式创新，语音Agent在娱乐场景的落地样本，产品经理可借鉴。（社区 · Hacker News · 原题 Show HN: Voice driven murder mystery, Interview AI suspects with your voice）</description>
+    <title>从专有LLM API窃取推理轨迹</title>
+    <link>https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/11/stealing-reasoning-traces-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>揭示推理泄露风险，对安全审计与模型防护有实操参考。（博客 · Simon Willison · 原题 Stealing Reasoning Traces from Proprietary LLM APIs）</description>
   </item>
   <item>
-    <title>Needle2：14MB端侧智能体</title>
-    <link>https://cactuscompute.com/needle</link>
-    <guid isPermaLink="false">cactuscompute.com/needle-2026-08-11</guid>
-    <pubDate>Tue, 11 Aug 2026 00:49:54 GMT</pubDate>
-    <description>超小体积LLM适配多端，边缘计算潜力大，硬件与IoT开发者重点关注。（社区 · Hacker News · 原题 Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots）</description>
+    <title>ACE思考：用更少Token实现同等效果</title>
+    <link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-research/altk-evolve-sldd-2026-08-12</guid>
+    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
+    <description>Token效率优化方法，直接降低推理成本，性价比关键。（博客 · Hugging Face · 原题 Thinking of ACE? We Can Do It with Fewer Tokens）</description>
   </item>
 </channel>
 </rss>
