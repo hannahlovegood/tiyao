@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 12 Aug 2026 00:56:24 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 00:58:03 GMT</lastBuildDate>
   <item>
-    <title>Prime Agent：自进化编码智能体开源</title>
-    <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
-    <guid isPermaLink="false">github.com/PrimeIntellect-ai/prime-agent-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>自改进RLM智能体直击长时程编码任务，工程落地价值高。（开源 · GitHub · 原题 PrimeIntellect-ai/prime-agent）</description>
+    <title>Claude Code 新增 29 种图表模板，告别 Mermaid 俗套</title>
+    <link>https://github.com/cathrynlavery/diagram-design</link>
+    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>直接提升 AI 生成图表的专业度，适合需要高质量可视化的开发者。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
   </item>
   <item>
-    <title>压缩即预测：数据压缩的AI本质</title>
-    <link>https://ngrok.com/blog/compression-is-prediction</link>
-    <guid isPermaLink="false">ngrok.com/blog/compression-is-prediction-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>从信息论切入理解模型原理，对算法选型有启发。（社区 · Lobste.rs · 原题 Compression is prediction）</description>
+    <title>有人伪装 ClaudeBot 等 AI 爬虫，发起大规模漏洞扫描</title>
+    <link>https://knownagents.com/insights</link>
+    <guid isPermaLink="false">knownagents.com/insights-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>揭示 AI 爬虫身份验证漏洞，影响所有依赖 UA 过滤的站点安全。（社区 · Hacker News · 原题 Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot）</description>
   </item>
   <item>
-    <title>Agency Agents：一站式AI代理工具集</title>
-    <link>https://github.com/msitarzewski/agency-agents</link>
-    <guid isPermaLink="false">github.com/msitarzewski/agency-agents-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>覆盖前端到社区运营的完整代理方案，降低多场景集成成本。（开源 · GitHub · 原题 msitarzewski/agency-agents）</description>
+    <title>DeepMind 将手语 AI 交到用户手中</title>
+    <link>https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/</link>
+    <guid isPermaLink="false">deepmind.google/blog/putting-sign-language-ai-into-users-hands-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>手语识别落地真实场景，关注多模态 AI 的实用化进展。（官方 · DeepMind · 原题 Putting sign language AI into users’ hands）</description>
   </item>
   <item>
-    <title>OpenAI伦理负责人上任不足一年离职</title>
-    <link>https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0</link>
-    <guid isPermaLink="false">ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>核心人事变动预示治理方向调整，影响行业合规预期。（社区 · Hacker News · 原题 OpenAI’s head of ethics leaves less than a year after joining）</description>
+    <title>OpenAI：企业 AI 从辅助走向执行</title>
+    <link>https://openai.com/index/how-enterprises-put-ai-to-work</link>
+    <guid isPermaLink="false">openai.com/index/how-enterprises-put-ai-to-work-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>明确企业级 AI 应用趋势，为技术选型和战略规划提供参考。（官方 · OpenAI · 原题 From assistance to execution: How enterprises put AI to work）</description>
   </item>
   <item>
-    <title>AMIE医疗AI实现实时临床视频问诊</title>
+    <title>DeepSeek V4 Pro 0813 现身 OpenRouter</title>
+    <link>https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>新模型版本上线，性能与价格变化直接影响 API 调用决策。（博客 · Simon Willison · 原题 DeepSeek V4 Pro 0813 (on OpenRouter)）</description>
+  </item>
+  <item>
+    <title>OlmoEarth 推出自定义嵌入导出，支持下游分析</title>
+    <link>https://huggingface.co/blog/allenai/olmoearth-embeddings</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/olmoearth-embeddings-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>嵌入定制化能力增强，对地理空间数据建模与检索有实际价值。（博客 · Hugging Face · 原题 Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis）</description>
+  </item>
+  <item>
+    <title>RingCentral 如何构建 AI 原生工程到运维体系</title>
+    <link>https://openai.com/index/ringcentral</link>
+    <guid isPermaLink="false">openai.com/index/ringcentral-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>真实企业案例，展示 AI 落地全链路，值得工程团队借鉴。（官方 · OpenAI · 原题 How RingCentral builds AI-native work from engineering to ops）</description>
+  </item>
+  <item>
+    <title>LFM2.5-VL-3B：边缘端更小更快的视觉模型</title>
+    <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b</link>
+    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm2-5-vl-3b-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>3B 参数视觉模型兼顾速度与精度，适合边缘部署场景。（博客 · Hugging Face · 原题 LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge）</description>
+  </item>
+  <item>
+    <title>AMIE 首次实现实时临床视频问诊</title>
     <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>首个临床视频对话研究，医疗AI落地路径再进一步。（官方 · Google AI · 原题 AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>医疗 AI 突破性验证，对远程诊疗和临床决策支持有里程碑意义。（官方 · Google AI · 原题 AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.）</description>
   </item>
   <item>
-    <title>ChatGPT开始测试广告展示</title>
+    <title>ChatGPT 开始测试广告</title>
     <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-    <guid isPermaLink="false">openai.com/index/testing-ads-in-chatgpt-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>商业化关键试探，直接影响用户与开发者生态。（官方 · OpenAI · 原题 Testing ads in ChatGPT）</description>
-  </item>
-  <item>
-    <title>Daybreak模型登陆AWS云服务</title>
-    <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
-    <guid isPermaLink="false">openai.com/index/daybreak-models-are-now-available-on-aws-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>官方模型上主流云平台，企业部署门槛显著降低。（官方 · OpenAI · 原题 Daybreak models are now available on AWS）</description>
-  </item>
-  <item>
-    <title>Semantica：图原生AI上下文基础设施</title>
-    <link>https://github.com/semantica-agi/semantica</link>
-    <guid isPermaLink="false">github.com/semantica-agi/semantica-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>图结构管理上下文与可审计性，面向企业级可信AI。（开源 · GitHub · 原题 semantica-agi/semantica）</description>
-  </item>
-  <item>
-    <title>从专有LLM API窃取推理轨迹</title>
-    <link>https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/11/stealing-reasoning-traces-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>揭示推理泄露风险，对安全审计与模型防护有实操参考。（博客 · Simon Willison · 原题 Stealing Reasoning Traces from Proprietary LLM APIs）</description>
-  </item>
-  <item>
-    <title>ACE思考：用更少Token实现同等效果</title>
-    <link>https://huggingface.co/blog/ibm-research/altk-evolve-sldd</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-research/altk-evolve-sldd-2026-08-12</guid>
-    <pubDate>Wed, 12 Aug 2026 00:56:24 GMT</pubDate>
-    <description>Token效率优化方法，直接降低推理成本，性价比关键。（博客 · Hugging Face · 原题 Thinking of ACE? We Can Do It with Fewer Tokens）</description>
+    <guid isPermaLink="false">openai.com/index/testing-ads-in-chatgpt-2026-08-13</guid>
+    <pubDate>Thu, 13 Aug 2026 00:58:03 GMT</pubDate>
+    <description>商业化关键动向，直接影响用户体验与 AI 产品盈利模式。（官方 · OpenAI · 原题 Testing ads in ChatGPT）</description>
   </item>
 </channel>
 </rss>
