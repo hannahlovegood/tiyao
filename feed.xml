@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 14 Aug 2026 00:57:43 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 00:33:56 GMT</lastBuildDate>
   <item>
-    <title>Claude Code 编辑器图表设计：29 种无阴影 HTML/SVG 模板</title>
+    <title>Claude Code 推出 29 种编辑级图表，告别 Mermaid 俗套</title>
     <link>https://github.com/cathrynlavery/diagram-design</link>
-    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>开源模板直击 Mermaid 痛点，适合需要高质量图表输出的开发者。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
+    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>自包含 HTML+SVG，直接提升 AI 生成文档的视觉专业度。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
   </item>
   <item>
-    <title>Gemini 3.7 Flash 发布，社区热议性能与速度</title>
-    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>官方与社区同步发声，Flash 系列定位轻量高性价比，值得关注。（社区 · Hacker News · 原题 Gemini 3.7 Flash）</description>
+    <title>Anthropic 详解 Claude 文本水印技术原理</title>
+    <link>https://www.anthropic.com/news/claude-text-watermark</link>
+    <guid isPermaLink="false">anthropic.com/news/claude-text-watermark-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>官方首次披露机制，关乎 AI 内容溯源与安全合规。（官方 · Anthropic + Hacker News · 原题 How Claude’s text watermark works）</description>
   </item>
   <item>
-    <title>Gemini 3.7 Flash 官方详解：能力与适用场景</title>
+    <title>DeepMind 发布 Gemini 3.7 Flash</title>
     <link>https://deepmind.google/blog/introducing-gemini-3-7-flash/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-3-7-flash-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>DeepMind 官方文档明确模型边界，是选型与调优的第一手依据。（官方 · DeepMind · 原题 Introducing Gemini 3.7 Flash）</description>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-3-7-flash-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>新一代轻量模型，性能与速度平衡点值得实测对比。（官方 · DeepMind · 原题 Introducing Gemini 3.7 Flash）</description>
   </item>
   <item>
-    <title>Google Sheets 画布功能：让数据可视化更直观</title>
+    <title>Google Sheets 画布功能让数据可视化更直观</title>
     <link>https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>官方功能升级直接提升日常数据工作流效率，办公族必读。（官方 · Google AI · 原题 Bring your spreadsheet data to life with Sheets canvas）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>官方新交互，降低表格到图表的工作流摩擦。（官方 · Google AI · 原题 Bring your spreadsheet data to life with Sheets canvas）</description>
   </item>
   <item>
-    <title>GPT-5.6 构建者指南：从原型到生产的完整路径</title>
+    <title>OpenAI 发布 GPT-5.6 开发者构建指南</title>
     <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
-    <guid isPermaLink="false">openai.com/index/builders-guide-to-gpt-5-6-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>OpenAI 官方指南覆盖工程实践，是开发者上手新模型的核心参考。（官方 · OpenAI · 原题 The builder’s guide to GPT‑5.6）</description>
+    <guid isPermaLink="false">openai.com/index/builders-guide-to-gpt-5-6-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>官方权威指引，直接影响 API 集成与产品设计决策。（官方 · OpenAI · 原题 The builder’s guide to GPT‑5.6）</description>
   </item>
   <item>
-    <title>GPT-5.6 Sol 超快模式预览：速度提升 14 倍</title>
+    <title>GPT-5.6 Sol 超快模式预览，速度提升 14 倍</title>
     <link>https://openai.com/index/previewing-ultrafast</link>
-    <guid isPermaLink="false">openai.com/index/previewing-ultrafast-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>速度跃升直接影响推理成本与实时应用，性能敏感场景需评估。（官方 · OpenAI + Hacker News · 原题 Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed）</description>
+    <guid isPermaLink="false">openai.com/index/previewing-ultrafast-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>速度跃升或改变实时应用场景，需评估延迟与成本。（官方 · OpenAI · 原题 Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed）</description>
   </item>
   <item>
     <title>OpenAI 任命 Dali Rajic 为首席营收官</title>
     <link>https://openai.com/index/dali-rajic-chief-revenue-officer</link>
-    <guid isPermaLink="false">openai.com/index/dali-rajic-chief-revenue-officer-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>高管变动预示商业化战略调整，影响企业客户与定价走向。（官方 · OpenAI · 原题 OpenAI appoints Dali Rajic as Chief Revenue Officer）</description>
+    <guid isPermaLink="false">openai.com/index/dali-rajic-chief-revenue-officer-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>高管变动预示商业化策略调整，影响企业合作方向。（官方 · OpenAI · 原题 OpenAI appoints Dali Rajic as Chief Revenue Officer）</description>
   </item>
   <item>
-    <title>Strands Agents + LeRobot + 存储桶：一站式机器人开发</title>
+    <title>Hugging Face 发布 2026 夏开源模型观察报告</title>
+    <link>https://huggingface.co/blog/state-of-open-models-summer-2026</link>
+    <guid isPermaLink="false">huggingface.co/blog/state-of-open-models-summer-2026-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>开源生态季度盘点，掌握模型能力与社区趋势关键数据。（博客 · Hugging Face · 原题 State of Open Models: Summer 2026 Observations）</description>
+  </item>
+  <item>
+    <title>Hacker News 热议 Gemini 3.7 Flash 实战表现</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>社区真实反馈，补充官方宣传外的性能与缺陷信息。（社区 · Hacker News · 原题 Gemini 3.7 Flash）</description>
+  </item>
+  <item>
+    <title>Strands Agents 与 LeRobot 集成，一站式训练部署</title>
     <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
-    <guid isPermaLink="false">huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>三工具整合打通数据到部署链路，机器人开发者可降本增效。（博客 · Hugging Face · 原题 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets）</description>
-  </item>
-  <item>
-    <title>复现 2200 篇 ICML 论文：经验与教训总结</title>
-    <link>https://huggingface.co/blog/icml-2026-open-reproductions</link>
-    <guid isPermaLink="false">huggingface.co/blog/icml-2026-open-reproductions-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>大规模复现实验揭示论文可复现性真相，研究者和工程师均受益。（博客 · Hugging Face · 原题 What We Learned by Reproducing 2,200 papers from ICML）</description>
-  </item>
-  <item>
-    <title>DeepMind 将手语 AI 交到用户手中</title>
-    <link>https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/</link>
-    <guid isPermaLink="false">deepmind.google/blog/putting-sign-language-ai-into-users-hands-2026-08-14</guid>
-    <pubDate>Fri, 14 Aug 2026 00:57:43 GMT</pubDate>
-    <description>手语 AI 落地应用关乎无障碍技术进展，社会价值与商业潜力并存。（官方 · DeepMind · 原题 Putting sign language AI into users’ hands）</description>
+    <guid isPermaLink="false">huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop-2026-08-15</guid>
+    <pubDate>Sat, 15 Aug 2026 00:33:56 GMT</pubDate>
+    <description>机器人学习工具链打通，降低从数据到落地的门槛。（博客 · Hugging Face · 原题 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets）</description>
   </item>
 </channel>
 </rss>
