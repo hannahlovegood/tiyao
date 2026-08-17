@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 16 Aug 2026 00:35:10 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 00:33:22 GMT</lastBuildDate>
   <item>
-    <title>Claude Code 新增 29 种编辑图表，纯 HTML 无阴影</title>
-    <link>https://github.com/cathrynlavery/diagram-design</link>
-    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>直接提升 AI 生成图表的审美与可用性，避开 Mermaid 俗套。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
+    <title>Unsloth 本地 UI：一键训练与运行大模型</title>
+    <link>https://github.com/unslothai/unsloth</link>
+    <guid isPermaLink="false">github.com/unslothai/unsloth-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>覆盖 Qwen、Kimi、DeepSeek 等主流模型，本地训练门槛再降，值得上手。（开源 · GitHub · 原题 unslothai/unsloth）</description>
   </item>
   <item>
-    <title>Anthropic 详解 Claude 文本水印技术原理</title>
-    <link>https://www.anthropic.com/news/claude-text-watermark</link>
-    <guid isPermaLink="false">anthropic.com/news/claude-text-watermark-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>官方披露检测机制，关乎内容溯源与合规，从业者必读。（官方 · Anthropic + Hacker News · 原题 How Claude’s text watermark works）</description>
+    <title>Claude 系统提示词全文公开</title>
+    <link>https://platform.claude.com/docs/en/release-notes/system-prompts</link>
+    <guid isPermaLink="false">platform.claude.com/docs/en/release-notes/system-prompts-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>直接拆解顶级模型行为设计，对提示工程与产品调校有直接参考价值。（社区 · Hacker News · 原题 Claude: System Prompts）</description>
   </item>
   <item>
-    <title>潜在推理模型是否易于解释？社区激辩</title>
+    <title>Qwen 3.8 27B 优秀但过度思考</title>
+    <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/16/qwen-38-27b-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>指出新模型推理冗余问题，对选型与成本控制有实际警示意义。（博客 · Simon Willison · 原题 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things）</description>
+  </item>
+  <item>
+    <title>潜在推理模型是否可解释？</title>
     <link>https://arxiv.org/abs/2604.04902</link>
-    <guid isPermaLink="false">arxiv.org/abs/2604.04902-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>直击可解释性痛点，影响模型选型与安全评估决策。（社区 · Lobste.rs · 原题 Are Latent Reasoning Models Easily Interpretable?）</description>
+    <guid isPermaLink="false">arxiv.org/abs/2604.04902-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>触及推理模型黑箱核心，对安全与调试方向有启发，值得深读。（社区 · Lobste.rs · 原题 Are Latent Reasoning Models Easily Interpretable?）</description>
   </item>
   <item>
-    <title>DeepMind 发布 Gemini 3.7 Flash</title>
-    <link>https://deepmind.google/blog/introducing-gemini-3-7-flash/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-3-7-flash-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>新模型迭代，性能与速度平衡点值得实测对比。（官方 · DeepMind · 原题 Introducing Gemini 3.7 Flash）</description>
+    <title>多智能体系统的模式与问题</title>
+    <link>https://www.anthropic.com/research/multiagent-systems</link>
+    <guid isPermaLink="false">anthropic.com/research/multiagent-systems-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>梳理新兴架构共性缺陷，对系统设计与稳定性评估有实操价值。（社区 · Hacker News · 原题 Patterns and problems in emerging multi-agent systems）</description>
   </item>
   <item>
-    <title>Google Sheets 画布功能让数据活起来</title>
-    <link>https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>办公场景 AI 化落地，改变数据呈现与协作方式。（官方 · Google AI · 原题 Bring your spreadsheet data to life with Sheets canvas）</description>
+    <title>Claude 水印篡改文本引争议</title>
+    <link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
+    <guid isPermaLink="false">daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>讨论生成内容完整性伦理，对内容合规与产品信任度有直接影响。（社区 · Hacker News · 原题 Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing）</description>
   </item>
   <item>
-    <title>OpenAI 发布 GPT-5.6 构建者指南</title>
-    <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
-    <guid isPermaLink="false">openai.com/index/builders-guide-to-gpt-5-6-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>官方最佳实践，直接降低应用开发踩坑成本。（官方 · OpenAI · 原题 The builder’s guide to GPT‑5.6）</description>
+    <title>DreamX-Phi：动作条件视频世界模型</title>
+    <link>https://huggingface.co/papers/2608.13489</link>
+    <guid isPermaLink="false">huggingface.co/papers/2608.13489-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>机器人操作新范式，视频预测与动作控制结合，研究价值高。（论文 · HF Papers · 原题 DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation）</description>
   </item>
   <item>
-    <title>GPT-5.6 Sol 超快模式，速度提升 14 倍</title>
-    <link>https://openai.com/index/previewing-ultrafast</link>
-    <guid isPermaLink="false">openai.com/index/previewing-ultrafast-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>延迟敏感型应用福音，需评估质量与速度取舍。（官方 · OpenAI · 原题 Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed）</description>
+    <title>AutoDesign：长程智能体设计优化</title>
+    <link>https://huggingface.co/papers/2608.13560</link>
+    <guid isPermaLink="false">huggingface.co/papers/2608.13560-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>元级优化设计流程，对复杂任务智能体开发效率提升有借鉴。（论文 · HF Papers · 原题 AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design）</description>
   </item>
   <item>
-    <title>OpenAI 任命 Dali Rajic 为首席营收官</title>
-    <link>https://openai.com/index/dali-rajic-chief-revenue-officer</link>
-    <guid isPermaLink="false">openai.com/index/dali-rajic-chief-revenue-officer-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>商业化关键人事，预示企业级市场战略转向。（官方 · OpenAI · 原题 OpenAI appoints Dali Rajic as Chief Revenue Officer）</description>
+    <title>空间记忆智能体：经验驱动的空间智能</title>
+    <link>https://huggingface.co/papers/2608.12743</link>
+    <guid isPermaLink="false">huggingface.co/papers/2608.12743-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>将经验固化为程序记忆，为空间导航与操作任务提供新思路。（论文 · HF Papers · 原题 Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence）</description>
   </item>
   <item>
-    <title>Hugging Face 发布 2026 夏开源模型观察</title>
-    <link>https://huggingface.co/blog/state-of-open-models-summer-2026</link>
-    <guid isPermaLink="false">huggingface.co/blog/state-of-open-models-summer-2026-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>开源生态全景扫描，助你把握模型选型与趋势。（博客 · Hugging Face · 原题 State of Open Models: Summer 2026 Observations）</description>
-  </item>
-  <item>
-    <title>Strands Agents 与 LeRobot 集成，一站式部署</title>
-    <link>https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop</link>
-    <guid isPermaLink="false">huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop-2026-08-16</guid>
-    <pubDate>Sun, 16 Aug 2026 00:35:10 GMT</pubDate>
-    <description>打通记录到部署链路，简化机器人 AI 工作流。（博客 · Hugging Face · 原题 Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets）</description>
+    <title>ToolJet 开源：企业级内部工具生成平台</title>
+    <link>https://github.com/ToolJet/ToolJet</link>
+    <guid isPermaLink="false">github.com/ToolJet/ToolJet-2026-08-17</guid>
+    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
+    <description>开源基础版可快速搭建内部应用，对团队提效与成本控制有直接帮助。（开源 · GitHub · 原题 ToolJet/ToolJet）</description>
   </item>
 </channel>
 </rss>
