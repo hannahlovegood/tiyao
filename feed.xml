@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 17 Aug 2026 00:33:22 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 00:33:29 GMT</lastBuildDate>
   <item>
-    <title>Unsloth 本地 UI：一键训练与运行大模型</title>
-    <link>https://github.com/unslothai/unsloth</link>
-    <guid isPermaLink="false">github.com/unslothai/unsloth-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>覆盖 Qwen、Kimi、DeepSeek 等主流模型，本地训练门槛再降，值得上手。（开源 · GitHub · 原题 unslothai/unsloth）</description>
+    <title>MoneyPrinterTurbo：一键生成高清短视频的开源神器</title>
+    <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
+    <guid isPermaLink="false">github.com/harry0703/MoneyPrinterTurbo-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>开源项目，直接降低短视频生产门槛，适合内容团队快速落地。（开源 · GitHub · 原题 harry0703/MoneyPrinterTurbo）</description>
   </item>
   <item>
-    <title>Claude 系统提示词全文公开</title>
-    <link>https://platform.claude.com/docs/en/release-notes/system-prompts</link>
-    <guid isPermaLink="false">platform.claude.com/docs/en/release-notes/system-prompts-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>直接拆解顶级模型行为设计，对提示工程与产品调校有直接参考价值。（社区 · Hacker News · 原题 Claude: System Prompts）</description>
+    <title>OpenAI 发布《防御者之窗》安全策略</title>
+    <link>https://openai.com/index/the-defenders-window</link>
+    <guid isPermaLink="false">openai.com/index/the-defenders-window-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>官方安全框架更新，直接影响模型部署与合规决策。（官方 · OpenAI · 原题 The Defender’s Window）</description>
   </item>
   <item>
-    <title>Qwen 3.8 27B 优秀但过度思考</title>
-    <link>https://simonwillison.net/2026/Aug/16/qwen-38-27b/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/16/qwen-38-27b-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>指出新模型推理冗余问题，对选型与成本控制有实际警示意义。（博客 · Simon Willison · 原题 Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things）</description>
+    <title>OpenAI 加入 PORTS-Pike 项目</title>
+    <link>https://openai.com/index/openai-joins-ports-pike-project</link>
+    <guid isPermaLink="false">openai.com/index/openai-joins-ports-pike-project-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>参与国家级基础设施项目，信号意义强，值得关注生态走向。（官方 · OpenAI · 原题 OpenAI joins PORTS-Pike project）</description>
   </item>
   <item>
-    <title>潜在推理模型是否可解释？</title>
-    <link>https://arxiv.org/abs/2604.04902</link>
-    <guid isPermaLink="false">arxiv.org/abs/2604.04902-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>触及推理模型黑箱核心，对安全与调试方向有启发，值得深读。（社区 · Lobste.rs · 原题 Are Latent Reasoning Models Easily Interpretable?）</description>
+    <title>同集群利用率提升 33 点，只因调整顺序</title>
+    <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
+    <guid isPermaLink="false">huggingface.co/blog/Dharma-AI/gpu-management-pt2-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>调度顺序优化带来显著收益，对集群运维有直接参考价值。（博客 · Hugging Face · 原题 Same Cluster, 33 Points More Utilization: What Changed Was the Order）</description>
   </item>
   <item>
-    <title>多智能体系统的模式与问题</title>
-    <link>https://www.anthropic.com/research/multiagent-systems</link>
-    <guid isPermaLink="false">anthropic.com/research/multiagent-systems-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>梳理新兴架构共性缺陷，对系统设计与稳定性评估有实操价值。（社区 · Hacker News · 原题 Patterns and problems in emerging multi-agent systems）</description>
+    <title>Qwen 3.8 27B 在智能指数获 52 分</title>
+    <link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>小参数模型性能亮眼，为低成本部署提供新选择。（博客 · Simon Willison · 原题 Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index）</description>
   </item>
   <item>
-    <title>Claude 水印篡改文本引争议</title>
+    <title>OpenAI 提出智能时代新政策建议</title>
+    <link>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</link>
+    <guid isPermaLink="false">openai.com/index/new-policy-ideas-for-the-intelligence-age-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>政策风向标，影响 AI 监管与产业布局，从业者需跟进。（官方 · OpenAI · 原题 New policy ideas for the Intelligence Age）</description>
+  </item>
+  <item>
+    <title>Gemini 与 Pixel 深度融合，拉近观赛体验</title>
+    <link>https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>端侧 AI 应用落地案例，展示移动场景的实用价值。（官方 · Google AI · 原题 Get closer to the game with Gemini and Pixel）</description>
+  </item>
+  <item>
+    <title>追踪珍本图书，终点竟是亚马逊 AI 训练设施</title>
+    <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>揭露数据来源链条，引发版权与数据伦理深层讨论。（博客 · Simon Willison + Lobste.rs · 原题 We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility）</description>
+  </item>
+  <item>
+    <title>1985 年文章《AI 的局限》至今仍具警示</title>
+    <link>https://www.youtube.com/watch?v=ePsQksj99LM</link>
+    <guid isPermaLink="false">youtube.com/watch-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>历史视角审视当前 AI 热潮，避免重复认知误区。（社区 · Lobste.rs · 原题 The Limits of AI (1985)）</description>
+  </item>
+  <item>
+    <title>Anthropic 在 Claude 中加水印，被批扭曲写作</title>
     <link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
-    <guid isPermaLink="false">daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>讨论生成内容完整性伦理，对内容合规与产品信任度有直接影响。（社区 · Hacker News · 原题 Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing）</description>
-  </item>
-  <item>
-    <title>DreamX-Phi：动作条件视频世界模型</title>
-    <link>https://huggingface.co/papers/2608.13489</link>
-    <guid isPermaLink="false">huggingface.co/papers/2608.13489-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>机器人操作新范式，视频预测与动作控制结合，研究价值高。（论文 · HF Papers · 原题 DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation）</description>
-  </item>
-  <item>
-    <title>AutoDesign：长程智能体设计优化</title>
-    <link>https://huggingface.co/papers/2608.13560</link>
-    <guid isPermaLink="false">huggingface.co/papers/2608.13560-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>元级优化设计流程，对复杂任务智能体开发效率提升有借鉴。（论文 · HF Papers · 原题 AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design）</description>
-  </item>
-  <item>
-    <title>空间记忆智能体：经验驱动的空间智能</title>
-    <link>https://huggingface.co/papers/2608.12743</link>
-    <guid isPermaLink="false">huggingface.co/papers/2608.12743-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>将经验固化为程序记忆，为空间导航与操作任务提供新思路。（论文 · HF Papers · 原题 Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence）</description>
-  </item>
-  <item>
-    <title>ToolJet 开源：企业级内部工具生成平台</title>
-    <link>https://github.com/ToolJet/ToolJet</link>
-    <guid isPermaLink="false">github.com/ToolJet/ToolJet-2026-08-17</guid>
-    <pubDate>Mon, 17 Aug 2026 00:33:22 GMT</pubDate>
-    <description>开源基础版可快速搭建内部应用，对团队提效与成本控制有直接帮助。（开源 · GitHub · 原题 ToolJet/ToolJet）</description>
+    <guid isPermaLink="false">daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing-2026-08-18</guid>
+    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
+    <description>生成内容可追溯性争议，关乎创作者权益与工具信任。（社区 · Hacker News · 原题 Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing）</description>
   </item>
 </channel>
 </rss>
