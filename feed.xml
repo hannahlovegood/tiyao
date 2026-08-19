@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 18 Aug 2026 00:33:29 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 00:33:25 GMT</lastBuildDate>
   <item>
-    <title>MoneyPrinterTurbo：一键生成高清短视频的开源神器</title>
+    <title>一键生成高清短视频：MoneyPrinterTurbo 开源</title>
     <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-    <guid isPermaLink="false">github.com/harry0703/MoneyPrinterTurbo-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>开源项目，直接降低短视频生产门槛，适合内容团队快速落地。（开源 · GitHub · 原题 harry0703/MoneyPrinterTurbo）</description>
+    <guid isPermaLink="false">github.com/harry0703/MoneyPrinterTurbo-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>开源项目，直接可用，降低短视频生产门槛，适合内容创作者快速上手。（开源 · GitHub · 原题 harry0703/MoneyPrinterTurbo）</description>
   </item>
   <item>
-    <title>OpenAI 发布《防御者之窗》安全策略</title>
-    <link>https://openai.com/index/the-defenders-window</link>
-    <guid isPermaLink="false">openai.com/index/the-defenders-window-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>官方安全框架更新，直接影响模型部署与合规决策。（官方 · OpenAI · 原题 The Defender’s Window）</description>
+    <title>OpenAI 强化国家安全民主监督机制</title>
+    <link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
+    <guid isPermaLink="false">openai.com/index/strengthening-democratic-oversight-in-national-security-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>官方表态，关乎 AI 治理走向，从业者需关注政策风向。（官方 · OpenAI · 原题 Strengthening democratic oversight in national security）</description>
   </item>
   <item>
-    <title>OpenAI 加入 PORTS-Pike 项目</title>
-    <link>https://openai.com/index/openai-joins-ports-pike-project</link>
-    <guid isPermaLink="false">openai.com/index/openai-joins-ports-pike-project-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>参与国家级基础设施项目，信号意义强，值得关注生态走向。（官方 · OpenAI · 原题 OpenAI joins PORTS-Pike project）</description>
+    <title>Claude Code 周限额促销：2026 年 5 至 8 月</title>
+    <link>https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion</link>
+    <guid isPermaLink="false">support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>开发者工具优惠，直接影响使用成本，值得提前规划。（社区 · Hacker News · 原题 Claude Code May–August 2026 weekly limits promotion）</description>
   </item>
   <item>
-    <title>同集群利用率提升 33 点，只因调整顺序</title>
+    <title>挪威应收购 OpenAI？社区热议主权 AI</title>
+    <link>https://www.onethousandmeans.com/p/norway-should-buy-openai</link>
+    <guid isPermaLink="false">onethousandmeans.com/p/norway-should-buy-openai-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>探讨国家层面 AI 控制权，对地缘科技战略有启发。（社区 · Hacker News · 原题 Norway should buy OpenAI）</description>
+  </item>
+  <item>
+    <title>OpenAI 携手 CodeAI 培养首批 AI 原生代</title>
+    <link>https://openai.com/index/partnering-with-codeai</link>
+    <guid isPermaLink="false">openai.com/index/partnering-with-codeai-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>教育合作新动向，预示 AI 人才培训市场变革。（官方 · OpenAI · 原题 Partnering with CodeAI to prepare the first AI generation）</description>
+  </item>
+  <item>
+    <title>AI 发展节奏：应对网络关键能力时代</title>
+    <link>https://openai.com/index/pacing-model-development-cyber-capabilities</link>
+    <guid isPermaLink="false">openai.com/index/pacing-model-development-cyber-capabilities-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>官方策略解读，理解模型迭代速度背后的安全考量。（官方 · OpenAI · 原题 Pacing model development in an era of cyber-critical capabilities）</description>
+  </item>
+  <item>
+    <title>Agent 实际需要多少内存？实测指南</title>
+    <link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-research/altk-evolve-hmm-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>量化内存需求，避免过度配置，优化部署成本。（博客 · Hugging Face · 原题 How Much Memory Does Your Agent Actually Need?）</description>
+  </item>
+  <item>
+    <title>多向量晚交互嵌入模型：Sentence Transformers 实践</title>
+    <link>https://huggingface.co/blog/multi-vector-encoder</link>
+    <guid isPermaLink="false">huggingface.co/blog/multi-vector-encoder-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>技术详解，提升检索精度，适合 RAG 系统优化者。（博客 · Hugging Face · 原题 Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers）</description>
+  </item>
+  <item>
+    <title>同集群利用率提升 33 点：排序改变一切</title>
     <link>https://huggingface.co/blog/Dharma-AI/gpu-management-pt2</link>
-    <guid isPermaLink="false">huggingface.co/blog/Dharma-AI/gpu-management-pt2-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>调度顺序优化带来显著收益，对集群运维有直接参考价值。（博客 · Hugging Face · 原题 Same Cluster, 33 Points More Utilization: What Changed Was the Order）</description>
+    <guid isPermaLink="false">huggingface.co/blog/Dharma-AI/gpu-management-pt2-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>调度优化案例，揭示性能瓶颈，对基础设施团队有直接价值。（博客 · Hugging Face · 原题 Same Cluster, 33 Points More Utilization: What Changed Was the Order）</description>
   </item>
   <item>
-    <title>Qwen 3.8 27B 在智能指数获 52 分</title>
+    <title>Qwen 3.8 27B 评测：智能指数 52 分</title>
     <link>https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>小参数模型性能亮眼，为低成本部署提供新选择。（博客 · Simon Willison · 原题 Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index）</description>
-  </item>
-  <item>
-    <title>OpenAI 提出智能时代新政策建议</title>
-    <link>https://openai.com/index/new-policy-ideas-for-the-intelligence-age</link>
-    <guid isPermaLink="false">openai.com/index/new-policy-ideas-for-the-intelligence-age-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>政策风向标，影响 AI 监管与产业布局，从业者需跟进。（官方 · OpenAI · 原题 New policy ideas for the Intelligence Age）</description>
-  </item>
-  <item>
-    <title>Gemini 与 Pixel 深度融合，拉近观赛体验</title>
-    <link>https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>端侧 AI 应用落地案例，展示移动场景的实用价值。（官方 · Google AI · 原题 Get closer to the game with Gemini and Pixel）</description>
-  </item>
-  <item>
-    <title>追踪珍本图书，终点竟是亚马逊 AI 训练设施</title>
-    <link>https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>揭露数据来源链条，引发版权与数据伦理深层讨论。（博客 · Simon Willison + Lobste.rs · 原题 We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility）</description>
-  </item>
-  <item>
-    <title>1985 年文章《AI 的局限》至今仍具警示</title>
-    <link>https://www.youtube.com/watch?v=ePsQksj99LM</link>
-    <guid isPermaLink="false">youtube.com/watch-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>历史视角审视当前 AI 热潮，避免重复认知误区。（社区 · Lobste.rs · 原题 The Limits of AI (1985)）</description>
-  </item>
-  <item>
-    <title>Anthropic 在 Claude 中加水印，被批扭曲写作</title>
-    <link>https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing</link>
-    <guid isPermaLink="false">daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing-2026-08-18</guid>
-    <pubDate>Tue, 18 Aug 2026 00:33:29 GMT</pubDate>
-    <description>生成内容可追溯性争议，关乎创作者权益与工具信任。（社区 · Hacker News · 原题 Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52-2026-08-19</guid>
+    <pubDate>Wed, 19 Aug 2026 00:33:25 GMT</pubDate>
+    <description>新模型基准数据，快速评估性能，辅助选型决策。（博客 · Simon Willison · 原题 Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index）</description>
   </item>
 </channel>
 </rss>
