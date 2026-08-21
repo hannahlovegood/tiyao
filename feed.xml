@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 20 Aug 2026 00:33:06 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 00:35:51 GMT</lastBuildDate>
   <item>
     <title>MoneyPrinterTurbo：一键生成高清短视频的开源神器</title>
     <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-    <guid isPermaLink="false">github.com/harry0703/MoneyPrinterTurbo-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>直接降低内容生产门槛，适合自媒体与营销团队快速试水。（开源 · GitHub · 原题 harry0703/MoneyPrinterTurbo）</description>
+    <guid isPermaLink="false">github.com/harry0703/MoneyPrinterTurbo-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>开源项目，直接解决内容生产痛点，值得动手实测。（开源 · GitHub · 原题 harry0703/MoneyPrinterTurbo）</description>
   </item>
   <item>
-    <title>OpenAI 前沿模型推出零数据保留选项</title>
+    <title>Vomit：用独立LLM清理Claude 5的token输出</title>
+    <link>https://github.com/zachahn/vomit</link>
+    <guid isPermaLink="false">github.com/zachahn/vomit-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>另类思路优化token成本，对API重度用户有参考价值。（社区 · Hacker News · 原题 Vomit: Clean up Claude 5's token output with a separate LLM）</description>
+  </item>
+  <item>
+    <title>OpenAI推出AI Futures，布局长期技术路线</title>
+    <link>https://openai.com/index/introducing-ai-futures</link>
+    <guid isPermaLink="false">openai.com/index/introducing-ai-futures-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>官方战略信号，影响行业风向与投资决策。（官方 · OpenAI + Hacker News · 原题 Introducing AI Futures）</description>
+  </item>
+  <item>
+    <title>ChatGPT搜索全面支持site:操作符</title>
+    <link>https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>搜索能力升级，提升信息检索效率，实用性强。（博客 · Simon Willison · 原题 ChatGPT search now uses the site:operator at scale）</description>
+  </item>
+  <item>
+    <title>LFM2.5-DSpark推理提速最高3.2倍</title>
+    <link>https://huggingface.co/blog/LiquidAI/lfm25-dspark</link>
+    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm25-dspark-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>性能数据亮眼，直接降低推理成本，值得关注。（博客 · Hugging Face · 原题 Up to 3.2x Faster Inference with LFM2.5-DSpark）</description>
+  </item>
+  <item>
+    <title>Stampli用ChatGPT Work节省68%启动时间</title>
+    <link>https://openai.com/index/stampli</link>
+    <guid isPermaLink="false">openai.com/index/stampli-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>真实案例验证效率提升，对企业选型有说服力。（官方 · OpenAI · 原题 Stampli cuts launch hours by 68% using ChatGPT Work）</description>
+  </item>
+  <item>
+    <title>OpenAI为前沿模型提供零数据保留选项</title>
     <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
-    <guid isPermaLink="false">openai.com/index/offering-zero-data-retention-for-frontier-models-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>企业合规刚需，数据隐私敏感场景的部署成本将显著下降。（官方 · OpenAI · 原题 Offering Zero Data Retention for frontier models）</description>
+    <guid isPermaLink="false">openai.com/index/offering-zero-data-retention-for-frontier-models-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>隐私合规关键举措，影响企业数据安全策略。（官方 · OpenAI · 原题 Offering Zero Data Retention for frontier models）</description>
   </item>
   <item>
-    <title>Google 搜索新增五项 AI 学习增强功能</title>
+    <title>Huzzah：AI编程的新颖交互方式</title>
+    <link>https://www.danielvaughn.dev/posts/huzzah/</link>
+    <guid isPermaLink="false">danielvaughn.dev/posts/huzzah-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>创新编程范式，可能改变开发者工作流，值得探索。（社区 · Hacker News · 原题 Show HN: Huzzah – a novel approach to coding with AI）</description>
+  </item>
+  <item>
+    <title>Bongard Problems：AI推理的经典挑战</title>
+    <link>https://matthodges.com/posts/2026-08-19-bongard-problems/</link>
+    <guid isPermaLink="false">matthodges.com/posts/2026-08-19-bongard-problems-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>聚焦抽象推理难题，对AI认知研究有启发意义。（社区 · Lobste.rs · 原题 Bongard Problems）</description>
+  </item>
+  <item>
+    <title>Google搜索新增5种AI学习辅助功能</title>
     <link>https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/back-to-school-study-tools-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>搜索交互范式再进化，教育类产品可借鉴其交互设计。（官方 · Google AI · 原题 5 new ways to level up your learning with Search）</description>
-  </item>
-  <item>
-    <title>液态类型：智能体的行为沙盒新范式</title>
-    <link>https://wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents/</link>
-    <guid isPermaLink="false">wiki.alcidesfonseca.com/blog/aeonbox-logical-guardrails-for-agents-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>为 AI 安全提供可验证约束，值得关注形式化方法落地。（社区 · Lobste.rs · 原题 Liquid Types as a behavioural sandbox for agents）</description>
-  </item>
-  <item>
-    <title>Replit 借 GPT-5.6 Luna 扩大软件创作入口</title>
-    <link>https://openai.com/index/replit</link>
-    <guid isPermaLink="false">openai.com/index/replit-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>低代码平台与前沿模型结合，预示编程民主化加速。（官方 · OpenAI · 原题 Replit expands access to software creation with GPT-5.6 Luna）</description>
-  </item>
-  <item>
-    <title>LFM2.5 Q4_0：量化感知蒸馏发布新检查点</title>
-    <link>https://huggingface.co/blog/LiquidAI/qad</link>
-    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/qad-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>小内存跑大模型的关键技术，边缘部署者必读。（博客 · Hugging Face · 原题 LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation）</description>
-  </item>
-  <item>
-    <title>ChatGPT Ads 广告业务扩展至欧洲</title>
-    <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
-    <guid isPermaLink="false">openai.com/index/chatgpt-ads-expands-across-europe-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>AI 原生广告商业化提速，营销从业者需重新评估渠道。（官方 · OpenAI · 原题 ChatGPT Ads expands across Europe）</description>
-  </item>
-  <item>
-    <title>LLM 时代下的可扩展软件设计</title>
-    <link>https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/</link>
-    <guid isPermaLink="false">jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>架构师必看，探讨模型如何重塑模块化与演进策略。（社区 · Hacker News · 原题 Extensible Software in the age of LLMs）</description>
-  </item>
-  <item>
-    <title>智能体实际需要多少内存？</title>
-    <link>https://huggingface.co/blog/ibm-research/altk-evolve-hmm</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-research/altk-evolve-hmm-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>性能与成本平衡的实操指南，避免过度配置浪费资源。（博客 · Hugging Face · 原题 How Much Memory Does Your Agent Actually Need?）</description>
-  </item>
-  <item>
-    <title>多向量交互嵌入模型：Sentence Transformers 新进展</title>
-    <link>https://huggingface.co/blog/multi-vector-encoder</link>
-    <guid isPermaLink="false">huggingface.co/blog/multi-vector-encoder-2026-08-20</guid>
-    <pubDate>Thu, 20 Aug 2026 00:33:06 GMT</pubDate>
-    <description>检索精度提升显著，推荐系统与 RAG 开发者应关注。（博客 · Hugging Face · 原题 Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/back-to-school-study-tools-2026-08-21</guid>
+    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
+    <description>搜索与学习场景深度融合，提升用户获取知识效率。（官方 · Google AI · 原题 5 new ways to level up your learning with Search）</description>
   </item>
 </channel>
 </rss>
