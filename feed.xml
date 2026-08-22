@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 21 Aug 2026 00:35:51 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 00:32:52 GMT</lastBuildDate>
   <item>
     <title>MoneyPrinterTurbo：一键生成高清短视频的开源神器</title>
     <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
-    <guid isPermaLink="false">github.com/harry0703/MoneyPrinterTurbo-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>开源项目，直接解决内容生产痛点，值得动手实测。（开源 · GitHub · 原题 harry0703/MoneyPrinterTurbo）</description>
+    <guid isPermaLink="false">github.com/harry0703/MoneyPrinterTurbo-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>开源项目，直接可用，降低短视频生产门槛，适合内容创作者快速上手。（开源 · GitHub · 原题 harry0703/MoneyPrinterTurbo）</description>
   </item>
   <item>
-    <title>Vomit：用独立LLM清理Claude 5的token输出</title>
-    <link>https://github.com/zachahn/vomit</link>
-    <guid isPermaLink="false">github.com/zachahn/vomit-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>另类思路优化token成本，对API重度用户有参考价值。（社区 · Hacker News · 原题 Vomit: Clean up Claude 5's token output with a separate LLM）</description>
+    <title>Felony Bench：让 AI 模拟犯罪，伦理边界再引热议</title>
+    <link>https://www.felonybench.com/</link>
+    <guid isPermaLink="false">felonybench.com-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>探讨 AI 在极端场景下的行为边界，对安全研究和伦理设计有警示价值。（社区 · Lobste.rs · 原题 Felony Bench: Be AI, Do Crime）</description>
   </item>
   <item>
-    <title>OpenAI推出AI Futures，布局长期技术路线</title>
+    <title>Claudette：让 Claude 告别 BuzzFeed 式废话</title>
+    <link>https://github.com/adnanakil/nobuzz/blob/main/README.md</link>
+    <guid isPermaLink="false">github.com/adnanakil/nobuzz/blob/main/README.md-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>直击大模型输出风格痛点，提供实用调优思路，对提示工程有直接参考。（社区 · Hacker News · 原题 Claudette: Make Claude stop talking like a BuzzFeed article）</description>
+  </item>
+  <item>
+    <title>DeepMind 游戏研究 15 年：从 Atari 到 EVE Online</title>
+    <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
+    <guid isPermaLink="false">deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>官方回顾游戏 AI 演进，揭示强化学习在复杂环境中的突破与挑战，值得深读。（官方 · DeepMind · 原题 From Atari to EVE Online: Building on 15 Years of AI Research in Games）</description>
+  </item>
+  <item>
+    <title>career-ops：开源 AI 求职助手，自动评分职位匹配度</title>
+    <link>https://github.com/santifer/career-ops</link>
+    <guid isPermaLink="false">github.com/santifer/career-ops-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>开源工具，用结构化评分优化求职流程，对求职者和招聘者都有实际效率提升。（开源 · GitHub · 原题 santifer/career-ops）</description>
+  </item>
+  <item>
+    <title>llm 0.32.1：Simon Willison 的 CLI 工具再升级</title>
+    <link>https://simonwillison.net/2026/Aug/21/llm/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/21/llm-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>知名开发者维护，版本更新带来新功能，是 LLM 命令行工作流的重要参考。（博客 · Simon Willison · 原题 llm 0.32.1）</description>
+  </item>
+  <item>
+    <title>llm-openrouter 0.7：接入更多模型，路由更灵活</title>
+    <link>https://simonwillison.net/2026/Aug/21/llm-openrouter/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/21/llm-openrouter-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>扩展 LLM 工具链，支持多模型切换，对开发者集成和测试有直接帮助。（博客 · Simon Willison · 原题 llm-openrouter 0.7）</description>
+  </item>
+  <item>
+    <title>Hugging Face 研究：语音识别基准优化的测量方法</title>
+    <link>https://huggingface.co/blog/asr-benchmark-optimization</link>
+    <guid isPermaLink="false">huggingface.co/blog/asr-benchmark-optimization-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>揭示基准测试过拟合风险，对语音识别模型评估和选型有方法论指导意义。（博客 · Hugging Face · 原题 Measuring benchmark optimization in speech recognition）</description>
+  </item>
+  <item>
+    <title>OpenAI 推出 AI Futures：展望技术长期影响</title>
     <link>https://openai.com/index/introducing-ai-futures</link>
-    <guid isPermaLink="false">openai.com/index/introducing-ai-futures-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>官方战略信号，影响行业风向与投资决策。（官方 · OpenAI + Hacker News · 原题 Introducing AI Futures）</description>
+    <guid isPermaLink="false">openai.com/index/introducing-ai-futures-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>官方战略视角，帮助从业者理解 AI 发展方向，对投资和产品规划有参考价值。（官方 · OpenAI · 原题 Introducing AI Futures）</description>
   </item>
   <item>
-    <title>ChatGPT搜索全面支持site:操作符</title>
+    <title>ChatGPT 搜索全面支持 site: 操作符</title>
     <link>https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>搜索能力升级，提升信息检索效率，实用性强。（博客 · Simon Willison · 原题 ChatGPT search now uses the site:operator at scale）</description>
-  </item>
-  <item>
-    <title>LFM2.5-DSpark推理提速最高3.2倍</title>
-    <link>https://huggingface.co/blog/LiquidAI/lfm25-dspark</link>
-    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm25-dspark-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>性能数据亮眼，直接降低推理成本，值得关注。（博客 · Hugging Face · 原题 Up to 3.2x Faster Inference with LFM2.5-DSpark）</description>
-  </item>
-  <item>
-    <title>Stampli用ChatGPT Work节省68%启动时间</title>
-    <link>https://openai.com/index/stampli</link>
-    <guid isPermaLink="false">openai.com/index/stampli-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>真实案例验证效率提升，对企业选型有说服力。（官方 · OpenAI · 原题 Stampli cuts launch hours by 68% using ChatGPT Work）</description>
-  </item>
-  <item>
-    <title>OpenAI为前沿模型提供零数据保留选项</title>
-    <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
-    <guid isPermaLink="false">openai.com/index/offering-zero-data-retention-for-frontier-models-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>隐私合规关键举措，影响企业数据安全策略。（官方 · OpenAI · 原题 Offering Zero Data Retention for frontier models）</description>
-  </item>
-  <item>
-    <title>Huzzah：AI编程的新颖交互方式</title>
-    <link>https://www.danielvaughn.dev/posts/huzzah/</link>
-    <guid isPermaLink="false">danielvaughn.dev/posts/huzzah-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>创新编程范式，可能改变开发者工作流，值得探索。（社区 · Hacker News · 原题 Show HN: Huzzah – a novel approach to coding with AI）</description>
-  </item>
-  <item>
-    <title>Bongard Problems：AI推理的经典挑战</title>
-    <link>https://matthodges.com/posts/2026-08-19-bongard-problems/</link>
-    <guid isPermaLink="false">matthodges.com/posts/2026-08-19-bongard-problems-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>聚焦抽象推理难题，对AI认知研究有启发意义。（社区 · Lobste.rs · 原题 Bongard Problems）</description>
-  </item>
-  <item>
-    <title>Google搜索新增5种AI学习辅助功能</title>
-    <link>https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/back-to-school-study-tools-2026-08-21</guid>
-    <pubDate>Fri, 21 Aug 2026 00:35:51 GMT</pubDate>
-    <description>搜索与学习场景深度融合，提升用户获取知识效率。（官方 · Google AI · 原题 5 new ways to level up your learning with Search）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale-2026-08-22</guid>
+    <pubDate>Sat, 22 Aug 2026 00:32:52 GMT</pubDate>
+    <description>搜索功能增强，提升信息检索精准度，对依赖 AI 搜索的研究者和开发者是实用更新。（博客 · Simon Willison · 原题 ChatGPT search now uses the site:operator at scale）</description>
   </item>
 </channel>
 </rss>
