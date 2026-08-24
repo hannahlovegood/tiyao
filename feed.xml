@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 23 Aug 2026 00:36:20 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 00:34:54 GMT</lastBuildDate>
   <item>
     <title>OpenAI 开源 Codex：终端里的轻量编码代理</title>
     <link>https://github.com/openai/codex</link>
-    <guid isPermaLink="false">github.com/openai/codex-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>官方轻量代理入终端，直接降低编码自动化门槛，值得实测。（开源 · GitHub · 原题 openai/codex）</description>
+    <guid isPermaLink="false">github.com/openai/codex-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>官方开源终端编码代理，直接改变开发者日常工具链，值得立即上手评估。（开源 · GitHub · 原题 openai/codex）</description>
   </item>
   <item>
-    <title>Anthropic 正 A/B 测试 Claude Code 降配版</title>
+    <title>Anthropic 最强模型遇冷，便宜工具更吃香</title>
+    <link>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>揭示高端模型与市场实际需求错位，对定价与产品策略有直接参考。（博客 · Simon Willison · 原题 Anthropic’s best AI model struggles to attract users as cheaper tools thrive）</description>
+  </item>
+  <item>
+    <title>Claude Code 疑似 A/B 测试降低努力水平</title>
     <link>https://twitter.com/argofowl/status/2091150597374537729</link>
-    <guid isPermaLink="false">twitter.com/argofowl/status/2091150597374537729-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>官方调整模型力度，直接影响代码生成质量与成本，需跟进。（社区 · Hacker News · 原题 Anthropic appears to be A/B testing reduced effort levels in Claude Code）</description>
+    <guid isPermaLink="false">twitter.com/argofowl/status/2091150597374537729-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>官方暗中调整模型行为，影响代码质量与用户体验，需密切关注。（社区 · Hacker News · 原题 Anthropic appears to be A/B testing reduced effort levels in Claude Code）</description>
   </item>
   <item>
-    <title>llm 0.33 发布：命令行工具再升级</title>
+    <title>llm 0.33 发布：命令行 LLM 工具再升级</title>
     <link>https://simonwillison.net/2026/Aug/22/llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/22/llm-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>核心 CLI 工具迭代，新特性可提升多模型调用效率，实用性强。（博客 · Simon Willison · 原题 llm 0.33）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/22/llm-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>主流 CLI 工具迭代，新功能直接影响自动化脚本与工作流效率。（博客 · Simon Willison · 原题 llm 0.33）</description>
   </item>
   <item>
-    <title>DeepMind 十五载游戏 AI 研究：从 Atari 到 EVE</title>
+    <title>DeepMind 十五载：从 Atari 到 EVE Online</title>
     <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
-    <guid isPermaLink="false">deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>回顾游戏 AI 演进，揭示强化学习在复杂环境中的关键突破。（官方 · DeepMind · 原题 From Atari to EVE Online: Building on 15 Years of AI Research in Games）</description>
+    <guid isPermaLink="false">deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>回顾游戏 AI 研究脉络，为强化学习应用方向提供权威历史坐标。（官方 · DeepMind · 原题 From Atari to EVE Online: Building on 15 Years of AI Research in Games）</description>
   </item>
   <item>
-    <title>llm 0.32.1 补丁：修复与优化细节</title>
+    <title>llm 0.32.1 补丁更新：修复与细节优化</title>
     <link>https://simonwillison.net/2026/Aug/21/llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/21/llm-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>小版本修复稳定性问题，对依赖此工具的工作流有直接价值。（博客 · Simon Willison · 原题 llm 0.32.1）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/21/llm-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>小版本修复关键问题，升级成本低，稳定性收益明确。（博客 · Simon Willison · 原题 llm 0.32.1）</description>
   </item>
   <item>
-    <title>llm-openrouter 0.7：扩展模型路由能力</title>
-    <link>https://simonwillison.net/2026/Aug/21/llm-openrouter/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/21/llm-openrouter-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>增强多模型接入灵活性，便于开发者按需切换，省时省力。（博客 · Simon Willison · 原题 llm-openrouter 0.7）</description>
+    <title>免费 Claude Code 聚合工具：1.3B 免费 Token</title>
+    <link>https://github.com/Alishahryar1/free-claude-code</link>
+    <guid isPermaLink="false">github.com/Alishahryar1/free-claude-code-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>聚合多模型免费额度，大幅降低试用门槛，适合预算有限的开发者。（开源 · GitHub · 原题 Alishahryar1/free-claude-code）</description>
   </item>
   <item>
-    <title>Hugging Face 量化语音识别基准优化</title>
-    <link>https://huggingface.co/blog/asr-benchmark-optimization</link>
-    <guid isPermaLink="false">huggingface.co/blog/asr-benchmark-optimization-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>揭示基准测试被过度优化风险，提醒评估模型真实性能需谨慎。（博客 · Hugging Face · 原题 Measuring benchmark optimization in speech recognition）</description>
-  </item>
-  <item>
-    <title>OpenAI 推出 AI Futures 前瞻计划</title>
-    <link>https://openai.com/index/introducing-ai-futures</link>
-    <guid isPermaLink="false">openai.com/index/introducing-ai-futures-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>官方战略布局信号，预示未来产品方向，从业者应关注。（官方 · OpenAI · 原题 Introducing AI Futures）</description>
-  </item>
-  <item>
-    <title>本地 LLM 为何感觉更笨？真相在此</title>
-    <link>https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917</link>
-    <guid isPermaLink="false">forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>解析本地模型性能感知差异，帮助开发者合理设定预期与调优。（社区 · Hacker News · 原题 Why your local LLM feels dumber than it is）</description>
-  </item>
-  <item>
-    <title>机器人评论分类器：Lobste.rs 新实践</title>
+    <title>机器人评论分类器：社区治理新思路</title>
     <link>https://entropicthoughts.com/ai-comment-classifier</link>
-    <guid isPermaLink="false">entropicthoughts.com/ai-comment-classifier-2026-08-23</guid>
-    <pubDate>Sun, 23 Aug 2026 00:36:20 GMT</pubDate>
-    <description>社区用 AI 治理内容，案例可借鉴，但需警惕误判与偏见。（社区 · Lobste.rs · 原题 Robot comment classifier）</description>
+    <guid isPermaLink="false">entropicthoughts.com/ai-comment-classifier-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>自动化识别机器人评论，对内容平台与社区运营有实际落地价值。（社区 · Lobste.rs · 原题 Robot comment classifier）</description>
+  </item>
+  <item>
+    <title>GPT-5.6 降价 20%：推理成本再下探</title>
+    <link>https://developers.openai.com/api/docs/models/gpt-5.6-sol</link>
+    <guid isPermaLink="false">developers.openai.com/api/docs/models/gpt-5.6-sol-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>头部模型降价直接影响应用成本结构，是预算规划的重要信号。（社区 · Hacker News · 原题 GPT 5.6 Sol 20% price reduction）</description>
+  </item>
+  <item>
+    <title>EnvHarness：唤醒静态世界，赋能智能体学习</title>
+    <link>https://huggingface.co/papers/2608.19880</link>
+    <guid isPermaLink="false">huggingface.co/papers/2608.19880-2026-08-24</guid>
+    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
+    <description>新环境生成框架或突破智能体训练数据瓶颈，值得研究团队关注。（论文 · HF Papers · 原题 EnvHarness: Awakening Static Worlds for Agent Learning）</description>
   </item>
 </channel>
 </rss>
