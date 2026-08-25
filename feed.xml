@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 24 Aug 2026 00:34:54 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 00:34:28 GMT</lastBuildDate>
   <item>
-    <title>OpenAI 开源 Codex：终端里的轻量编码代理</title>
+    <title>GPT-Image2 提示词引擎：530 案例逆向工程开源</title>
+    <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
+    <guid isPermaLink="false">github.com/freestylefly/awesome-gpt-image-2-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>工业级模板与案例库，直接复用可大幅提升图像生成质量与效率。（开源 · GitHub · 原题 freestylefly/awesome-gpt-image-2）</description>
+  </item>
+  <item>
+    <title>OpenAI 发布 GPT-5.6，Kiro 平台性能价格比优化</title>
+    <link>https://openai.com/index/gpt-5-6-in-kiro</link>
+    <guid isPermaLink="false">openai.com/index/gpt-5-6-in-kiro-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>官方定价与性能调整，直接影响开发者 API 选型与成本核算。（官方 · OpenAI · 原题 Advancing price-performance for developers with GPT‑5.6 in Kiro）</description>
+  </item>
+  <item>
+    <title>OpenAI 开源 Codex：终端轻量级编码代理</title>
     <link>https://github.com/openai/codex</link>
-    <guid isPermaLink="false">github.com/openai/codex-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>官方开源终端编码代理，直接改变开发者日常工具链，值得立即上手评估。（开源 · GitHub · 原题 openai/codex）</description>
+    <guid isPermaLink="false">github.com/openai/codex-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>终端原生代理简化开发流，值得实测其与 IDE 插件的效率差异。（开源 · GitHub · 原题 openai/codex）</description>
   </item>
   <item>
-    <title>Anthropic 最强模型遇冷，便宜工具更吃香</title>
+    <title>llm-anthropic 0.27 发布，Claude 集成再升级</title>
+    <link>https://simonwillison.net/2026/Aug/24/llm-anthropic/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/24/llm-anthropic-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>命令行工具迭代，关注新模型支持与稳定性，提升本地调用体验。（博客 · Simon Willison · 原题 llm-anthropic 0.27）</description>
+  </item>
+  <item>
+    <title>Anthropic 最强模型遇冷，廉价工具抢占市场</title>
+    <link>https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245</link>
+    <guid isPermaLink="false">ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>揭示高端模型商业化困境，对产品定价与用户需求有参考价值。（社区 · Hacker News · 原题 Anthropic's best AI model struggles to attract users as cheaper tools thrive）</description>
+  </item>
+  <item>
+    <title>Anthropic 旗舰模型用户增长乏力，成本成关键</title>
     <link>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>揭示高端模型与市场实际需求错位，对定价与产品策略有直接参考。（博客 · Simon Willison · 原题 Anthropic’s best AI model struggles to attract users as cheaper tools thrive）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>同题深度分析，聚焦成本敏感度，为模型选型提供市场信号。（博客 · Simon Willison · 原题 Anthropic’s best AI model struggles to attract users as cheaper tools thrive）</description>
   </item>
   <item>
-    <title>Claude Code 疑似 A/B 测试降低努力水平</title>
-    <link>https://twitter.com/argofowl/status/2091150597374537729</link>
-    <guid isPermaLink="false">twitter.com/argofowl/status/2091150597374537729-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>官方暗中调整模型行为，影响代码质量与用户体验，需密切关注。（社区 · Hacker News · 原题 Anthropic appears to be A/B testing reduced effort levels in Claude Code）</description>
-  </item>
-  <item>
-    <title>llm 0.33 发布：命令行 LLM 工具再升级</title>
+    <title>llm 0.33 更新：命令行 LLM 工具功能增强</title>
     <link>https://simonwillison.net/2026/Aug/22/llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/22/llm-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>主流 CLI 工具迭代，新功能直接影响自动化脚本与工作流效率。（博客 · Simon Willison · 原题 llm 0.33）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/22/llm-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>核心工具版本更新，新特性可能简化多模型管理，值得跟进。（博客 · Simon Willison · 原题 llm 0.33）</description>
   </item>
   <item>
-    <title>DeepMind 十五载：从 Atari 到 EVE Online</title>
-    <link>https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/</link>
-    <guid isPermaLink="false">deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>回顾游戏 AI 研究脉络，为强化学习应用方向提供权威历史坐标。（官方 · DeepMind · 原题 From Atari to EVE Online: Building on 15 Years of AI Research in Games）</description>
-  </item>
-  <item>
-    <title>llm 0.32.1 补丁更新：修复与细节优化</title>
-    <link>https://simonwillison.net/2026/Aug/21/llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/21/llm-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>小版本修复关键问题，升级成本低，稳定性收益明确。（博客 · Simon Willison · 原题 llm 0.32.1）</description>
-  </item>
-  <item>
-    <title>免费 Claude Code 聚合工具：1.3B 免费 Token</title>
-    <link>https://github.com/Alishahryar1/free-claude-code</link>
-    <guid isPermaLink="false">github.com/Alishahryar1/free-claude-code-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>聚合多模型免费额度，大幅降低试用门槛，适合预算有限的开发者。（开源 · GitHub · 原题 Alishahryar1/free-claude-code）</description>
-  </item>
-  <item>
-    <title>机器人评论分类器：社区治理新思路</title>
+    <title>机器人评论分类器：Lobste.rs 社区新实践</title>
     <link>https://entropicthoughts.com/ai-comment-classifier</link>
-    <guid isPermaLink="false">entropicthoughts.com/ai-comment-classifier-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>自动化识别机器人评论，对内容平台与社区运营有实际落地价值。（社区 · Lobste.rs · 原题 Robot comment classifier）</description>
+    <guid isPermaLink="false">entropicthoughts.com/ai-comment-classifier-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>社区治理自动化案例，对内容审核与反垃圾策略有借鉴意义。（社区 · Lobste.rs · 原题 Robot comment classifier）</description>
   </item>
   <item>
-    <title>GPT-5.6 降价 20%：推理成本再下探</title>
-    <link>https://developers.openai.com/api/docs/models/gpt-5.6-sol</link>
-    <guid isPermaLink="false">developers.openai.com/api/docs/models/gpt-5.6-sol-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>头部模型降价直接影响应用成本结构，是预算规划的重要信号。（社区 · Hacker News · 原题 GPT 5.6 Sol 20% price reduction）</description>
+    <title>Hermes-Agent 开源：随你成长的智能体框架</title>
+    <link>https://github.com/NousResearch/hermes-agent</link>
+    <guid isPermaLink="false">github.com/NousResearch/hermes-agent-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>自适应学习型代理设计，探索个性化 AI 助手的新范式。（开源 · GitHub · 原题 NousResearch/hermes-agent）</description>
   </item>
   <item>
-    <title>EnvHarness：唤醒静态世界，赋能智能体学习</title>
-    <link>https://huggingface.co/papers/2608.19880</link>
-    <guid isPermaLink="false">huggingface.co/papers/2608.19880-2026-08-24</guid>
-    <pubDate>Mon, 24 Aug 2026 00:34:54 GMT</pubDate>
-    <description>新环境生成框架或突破智能体训练数据瓶颈，值得研究团队关注。（论文 · HF Papers · 原题 EnvHarness: Awakening Static Worlds for Agent Learning）</description>
+    <title>OpenAI 下调 GPT-5.6 价格，限时至 11 月 21 日</title>
+    <link>https://developers.openai.com/api/docs/pricing</link>
+    <guid isPermaLink="false">developers.openai.com/api/docs/pricing-2026-08-25</guid>
+    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
+    <description>短期降价直接影响开发成本，需评估是否调整调用策略。（社区 · Hacker News · 原题 OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)）</description>
   </item>
 </channel>
 </rss>
