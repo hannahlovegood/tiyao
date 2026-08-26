@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 25 Aug 2026 00:34:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 00:35:09 GMT</lastBuildDate>
   <item>
     <title>GPT-Image2 提示词引擎：530 案例逆向工程开源</title>
     <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
-    <guid isPermaLink="false">github.com/freestylefly/awesome-gpt-image-2-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>工业级模板与案例库，直接复用可大幅提升图像生成质量与效率。（开源 · GitHub · 原题 freestylefly/awesome-gpt-image-2）</description>
+    <guid isPermaLink="false">github.com/freestylefly/awesome-gpt-image-2-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>工业级提示词模板与案例库，直接复用可显著提升图像生成质量与效率。（开源 · GitHub · 原题 freestylefly/awesome-gpt-image-2）</description>
   </item>
   <item>
-    <title>OpenAI 发布 GPT-5.6，Kiro 平台性能价格比优化</title>
-    <link>https://openai.com/index/gpt-5-6-in-kiro</link>
-    <guid isPermaLink="false">openai.com/index/gpt-5-6-in-kiro-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>官方定价与性能调整，直接影响开发者 API 选型与成本核算。（官方 · OpenAI · 原题 Advancing price-performance for developers with GPT‑5.6 in Kiro）</description>
+    <title>家庭多 GPU 漂移实战：AI 部署第二篇</title>
+    <link>https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html</link>
+    <guid isPermaLink="false">jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>多卡分布式推理的实操经验，对自建 AI 基础设施者极具参考价值。（社区 · Lobste.rs · 原题 AI At Home Part 2: Multi GPU Drifting）</description>
   </item>
   <item>
-    <title>OpenAI 开源 Codex：终端轻量级编码代理</title>
-    <link>https://github.com/openai/codex</link>
-    <guid isPermaLink="false">github.com/openai/codex-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>终端原生代理简化开发流，值得实测其与 IDE 插件的效率差异。（开源 · GitHub · 原题 openai/codex）</description>
+    <title>Google 搜索升级：五招 AI 焕新家居装饰</title>
+    <link>https://blog.google/products-and-platforms/products/search/home-decor-tips/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/home-decor-tips-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>展示搜索与生成式 AI 结合的新场景，洞察消费级产品演进方向。（官方 · Google AI · 原题 5 ways to upgrade your home decor with Google Search）</description>
   </item>
   <item>
-    <title>llm-anthropic 0.27 发布，Claude 集成再升级</title>
-    <link>https://simonwillison.net/2026/Aug/24/llm-anthropic/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/24/llm-anthropic-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>命令行工具迭代，关注新模型支持与稳定性，提升本地调用体验。（博客 · Simon Willison · 原题 llm-anthropic 0.27）</description>
+    <title>OpenAI 揭秘：富足智能背后的全栈架构</title>
+    <link>https://openai.com/index/the-full-stack-behind-abundant-intelligence</link>
+    <guid isPermaLink="false">openai.com/index/the-full-stack-behind-abundant-intelligence-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>官方拆解算力、数据与系统协同，理解大模型规模化落地的关键。（官方 · OpenAI · 原题 The full stack behind abundant intelligence）</description>
   </item>
   <item>
-    <title>Anthropic 最强模型遇冷，廉价工具抢占市场</title>
-    <link>https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245</link>
-    <guid isPermaLink="false">ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>揭示高端模型商业化困境，对产品定价与用户需求有参考价值。（社区 · Hacker News · 原题 Anthropic's best AI model struggles to attract users as cheaper tools thrive）</description>
+    <title>Jalapeño 推理引擎：速度与效率行业领先</title>
+    <link>https://openai.com/index/jalapeno-first-results</link>
+    <guid isPermaLink="false">openai.com/index/jalapeno-first-results-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>推理性能新标杆，直接影响模型部署成本与实时应用可行性。（官方 · OpenAI + Hacker News · 原题 Jalapeño’s first results show industry-leading speed and efficiency in AI inference）</description>
   </item>
   <item>
-    <title>Anthropic 旗舰模型用户增长乏力，成本成关键</title>
-    <link>https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>同题深度分析，聚焦成本敏感度，为模型选型提供市场信号。（博客 · Simon Willison · 原题 Anthropic’s best AI model struggles to attract users as cheaper tools thrive）</description>
+    <title>Anthropic 资助：更好评估 AI 对福祉影响</title>
+    <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
+    <guid isPermaLink="false">anthropic.com/news/wellbeing-research-grants-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>聚焦 AI 社会影响评估方法论，为负责任 AI 实践提供资金与方向。（官方 · Anthropic · 原题 Funding better evaluations of AI’s impact on wellbeing）</description>
   </item>
   <item>
-    <title>llm 0.33 更新：命令行 LLM 工具功能增强</title>
-    <link>https://simonwillison.net/2026/Aug/22/llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/22/llm-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>核心工具版本更新，新特性可能简化多模型管理，值得跟进。（博客 · Simon Willison · 原题 llm 0.33）</description>
+    <title>OpenAI 披露：瓦解俄罗斯新型隐蔽影响力行动</title>
+    <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
+    <guid isPermaLink="false">openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>揭示 AI 在安全对抗中的实际应用，关乎平台治理与信息战防御。（官方 · OpenAI · 原题 Disrupting a new covert influence campaign from Russia）</description>
   </item>
   <item>
-    <title>机器人评论分类器：Lobste.rs 社区新实践</title>
-    <link>https://entropicthoughts.com/ai-comment-classifier</link>
-    <guid isPermaLink="false">entropicthoughts.com/ai-comment-classifier-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>社区治理自动化案例，对内容审核与反垃圾策略有借鉴意义。（社区 · Lobste.rs · 原题 Robot comment classifier）</description>
+    <title>Granite 4.2 架构解析：Hugging Face 深度拆解</title>
+    <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-granite/granite-4-2-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>开源 LLM 构建细节全公开，对模型设计与优化者是一手教材。（博客 · Hugging Face · 原题 Granite 4.2 LLMs: How They're Built）</description>
   </item>
   <item>
-    <title>Hermes-Agent 开源：随你成长的智能体框架</title>
-    <link>https://github.com/NousResearch/hermes-agent</link>
-    <guid isPermaLink="false">github.com/NousResearch/hermes-agent-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>自适应学习型代理设计，探索个性化 AI 助手的新范式。（开源 · GitHub · 原题 NousResearch/hermes-agent）</description>
+    <title>ai-job-search：Claude Code 驱动的本地求职框架</title>
+    <link>https://github.com/MadsLorentzen/ai-job-search</link>
+    <guid isPermaLink="false">github.com/MadsLorentzen/ai-job-search-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>AI 自动化求职全流程，提升职位筛选与申请效率的实用工具。（开源 · GitHub · 原题 MadsLorentzen/ai-job-search）</description>
   </item>
   <item>
-    <title>OpenAI 下调 GPT-5.6 价格，限时至 11 月 21 日</title>
-    <link>https://developers.openai.com/api/docs/pricing</link>
-    <guid isPermaLink="false">developers.openai.com/api/docs/pricing-2026-08-25</guid>
-    <pubDate>Tue, 25 Aug 2026 00:34:28 GMT</pubDate>
-    <description>短期降价直接影响开发成本，需评估是否调整调用策略。（社区 · Hacker News · 原题 OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)）</description>
+    <title>4-bit 量化疗愈：压缩模型反超原版精度</title>
+    <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
+    <guid isPermaLink="false">huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing-2026-08-26</guid>
+    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
+    <description>量化技术新突破，证明低比特模型可超越全精度，优化部署新思路。（博客 · Hugging Face · 原题 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original）</description>
   </item>
 </channel>
 </rss>
