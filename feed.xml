@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 26 Aug 2026 00:35:09 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 27 Aug 2026 05:29:57 GMT</lastBuildDate>
   <item>
-    <title>GPT-Image2 提示词引擎：530 案例逆向工程开源</title>
+    <title>GPT-Image2 提示词工程库：530 案例逆向拆解</title>
     <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
-    <guid isPermaLink="false">github.com/freestylefly/awesome-gpt-image-2-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>工业级提示词模板与案例库，直接复用可显著提升图像生成质量与效率。（开源 · GitHub · 原题 freestylefly/awesome-gpt-image-2）</description>
+    <guid isPermaLink="false">github.com/freestylefly/awesome-gpt-image-2-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>工业级模板与逆向案例，直接提升图像生成可控性，省去试错成本。（开源 · GitHub · 原题 freestylefly/awesome-gpt-image-2）</description>
   </item>
   <item>
-    <title>家庭多 GPU 漂移实战：AI 部署第二篇</title>
-    <link>https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html</link>
-    <guid isPermaLink="false">jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>多卡分布式推理的实操经验，对自建 AI 基础设施者极具参考价值。（社区 · Lobste.rs · 原题 AI At Home Part 2: Multi GPU Drifting）</description>
+    <title>CEO 为 AI 裁员，开发者开源 AI CEO 反讽</title>
+    <link>https://github.com/SenteLabsAI/OpenExecutive</link>
+    <guid isPermaLink="false">github.com/SenteLabsAI/OpenExecutive-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>折射人机替代焦虑，开源回应提供另类治理视角，值得关注。（社区 · Hacker News · 原题 CEO fired developers to make room for AI. Developers create open source AI CEO）</description>
   </item>
   <item>
-    <title>Google 搜索升级：五招 AI 焕新家居装饰</title>
+    <title>Gemini 3.5 转写：智能转录新标杆</title>
+    <link>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</link>
+    <guid isPermaLink="false">deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>官方能力升级，语音转写精度与场景适配或成行业新基准。（官方 · DeepMind · 原题 Intelligent transcription with Gemini 3.5 Transcribe）</description>
+  </item>
+  <item>
+    <title>ChatGPT 进美国学区，教师工具再扩围</title>
+    <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+    <guid isPermaLink="false">openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>教育场景落地加速，政策与产品双轮驱动，影响教学范式。（官方 · OpenAI · 原题 Bringing ChatGPT for Teachers to more U.S. school districts）</description>
+  </item>
+  <item>
+    <title>AI 让学习永续：OpenAI 谈持续教育</title>
+    <link>https://openai.com/index/learning-never-stops</link>
+    <guid isPermaLink="false">openai.com/index/learning-never-stops-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>官方阐述 AI 教育理念，揭示产品设计对学习路径的重塑。（官方 · OpenAI · 原题 Learning never stops: How AI makes learning continuous）</description>
+  </item>
+  <item>
+    <title>Hugging Face 事件后，OpenAI 谈前路</title>
+    <link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
+    <guid isPermaLink="false">openai.com/index/hugging-face-incident-and-the-road-ahead-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>安全事件复盘与应对策略，对平台治理和开源生态有警示意义。（官方 · OpenAI + Hacker News · 原题 The Hugging Face incident and the road ahead）</description>
+  </item>
+  <item>
+    <title>Google 搜索升级：五招焕新家居装饰</title>
     <link>https://blog.google/products-and-platforms/products/search/home-decor-tips/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/home-decor-tips-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>展示搜索与生成式 AI 结合的新场景，洞察消费级产品演进方向。（官方 · Google AI · 原题 5 ways to upgrade your home decor with Google Search）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/home-decor-tips-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>多模态搜索落地消费场景，展示 AI 在生活决策中的实用价值。（官方 · Google AI · 原题 5 ways to upgrade your home decor with Google Search）</description>
   </item>
   <item>
-    <title>OpenAI 揭秘：富足智能背后的全栈架构</title>
-    <link>https://openai.com/index/the-full-stack-behind-abundant-intelligence</link>
-    <guid isPermaLink="false">openai.com/index/the-full-stack-behind-abundant-intelligence-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>官方拆解算力、数据与系统协同，理解大模型规模化落地的关键。（官方 · OpenAI · 原题 The full stack behind abundant intelligence）</description>
+    <title>多向量嵌入模型：Sentence Transformers 微调指南</title>
+    <link>https://huggingface.co/blog/train-multi-vector-encoder</link>
+    <guid isPermaLink="false">huggingface.co/blog/train-multi-vector-encoder-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>技术实操干货，覆盖训练与微调细节，对检索系统开发者直接有用。（博客 · Hugging Face · 原题 Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers）</description>
   </item>
   <item>
-    <title>Jalapeño 推理引擎：速度与效率行业领先</title>
-    <link>https://openai.com/index/jalapeno-first-results</link>
-    <guid isPermaLink="false">openai.com/index/jalapeno-first-results-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>推理性能新标杆，直接影响模型部署成本与实时应用可行性。（官方 · OpenAI + Hacker News · 原题 Jalapeño’s first results show industry-leading speed and efficiency in AI inference）</description>
+    <title>家庭 AI 第二篇：多 GPU 漂移实践</title>
+    <link>https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html</link>
+    <guid isPermaLink="false">jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>自建 AI 硬核经验，多卡协同与稳定性问题，极客必读。（社区 · Lobste.rs · 原题 AI At Home Part 2: Multi GPU Drifting）</description>
   </item>
   <item>
-    <title>Anthropic 资助：更好评估 AI 对福祉影响</title>
+    <title>Anthropic 资助 AI 福祉影响评估</title>
     <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-    <guid isPermaLink="false">anthropic.com/news/wellbeing-research-grants-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>聚焦 AI 社会影响评估方法论，为负责任 AI 实践提供资金与方向。（官方 · Anthropic · 原题 Funding better evaluations of AI’s impact on wellbeing）</description>
-  </item>
-  <item>
-    <title>OpenAI 披露：瓦解俄罗斯新型隐蔽影响力行动</title>
-    <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
-    <guid isPermaLink="false">openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>揭示 AI 在安全对抗中的实际应用，关乎平台治理与信息战防御。（官方 · OpenAI · 原题 Disrupting a new covert influence campaign from Russia）</description>
-  </item>
-  <item>
-    <title>Granite 4.2 架构解析：Hugging Face 深度拆解</title>
-    <link>https://huggingface.co/blog/ibm-granite/granite-4-2</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-granite/granite-4-2-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>开源 LLM 构建细节全公开，对模型设计与优化者是一手教材。（博客 · Hugging Face · 原题 Granite 4.2 LLMs: How They're Built）</description>
-  </item>
-  <item>
-    <title>ai-job-search：Claude Code 驱动的本地求职框架</title>
-    <link>https://github.com/MadsLorentzen/ai-job-search</link>
-    <guid isPermaLink="false">github.com/MadsLorentzen/ai-job-search-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>AI 自动化求职全流程，提升职位筛选与申请效率的实用工具。（开源 · GitHub · 原题 MadsLorentzen/ai-job-search）</description>
-  </item>
-  <item>
-    <title>4-bit 量化疗愈：压缩模型反超原版精度</title>
-    <link>https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing</link>
-    <guid isPermaLink="false">huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing-2026-08-26</guid>
-    <pubDate>Wed, 26 Aug 2026 00:35:09 GMT</pubDate>
-    <description>量化技术新突破，证明低比特模型可超越全精度，优化部署新思路。（博客 · Hugging Face · 原题 Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original）</description>
+    <guid isPermaLink="false">anthropic.com/news/wellbeing-research-grants-2026-08-27</guid>
+    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
+    <description>AI 伦理量化评估获资金支持，为长期社会影响研究铺路。（官方 · Anthropic · 原题 Funding better evaluations of AI’s impact on wellbeing）</description>
   </item>
 </channel>
 </rss>
