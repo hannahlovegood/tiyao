@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 27 Aug 2026 05:29:57 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 28 Aug 2026 07:25:50 GMT</lastBuildDate>
   <item>
-    <title>GPT-Image2 提示词工程库：530 案例逆向拆解</title>
-    <link>https://github.com/freestylefly/awesome-gpt-image-2</link>
-    <guid isPermaLink="false">github.com/freestylefly/awesome-gpt-image-2-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>工业级模板与逆向案例，直接提升图像生成可控性，省去试错成本。（开源 · GitHub · 原题 freestylefly/awesome-gpt-image-2）</description>
+    <title>Archify：让架构图可验证的开源 Agent 技能</title>
+    <link>https://github.com/tt-a1i/archify</link>
+    <guid isPermaLink="false">github.com/tt-a1i/archify-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>自包含绘图技能，直击架构文档可信度痛点，值得一试。（开源 · GitHub · 原题 tt-a1i/archify）</description>
   </item>
   <item>
-    <title>CEO 为 AI 裁员，开发者开源 AI CEO 反讽</title>
-    <link>https://github.com/SenteLabsAI/OpenExecutive</link>
-    <guid isPermaLink="false">github.com/SenteLabsAI/OpenExecutive-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>折射人机替代焦虑，开源回应提供另类治理视角，值得关注。（社区 · Hacker News · 原题 CEO fired developers to make room for AI. Developers create open source AI CEO）</description>
+    <title>Gemini Omni 1.1 Flash 发布，强调可控性</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>多模态模型迭代，控制力提升对开发者是实打实的利好。（社区 · Hacker News · 原题 Gemini Omni 1.1 Flash）</description>
   </item>
   <item>
-    <title>Gemini 3.5 转写：智能转录新标杆</title>
-    <link>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</link>
-    <guid isPermaLink="false">deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>官方能力升级，语音转写精度与场景适配或成行业新基准。（官方 · DeepMind · 原题 Intelligent transcription with Gemini 3.5 Transcribe）</description>
+    <title>DeepMind 详解 Gemini Omni 1.1 Flash 新特性</title>
+    <link>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</link>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>官方解读，快速掌握新模型能力边界与适用场景。（官方 · DeepMind · 原题 Gemini Omni 1.1 Flash lets you build with more control）</description>
   </item>
   <item>
-    <title>ChatGPT 进美国学区，教师工具再扩围</title>
-    <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-    <guid isPermaLink="false">openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>教育场景落地加速，政策与产品双轮驱动，影响教学范式。（官方 · OpenAI · 原题 Bringing ChatGPT for Teachers to more U.S. school districts）</description>
+    <title>Google 搜索新增三种旅行规划与预订方式</title>
+    <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/book-travel-ai-mode-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>搜索场景深化，影响旅行类产品与用户习惯，值得关注。（官方 · Google AI · 原题 3 new ways to plan and book travel in Search）</description>
   </item>
   <item>
-    <title>AI 让学习永续：OpenAI 谈持续教育</title>
-    <link>https://openai.com/index/learning-never-stops</link>
-    <guid isPermaLink="false">openai.com/index/learning-never-stops-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>官方阐述 AI 教育理念，揭示产品设计对学习路径的重塑。（官方 · OpenAI · 原题 Learning never stops: How AI makes learning continuous）</description>
+    <title>OpenAI：ChatGPT 与批判性思维训练的关系</title>
+    <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
+    <guid isPermaLink="false">openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>教育场景实证，回应AI削弱思考的争议，有参考价值。（官方 · OpenAI · 原题 Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training）</description>
   </item>
   <item>
-    <title>Hugging Face 事件后，OpenAI 谈前路</title>
-    <link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
-    <guid isPermaLink="false">openai.com/index/hugging-face-incident-and-the-road-ahead-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>安全事件复盘与应对策略，对平台治理和开源生态有警示意义。（官方 · OpenAI + Hacker News · 原题 The Hugging Face incident and the road ahead）</description>
+    <title>法院裁定特朗普政府封禁 Anthropic 违法</title>
+    <link>https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</link>
+    <guid isPermaLink="false">nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>监管风向标，影响AI公司合规策略与行业信心。（社区 · Hacker News · 原题 Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal）</description>
   </item>
   <item>
-    <title>Google 搜索升级：五招焕新家居装饰</title>
-    <link>https://blog.google/products-and-platforms/products/search/home-decor-tips/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/home-decor-tips-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>多模态搜索落地消费场景，展示 AI 在生活决策中的实用价值。（官方 · Google AI · 原题 5 ways to upgrade your home decor with Google Search）</description>
+    <title>DeepMind 试点全球首个双盲 AI 评估</title>
+    <link>https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</link>
+    <guid isPermaLink="false">deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>评估方法创新，或成行业标准，对模型评测有启发。（官方 · DeepMind · 原题 Piloting the world's first double-blind AI evaluations）</description>
   </item>
   <item>
-    <title>多向量嵌入模型：Sentence Transformers 微调指南</title>
-    <link>https://huggingface.co/blog/train-multi-vector-encoder</link>
-    <guid isPermaLink="false">huggingface.co/blog/train-multi-vector-encoder-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>技术实操干货，覆盖训练与微调细节，对检索系统开发者直接有用。（博客 · Hugging Face · 原题 Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers）</description>
+    <title>OpenAI 扩大巴西布局，拓展全球市场</title>
+    <link>https://openai.com/index/expanding-our-presence-in-brazil</link>
+    <guid isPermaLink="false">openai.com/index/expanding-our-presence-in-brazil-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>新兴市场扩张信号，关注本地化与合规动向。（官方 · OpenAI · 原题 Expanding OpenAI’s presence in Brazil）</description>
   </item>
   <item>
-    <title>家庭 AI 第二篇：多 GPU 漂移实践</title>
-    <link>https://jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html</link>
-    <guid isPermaLink="false">jdagostino.github.io/ai-pt2-multi-gpu-drifting/index.html-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>自建 AI 硬核经验，多卡协同与稳定性问题，极客必读。（社区 · Lobste.rs · 原题 AI At Home Part 2: Multi GPU Drifting）</description>
+    <title>破解 Claude Code Opus 5 自动模式限制</title>
+    <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>逆向工程细节，揭示模型边界，对开发者有实操价值。（博客 · Simon Willison · 原题 Breaking Claude Code Opus 5 Auto Mode）</description>
   </item>
   <item>
-    <title>Anthropic 资助 AI 福祉影响评估</title>
-    <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
-    <guid isPermaLink="false">anthropic.com/news/wellbeing-research-grants-2026-08-27</guid>
-    <pubDate>Thu, 27 Aug 2026 05:29:57 GMT</pubDate>
-    <description>AI 伦理量化评估获资金支持，为长期社会影响研究铺路。（官方 · Anthropic · 原题 Funding better evaluations of AI’s impact on wellbeing）</description>
+    <title>Anthropic 扩展对科学家的支持计划</title>
+    <link>https://www.anthropic.com/news/expanding-support-for-scientists</link>
+    <guid isPermaLink="false">anthropic.com/news/expanding-support-for-scientists-2026-08-28</guid>
+    <pubDate>Fri, 28 Aug 2026 07:25:50 GMT</pubDate>
+    <description>科研场景深化，体现AI在科学发现中的实际投入。（官方 · Anthropic · 原题 Expanding our support for scientists）</description>
   </item>
 </channel>
 </rss>
