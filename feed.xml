@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 29 Aug 2026 04:36:23 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 02:07:51 GMT</lastBuildDate>
   <item>
-    <title>Archify：让架构图可验证的开源 Agent 技能</title>
+    <title>Archify：开源 Agent 技能，一键生成可验证架构图</title>
     <link>https://github.com/tt-a1i/archify</link>
-    <guid isPermaLink="false">github.com/tt-a1i/archify-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>自包含绘图技能，直击架构文档可信度痛点，值得架构师一试。（开源 · GitHub · 原题 tt-a1i/archify）</description>
+    <guid isPermaLink="false">github.com/tt-a1i/archify-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>自包含绘图技能，直击架构文档痛点，值得架构师与 Agent 开发者一试。（开源 · GitHub · 原题 tt-a1i/archify）</description>
   </item>
   <item>
-    <title>OpenAI 回应 SpaceX 收购 Cursor 决定</title>
+    <title>OpenAI 回应收购：Cursor 命运尘埃落定</title>
     <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-    <guid isPermaLink="false">openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>揭示巨头对 AI 编程工具战略走向，影响开发者生态布局。（官方 · OpenAI · 原题 Our decision on Cursor following its acquisition by SpaceX）</description>
+    <guid isPermaLink="false">openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>官方定调影响开发者工具生态走向，关注 AI 编程赛道者必读。（官方 · OpenAI · 原题 Our decision on Cursor following its acquisition by SpaceX）</description>
   </item>
   <item>
-    <title>OpenAI 扶持泰国 AI 初创下一代</title>
+    <title>OpenAI 扶持泰国 AI 初创，东南亚版图再落一子</title>
     <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
-    <guid isPermaLink="false">openai.com/index/supporting-next-generation-ai-startups-thailand-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>东南亚市场布局信号明确，关注出海与本地化机会者必读。（官方 · OpenAI · 原题 Supporting Thailand’s next generation of AI startups）</description>
+    <guid isPermaLink="false">openai.com/index/supporting-next-generation-ai-startups-thailand-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>区域战略信号明确，出海创业者可借此窥见政策与资源风向。（官方 · OpenAI · 原题 Supporting Thailand’s next generation of AI startups）</description>
   </item>
   <item>
-    <title>法院裁定 Anthropic 被列黑名单违法</title>
-    <link>https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</link>
-    <guid isPermaLink="false">nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>AI 监管司法判例，直接影响企业合规与政策预期。（社区 · Hacker News · 原题 Judge rules Trump administration’s blacklisting of Anthropic was illegal）</description>
-  </item>
-  <item>
-    <title>Gemini Omni 1.1 Flash：更可控构建</title>
+    <title>Gemini Omni 1.1 Flash 发布，多模态控制更精细</title>
     <link>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</link>
-    <guid isPermaLink="false">deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>多模态模型控制力升级，降低开发门槛，实用价值高。（官方 · DeepMind · 原题 Gemini Omni 1.1 Flash lets you build with more control）</description>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>新模型强化可控性，多模态应用开发者应关注其能力边界与成本。（官方 · DeepMind · 原题 Gemini Omni 1.1 Flash lets you build with more control）</description>
   </item>
   <item>
-    <title>Google 搜索新增三种旅行规划方式</title>
+    <title>Google 搜索新增三招，旅行规划更省心</title>
     <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/book-travel-ai-mode-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>AI 落地消费场景，改变用户行为，旅游从业者需跟进。（官方 · Google AI · 原题 3 new ways to plan and book travel in Search）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/book-travel-ai-mode-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>搜索集成 AI 规划，直接影响用户习惯，旅游与搜索从业者需跟进。（官方 · Google AI · 原题 3 new ways to plan and book travel in Search）</description>
   </item>
   <item>
-    <title>ChatGPT 与批判性思维训练的学生收益</title>
+    <title>ChatGPT 训练提升批判性思维，实证效果几何</title>
     <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
-    <guid isPermaLink="false">openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>教育场景实证数据，为 AI 教学产品设计提供参考。（官方 · OpenAI · 原题 Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training）</description>
+    <guid isPermaLink="false">openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>教育场景数据难得，揭示 AI 对认知能力的影响，教育科技者参考。（官方 · OpenAI · 原题 Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training）</description>
   </item>
   <item>
-    <title>开源 ASR 榜单首纳南半球语言</title>
+    <title>开源 ASR 榜单首纳南半球语言，评测更全面</title>
     <link>https://huggingface.co/blog/open-asr-leaderboard-global-south</link>
-    <guid isPermaLink="false">huggingface.co/blog/open-asr-leaderboard-global-south-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>语音技术公平性里程碑，多语言开发者应关注评测基准。（博客 · Hugging Face · 原题 The Open ASR Leaderboard Adds Its First Global South Language）</description>
+    <guid isPermaLink="false">huggingface.co/blog/open-asr-leaderboard-global-south-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>填补语音识别评测空白，多语言模型开发者可借此校准自家系统。（博客 · Hugging Face · 原题 The Open ASR Leaderboard Adds Its First Global South Language）</description>
   </item>
   <item>
-    <title>DeepMind 试点全球首个双盲 AI 评估</title>
+    <title>DeepMind 首创双盲 AI 评测，减少主观偏差</title>
     <link>https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</link>
-    <guid isPermaLink="false">deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>评估方法论创新，减少偏见，对模型评测领域具标杆意义。（官方 · DeepMind · 原题 Piloting the world's first double-blind AI evaluations）</description>
+    <guid isPermaLink="false">deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>评测方法论革新，对 AI 基准测试设计与结果可信度有直接启示。（官方 · DeepMind · 原题 Piloting the world's first double-blind AI evaluations）</description>
   </item>
   <item>
-    <title>破解 Claude Code Opus 5 自动模式</title>
+    <title>破解 Claude Code Opus 5 自动模式，细节全公开</title>
     <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode-2026-08-29</guid>
-    <pubDate>Sat, 29 Aug 2026 04:36:23 GMT</pubDate>
-    <description>深度技术拆解，揭示前沿 Agent 能力边界，实操党必看。（博客 · Simon Willison · 原题 Breaking Claude Code Opus 5 Auto Mode）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>深度逆向分析揭示模型行为边界，对提示工程与安全研究极具价值。（博客 · Simon Willison · 原题 Breaking Claude Code Opus 5 Auto Mode）</description>
+  </item>
+  <item>
+    <title>Gemini Omni 1.1 Flash 登热榜，社区实测反馈热</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash-2026-08-30</guid>
+    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
+    <description>社区一手体验汇总，开发者可快速判断是否值得迁移或集成。（社区 · Hacker News · 原题 Gemini Omni 1.1 Flash）</description>
   </item>
 </channel>
 </rss>
