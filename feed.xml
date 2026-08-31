@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 30 Aug 2026 02:07:51 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 02:03:22 GMT</lastBuildDate>
   <item>
-    <title>Archify：开源 Agent 技能，一键生成可验证架构图</title>
+    <title>Archify：让 AI 画图自带可验证架构</title>
     <link>https://github.com/tt-a1i/archify</link>
-    <guid isPermaLink="false">github.com/tt-a1i/archify-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>自包含绘图技能，直击架构文档痛点，值得架构师与 Agent 开发者一试。（开源 · GitHub · 原题 tt-a1i/archify）</description>
+    <guid isPermaLink="false">github.com/tt-a1i/archify-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>自包含绘图技能，解决 AI 生成图表不可验证的痛点，架构师可直接落地。（开源 · GitHub · 原题 tt-a1i/archify）</description>
   </item>
   <item>
-    <title>OpenAI 回应收购：Cursor 命运尘埃落定</title>
+    <title>Claude 会话链接默认写入提交信息</title>
+    <link>https://github.com/anthropics/claude-code/issues/66504</link>
+    <guid isPermaLink="false">github.com/anthropics/claude-code/issues/66504-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>改变 AI 辅助开发的可追溯性，代码审查与调试效率直接提升。（社区 · Hacker News · 原题 Claude Session URL appended to commit messages and PR descriptions by default）</description>
+  </item>
+  <item>
+    <title>理解 ChatGPT 工作方式</title>
+    <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/30/understanding-chatgpt-work-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>Simon Willison 深度拆解，帮你避开对模型能力的常见误判。（博客 · Simon Willison · 原题 Understanding ChatGPT Work）</description>
+  </item>
+  <item>
+    <title>智能体文明的兴衰</title>
+    <link>https://www.dwarkesh.com/p/openai-huggingface</link>
+    <guid isPermaLink="false">dwarkesh.com/p/openai-huggingface-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>从系统视角看多智能体协作的脆弱性，对设计稳健 Agent 有直接参考。（社区 · Hacker News · 原题 The Rise and Fall of Agent Civilizations）</description>
+  </item>
+  <item>
+    <title>OpenAI 对 Cursor 被收购的决策</title>
     <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-    <guid isPermaLink="false">openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>官方定调影响开发者工具生态走向，关注 AI 编程赛道者必读。（官方 · OpenAI · 原题 Our decision on Cursor following its acquisition by SpaceX）</description>
+    <guid isPermaLink="false">openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>官方定调，直接影响开发者对 AI 编程工具生态的选型判断。（官方 · OpenAI · 原题 Our decision on Cursor following its acquisition by SpaceX）</description>
   </item>
   <item>
-    <title>OpenAI 扶持泰国 AI 初创，东南亚版图再落一子</title>
-    <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
-    <guid isPermaLink="false">openai.com/index/supporting-next-generation-ai-startups-thailand-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>区域战略信号明确，出海创业者可借此窥见政策与资源风向。（官方 · OpenAI · 原题 Supporting Thailand’s next generation of AI startups）</description>
+    <title>OpenMAIC：一键沉浸式多智能体课堂</title>
+    <link>https://github.com/THU-MAIC/OpenMAIC</link>
+    <guid isPermaLink="false">github.com/THU-MAIC/OpenMAIC-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>开源交互式教学环境，降低多智能体系统学习与演示门槛。（开源 · GitHub · 原题 THU-MAIC/OpenMAIC）</description>
   </item>
   <item>
-    <title>Gemini Omni 1.1 Flash 发布，多模态控制更精细</title>
-    <link>https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/</link>
-    <guid isPermaLink="false">deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>新模型强化可控性，多模态应用开发者应关注其能力边界与成本。（官方 · DeepMind · 原题 Gemini Omni 1.1 Flash lets you build with more control）</description>
+    <title>科学 Agent 技能库：190K 科学家在用</title>
+    <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
+    <guid isPermaLink="false">github.com/K-Dense-AI/scientific-agent-skills-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>将通用 Agent 转为科研助手，覆盖实验设计到论文写作全流程。（开源 · GitHub · 原题 K-Dense-AI/scientific-agent-skills）</description>
   </item>
   <item>
-    <title>Google 搜索新增三招，旅行规划更省心</title>
-    <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/book-travel-ai-mode-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>搜索集成 AI 规划，直接影响用户习惯，旅游与搜索从业者需跟进。（官方 · Google AI · 原题 3 new ways to plan and book travel in Search）</description>
+    <title>PAWBench：概率对齐世界建模评测</title>
+    <link>https://huggingface.co/papers/2608.27345</link>
+    <guid isPermaLink="false">huggingface.co/papers/2608.27345-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>首个系统评测基准，量化模型对世界不确定性的把握能力。（论文 · HF Papers · 原题 PAWBench: How Far Are We from Probabilistically Aligned World Modeling?）</description>
   </item>
   <item>
-    <title>ChatGPT 训练提升批判性思维，实证效果几何</title>
-    <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
-    <guid isPermaLink="false">openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>教育场景数据难得，揭示 AI 对认知能力的影响，教育科技者参考。（官方 · OpenAI · 原题 Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training）</description>
+    <title>UrbanGround：从局部感知到城市级空间智能</title>
+    <link>https://huggingface.co/papers/2608.27456</link>
+    <guid isPermaLink="false">huggingface.co/papers/2608.27456-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>真实尺度城市建模，为具身智能与空间推理提供新测试场。（论文 · HF Papers · 原题 UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City）</description>
   </item>
   <item>
-    <title>开源 ASR 榜单首纳南半球语言，评测更全面</title>
-    <link>https://huggingface.co/blog/open-asr-leaderboard-global-south</link>
-    <guid isPermaLink="false">huggingface.co/blog/open-asr-leaderboard-global-south-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>填补语音识别评测空白，多语言模型开发者可借此校准自家系统。（博客 · Hugging Face · 原题 The Open ASR Leaderboard Adds Its First Global South Language）</description>
-  </item>
-  <item>
-    <title>DeepMind 首创双盲 AI 评测，减少主观偏差</title>
-    <link>https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</link>
-    <guid isPermaLink="false">deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>评测方法论革新，对 AI 基准测试设计与结果可信度有直接启示。（官方 · DeepMind · 原题 Piloting the world's first double-blind AI evaluations）</description>
-  </item>
-  <item>
-    <title>破解 Claude Code Opus 5 自动模式，细节全公开</title>
-    <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>深度逆向分析揭示模型行为边界，对提示工程与安全研究极具价值。（博客 · Simon Willison · 原题 Breaking Claude Code Opus 5 Auto Mode）</description>
-  </item>
-  <item>
-    <title>Gemini Omni 1.1 Flash 登热榜，社区实测反馈热</title>
-    <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash-2026-08-30</guid>
-    <pubDate>Sun, 30 Aug 2026 02:07:51 GMT</pubDate>
-    <description>社区一手体验汇总，开发者可快速判断是否值得迁移或集成。（社区 · Hacker News · 原题 Gemini Omni 1.1 Flash）</description>
+    <title>连续扩散语言模型：生成新范式</title>
+    <link>https://sander.ai/2026/08/24/continuous-dlms.html</link>
+    <guid isPermaLink="false">sander.ai/2026/08/24/continuous-dlms.html-2026-08-31</guid>
+    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
+    <description>突破离散 token 限制，可能重塑长文本生成与推理效率。（社区 · Hacker News · 原题 Continuous Diffusion Language Models (CDLM's)）</description>
   </item>
 </channel>
 </rss>
