@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 31 Aug 2026 02:03:22 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 01 Sep 2026 02:24:06 GMT</lastBuildDate>
   <item>
     <title>Archify：让 AI 画图自带可验证架构</title>
     <link>https://github.com/tt-a1i/archify</link>
-    <guid isPermaLink="false">github.com/tt-a1i/archify-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>自包含绘图技能，解决 AI 生成图表不可验证的痛点，架构师可直接落地。（开源 · GitHub · 原题 tt-a1i/archify）</description>
+    <guid isPermaLink="false">github.com/tt-a1i/archify-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>架构图工具稀缺，自包含验证能力直击工程痛点。（开源 · GitHub · 原题 tt-a1i/archify）</description>
   </item>
   <item>
-    <title>Claude 会话链接默认写入提交信息</title>
-    <link>https://github.com/anthropics/claude-code/issues/66504</link>
-    <guid isPermaLink="false">github.com/anthropics/claude-code/issues/66504-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>改变 AI 辅助开发的可追溯性，代码审查与调试效率直接提升。（社区 · Hacker News · 原题 Claude Session URL appended to commit messages and PR descriptions by default）</description>
+    <title>OpenAI 买万台 Mac，苹果变身 AI 基建股</title>
+    <link>https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/</link>
+    <guid isPermaLink="false">247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>揭示大模型训练硬件新选择，影响供应链判断。（社区 · Hacker News · 原题 Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs）</description>
   </item>
   <item>
-    <title>理解 ChatGPT 工作方式</title>
-    <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/30/understanding-chatgpt-work-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>Simon Willison 深度拆解，帮你避开对模型能力的常见误判。（博客 · Simon Willison · 原题 Understanding ChatGPT Work）</description>
+    <title>Polimill 为日本打造下一代公共 AI 基建</title>
+    <link>https://openai.com/index/polimill</link>
+    <guid isPermaLink="false">openai.com/index/polimill-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>官方背书案例，看 AI 如何嵌入国家数字战略。（官方 · OpenAI · 原题 Polimill builds Japan's next-generation public AI infrastructure）</description>
   </item>
   <item>
-    <title>智能体文明的兴衰</title>
-    <link>https://www.dwarkesh.com/p/openai-huggingface</link>
-    <guid isPermaLink="false">dwarkesh.com/p/openai-huggingface-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>从系统视角看多智能体协作的脆弱性，对设计稳健 Agent 有直接参考。（社区 · Hacker News · 原题 The Rise and Fall of Agent Civilizations）</description>
+    <title>OpenAI 扩大 AI 可及性的里程碑</title>
+    <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
+    <guid isPermaLink="false">openai.com/index/expanding-access-to-ai-with-chatgpt-ads-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>解读模型开放节奏，预判生态普及路径。（官方 · OpenAI · 原题 A milestone in expanding access to AI）</description>
   </item>
   <item>
-    <title>OpenAI 对 Cursor 被收购的决策</title>
-    <link>https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex</link>
-    <guid isPermaLink="false">openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>官方定调，直接影响开发者对 AI 编程工具生态的选型判断。（官方 · OpenAI · 原题 Our decision on Cursor following its acquisition by SpaceX）</description>
+    <title>Anthropic 强化对齐与安全投入</title>
+    <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
+    <guid isPermaLink="false">anthropic.com/news/improving-alignment-security-efforts-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>安全研究优先级信号，影响合规与风险策略。（官方 · Anthropic · 原题 Improving our alignment and security efforts）</description>
   </item>
   <item>
-    <title>OpenMAIC：一键沉浸式多智能体课堂</title>
+    <title>OpenMAIC：一键开启多智能体沉浸课堂</title>
     <link>https://github.com/THU-MAIC/OpenMAIC</link>
-    <guid isPermaLink="false">github.com/THU-MAIC/OpenMAIC-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>开源交互式教学环境，降低多智能体系统学习与演示门槛。（开源 · GitHub · 原题 THU-MAIC/OpenMAIC）</description>
+    <guid isPermaLink="false">github.com/THU-MAIC/OpenMAIC-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>多智能体教学场景落地，教育 AI 新范式。（开源 · GitHub · 原题 THU-MAIC/OpenMAIC）</description>
   </item>
   <item>
-    <title>科学 Agent 技能库：190K 科学家在用</title>
+    <title>理解 ChatGPT 工作机理的实用指南</title>
+    <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Aug/30/understanding-chatgpt-work-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>作者深度拆解，助你避开使用与集成误区。（博客 · Simon Willison · 原题 Understanding ChatGPT Work）</description>
+  </item>
+  <item>
+    <title>欧盟拟收紧 ChatGPT 监管</title>
+    <link>https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa</link>
+    <guid isPermaLink="false">theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>合规风险升级，出海产品需提前调整策略。（社区 · Hacker News · 原题 ChatGPT to face tougher regulation in the EU）</description>
+  </item>
+  <item>
+    <title>数据变代码：用公开文件驱动财富 500 强</title>
+    <link>https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc</link>
+    <guid isPermaLink="false">medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>展示 AI Agent 数据利用新法，启发企业自动化。（社区 · Lobste.rs · 原题 Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents）</description>
+  </item>
+  <item>
+    <title>科学 Agent 技能库：19 万科学家在用</title>
     <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-    <guid isPermaLink="false">github.com/K-Dense-AI/scientific-agent-skills-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>将通用 Agent 转为科研助手，覆盖实验设计到论文写作全流程。（开源 · GitHub · 原题 K-Dense-AI/scientific-agent-skills）</description>
-  </item>
-  <item>
-    <title>PAWBench：概率对齐世界建模评测</title>
-    <link>https://huggingface.co/papers/2608.27345</link>
-    <guid isPermaLink="false">huggingface.co/papers/2608.27345-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>首个系统评测基准，量化模型对世界不确定性的把握能力。（论文 · HF Papers · 原题 PAWBench: How Far Are We from Probabilistically Aligned World Modeling?）</description>
-  </item>
-  <item>
-    <title>UrbanGround：从局部感知到城市级空间智能</title>
-    <link>https://huggingface.co/papers/2608.27456</link>
-    <guid isPermaLink="false">huggingface.co/papers/2608.27456-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>真实尺度城市建模，为具身智能与空间推理提供新测试场。（论文 · HF Papers · 原题 UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City）</description>
-  </item>
-  <item>
-    <title>连续扩散语言模型：生成新范式</title>
-    <link>https://sander.ai/2026/08/24/continuous-dlms.html</link>
-    <guid isPermaLink="false">sander.ai/2026/08/24/continuous-dlms.html-2026-08-31</guid>
-    <pubDate>Mon, 31 Aug 2026 02:03:22 GMT</pubDate>
-    <description>突破离散 token 限制，可能重塑长文本生成与推理效率。（社区 · Hacker News · 原题 Continuous Diffusion Language Models (CDLM's)）</description>
+    <guid isPermaLink="false">github.com/K-Dense-AI/scientific-agent-skills-2026-09-01</guid>
+    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
+    <description>科研自动化工具集，提升实验与文献效率。（开源 · GitHub · 原题 K-Dense-AI/scientific-agent-skills）</description>
   </item>
 </channel>
 </rss>
