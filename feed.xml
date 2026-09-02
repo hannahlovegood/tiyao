@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 01 Sep 2026 02:24:06 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 01:45:42 GMT</lastBuildDate>
   <item>
-    <title>Archify：让 AI 画图自带可验证架构</title>
-    <link>https://github.com/tt-a1i/archify</link>
-    <guid isPermaLink="false">github.com/tt-a1i/archify-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>架构图工具稀缺，自包含验证能力直击工程痛点。（开源 · GitHub · 原题 tt-a1i/archify）</description>
-  </item>
-  <item>
-    <title>OpenAI 买万台 Mac，苹果变身 AI 基建股</title>
-    <link>https://247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands/</link>
-    <guid isPermaLink="false">247wallst.com/investing/2026/08/31/apple-is-suddenly-an-ai-infrastructure-stock-as-openai-buys-macs-by-the-tens-of-thousands-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>揭示大模型训练硬件新选择，影响供应链判断。（社区 · Hacker News · 原题 Apple Is Suddenly an AI Infra Stock as OpenAI Buys 10k+ Macs）</description>
-  </item>
-  <item>
-    <title>Polimill 为日本打造下一代公共 AI 基建</title>
-    <link>https://openai.com/index/polimill</link>
-    <guid isPermaLink="false">openai.com/index/polimill-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>官方背书案例，看 AI 如何嵌入国家数字战略。（官方 · OpenAI · 原题 Polimill builds Japan's next-generation public AI infrastructure）</description>
-  </item>
-  <item>
-    <title>OpenAI 扩大 AI 可及性的里程碑</title>
-    <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
-    <guid isPermaLink="false">openai.com/index/expanding-access-to-ai-with-chatgpt-ads-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>解读模型开放节奏，预判生态普及路径。（官方 · OpenAI · 原题 A milestone in expanding access to AI）</description>
-  </item>
-  <item>
-    <title>Anthropic 强化对齐与安全投入</title>
-    <link>https://www.anthropic.com/news/improving-alignment-security-efforts</link>
-    <guid isPermaLink="false">anthropic.com/news/improving-alignment-security-efforts-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>安全研究优先级信号，影响合规与风险策略。（官方 · Anthropic · 原题 Improving our alignment and security efforts）</description>
-  </item>
-  <item>
-    <title>OpenMAIC：一键开启多智能体沉浸课堂</title>
+    <title>THU-MAIC/OpenMAIC</title>
     <link>https://github.com/THU-MAIC/OpenMAIC</link>
-    <guid isPermaLink="false">github.com/THU-MAIC/OpenMAIC-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>多智能体教学场景落地，教育 AI 新范式。（开源 · GitHub · 原题 THU-MAIC/OpenMAIC）</description>
+    <guid isPermaLink="false">github.com/THU-MAIC/OpenMAIC-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>GitHub 今日新增 3128 星，正在起势的开源项目。（开源 · GitHub）</description>
   </item>
   <item>
-    <title>理解 ChatGPT 工作机理的实用指南</title>
-    <link>https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Aug/30/understanding-chatgpt-work-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>作者深度拆解，助你避开使用与集成误区。（博客 · Simon Willison · 原题 Understanding ChatGPT Work）</description>
+    <title>Claude Fable 5.1 and Claude Mythos 5.1</title>
+    <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
+    <guid isPermaLink="false">anthropic.com/claude-fable-and-mythos-5-1-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>发布不到 8 小时就冲进榜单，时效性强。（社区 · Hacker News）</description>
   </item>
   <item>
-    <title>欧盟拟收紧 ChatGPT 监管</title>
-    <link>https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa</link>
-    <guid isPermaLink="false">theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>合规风险升级，出海产品需提前调整策略。（社区 · Hacker News · 原题 ChatGPT to face tougher regulation in the EU）</description>
+    <title>How AI-native companies turn workflows into operating capability</title>
+    <link>https://openai.com/index/ai-native-company-workflows</link>
+    <guid isPermaLink="false">openai.com/index/ai-native-company-workflows-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>OpenAI 官方发布，一手信息，今天刚出。（官方 · OpenAI）</description>
   </item>
   <item>
-    <title>数据变代码：用公开文件驱动财富 500 强</title>
-    <link>https://medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc</link>
-    <guid isPermaLink="false">medium.com/@alonhertz1/data-became-code-we-ran-code-inside-fortune-500s-using-files-they-published-for-ai-agents-0cd67ffbbffc-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>展示 AI Agent 数据利用新法，启发企业自动化。（社区 · Lobste.rs · 原题 Data Became Code: We Ran Code Inside Fortune 500s Using Files They Published for AI Agents）</description>
+    <title>The latest AI news we announced in August 2026</title>
+    <link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/google-ai-updates-august-2026-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>Google AI 官方发布，一手信息，今天刚出。（官方 · Google AI）</description>
   </item>
   <item>
-    <title>科学 Agent 技能库：19 万科学家在用</title>
-    <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-    <guid isPermaLink="false">github.com/K-Dense-AI/scientific-agent-skills-2026-09-01</guid>
-    <pubDate>Tue, 01 Sep 2026 02:24:06 GMT</pubDate>
-    <description>科研自动化工具集，提升实验与文献效率。（开源 · GitHub · 原题 K-Dense-AI/scientific-agent-skills）</description>
+    <title>Path to Astra: critical capabilities and frontier safeguards</title>
+    <link>https://openai.com/index/path-to-astra</link>
+    <guid isPermaLink="false">openai.com/index/path-to-astra-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>OpenAI 官方发布，一手信息，今天刚出。（官方 · OpenAI）</description>
+  </item>
+  <item>
+    <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
+    <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
+    <guid isPermaLink="false">openai.com/index/chatgpt-connects-health-records-and-healthcare-sources-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>OpenAI 官方发布，一手信息，今天刚出。（官方 · OpenAI）</description>
+  </item>
+  <item>
+    <title>Introducing agentic video understanding with Gemini</title>
+    <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-agentic-video-in-gemini-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>DeepMind 官方发布，一手信息，今天刚出。（官方 · DeepMind）</description>
+  </item>
+  <item>
+    <title>Try Google Pics: Easy image creation and editing in Google Workspace</title>
+    <link>https://blog.google/products-and-platforms/products/workspace/google-pics/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/workspace/google-pics-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>Google AI 官方发布，一手信息，今天刚出。（官方 · Google AI）</description>
+  </item>
+  <item>
+    <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
+    <link>https://huggingface.co/blog/allenai/benchmirt</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/benchmirt-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>Hugging Face 出品，长期高信噪比的信源。（博客 · Hugging Face）</description>
+  </item>
+  <item>
+    <title>Claude Fable 5.1 made me a really nice animated pelican</title>
+    <link>https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/1/claude-fable-5-1-2026-09-02</guid>
+    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
+    <description>Simon Willison 出品，长期高信噪比的信源。（博客 · Simon Willison + Hacker News）</description>
   </item>
 </channel>
 </rss>
