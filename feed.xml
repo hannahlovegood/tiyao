@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 02 Sep 2026 01:45:42 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 03 Sep 2026 01:51:36 GMT</lastBuildDate>
   <item>
-    <title>THU-MAIC/OpenMAIC</title>
-    <link>https://github.com/THU-MAIC/OpenMAIC</link>
-    <guid isPermaLink="false">github.com/THU-MAIC/OpenMAIC-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>GitHub 今日新增 3128 星，正在起势的开源项目。（开源 · GitHub）</description>
+    <title>Ponytail：让 AI 像最懒资深工程师一样少写代码</title>
+    <link>https://github.com/DietrichGebert/ponytail</link>
+    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>直击代码量膨胀痛点，提供反直觉的极简生成范式。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
   </item>
   <item>
-    <title>Claude Fable 5.1 and Claude Mythos 5.1</title>
-    <link>https://www.anthropic.com/claude-fable-and-mythos-5-1</link>
-    <guid isPermaLink="false">anthropic.com/claude-fable-and-mythos-5-1-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>发布不到 8 小时就冲进榜单，时效性强。（社区 · Hacker News）</description>
+    <title>OpenAI 案例：ChatGPT 将三天工作量压缩至三小时</title>
+    <link>https://openai.com/index/atv-big-air-tour</link>
+    <guid isPermaLink="false">openai.com/index/atv-big-air-tour-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>官方真实案例，量化 AI 对项目周期的实际压缩效果。（官方 · OpenAI · 原题 ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT）</description>
   </item>
   <item>
-    <title>How AI-native companies turn workflows into operating capability</title>
+    <title>DeepMind 推主动式网络防御，面向政府与企业</title>
+    <link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
+    <guid isPermaLink="false">deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>安全从被动响应转向主动防御，企业需评估新范式。（官方 · DeepMind · 原题 Proactive cyber defense for governments and enterprises）</description>
+  </item>
+  <item>
+    <title>Gemini 3.8 Flash 及 Cyber 版发布</title>
+    <link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>新模型迭代，Flash 系列性价比与安全能力值得关注。（官方 · DeepMind · 原题 Introducing Gemini 3.8 Flash and 3.8 Flash Cyber）</description>
+  </item>
+  <item>
+    <title>Google AI 发布政府与企业主动网络防御方案</title>
+    <link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/safety-security/fairwind-program-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>与 DeepMind 方案并列，巨头竞逐安全赛道信号明确。（官方 · Google AI · 原题 Proactive cyber defense for governments and enterprises）</description>
+  </item>
+  <item>
+    <title>Hugging Face 博客：IBM 时序模型集成 Confluent 实时分析</title>
+    <link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-research/real-time-intelligence-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>时序预测与流处理结合，为实时决策提供开源参考。（博客 · Hugging Face · 原题 Real-Time Intelligence with IBM Time Series Models on Confluent）</description>
+  </item>
+  <item>
+    <title>llm-gemini 0.34 版本更新</title>
+    <link>https://simonwillison.net/2026/Sep/2/llm-gemini/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/2/llm-gemini-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>命令行工具迭代，开发者需跟进 API 变化与性能改进。（博客 · Simon Willison · 原题 llm-gemini 0.34）</description>
+  </item>
+  <item>
+    <title>Claude 新系统提示词严防歌词复现</title>
+    <link>https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/2/claudes-new-system-prompt-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>版权约束策略调整，影响生成式 AI 内容合规边界。（博客 · Simon Willison · 原题 Claude's new system prompt really doesn't want to reproduce song lyrics）</description>
+  </item>
+  <item>
+    <title>OpenAI 谈 AI 原生公司如何将流程转为运营能力</title>
     <link>https://openai.com/index/ai-native-company-workflows</link>
-    <guid isPermaLink="false">openai.com/index/ai-native-company-workflows-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>OpenAI 官方发布，一手信息，今天刚出。（官方 · OpenAI）</description>
+    <guid isPermaLink="false">openai.com/index/ai-native-company-workflows-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>从工具到组织能力的方法论，对转型决策者有参考价值。（官方 · OpenAI · 原题 How AI-native companies turn workflows into operating capability）</description>
   </item>
   <item>
-    <title>The latest AI news we announced in August 2026</title>
+    <title>Google AI 盘点 2026 年 8 月重点新闻</title>
     <link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/google-ai-updates-august-2026-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>Google AI 官方发布，一手信息，今天刚出。（官方 · Google AI）</description>
-  </item>
-  <item>
-    <title>Path to Astra: critical capabilities and frontier safeguards</title>
-    <link>https://openai.com/index/path-to-astra</link>
-    <guid isPermaLink="false">openai.com/index/path-to-astra-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>OpenAI 官方发布，一手信息，今天刚出。（官方 · OpenAI）</description>
-  </item>
-  <item>
-    <title>Healthcare organizations can now connect EHR and additional industry data to ChatGPT</title>
-    <link>https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources</link>
-    <guid isPermaLink="false">openai.com/index/chatgpt-connects-health-records-and-healthcare-sources-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>OpenAI 官方发布，一手信息，今天刚出。（官方 · OpenAI）</description>
-  </item>
-  <item>
-    <title>Introducing agentic video understanding with Gemini</title>
-    <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-agentic-video-in-gemini-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>DeepMind 官方发布，一手信息，今天刚出。（官方 · DeepMind）</description>
-  </item>
-  <item>
-    <title>Try Google Pics: Easy image creation and editing in Google Workspace</title>
-    <link>https://blog.google/products-and-platforms/products/workspace/google-pics/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/workspace/google-pics-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>Google AI 官方发布，一手信息，今天刚出。（官方 · Google AI）</description>
-  </item>
-  <item>
-    <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
-    <link>https://huggingface.co/blog/allenai/benchmirt</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/benchmirt-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>Hugging Face 出品，长期高信噪比的信源。（博客 · Hugging Face）</description>
-  </item>
-  <item>
-    <title>Claude Fable 5.1 made me a really nice animated pelican</title>
-    <link>https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/1/claude-fable-5-1-2026-09-02</guid>
-    <pubDate>Wed, 02 Sep 2026 01:45:42 GMT</pubDate>
-    <description>Simon Willison 出品，长期高信噪比的信源。（博客 · Simon Willison + Hacker News）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/google-ai-updates-august-2026-2026-09-03</guid>
+    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
+    <description>官方月度汇总，快速掌握巨头动态与行业风向标。（官方 · Google AI · 原题 The latest AI news we announced in August 2026）</description>
   </item>
 </channel>
 </rss>
