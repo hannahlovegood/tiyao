@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 03 Sep 2026 01:51:36 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 01:46:04 GMT</lastBuildDate>
   <item>
-    <title>Ponytail：让 AI 像最懒资深工程师一样少写代码</title>
+    <title>Ponytail：让 AI 代理像最懒资深工程师一样思考</title>
     <link>https://github.com/DietrichGebert/ponytail</link>
-    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>直击代码量膨胀痛点，提供反直觉的极简生成范式。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
+    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>直击代码减量核心，开源项目可立即验证，对工程效率有实操启发。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
   </item>
   <item>
-    <title>OpenAI 案例：ChatGPT 将三天工作量压缩至三小时</title>
-    <link>https://openai.com/index/atv-big-air-tour</link>
-    <guid isPermaLink="false">openai.com/index/atv-big-air-tour-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>官方真实案例，量化 AI 对项目周期的实际压缩效果。（官方 · OpenAI · 原题 ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT）</description>
+    <title>GPT-6 Astra 引爆社区热议，能力边界成焦点</title>
+    <link>https://openai.com/index/gpt-6-astra/</link>
+    <guid isPermaLink="false">openai.com/index/gpt-6-astra-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>下一代模型风向标，社区讨论揭示真实用例与潜在局限，值得追踪。（社区 · Hacker News · 原题 GPT-6 Astra）</description>
   </item>
   <item>
-    <title>DeepMind 推主动式网络防御，面向政府与企业</title>
+    <title>OpenAI 投 10 亿美元，守护关键服务前线</title>
+    <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
+    <guid isPermaLink="false">openai.com/index/daybreak-for-frontline-defenders-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>大厂战略转向安全应用，预示 AI 在基础设施防护的商用蓝海。（官方 · OpenAI · 原题 Daybreak for Frontline Defenders: $1B to protect essential services）</description>
+  </item>
+  <item>
+    <title>Legora 用 GPT-6 Astra 数分钟审阅 41 份文档</title>
+    <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+    <guid isPermaLink="false">openai.com/index/legora-financial-statement-review-with-astra-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>实测数据展示多文档处理效率，法律与合规从业者直接受益。（官方 · OpenAI · 原题 Legora reviewed 41 documents in minutes with GPT-6 Astra）</description>
+  </item>
+  <item>
+    <title>Playco 借 GPT-6 Astra 削减 50% 手动修复</title>
+    <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+    <guid isPermaLink="false">openai.com/index/playco-game-prototyping-with-astra-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>游戏原型开发降本案例，验证生成式 AI 在创意迭代中的硬价值。（官方 · OpenAI · 原题 Playco cut manual fixes 50% prototyping games with GPT-6 Astra）</description>
+  </item>
+  <item>
+    <title>DeepMind 发布 WeatherNext 3，全球天气预测新标杆</title>
+    <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>最先进气象模型落地，对能源、物流等依赖天气的行业决策至关重要。（官方 · DeepMind · 原题 Introducing WeatherNext 3, our most advanced and accurate global weather AI model）</description>
+  </item>
+  <item>
+    <title>TimesFM：谷歌开源时序基础模型，预训练即用</title>
+    <link>https://github.com/google-research/timesfm</link>
+    <guid isPermaLink="false">github.com/google-research/timesfm-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>时序预测通用工具，开源降低门槛，金融与运维场景可快速集成。（开源 · GitHub · 原题 google-research/timesfm）</description>
+  </item>
+  <item>
+    <title>Simon Willison 深度拆解 GPT-6 Astra 技术细节</title>
+    <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/3/gpt6-astra-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>权威博主亲测分析，提供独立视角，帮助开发者规避营销噪音。（博客 · Simon Willison · 原题 GPT‑6 Astra）</description>
+  </item>
+  <item>
+    <title>NeoMME：高效多模态原生多语言编码器问世</title>
+    <link>https://huggingface.co/blog/Hcompany/neomme</link>
+    <guid isPermaLink="false">huggingface.co/blog/Hcompany/neomme-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>兼顾效率与多语言，填补小模型在跨语种视觉任务中的空白。（博客 · Hugging Face · 原题 NeoMME: an efficient Multimodal-native and Multilingual Encoder）</description>
+  </item>
+  <item>
+    <title>DeepMind 推主动网络防御，护航政府与企业</title>
     <link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
-    <guid isPermaLink="false">deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>安全从被动响应转向主动防御，企业需评估新范式。（官方 · DeepMind · 原题 Proactive cyber defense for governments and enterprises）</description>
-  </item>
-  <item>
-    <title>Gemini 3.8 Flash 及 Cyber 版发布</title>
-    <link>https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>新模型迭代，Flash 系列性价比与安全能力值得关注。（官方 · DeepMind · 原题 Introducing Gemini 3.8 Flash and 3.8 Flash Cyber）</description>
-  </item>
-  <item>
-    <title>Google AI 发布政府与企业主动网络防御方案</title>
-    <link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/safety-security/fairwind-program-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>与 DeepMind 方案并列，巨头竞逐安全赛道信号明确。（官方 · Google AI · 原题 Proactive cyber defense for governments and enterprises）</description>
-  </item>
-  <item>
-    <title>Hugging Face 博客：IBM 时序模型集成 Confluent 实时分析</title>
-    <link>https://huggingface.co/blog/ibm-research/real-time-intelligence</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-research/real-time-intelligence-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>时序预测与流处理结合，为实时决策提供开源参考。（博客 · Hugging Face · 原题 Real-Time Intelligence with IBM Time Series Models on Confluent）</description>
-  </item>
-  <item>
-    <title>llm-gemini 0.34 版本更新</title>
-    <link>https://simonwillison.net/2026/Sep/2/llm-gemini/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/2/llm-gemini-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>命令行工具迭代，开发者需跟进 API 变化与性能改进。（博客 · Simon Willison · 原题 llm-gemini 0.34）</description>
-  </item>
-  <item>
-    <title>Claude 新系统提示词严防歌词复现</title>
-    <link>https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/2/claudes-new-system-prompt-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>版权约束策略调整，影响生成式 AI 内容合规边界。（博客 · Simon Willison · 原题 Claude's new system prompt really doesn't want to reproduce song lyrics）</description>
-  </item>
-  <item>
-    <title>OpenAI 谈 AI 原生公司如何将流程转为运营能力</title>
-    <link>https://openai.com/index/ai-native-company-workflows</link>
-    <guid isPermaLink="false">openai.com/index/ai-native-company-workflows-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>从工具到组织能力的方法论，对转型决策者有参考价值。（官方 · OpenAI · 原题 How AI-native companies turn workflows into operating capability）</description>
-  </item>
-  <item>
-    <title>Google AI 盘点 2026 年 8 月重点新闻</title>
-    <link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/google-ai-updates-august-2026-2026-09-03</guid>
-    <pubDate>Thu, 03 Sep 2026 01:51:36 GMT</pubDate>
-    <description>官方月度汇总，快速掌握巨头动态与行业风向标。（官方 · Google AI · 原题 The latest AI news we announced in August 2026）</description>
+    <guid isPermaLink="false">deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises-2026-09-04</guid>
+    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
+    <description>AI 从被动响应转向主动防御，安全架构升级的明确信号。（官方 · DeepMind · 原题 Proactive cyber defense for governments and enterprises）</description>
   </item>
 </channel>
 </rss>
