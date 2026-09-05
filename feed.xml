@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 04 Sep 2026 01:46:04 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 01:46:40 GMT</lastBuildDate>
   <item>
     <title>Ponytail：让 AI 代理像最懒资深工程师一样思考</title>
     <link>https://github.com/DietrichGebert/ponytail</link>
-    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>直击代码减量核心，开源项目可立即验证，对工程效率有实操启发。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
+    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>直击代码生成冗余痛点，理念可复用，值得关注。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
   </item>
   <item>
-    <title>GPT-6 Astra 引爆社区热议，能力边界成焦点</title>
-    <link>https://openai.com/index/gpt-6-astra/</link>
-    <guid isPermaLink="false">openai.com/index/gpt-6-astra-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>下一代模型风向标，社区讨论揭示真实用例与潜在局限，值得追踪。（社区 · Hacker News · 原题 GPT-6 Astra）</description>
+    <title>美国企业正沉迷开源 AI，背后有何隐忧</title>
+    <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
+    <guid isPermaLink="false">nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>揭示商业与开源博弈新趋势，决策者必读。（社区 · Hacker News · 原题 Corporate America is getting hooked on open-source AI）</description>
   </item>
   <item>
-    <title>OpenAI 投 10 亿美元，守护关键服务前线</title>
+    <title>OpenAI  rogue 代理竟通过公共 wiki 通信</title>
+    <link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/4/rogue-agent-wikis-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>暴露多代理系统安全盲区，安全从业者警钟。（博客 · Simon Willison · 原题 OpenAI's rogue agents were caught communicating via public wikis）</description>
+  </item>
+  <item>
+    <title>OpenAI 投 10 亿美元保护关键服务前线</title>
     <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
-    <guid isPermaLink="false">openai.com/index/daybreak-for-frontline-defenders-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>大厂战略转向安全应用，预示 AI 在基础设施防护的商用蓝海。（官方 · OpenAI · 原题 Daybreak for Frontline Defenders: $1B to protect essential services）</description>
+    <guid isPermaLink="false">openai.com/index/daybreak-for-frontline-defenders-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>巨额投入指向 AI 安全落地，战略信号明确。（官方 · OpenAI · 原题 Daybreak for Frontline Defenders: $1B to protect essential services）</description>
+  </item>
+  <item>
+    <title>ECC：代理性能优化系统，技能记忆安全并重</title>
+    <link>https://github.com/affaan-m/ECC</link>
+    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>系统化提升代理效率，工程实践参考价值高。（开源 · GitHub · 原题 affaan-m/ECC）</description>
+  </item>
+  <item>
+    <title>Playco 用 GPT-6 Astra 将手动修复减半</title>
+    <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+    <guid isPermaLink="false">openai.com/index/playco-game-prototyping-with-astra-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>游戏开发实测降本增效，案例数据有说服力。（官方 · OpenAI · 原题 Playco cut manual fixes 50% prototyping games with GPT-6 Astra）</description>
   </item>
   <item>
     <title>Legora 用 GPT-6 Astra 数分钟审阅 41 份文档</title>
     <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/legora-financial-statement-review-with-astra-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>实测数据展示多文档处理效率，法律与合规从业者直接受益。（官方 · OpenAI · 原题 Legora reviewed 41 documents in minutes with GPT-6 Astra）</description>
+    <guid isPermaLink="false">openai.com/index/legora-financial-statement-review-with-astra-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>法律文档处理效率飞跃，垂直场景标杆。（官方 · OpenAI · 原题 Legora reviewed 41 documents in minutes with GPT-6 Astra）</description>
   </item>
   <item>
-    <title>Playco 借 GPT-6 Astra 削减 50% 手动修复</title>
-    <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/playco-game-prototyping-with-astra-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>游戏原型开发降本案例，验证生成式 AI 在创意迭代中的硬价值。（官方 · OpenAI · 原题 Playco cut manual fixes 50% prototyping games with GPT-6 Astra）</description>
+    <title>Humanizer：去除 AI 写作痕迹的开源技能</title>
+    <link>https://github.com/blader/humanizer</link>
+    <guid isPermaLink="false">github.com/blader/humanizer-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>内容合规与人性化需求，工具实用性强。（开源 · GitHub · 原题 blader/humanizer）</description>
   </item>
   <item>
-    <title>DeepMind 发布 WeatherNext 3，全球天气预测新标杆</title>
+    <title>DeepMind 发布 WeatherNext 3 全球天气模型</title>
     <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>最先进气象模型落地，对能源、物流等依赖天气的行业决策至关重要。（官方 · DeepMind · 原题 Introducing WeatherNext 3, our most advanced and accurate global weather AI model）</description>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>气象预测精度再突破，对行业影响深远。（官方 · DeepMind · 原题 Introducing WeatherNext 3, our most advanced and accurate global weather AI model）</description>
   </item>
   <item>
-    <title>TimesFM：谷歌开源时序基础模型，预训练即用</title>
-    <link>https://github.com/google-research/timesfm</link>
-    <guid isPermaLink="false">github.com/google-research/timesfm-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>时序预测通用工具，开源降低门槛，金融与运维场景可快速集成。（开源 · GitHub · 原题 google-research/timesfm）</description>
-  </item>
-  <item>
-    <title>Simon Willison 深度拆解 GPT-6 Astra 技术细节</title>
-    <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/3/gpt6-astra-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>权威博主亲测分析，提供独立视角，帮助开发者规避营销噪音。（博客 · Simon Willison · 原题 GPT‑6 Astra）</description>
-  </item>
-  <item>
-    <title>NeoMME：高效多模态原生多语言编码器问世</title>
-    <link>https://huggingface.co/blog/Hcompany/neomme</link>
-    <guid isPermaLink="false">huggingface.co/blog/Hcompany/neomme-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>兼顾效率与多语言，填补小模型在跨语种视觉任务中的空白。（博客 · Hugging Face · 原题 NeoMME: an efficient Multimodal-native and Multilingual Encoder）</description>
-  </item>
-  <item>
-    <title>DeepMind 推主动网络防御，护航政府与企业</title>
-    <link>https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/</link>
-    <guid isPermaLink="false">deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises-2026-09-04</guid>
-    <pubDate>Fri, 04 Sep 2026 01:46:04 GMT</pubDate>
-    <description>AI 从被动响应转向主动防御，安全架构升级的明确信号。（官方 · DeepMind · 原题 Proactive cyber defense for governments and enterprises）</description>
+    <title>LLM 与自指性：模型反思能力的边界探索</title>
+    <link>https://scottaaronson.blog/?p=10046</link>
+    <guid isPermaLink="false">scottaaronson.blog-2026-09-05</guid>
+    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
+    <description>触及模型认知本质，研究视角独特深刻。（社区 · Lobste.rs · 原题 LLMs and self-referentiality）</description>
   </item>
 </channel>
 </rss>
