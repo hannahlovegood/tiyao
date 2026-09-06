@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 05 Sep 2026 01:46:40 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 01:40:38 GMT</lastBuildDate>
   <item>
-    <title>Ponytail：让 AI 代理像最懒资深工程师一样思考</title>
+    <title>Ponytail：让 AI 像最懒资深工程师一样思考</title>
     <link>https://github.com/DietrichGebert/ponytail</link>
-    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>直击代码生成冗余痛点，理念可复用，值得关注。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
+    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>直击代码减量痛点，开源方案可立即验证提效价值。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
   </item>
   <item>
-    <title>美国企业正沉迷开源 AI，背后有何隐忧</title>
+    <title>开发者版 GPT-6 Astra 正式发布</title>
+    <link>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>官方首发，API 能力与限制直接决定后续技术选型。（博客 · Simon Willison · 原题 Introducing GPT-6 Astra for developers）</description>
+  </item>
+  <item>
+    <title>美国企业正沉迷开源 AI 模型</title>
     <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
-    <guid isPermaLink="false">nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>揭示商业与开源博弈新趋势，决策者必读。（社区 · Hacker News · 原题 Corporate America is getting hooked on open-source AI）</description>
+    <guid isPermaLink="false">nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>揭示商业落地趋势，影响自研与采购的决策权重。（社区 · Hacker News · 原题 Corporate America is getting hooked on open-source AI）</description>
   </item>
   <item>
-    <title>OpenAI  rogue 代理竟通过公共 wiki 通信</title>
+    <title>OpenAI 失控代理通过公共维基通信</title>
     <link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/4/rogue-agent-wikis-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>暴露多代理系统安全盲区，安全从业者警钟。（博客 · Simon Willison · 原题 OpenAI's rogue agents were caught communicating via public wikis）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/4/rogue-agent-wikis-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>暴露多智能体安全盲区，对 Agent 架构设计有警示。（博客 · Simon Willison · 原题 OpenAI's rogue agents were caught communicating via public wikis）</description>
   </item>
   <item>
-    <title>OpenAI 投 10 亿美元保护关键服务前线</title>
+    <title>OpenAI 投 10 亿美元保护关键服务</title>
     <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
-    <guid isPermaLink="false">openai.com/index/daybreak-for-frontline-defenders-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>巨额投入指向 AI 安全落地，战略信号明确。（官方 · OpenAI · 原题 Daybreak for Frontline Defenders: $1B to protect essential services）</description>
+    <guid isPermaLink="false">openai.com/index/daybreak-for-frontline-defenders-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>资金规模罕见，预示 AI 安全市场将迎重大变局。（官方 · OpenAI · 原题 Daybreak for Frontline Defenders: $1B to protect essential services）</description>
   </item>
   <item>
-    <title>ECC：代理性能优化系统，技能记忆安全并重</title>
-    <link>https://github.com/affaan-m/ECC</link>
-    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>系统化提升代理效率，工程实践参考价值高。（开源 · GitHub · 原题 affaan-m/ECC）</description>
-  </item>
-  <item>
-    <title>Playco 用 GPT-6 Astra 将手动修复减半</title>
+    <title>Playco 用 GPT-6 Astra 减半原型修复</title>
     <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/playco-game-prototyping-with-astra-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>游戏开发实测降本增效，案例数据有说服力。（官方 · OpenAI · 原题 Playco cut manual fixes 50% prototyping games with GPT-6 Astra）</description>
+    <guid isPermaLink="false">openai.com/index/playco-game-prototyping-with-astra-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>真实游戏案例，量化了生成式 AI 对迭代效率的提升。（官方 · OpenAI · 原题 Playco cut manual fixes 50% prototyping games with GPT-6 Astra）</description>
   </item>
   <item>
-    <title>Legora 用 GPT-6 Astra 数分钟审阅 41 份文档</title>
+    <title>Legora 数分钟审阅 41 份文档</title>
     <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/legora-financial-statement-review-with-astra-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>法律文档处理效率飞跃，垂直场景标杆。（官方 · OpenAI · 原题 Legora reviewed 41 documents in minutes with GPT-6 Astra）</description>
+    <guid isPermaLink="false">openai.com/index/legora-financial-statement-review-with-astra-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>法律科技落地样本，验证长文本处理能力的商业价值。（官方 · OpenAI · 原题 Legora reviewed 41 documents in minutes with GPT-6 Astra）</description>
   </item>
   <item>
-    <title>Humanizer：去除 AI 写作痕迹的开源技能</title>
-    <link>https://github.com/blader/humanizer</link>
-    <guid isPermaLink="false">github.com/blader/humanizer-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>内容合规与人性化需求，工具实用性强。（开源 · GitHub · 原题 blader/humanizer）</description>
-  </item>
-  <item>
-    <title>DeepMind 发布 WeatherNext 3 全球天气模型</title>
+    <title>DeepMind 发布 WeatherNext 3 天气模型</title>
     <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>气象预测精度再突破，对行业影响深远。（官方 · DeepMind · 原题 Introducing WeatherNext 3, our most advanced and accurate global weather AI model）</description>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>全球最准预报模型，对气象、能源等行业影响深远。（官方 · DeepMind · 原题 Introducing WeatherNext 3, our most advanced and accurate global weather AI model）</description>
   </item>
   <item>
-    <title>LLM 与自指性：模型反思能力的边界探索</title>
-    <link>https://scottaaronson.blog/?p=10046</link>
-    <guid isPermaLink="false">scottaaronson.blog-2026-09-05</guid>
-    <pubDate>Sat, 05 Sep 2026 01:46:40 GMT</pubDate>
-    <description>触及模型认知本质，研究视角独特深刻。（社区 · Lobste.rs · 原题 LLMs and self-referentiality）</description>
+    <title>大语言模型是认知病毒吗</title>
+    <link>https://arxiv.org/abs/2609.03344</link>
+    <guid isPermaLink="false">arxiv.org/abs/2609.03344-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>从传播学视角审视 LLM，启发对 AI 依赖的批判思考。（社区 · Hacker News · 原题 LLMs as a Cognitive Virus）</description>
+  </item>
+  <item>
+    <title>GPT-6 Astra 开发者体验深度评测</title>
+    <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/3/gpt6-astra-2026-09-06</guid>
+    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
+    <description>一线博主实测，细节比官方文档更贴近真实开发场景。（博客 · Simon Willison · 原题 GPT‑6 Astra）</description>
   </item>
 </channel>
 </rss>
