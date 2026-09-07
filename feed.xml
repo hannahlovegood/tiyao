@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 06 Sep 2026 01:40:38 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 01:38:28 GMT</lastBuildDate>
   <item>
-    <title>Ponytail：让 AI 像最懒资深工程师一样思考</title>
+    <title>Ponytail：让 AI 代理像最懒资深工程师一样思考</title>
     <link>https://github.com/DietrichGebert/ponytail</link>
-    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>直击代码减量痛点，开源方案可立即验证提效价值。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
+    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>直击代码减量核心，对追求效率的开发者有直接启发。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
   </item>
   <item>
-    <title>开发者版 GPT-6 Astra 正式发布</title>
+    <title>ECC：代理性能优化的系统化工程框架</title>
+    <link>https://github.com/affaan-m/ECC</link>
+    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>整合技能、记忆与安全，为代理开发提供可复用的系统方法论。（开源 · GitHub · 原题 affaan-m/ECC）</description>
+  </item>
+  <item>
+    <title>OpenAI 发布《异类心智》研究视角</title>
+    <link>https://openai.com/index/an-alien-mind</link>
+    <guid isPermaLink="false">openai.com/index/an-alien-mind-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>揭示模型内部机制新认知，对理解前沿对齐问题具参考价值。（官方 · OpenAI · 原题 An Alien Mind）</description>
+  </item>
+  <item>
+    <title>OpenAI 内部研究加速机制全解析</title>
+    <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
+    <guid isPermaLink="false">openai.com/index/research-acceleration-view-inside-openai-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>首度披露研发流程提速细节，对组织与研究者有实操借鉴。（官方 · OpenAI + Hacker News · 原题 Research acceleration: The view inside OpenAI）</description>
+  </item>
+  <item>
+    <title>Simon Willison 解读 OpenAI 研究加速内幕</title>
+    <link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>外部专家视角拆解官方叙事，帮助读者过滤宣传看实质。（博客 · Simon Willison · 原题 Research acceleration: The view inside OpenAI）</description>
+  </item>
+  <item>
+    <title>GPT-6 Astra 开发者版正式亮相</title>
     <link>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>官方首发，API 能力与限制直接决定后续技术选型。（博客 · Simon Willison · 原题 Introducing GPT-6 Astra for developers）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>新模型迭代直接影响应用开发选型，需尽早评估兼容性。（博客 · Simon Willison · 原题 Introducing GPT-6 Astra for developers）</description>
   </item>
   <item>
-    <title>美国企业正沉迷开源 AI 模型</title>
-    <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
-    <guid isPermaLink="false">nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>揭示商业落地趋势，影响自研与采购的决策权重。（社区 · Hacker News · 原题 Corporate America is getting hooked on open-source AI）</description>
+    <title>前沿实验室是否混淆了 AI 安全与安保？</title>
+    <link>https://martinalderson.com/posts/ai-safety-vs-security/</link>
+    <guid isPermaLink="false">martinalderson.com/posts/ai-safety-vs-security-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>概念辨析关乎治理方向，对政策与伦理从业者尤为关键。（社区 · Lobste.rs · 原题 Have the frontier labs mixed up AI safety and security?）</description>
   </item>
   <item>
-    <title>OpenAI 失控代理通过公共维基通信</title>
+    <title>Humanizer：去除 AI 写作痕迹的代理技能</title>
+    <link>https://github.com/blader/humanizer</link>
+    <guid isPermaLink="false">github.com/blader/humanizer-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>内容合规与真实性需求上升，此工具提供实用解决方案。（开源 · GitHub · 原题 blader/humanizer）</description>
+  </item>
+  <item>
+    <title>OpenAI 越狱代理通过公共 Wiki 秘密通信</title>
     <link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/4/rogue-agent-wikis-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>暴露多智能体安全盲区，对 Agent 架构设计有警示。（博客 · Simon Willison · 原题 OpenAI's rogue agents were caught communicating via public wikis）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/4/rogue-agent-wikis-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>暴露多代理系统安全盲区，对防御设计有警示意义。（博客 · Simon Willison · 原题 OpenAI's rogue agents were caught communicating via public wikis）</description>
   </item>
   <item>
-    <title>OpenAI 投 10 亿美元保护关键服务</title>
-    <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
-    <guid isPermaLink="false">openai.com/index/daybreak-for-frontline-defenders-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>资金规模罕见，预示 AI 安全市场将迎重大变局。（官方 · OpenAI · 原题 Daybreak for Frontline Defenders: $1B to protect essential services）</description>
-  </item>
-  <item>
-    <title>Playco 用 GPT-6 Astra 减半原型修复</title>
-    <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/playco-game-prototyping-with-astra-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>真实游戏案例，量化了生成式 AI 对迭代效率的提升。（官方 · OpenAI · 原题 Playco cut manual fixes 50% prototyping games with GPT-6 Astra）</description>
-  </item>
-  <item>
-    <title>Legora 数分钟审阅 41 份文档</title>
-    <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/legora-financial-statement-review-with-astra-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>法律科技落地样本，验证长文本处理能力的商业价值。（官方 · OpenAI · 原题 Legora reviewed 41 documents in minutes with GPT-6 Astra）</description>
-  </item>
-  <item>
-    <title>DeepMind 发布 WeatherNext 3 天气模型</title>
-    <link>https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>全球最准预报模型，对气象、能源等行业影响深远。（官方 · DeepMind · 原题 Introducing WeatherNext 3, our most advanced and accurate global weather AI model）</description>
-  </item>
-  <item>
-    <title>大语言模型是认知病毒吗</title>
-    <link>https://arxiv.org/abs/2609.03344</link>
-    <guid isPermaLink="false">arxiv.org/abs/2609.03344-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>从传播学视角审视 LLM，启发对 AI 依赖的批判思考。（社区 · Hacker News · 原题 LLMs as a Cognitive Virus）</description>
-  </item>
-  <item>
-    <title>GPT-6 Astra 开发者体验深度评测</title>
-    <link>https://simonwillison.net/2026/Sep/3/gpt6-astra/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/3/gpt6-astra-2026-09-06</guid>
-    <pubDate>Sun, 06 Sep 2026 01:40:38 GMT</pubDate>
-    <description>一线博主实测，细节比官方文档更贴近真实开发场景。（博客 · Simon Willison · 原题 GPT‑6 Astra）</description>
+    <title>美国企业加速拥抱开源 AI 模型</title>
+    <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
+    <guid isPermaLink="false">nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html-2026-09-07</guid>
+    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
+    <description>反映产业采用趋势，影响技术选型与商业策略判断。（社区 · Hacker News · 原题 Corporate America is getting hooked on open-source AI）</description>
   </item>
 </channel>
 </rss>
