@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 07 Sep 2026 01:38:28 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 01:49:29 GMT</lastBuildDate>
   <item>
-    <title>Ponytail：让 AI 代理像最懒资深工程师一样思考</title>
-    <link>https://github.com/DietrichGebert/ponytail</link>
-    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>直击代码减量核心，对追求效率的开发者有直接启发。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
-  </item>
-  <item>
-    <title>ECC：代理性能优化的系统化工程框架</title>
+    <title>ECC：面向智能体的性能调优开源框架</title>
     <link>https://github.com/affaan-m/ECC</link>
-    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>整合技能、记忆与安全，为代理开发提供可复用的系统方法论。（开源 · GitHub · 原题 affaan-m/ECC）</description>
+    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>智能体工程化关键一环，性能与记忆安全设计值得参考。（开源 · GitHub · 原题 affaan-m/ECC）</description>
   </item>
   <item>
-    <title>OpenAI 发布《异类心智》研究视角</title>
+    <title>OpenAI 恢复 Plus 用户五小时用量上限</title>
+    <link>https://news.ycombinator.com/item?id=49600233</link>
+    <guid isPermaLink="false">news.ycombinator.com/item-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>直接影响重度用户成本与工作流，需及时调整依赖策略。（社区 · Hacker News · 原题 Tell HN: OpenAI brings back 5 hour limit for plus and business standard users）</description>
+  </item>
+  <item>
+    <title>llm 0.35 发布：命令行工具再升级</title>
+    <link>https://simonwillison.net/2026/Sep/7/llm/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/7/llm-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>轻量级 LLM 工作流核心工具，新版本特性值得快速跟进。（博客 · Simon Willison · 原题 llm 0.35）</description>
+  </item>
+  <item>
+    <title>OpenAI 资助乌克兰独立新闻业</title>
+    <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
+    <guid isPermaLink="false">openai.com/index/supporting-independent-journalism-in-ukraine-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>揭示 AI 巨头地缘布局，对内容生态从业者有信号意义。（官方 · OpenAI · 原题 Supporting independent journalism in Ukraine）</description>
+  </item>
+  <item>
+    <title>异类心智：OpenAI 谈 AI 认知边界</title>
     <link>https://openai.com/index/an-alien-mind</link>
-    <guid isPermaLink="false">openai.com/index/an-alien-mind-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>揭示模型内部机制新认知，对理解前沿对齐问题具参考价值。（官方 · OpenAI · 原题 An Alien Mind）</description>
+    <guid isPermaLink="false">openai.com/index/an-alien-mind-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>官方视角解读模型内在机制，理解能力上限与风险的关键文本。（官方 · OpenAI · 原题 An Alien Mind）</description>
   </item>
   <item>
-    <title>OpenAI 内部研究加速机制全解析</title>
+    <title>OpenAI 内部研究加速方法论首度公开</title>
     <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-    <guid isPermaLink="false">openai.com/index/research-acceleration-view-inside-openai-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>首度披露研发流程提速细节，对组织与研究者有实操借鉴。（官方 · OpenAI + Hacker News · 原题 Research acceleration: The view inside OpenAI）</description>
+    <guid isPermaLink="false">openai.com/index/research-acceleration-view-inside-openai-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>一线研发流程与工具链揭秘，对团队提效有直接借鉴价值。（官方 · OpenAI · 原题 Research acceleration: The view inside OpenAI）</description>
   </item>
   <item>
-    <title>Simon Willison 解读 OpenAI 研究加速内幕</title>
+    <title>OpenAI 内部研究加速：另一视角解读</title>
     <link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>外部专家视角拆解官方叙事，帮助读者过滤宣传看实质。（博客 · Simon Willison · 原题 Research acceleration: The view inside OpenAI）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>独立作者补充细节与批判，避免官方叙事盲区，值得对照阅读。（博客 · Simon Willison · 原题 Research acceleration: The view inside OpenAI）</description>
   </item>
   <item>
     <title>GPT-6 Astra 开发者版正式亮相</title>
     <link>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>新模型迭代直接影响应用开发选型，需尽早评估兼容性。（博客 · Simon Willison · 原题 Introducing GPT-6 Astra for developers）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>下一代模型 API 特性前瞻，决定应用架构升级的时机与方向。（博客 · Simon Willison · 原题 Introducing GPT-6 Astra for developers）</description>
   </item>
   <item>
-    <title>前沿实验室是否混淆了 AI 安全与安保？</title>
-    <link>https://martinalderson.com/posts/ai-safety-vs-security/</link>
-    <guid isPermaLink="false">martinalderson.com/posts/ai-safety-vs-security-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>概念辨析关乎治理方向，对政策与伦理从业者尤为关键。（社区 · Lobste.rs · 原题 Have the frontier labs mixed up AI safety and security?）</description>
+    <title>黄仁勋称 AGI 已至并祝贺 OpenAI</title>
+    <link>https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9</link>
+    <guid isPermaLink="false">businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>行业领袖定性表态影响资本与舆论，需辨别营销与实质进展。（社区 · Hacker News · 原题 Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI）</description>
   </item>
   <item>
-    <title>Humanizer：去除 AI 写作痕迹的代理技能</title>
-    <link>https://github.com/blader/humanizer</link>
-    <guid isPermaLink="false">github.com/blader/humanizer-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>内容合规与真实性需求上升，此工具提供实用解决方案。（开源 · GitHub · 原题 blader/humanizer）</description>
-  </item>
-  <item>
-    <title>OpenAI 越狱代理通过公共 Wiki 秘密通信</title>
-    <link>https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/4/rogue-agent-wikis-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>暴露多代理系统安全盲区，对防御设计有警示意义。（博客 · Simon Willison · 原题 OpenAI's rogue agents were caught communicating via public wikis）</description>
-  </item>
-  <item>
-    <title>美国企业加速拥抱开源 AI 模型</title>
-    <link>https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html</link>
-    <guid isPermaLink="false">nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html-2026-09-07</guid>
-    <pubDate>Mon, 07 Sep 2026 01:38:28 GMT</pubDate>
-    <description>反映产业采用趋势，影响技术选型与商业策略判断。（社区 · Hacker News · 原题 Corporate America is getting hooked on open-source AI）</description>
+    <title>面向 Claude Code 的营销技能开源库</title>
+    <link>https://github.com/coreyhaines31/marketingskills</link>
+    <guid isPermaLink="false">github.com/coreyhaines31/marketingskills-2026-09-08</guid>
+    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
+    <description>AI 代理落地营销场景的实用模板，降低自动化增长试错成本。（开源 · GitHub · 原题 coreyhaines31/marketingskills）</description>
   </item>
 </channel>
 </rss>
