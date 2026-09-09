@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 08 Sep 2026 01:49:29 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 01:55:09 GMT</lastBuildDate>
   <item>
-    <title>ECC：面向智能体的性能调优开源框架</title>
+    <title>ECC：面向代理的性能调优开源框架</title>
     <link>https://github.com/affaan-m/ECC</link>
-    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>智能体工程化关键一环，性能与记忆安全设计值得参考。（开源 · GitHub · 原题 affaan-m/ECC）</description>
+    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>直击 agent 工程瓶颈，性能与安全设计值得借鉴。（开源 · GitHub · 原题 affaan-m/ECC）</description>
   </item>
   <item>
-    <title>OpenAI 恢复 Plus 用户五小时用量上限</title>
-    <link>https://news.ycombinator.com/item?id=49600233</link>
-    <guid isPermaLink="false">news.ycombinator.com/item-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>直接影响重度用户成本与工作流，需及时调整依赖策略。（社区 · Hacker News · 原题 Tell HN: OpenAI brings back 5 hour limit for plus and business standard users）</description>
+    <title>我今日从 Anthropic 辞职</title>
+    <link>https://twitter.com/hilbertspaess/status/2097476196791709843#m</link>
+    <guid isPermaLink="false">twitter.com/hilbertspaess/status/2097476196791709843-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>一线研究员离职信，折射顶级实验室内部风向。（社区 · Hacker News · 原题 I resigned from Anthropic today）</description>
   </item>
   <item>
-    <title>llm 0.35 发布：命令行工具再升级</title>
+    <title>GPT-5.6 Sol 如何驱动量子计算实验</title>
+    <link>https://openai.com/index/codex-quantum-computing-experiments</link>
+    <guid isPermaLink="false">openai.com/index/codex-quantum-computing-experiments-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>官方用例揭示大模型在硬科学中的真实边界。（官方 · OpenAI · 原题 How GPT-5.6 Sol helps run quantum computing experiments）</description>
+  </item>
+  <item>
+    <title>OpenAI：当下可及的新工作形态</title>
+    <link>https://openai.com/index/the-work-now-within-reach</link>
+    <guid isPermaLink="false">openai.com/index/the-work-now-within-reach-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>官方定义 AI 时代职业版图，影响产品路线。（官方 · OpenAI · 原题 The Work Now Within Reach）</description>
+  </item>
+  <item>
+    <title>OpenAI 在数学难题上赢得不光彩</title>
+    <link>https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/</link>
+    <guid isPermaLink="false">techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>爆料竞赛内幕，关乎学术公平与模型评估可信度。（社区 · Hacker News · 原题 OpenAI fought dirty on career-making math problem）</description>
+  </item>
+  <item>
+    <title>ChatGPT 图像生成升级至 2.5 版</title>
+    <link>https://openai.com/index/introducing-chatgpt-images-2-5</link>
+    <guid isPermaLink="false">openai.com/index/introducing-chatgpt-images-2-5-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>多模态能力跃迁，直接改变内容生产工作流。（官方 · OpenAI + Hacker News · 原题 Introducing ChatGPT Images 2.5）</description>
+  </item>
+  <item>
+    <title>AlphaGenome 图谱：全基因组单碱基预测</title>
+    <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
+    <guid isPermaLink="false">deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>DeepMind 开源级资源，精准医疗研究必备地图。（官方 · DeepMind · 原题 AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome）</description>
+  </item>
+  <item>
+    <title>实测 ChatGPT Images 2.5 生成效果</title>
+    <link>https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>独立开发者视角，快速判断新模型实用价值。（博客 · Simon Willison · 原题 Introducing ChatGPT Images 2.5）</description>
+  </item>
+  <item>
+    <title>安全为谁：拒绝子集而非整个主题</title>
+    <link>https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom</link>
+    <guid isPermaLink="false">huggingface.co/blog/MultiverseComputingCAI/safety-for-whom-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>细化安全对齐粒度，规避误伤与合规风险。（博客 · Hugging Face · 原题 Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic）</description>
+  </item>
+  <item>
+    <title>llm 0.35 版本发布与更新要点</title>
     <link>https://simonwillison.net/2026/Sep/7/llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/7/llm-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>轻量级 LLM 工作流核心工具，新版本特性值得快速跟进。（博客 · Simon Willison · 原题 llm 0.35）</description>
-  </item>
-  <item>
-    <title>OpenAI 资助乌克兰独立新闻业</title>
-    <link>https://openai.com/index/supporting-independent-journalism-in-ukraine</link>
-    <guid isPermaLink="false">openai.com/index/supporting-independent-journalism-in-ukraine-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>揭示 AI 巨头地缘布局，对内容生态从业者有信号意义。（官方 · OpenAI · 原题 Supporting independent journalism in Ukraine）</description>
-  </item>
-  <item>
-    <title>异类心智：OpenAI 谈 AI 认知边界</title>
-    <link>https://openai.com/index/an-alien-mind</link>
-    <guid isPermaLink="false">openai.com/index/an-alien-mind-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>官方视角解读模型内在机制，理解能力上限与风险的关键文本。（官方 · OpenAI · 原题 An Alien Mind）</description>
-  </item>
-  <item>
-    <title>OpenAI 内部研究加速方法论首度公开</title>
-    <link>https://openai.com/index/research-acceleration-view-inside-openai</link>
-    <guid isPermaLink="false">openai.com/index/research-acceleration-view-inside-openai-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>一线研发流程与工具链揭秘，对团队提效有直接借鉴价值。（官方 · OpenAI · 原题 Research acceleration: The view inside OpenAI）</description>
-  </item>
-  <item>
-    <title>OpenAI 内部研究加速：另一视角解读</title>
-    <link>https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>独立作者补充细节与批判，避免官方叙事盲区，值得对照阅读。（博客 · Simon Willison · 原题 Research acceleration: The view inside OpenAI）</description>
-  </item>
-  <item>
-    <title>GPT-6 Astra 开发者版正式亮相</title>
-    <link>https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>下一代模型 API 特性前瞻，决定应用架构升级的时机与方向。（博客 · Simon Willison · 原题 Introducing GPT-6 Astra for developers）</description>
-  </item>
-  <item>
-    <title>黄仁勋称 AGI 已至并祝贺 OpenAI</title>
-    <link>https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9</link>
-    <guid isPermaLink="false">businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>行业领袖定性表态影响资本与舆论，需辨别营销与实质进展。（社区 · Hacker News · 原题 Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI）</description>
-  </item>
-  <item>
-    <title>面向 Claude Code 的营销技能开源库</title>
-    <link>https://github.com/coreyhaines31/marketingskills</link>
-    <guid isPermaLink="false">github.com/coreyhaines31/marketingskills-2026-09-08</guid>
-    <pubDate>Tue, 08 Sep 2026 01:49:29 GMT</pubDate>
-    <description>AI 代理落地营销场景的实用模板，降低自动化增长试错成本。（开源 · GitHub · 原题 coreyhaines31/marketingskills）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/7/llm-2026-09-09</guid>
+    <pubDate>Wed, 09 Sep 2026 01:55:09 GMT</pubDate>
+    <description>命令行工具迭代，提升本地模型调用效率。（博客 · Simon Willison · 原题 llm 0.35）</description>
   </item>
 </channel>
 </rss>
