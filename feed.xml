@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 10 Sep 2026 01:51:42 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 01:50:18 GMT</lastBuildDate>
   <item>
-    <title>i-have-adhd：让编码 Agent 不再埋没答案</title>
+    <title>i-have-adhd：让编码 Agent 别再把答案埋起来</title>
     <link>https://github.com/ayghri/i-have-adhd</link>
-    <guid isPermaLink="false">github.com/ayghri/i-have-adhd-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>一个提示词技能，专治 AI 回答啰嗦绕弯，直接提升日常编码效率。（开源 · GitHub · 原题 ayghri/i-have-adhd）</description>
+    <guid isPermaLink="false">github.com/ayghri/i-have-adhd-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>提示词技巧，直接改善 Agent 输出可读性，开发者可即取即用。（开源 · GitHub · 原题 ayghri/i-have-adhd）</description>
   </item>
   <item>
-    <title>高效精准查询非结构化数据的系统方案</title>
-    <link>https://stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf</link>
-    <guid isPermaLink="false">stacks.stanford.edu/file/fk030tb6783/thesis-augmented.pdf-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>非结构化数据检索是 RAG 落地痛点，此文给出可借鉴的工程思路。（社区 · Lobste.rs · 原题 Efficient and accurate systems for querying unstructured data）</description>
+    <title>OpenAI 发布 Navier-Stokes 成果，附 Lean 4 形式化证明</title>
+    <link>https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</link>
+    <guid isPermaLink="false">johndcook.com/blog/2026/09/09/formal-method-revolution-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>AI 辅助数学证明落地，形式化验证从业者需关注此范式。（社区 · Hacker News · 原题 OpenAI’s Navier-Stokes release included a Lean 4 formal proof）</description>
   </item>
   <item>
-    <title>Paul Christiano 加入 OpenAI Foundation 董事会</title>
-    <link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
-    <guid isPermaLink="false">openai.com/index/paul-christiano-joins-openai-foundation-board-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>对齐领域核心人物进入治理层，透露 OpenAI 安全路线的信号。（官方 · OpenAI · 原题 Paul Christiano joins OpenAI Foundation Board）</description>
+    <title>研究者用 Codex 与 ChatGPT 寻找新型抗菌分子</title>
+    <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
+    <guid isPermaLink="false">openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>展示 AI 在药物发现中的真实工作流，科研人员可借鉴。（官方 · OpenAI · 原题 How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules）</description>
   </item>
   <item>
-    <title>Anthropic 被指构建预测性监控系统追踪活动人士</title>
-    <link>https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/</link>
-    <guid isPermaLink="false">prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>AI 监控争议升级，从业者需关注合规与伦理风险的现实案例。（社区 · Hacker News · 原题 Anthropic Is Building a Predictive Surveillance System to Monitor Activists）</description>
+    <title>OpenAI：现在人人都能让数据干活</title>
+    <link>https://openai.com/index/put-data-to-work</link>
+    <guid isPermaLink="false">openai.com/index/put-data-to-work-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>数据分析能力下放，非技术团队也能用 AI 处理业务数据。（官方 · OpenAI · 原题 Now everyone can put data to work）</description>
   </item>
   <item>
-    <title>AI 政策窗口已开，OpenAI 呼吁立即行动</title>
-    <link>https://openai.com/index/ai-policy-window</link>
-    <guid isPermaLink="false">openai.com/index/ai-policy-window-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>官方政策表态，预示监管走向，影响产品合规与市场准入。（官方 · OpenAI · 原题 The AI policy window is open. We need to act.）</description>
+    <title>检测与反制 AI 滥用：2026 年 9 月</title>
+    <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
+    <guid isPermaLink="false">anthropic.com/threat-intelligence-report-september-2026-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>了解 AI 滥用最新态势与防御手段，安全从业者必读。（社区 · Hacker News · 原题 Detecting and countering misuse of AI: September 2026）</description>
   </item>
   <item>
-    <title>GPT-6 Astra：面向工作的下一代智能</title>
-    <link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
-    <guid isPermaLink="false">openai.com/index/gpt-6-astra-next-generation-work-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>新一代模型发布，直接关系工作场景能力边界与竞品格局。（官方 · OpenAI · 原题 GPT-6 Astra: The next generation in intelligence for work）</description>
+    <title>用 Search 备战下一场大赛的 3 种方法</title>
+    <link>https://blog.google/products-and-platforms/products/search/running-race-training-tips/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/running-race-training-tips-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>Google 搜索的赛事训练功能，运动爱好者可快速上手。（官方 · Google AI · 原题 3 ways to prep for your next big race with Search）</description>
   </item>
   <item>
-    <title>Google 搜索上线新足球功能，备战赛事</title>
+    <title>OpenAI 推出面向金融服务业的 ChatGPT</title>
+    <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
+    <guid isPermaLink="false">openai.com/index/introducing-chatgpt-financial-services-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>金融合规场景专用版本，从业者需评估其落地可行性。（官方 · OpenAI · 原题 Introducing ChatGPT for Financial Services）</description>
+  </item>
+  <item>
+    <title>OpenAI Agents API 发布</title>
+    <link>https://developers.openai.com/api/docs/guides/agents-api/overview</link>
+    <guid isPermaLink="false">developers.openai.com/api/docs/guides/agents-api/overview-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>Agent 开发标准化接口，直接影响 AI 应用架构选型。（社区 · Hacker News · 原题 OpenAI Agents API）</description>
+  </item>
+  <item>
+    <title>Google Search 上线新足球功能，备战赛事</title>
     <link>https://blog.google/products-and-platforms/products/search/football-features-google-search/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/football-features-google-search-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>搜索场景的 AI 功能更新，展示大厂如何用 AI 抢占赛事流量。（官方 · Google AI · 原题 Get ready for the game with new football features in Search）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/football-features-google-search-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>搜索体育体验升级，关注流量入口变化的从业者留意。（官方 · Google AI · 原题 Get ready for the game with new football features in Search）</description>
   </item>
   <item>
     <title>逐帧重现一段 70 年的爱情故事</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/love-rendered-film-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>AI 修复与生成的真实案例，展示影像复原技术的成熟度。（官方 · Google AI · 原题 Recreating a 70-year love story frame by frame）</description>
-  </item>
-  <item>
-    <title>IBM 发布 Granite 时序模型 PatchTST-FM-r2</title>
-    <link>https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>SOTA 时序模型且商用友好，做预测类产品的团队可直接评估采用。（博客 · Hugging Face · 原题 IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license）</description>
-  </item>
-  <item>
-    <title>AlphaGenome Atlas：人类基因组每位点变异预测图</title>
-    <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
-    <guid isPermaLink="false">deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome-2026-09-10</guid>
-    <pubDate>Thu, 10 Sep 2026 01:51:42 GMT</pubDate>
-    <description>覆盖全基因组变异的预测图谱，基因研究与药物发现的重要基础设施。（官方 · DeepMind · 原题 AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/love-rendered-film-2026-09-11</guid>
+    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
+    <description>AI 修复与重建老影像的案例，内容创作者可参考其手法。（官方 · Google AI · 原题 Recreating a 70-year love story frame by frame）</description>
   </item>
 </channel>
 </rss>
