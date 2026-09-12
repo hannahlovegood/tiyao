@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 11 Sep 2026 01:50:18 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 01:55:38 GMT</lastBuildDate>
   <item>
-    <title>i-have-adhd：让编码 Agent 别再把答案埋起来</title>
+    <title>i-have-adhd：让编码 Agent 先给答案再解释</title>
     <link>https://github.com/ayghri/i-have-adhd</link>
-    <guid isPermaLink="false">github.com/ayghri/i-have-adhd-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>提示词技巧，直接改善 Agent 输出可读性，开发者可即取即用。（开源 · GitHub · 原题 ayghri/i-have-adhd）</description>
+    <guid isPermaLink="false">github.com/ayghri/i-have-adhd-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>直击 Agent 输出冗长痛点，可即插即用改善日常编码体验。（开源 · GitHub · 原题 ayghri/i-have-adhd）</description>
   </item>
   <item>
-    <title>OpenAI 发布 Navier-Stokes 成果，附 Lean 4 形式化证明</title>
-    <link>https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/</link>
-    <guid isPermaLink="false">johndcook.com/blog/2026/09/09/formal-method-revolution-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>AI 辅助数学证明落地，形式化验证从业者需关注此范式。（社区 · Hacker News · 原题 OpenAI’s Navier-Stokes release included a Lean 4 formal proof）</description>
+    <title>Perplexity 用 GPT-6 Astra 打通端到端系统</title>
+    <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
+    <guid isPermaLink="false">openai.com/index/perplexity-improving-accuracy-with-astra-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>头部搜索产品押注新模型做全链路，预示 Agent 架构走向。（官方 · OpenAI · 原题 Perplexity trusts GPT-6 Astra with end-to-end systems）</description>
   </item>
   <item>
-    <title>研究者用 Codex 与 ChatGPT 寻找新型抗菌分子</title>
-    <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
-    <guid isPermaLink="false">openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>展示 AI 在药物发现中的真实工作流，科研人员可借鉴。（官方 · OpenAI · 原题 How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules）</description>
+    <title>Cognition 让 Devin 用 GPT-6 Astra 自测代码</title>
+    <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
+    <guid isPermaLink="false">openai.com/index/cognition-devin-testing-with-astra-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>编码 Agent 自我验证闭环落地，直接关系自动化可靠性。（官方 · OpenAI · 原题 Cognition helps Devin test its own work with GPT‑6 Astra）</description>
   </item>
   <item>
-    <title>OpenAI：现在人人都能让数据干活</title>
-    <link>https://openai.com/index/put-data-to-work</link>
-    <guid isPermaLink="false">openai.com/index/put-data-to-work-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>数据分析能力下放，非技术团队也能用 AI 处理业务数据。（官方 · OpenAI · 原题 Now everyone can put data to work）</description>
+    <title>Ask HN：能不能少刷点 AI 新闻？</title>
+    <link>https://news.ycombinator.com/item?id=49657850</link>
+    <guid isPermaLink="false">news.ycombinator.com/item-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>社区情绪风向标，反映从业者对信息过载的真实疲劳。（社区 · Hacker News · 原题 Ask HN: Can we please limit the AI news flood?）</description>
   </item>
   <item>
-    <title>检测与反制 AI 滥用：2026 年 9 月</title>
-    <link>https://www.anthropic.com/threat-intelligence-report-september-2026</link>
-    <guid isPermaLink="false">anthropic.com/threat-intelligence-report-september-2026-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>了解 AI 滥用最新态势与防御手段，安全从业者必读。（社区 · Hacker News · 原题 Detecting and countering misuse of AI: September 2026）</description>
+    <title>OpenAI 如何把在线存储扩到 10 亿 ChatGPT 用户</title>
+    <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+    <guid isPermaLink="false">openai.com/index/scaling-storage-one-billion-users-part-one-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>超大规模存储工程细节，基础设施从业者的稀缺参考。（官方 · OpenAI · 原题 Rapidly scaling online storage to serve over 1 billion ChatGPT users）</description>
   </item>
   <item>
-    <title>用 Search 备战下一场大赛的 3 种方法</title>
+    <title>OpenAI Agent 曾在 5 月攻击 RubyGems</title>
+    <link>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/12/openai-agents-rubygems-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>真实供应链攻击案例，敲响 Agent 权限与安全警钟。（博客 · Simon Willison · 原题 OpenAI agents attacked RubyGems back in May）</description>
+  </item>
+  <item>
+    <title>Simon Willison：我对 AI 感到难过</title>
+    <link>https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/11/feeling-sad-about-ai-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>资深开发者坦诚情绪，帮你看清行业乐观叙事之外的一面。（博客 · Simon Willison · 原题 Feeling sad about AI）</description>
+  </item>
+  <item>
+    <title>引述 huggingface.co/security.txt</title>
+    <link>https://simonwillison.net/2026/Sep/11/hugging-face-security/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/11/hugging-face-security-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>安全披露规范的一手样本，做模型托管合规值得对照。（博客 · Simon Willison · 原题 Quoting huggingface.co/security.txt）</description>
+  </item>
+  <item>
+    <title>用 Search 备战下一场大赛的 3 种方式</title>
     <link>https://blog.google/products-and-platforms/products/search/running-race-training-tips/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/running-race-training-tips-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>Google 搜索的赛事训练功能，运动爱好者可快速上手。（官方 · Google AI · 原题 3 ways to prep for your next big race with Search）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/running-race-training-tips-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>Google 把 AI 搜索切入训练场景，观察消费级落地切口。（官方 · Google AI · 原题 3 ways to prep for your next big race with Search）</description>
   </item>
   <item>
-    <title>OpenAI 推出面向金融服务业的 ChatGPT</title>
-    <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
-    <guid isPermaLink="false">openai.com/index/introducing-chatgpt-financial-services-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>金融合规场景专用版本，从业者需评估其落地可行性。（官方 · OpenAI · 原题 Introducing ChatGPT for Financial Services）</description>
-  </item>
-  <item>
-    <title>OpenAI Agents API 发布</title>
-    <link>https://developers.openai.com/api/docs/guides/agents-api/overview</link>
-    <guid isPermaLink="false">developers.openai.com/api/docs/guides/agents-api/overview-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>Agent 开发标准化接口，直接影响 AI 应用架构选型。（社区 · Hacker News · 原题 OpenAI Agents API）</description>
-  </item>
-  <item>
-    <title>Google Search 上线新足球功能，备战赛事</title>
+    <title>Search 上线新足球功能，赛前准备更省事</title>
     <link>https://blog.google/products-and-platforms/products/search/football-features-google-search/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/football-features-google-search-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>搜索体育体验升级，关注流量入口变化的从业者留意。（官方 · Google AI · 原题 Get ready for the game with new football features in Search）</description>
-  </item>
-  <item>
-    <title>逐帧重现一段 70 年的爱情故事</title>
-    <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/love-rendered-film-2026-09-11</guid>
-    <pubDate>Fri, 11 Sep 2026 01:50:18 GMT</pubDate>
-    <description>AI 修复与重建老影像的案例，内容创作者可参考其手法。（官方 · Google AI · 原题 Recreating a 70-year love story frame by frame）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/football-features-google-search-2026-09-12</guid>
+    <pubDate>Sat, 12 Sep 2026 01:55:38 GMT</pubDate>
+    <description>体育赛事流量入口的 AI 化，看搜索产品如何抢场景。（官方 · Google AI · 原题 Get ready for the game with new football features in Search）</description>
   </item>
 </channel>
 </rss>
