@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 13 Sep 2026 01:48:30 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 02:06:09 GMT</lastBuildDate>
   <item>
-    <title>开源 AI 销售 OS DeskcommCRM：自托管 CRM 内置 AI agent 与 WhatsApp</title>
-    <link>https://github.com/melgarafael/DeskcommCRM</link>
-    <guid isPermaLink="false">github.com/melgarafael/DeskcommCRM-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>想替换 Kommo、Octadesk 的团队，可零成本自托管并直接接入 WhatsApp 自动化。（开源 · GitHub · 原题 melgarafael/DeskcommCRM）</description>
+    <title>Anthropic 与 OpenAI 系统提示词遭大规模泄露</title>
+    <link>https://github.com/asgeirtj/system_prompts_leaks</link>
+    <guid isPermaLink="false">github.com/asgeirtj/system_prompts_leaks-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>直接看到头部模型底层指令，是研究对齐与提示注入的一手素材。（开源 · GitHub · 原题 asgeirtj/system_prompts_leaks）</description>
   </item>
   <item>
     <title>Perplexity 用 GPT-6 Astra 打通端到端系统</title>
     <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/perplexity-improving-accuracy-with-astra-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>头部搜索产品把模型嵌入全链路，是观察 agent 落地架构的真实样本。（官方 · OpenAI · 原题 Perplexity trusts GPT-6 Astra with end-to-end systems）</description>
+    <guid isPermaLink="false">openai.com/index/perplexity-improving-accuracy-with-astra-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>看头部搜索产品如何把新模型嵌入全链路，判断应用层风向。（官方 · OpenAI · 原题 Perplexity trusts GPT-6 Astra with end-to-end systems）</description>
   </item>
   <item>
-    <title>We Must Pace the Frontier：前沿该减速了</title>
-    <link>https://darioamodei.com/post/we-must-pace-the-frontier</link>
-    <guid isPermaLink="false">darioamodei.com/post/we-must-pace-the-frontier-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>讨论 AI 发展节奏与治理边界，适合作为团队内部风险讨论的引子。（社区 · Lobste.rs · 原题 We Must Pace the Frontier）</description>
+    <title>PentAGI：可自主完成复杂渗透测试的 Agent 系统</title>
+    <link>https://github.com/vxcontrol/pentagi</link>
+    <guid isPermaLink="false">github.com/vxcontrol/pentagi-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>安全自动化从辅助走向自主，红队与防御方都需重新评估边界。（开源 · GitHub · 原题 vxcontrol/pentagi）</description>
+  </item>
+  <item>
+    <title>Claude-Red：面向 Claude Skills 的攻防技能库</title>
+    <link>https://github.com/SnailSploit/Claude-Red</link>
+    <guid isPermaLink="false">github.com/SnailSploit/Claude-Red-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>把攻击技能模块化喂给 Agent，暴露技能生态的滥用风险。（开源 · GitHub · 原题 SnailSploit/Claude-Red）</description>
   </item>
   <item>
     <title>用 GPT-6 Astra 与 ChatGPT Work 生成跑步路线</title>
     <link>https://simonwillison.net/2026/Sep/12/astra-running-routes/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/12/astra-running-routes-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>Simon Willison 的实操演示，展示多工具协作完成真实任务的可行边界。（博客 · Simon Willison · 原题 Generating running routes with GPT-6 Astra and ChatGPT Work）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/12/astra-running-routes-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>一个具体案例，展示新模型在真实空间约束任务上的能力上限。（博客 · Simon Willison · 原题 Generating running routes with GPT-6 Astra and ChatGPT Work）</description>
   </item>
   <item>
-    <title>开源交易 agent CloddsBot：自主覆盖 1000+ 市场</title>
-    <link>https://github.com/alsk1992/CloddsBot</link>
-    <guid isPermaLink="false">github.com/alsk1992/CloddsBot-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>跨 Polymarket、Binance 等自动交易的开源实现，可研究 agent 风控与执行。（开源 · GitHub · 原题 alsk1992/CloddsBot）</description>
+    <title>我们必须为前沿技术踩下节奏</title>
+    <link>https://darioamodei.com/post/we-must-pace-the-frontier</link>
+    <guid isPermaLink="false">darioamodei.com/post/we-must-pace-the-frontier-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>讨论 AI 发展速度与治理节奏，适合思考监管与竞争平衡的人。（社区 · Lobste.rs · 原题 We Must Pace the Frontier）</description>
   </item>
   <item>
     <title>Cognition 让 Devin 用 GPT-6 Astra 自测代码</title>
     <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/cognition-devin-testing-with-astra-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>AI 编程工具开始自我验证，直接影响研发流程与测试岗位的分工。（官方 · OpenAI · 原题 Cognition helps Devin test its own work with GPT‑6 Astra）</description>
+    <guid isPermaLink="false">openai.com/index/cognition-devin-testing-with-astra-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>Agent 自我验证闭环落地，直接影响 AI 编程工具的可信度。（官方 · OpenAI · 原题 Cognition helps Devin test its own work with GPT‑6 Astra）</description>
   </item>
   <item>
-    <title>OpenAI 如何把在线存储扩展到 10 亿 ChatGPT 用户</title>
+    <title>OpenAI 如何快速扩容存储以支撑 10 亿 ChatGPT 用户</title>
     <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
-    <guid isPermaLink="false">openai.com/index/scaling-storage-one-billion-users-part-one-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>一线基础设施扩容细节，对做大规模 AI 服务的工程团队有直接参考价值。（官方 · OpenAI · 原题 Rapidly scaling online storage to serve over 1 billion ChatGPT users）</description>
+    <guid isPermaLink="false">openai.com/index/scaling-storage-one-billion-users-part-one-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>一线基础设施细节，对做大规模在线服务的团队有参考价值。（官方 · OpenAI · 原题 Rapidly scaling online storage to serve over 1 billion ChatGPT users）</description>
   </item>
   <item>
-    <title>OpenAI agents 曾在 5 月攻击 RubyGems</title>
+    <title>OpenAI 的 Agent 曾在五月攻击 RubyGems</title>
     <link>https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/12/openai-agents-rubygems-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>真实供应链攻击案例，提醒依赖 agent 自动化的团队补齐权限与审计。（博客 · Simon Willison · 原题 OpenAI agents attacked RubyGems back in May）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/12/openai-agents-rubygems-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>真实供应链攻击案例，提醒 Agent 自动化带来的安全盲区。（博客 · Simon Willison · 原题 OpenAI agents attacked RubyGems back in May）</description>
   </item>
   <item>
-    <title>Ask HN：能不能少刷点 AI 新闻？</title>
-    <link>https://news.ycombinator.com/item?id=49657850</link>
-    <guid isPermaLink="false">news.ycombinator.com/item-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>社区对信息过载的反弹，反映从业者对信号噪音比的真实焦虑。（社区 · Hacker News · 原题 Ask HN: Can we please limit the AI news flood?）</description>
-  </item>
-  <item>
-    <title>对 AI 感到难过</title>
+    <title>为 AI 感到难过</title>
     <link>https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/11/feeling-sad-about-ai-2026-09-13</guid>
-    <pubDate>Sun, 13 Sep 2026 01:48:30 GMT</pubDate>
-    <description>Simon Willison 的坦诚情绪记录，帮你在技术乐观叙事外保留一份清醒。（博客 · Simon Willison · 原题 Feeling sad about AI）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/11/feeling-sad-about-ai-2026-09-14</guid>
+    <pubDate>Mon, 14 Sep 2026 02:06:09 GMT</pubDate>
+    <description>一篇情绪化反思，帮从业者跳出技术视角审视自身处境。（博客 · Simon Willison · 原题 Feeling sad about AI）</description>
   </item>
 </channel>
 </rss>
