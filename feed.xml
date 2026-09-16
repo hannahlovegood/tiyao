@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 15 Sep 2026 02:13:08 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 16 Sep 2026 02:05:55 GMT</lastBuildDate>
   <item>
-    <title>阿里开源 open-code-review：混合架构代码审查工具</title>
+    <title>阿里开源大规模代码审查工具 open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
-    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>大厂规模化验证的确定性流水线加 LLM，可直接借鉴落地。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
+    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>确定性流水线加 LLM 的混合架构，可直接借鉴其工程化落地思路。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
   </item>
   <item>
-    <title>Google 对话：宇航员与 James Manyika 谈太空与发现</title>
-    <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>看科技巨头如何叙事 AI 与探索，适合品牌与战略参考。（官方 · Google AI · 原题 Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.）</description>
+    <title>Gemini 3.8 Live 与扩展思考版发布</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>实时多模态与长思考双版本，决定语音 Agent 能力上限。（社区 · Hacker News · 原题 Gemini 3.8 Live and 3.8 Live Extended Thinking）</description>
   </item>
   <item>
-    <title>Fyxer 如何打造用户信任的 AI 行政助理</title>
+    <title>DeepMind 正式发布 Gemini 3.8 Live 系列</title>
+    <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>官方一手规格与定价，评估接入实时 API 的必读依据。（官方 · DeepMind · 原题 Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking）</description>
+  </item>
+  <item>
+    <title>Google 发布 AI 社会影响相关进展</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>看清大厂如何包装 AI 公益叙事，判断政策与合规风向。（官方 · Google AI · 原题 AI for Societal Impact）</description>
+  </item>
+  <item>
+    <title>Google 用 AI 加速科研与改善生活</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/ai-applications-science-people-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>科学发现是 AI 变现新赛道，可窥见其落地优先级。（官方 · Google AI · 原题 Building AI to accelerate science and improve lives）</description>
+  </item>
+  <item>
+    <title>Google 让 AI 覆盖每一种语言</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/ai-for-every-language-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>多语言覆盖决定新兴市场产品机会与本地化成本。（官方 · Google AI · 原题 AI for everyone in every language）</description>
+  </item>
+  <item>
+    <title>Simon Willison 实测 Gemini Live 音频</title>
+    <link>https://simonwillison.net/2026/Sep/15/gemini-live/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/15/gemini-live-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>一线开发者对实时语音延迟与体验的真实评价。（博客 · Simon Willison · 原题 Gemini Live audio）</description>
+  </item>
+  <item>
+    <title>你的 Agent 通过了任务，还能复现吗？</title>
+    <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-research/altk-evolve-consistency-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>直击 Agent 评测可复现性痛点，做产品必看的反思。（博客 · Hugging Face · 原题 Your Agent Aced the Task. Will It Do It Again?）</description>
+  </item>
+  <item>
+    <title>Fyxer 如何打造可信赖的 AI 行政助理</title>
     <link>https://openai.com/index/fyxer</link>
-    <guid isPermaLink="false">openai.com/index/fyxer-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>真实产品案例，揭示 AI 助理赢得信任的关键设计取舍。（官方 · OpenAI · 原题 How Fyxer built an AI executive assistant people trust）</description>
+    <guid isPermaLink="false">openai.com/index/fyxer-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>真实客户案例，展示信任设计如何决定助理类产品成败。（官方 · OpenAI · 原题 How Fyxer built an AI executive assistant people trust）</description>
   </item>
   <item>
-    <title>OpenAI 机器人早已知晓 RubyGems 缓存漏洞</title>
-    <link>https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/</link>
-    <guid isPermaLink="false">tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>暴露模型与漏洞情报的边界，安全从业者需警惕。（社区 · Hacker News · 原题 OpenAI bots knew about the RubyGems caching vulnerability）</description>
-  </item>
-  <item>
-    <title>DevFest 回归</title>
-    <link>https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/devfest2026-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>开发者社区活动重启，关注生态动向与线下人脉机会。（官方 · Google AI · 原题 DevFest is back）</description>
-  </item>
-  <item>
-    <title>Perplexity 用 GPT-6 Astra 支撑端到端系统</title>
-    <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/perplexity-improving-accuracy-with-astra-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>头部搜索产品押注新模型，信号意义强于技术细节。（官方 · OpenAI · 原题 Perplexity trusts GPT-6 Astra with end-to-end systems）</description>
-  </item>
-  <item>
-    <title>用 GPT-6 Astra 与 ChatGPT Work 生成跑步路线</title>
-    <link>https://simonwillison.net/2026/Sep/12/astra-running-routes/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/12/astra-running-routes-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>Simon Willison 的实操演示，展示新模型工具调用能力。（博客 · Simon Willison · 原题 Generating running routes with GPT-6 Astra and ChatGPT Work）</description>
-  </item>
-  <item>
-    <title>system_prompts_leaks：Claude 与 GPT 系统提示词泄露集</title>
-    <link>https://github.com/asgeirtj/system_prompts_leaks</link>
-    <guid isPermaLink="false">github.com/asgeirtj/system_prompts_leaks-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>直接对照各家系统提示词，是提示工程与安全研究富矿。（开源 · GitHub · 原题 asgeirtj/system_prompts_leaks）</description>
-  </item>
-  <item>
-    <title>TradingAgents：多智能体 LLM 金融交易框架</title>
-    <link>https://github.com/TauricResearch/TradingAgents</link>
-    <guid isPermaLink="false">github.com/TauricResearch/TradingAgents-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>开源多智能体金融落地范本，量化与 Agent 交叉值得研究。（开源 · GitHub · 原题 TauricResearch/TradingAgents）</description>
-  </item>
-  <item>
-    <title>我们必须为前沿技术踩刹车</title>
-    <link>https://darioamodei.com/post/we-must-pace-the-frontier</link>
-    <guid isPermaLink="false">darioamodei.com/post/we-must-pace-the-frontier-2026-09-15</guid>
-    <pubDate>Tue, 15 Sep 2026 02:13:08 GMT</pubDate>
-    <description>前沿节奏之争的代表性观点，理解监管与安全讨论脉络。（社区 · Lobste.rs · 原题 We Must Pace the Frontier）</description>
+    <title>一位机器学习工程师的来信</title>
+    <link>https://nemin.hu/llm-letter/index.html</link>
+    <guid isPermaLink="false">nemin.hu/llm-letter/index.html-2026-09-16</guid>
+    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
+    <description>从业者视角的行业自省，比新闻更贴近真实处境。（社区 · Lobste.rs · 原题 A Letter from a Machine Learning Engineer）</description>
   </item>
 </channel>
 </rss>
