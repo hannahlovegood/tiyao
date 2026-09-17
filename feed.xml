@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 16 Sep 2026 02:05:55 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 17 Sep 2026 02:09:41 GMT</lastBuildDate>
   <item>
-    <title>阿里开源大规模代码审查工具 open-code-review</title>
+    <title>阿里开源 open-code-review：混合架构代码审查工具</title>
     <link>https://github.com/alibaba/open-code-review</link>
-    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>确定性流水线加 LLM 的混合架构，可直接借鉴其工程化落地思路。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
+    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>确定性流水线加 LLM，经阿里规模验证，可直接用于团队代码审查提效。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
   </item>
   <item>
-    <title>Gemini 3.8 Live 与扩展思考版发布</title>
-    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>实时多模态与长思考双版本，决定语音 Agent 能力上限。（社区 · Hacker News · 原题 Gemini 3.8 Live and 3.8 Live Extended Thinking）</description>
+    <title>OpenAI 发布模型失准报告框架</title>
+    <link>https://openai.com/index/model-misalignment-reporting-framework</link>
+    <guid isPermaLink="false">openai.com/index/model-misalignment-reporting-framework-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>提供识别与上报模型行为偏离的标准化方法，对齐从业者必读。（官方 · OpenAI · 原题 Our framework for reporting model misalignment）</description>
   </item>
   <item>
-    <title>DeepMind 正式发布 Gemini 3.8 Live 系列</title>
+    <title>OpenAI 助老年人将 AI 融入日常生活</title>
+    <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
+    <guid isPermaLink="false">openai.com/index/helping-older-adults-use-ai-in-everyday-life-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>展示适老化 AI 产品设计思路，对银发市场产品经理有参考价值。（官方 · OpenAI · 原题 Helping older adults use AI in everyday life）</description>
+  </item>
+  <item>
+    <title>OpenAI 用 AI 重塑广告业务</title>
+    <link>https://openai.com/index/reimagining-advertising-with-ai</link>
+    <guid isPermaLink="false">openai.com/index/reimagining-advertising-with-ai-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>透露 AI 驱动广告的新形态，营销与商业化从业者需关注。（官方 · OpenAI · 原题 Reimagining advertising with AI）</description>
+  </item>
+  <item>
+    <title>Claude Cowork 与聊天合并为统一 Claude</title>
+    <link>https://simonwillison.net/2026/Sep/16/one-claude/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/16/one-claude-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>产品线整合影响 API 与工作流，Claude 开发者应尽快适配。（博客 · Simon Willison · 原题 Claude Cowork and chat are now one Claude）</description>
+  </item>
+  <item>
+    <title>DeepMind 发布 Gemini 3.8 Live 及扩展思考版</title>
     <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>官方一手规格与定价，评估接入实时 API 的必读依据。（官方 · DeepMind · 原题 Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking）</description>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>实时多模态加长思考，直接决定语音与 Agent 应用的下一代能力。（官方 · DeepMind · 原题 Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking）</description>
   </item>
   <item>
-    <title>Google 发布 AI 社会影响相关进展</title>
+    <title>Google AI：以 AI 推动社会影响</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>看清大厂如何包装 AI 公益叙事，判断政策与合规风向。（官方 · Google AI · 原题 AI for Societal Impact）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>了解 Google 公益 AI 布局，寻找非商业场景合作机会。（官方 · Google AI · 原题 AI for Societal Impact）</description>
   </item>
   <item>
-    <title>Google 用 AI 加速科研与改善生活</title>
+    <title>Google AI：加速科学与改善生活</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/ai-applications-science-people-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>科学发现是 AI 变现新赛道，可窥见其落地优先级。（官方 · Google AI · 原题 Building AI to accelerate science and improve lives）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/ai-applications-science-people-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>科研 AI 落地案例，对生物医药与学术研究者有直接启发。（官方 · Google AI · 原题 Building AI to accelerate science and improve lives）</description>
   </item>
   <item>
-    <title>Google 让 AI 覆盖每一种语言</title>
+    <title>Google AI：让每个人每种语言都能用上 AI</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/ai-for-every-language-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>多语言覆盖决定新兴市场产品机会与本地化成本。（官方 · Google AI · 原题 AI for everyone in every language）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/ai-for-every-language-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>多语言覆盖策略，出海产品与低资源语言开发者值得细读。（官方 · Google AI · 原题 AI for everyone in every language）</description>
   </item>
   <item>
-    <title>Simon Willison 实测 Gemini Live 音频</title>
-    <link>https://simonwillison.net/2026/Sep/15/gemini-live/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/15/gemini-live-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>一线开发者对实时语音延迟与体验的真实评价。（博客 · Simon Willison · 原题 Gemini Live audio）</description>
-  </item>
-  <item>
-    <title>你的 Agent 通过了任务，还能复现吗？</title>
-    <link>https://huggingface.co/blog/ibm-research/altk-evolve-consistency</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-research/altk-evolve-consistency-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>直击 Agent 评测可复现性痛点，做产品必看的反思。（博客 · Hugging Face · 原题 Your Agent Aced the Task. Will It Do It Again?）</description>
-  </item>
-  <item>
-    <title>Fyxer 如何打造可信赖的 AI 行政助理</title>
-    <link>https://openai.com/index/fyxer</link>
-    <guid isPermaLink="false">openai.com/index/fyxer-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>真实客户案例，展示信任设计如何决定助理类产品成败。（官方 · OpenAI · 原题 How Fyxer built an AI executive assistant people trust）</description>
-  </item>
-  <item>
-    <title>一位机器学习工程师的来信</title>
-    <link>https://nemin.hu/llm-letter/index.html</link>
-    <guid isPermaLink="false">nemin.hu/llm-letter/index.html-2026-09-16</guid>
-    <pubDate>Wed, 16 Sep 2026 02:05:55 GMT</pubDate>
-    <description>从业者视角的行业自省，比新闻更贴近真实处境。（社区 · Lobste.rs · 原题 A Letter from a Machine Learning Engineer）</description>
+    <title>Hacker News 热议 Gemini 3.8 Live 与扩展思考</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking-2026-09-17</guid>
+    <pubDate>Thu, 17 Sep 2026 02:09:41 GMT</pubDate>
+    <description>社区实测反馈比官方发布更真实，可快速判断实际可用性。（社区 · Hacker News · 原题 Gemini 3.8 Live and 3.8 Live Extended Thinking）</description>
   </item>
 </channel>
 </rss>
