@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 18 Sep 2026 01:56:38 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 02:01:50 GMT</lastBuildDate>
   <item>
-    <title>Cloudflare 开源安全审计 Agent 技能，支持机器可读结果</title>
+    <title>Cloudflare 开源 security-audit-skill：多阶段安全审计 Agent 技能</title>
     <link>https://github.com/cloudflare/security-audit-skill</link>
-    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>把多阶段安全审计做成可复用的 Agent 技能，安全与 Agent 开发者可直接借鉴。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>可独立验证的机器可读审计结果，为 coding agent 落地安全场景提供参考范式。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
   </item>
   <item>
-    <title>System One Models 与 Jev 发布</title>
-    <link>https://typesafe.ai/blog/introducing-system-one-models-and-jev</link>
-    <guid isPermaLink="false">typesafe.ai/blog/introducing-system-one-models-and-jev-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>新模型路线亮相，关注基础模型演进的人需了解其定位与差异。（社区 · Lobste.rs · 原题 Introducing System One Models &amp; Jev）</description>
+    <title>Claude Code 在无 Claude.md 时改读 AGENTS.md</title>
+    <link>https://code.claude.com/docs/en/changelog</link>
+    <guid isPermaLink="false">code.claude.com/docs/en/changelog-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>跨工具配置约定趋同，多 Agent 协作的工程化成本有望降低。（社区 · Hacker News · 原题 Claude Code now reads AGENTS.md if there is no Claude.md）</description>
   </item>
   <item>
-    <title>阿里开源 open-code-review：混合架构代码审查工具</title>
+    <title>阿里开源 open-code-review：大规模实战代码审查工具</title>
     <link>https://github.com/alibaba/open-code-review</link>
-    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>确定性流水线加 LLM，经阿里规模验证，可直接用于工程提效。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
+    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>确定性流水线加混合架构，为自建代码审查系统提供可借鉴方案。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
+  </item>
+  <item>
+    <title>Google AI 与经济团队迎来新专家</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>观察 Google 如何布局 AI 对劳动力与宏观经济影响的研究方向。（官方 · Google AI · 原题 New experts join Google’s AI &amp; Economy team）</description>
+  </item>
+  <item>
+    <title>Google 携手时尚业共创未来</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>看 AI 在垂直消费行业的落地路径，或涉及生成式设计与零售场景。（官方 · Google AI · 原题 Co-creating the future of fashion with Google）</description>
+  </item>
+  <item>
+    <title>Gemini 攻破三家公司：Google AI 首次已知越狱事件</title>
+    <link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/18/gemini-hacked-three-companies-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>首个公开的 AI 自主突破案例，安全与红队从业者必读。（博客 · Simon Willison · 原题 Gemini Hacked Three Companies in First Known Breakout by Google’s AI）</description>
+  </item>
+  <item>
+    <title>Anthropic 与 Accenture 合作嵌入式评估</title>
+    <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
+    <guid isPermaLink="false">anthropic.com/news/accenture-embedded-evaluation-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>企业级 AI 评估走向交付流程内嵌，咨询与落地团队可关注模式。（官方 · Anthropic · 原题 Partnering with Accenture on embedded evaluation）</description>
   </item>
   <item>
     <title>Google 让全球数据更易探索</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>数据探索体验更新，涉及数据工具链与可视化从业者的产品方向。（官方 · Google AI · 原题 Making global data easier to explore）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>数据可访问性工具更新，影响数据分析与 AI 训练数据获取方式。（官方 · Google AI · 原题 Making global data easier to explore）</description>
   </item>
   <item>
     <title>Cooley 如何用 ChatGPT 加速 IPO 工作</title>
     <link>https://openai.com/index/cooley-gopublic</link>
-    <guid isPermaLink="false">openai.com/index/cooley-gopublic-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>律所 IPO 场景落地案例，展示专业服务业的真实 AI 工作流。（官方 · OpenAI · 原题 How Cooley is accelerating IPO work with ChatGPT）</description>
+    <guid isPermaLink="false">openai.com/index/cooley-gopublic-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>律所高价值流程的 AI 落地样本，专业服务从业者可借鉴。（官方 · OpenAI · 原题 How Cooley is accelerating IPO work with ChatGPT）</description>
   </item>
   <item>
-    <title>如何用 LLM 写作：Simon Willison 的方法</title>
+    <title>如何用 LLM 写作</title>
     <link>https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/17/how-to-write-with-an-llm-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>一线实践者的写作方法论，帮内容与技术人建立可复用的协作流程。（博客 · Simon Willison · 原题 How To Write With An LLM）</description>
-  </item>
-  <item>
-    <title>压缩摘要中的自生成提示注入</title>
-    <link>https://simonwillison.net/2026/Sep/17/compaction-summaries/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/17/compaction-summaries-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>揭示上下文压缩环节的新型注入风险，Agent 开发者需警惕的盲区。（博客 · Simon Willison · 原题 Self-generated prompt injections in compaction summaries）</description>
-  </item>
-  <item>
-    <title>Anthropic 推出生命科学验证计划</title>
-    <link>https://www.anthropic.com/news/life-sciences-verification-program</link>
-    <guid isPermaLink="false">anthropic.com/news/life-sciences-verification-program-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>面向生命科学的验证机制，关乎该领域模型可信度与合规落地。（官方 · Anthropic · 原题 Introducing the Life Sciences Verification Program）</description>
-  </item>
-  <item>
-    <title>OpenAI 推出面向法律行业的 Astra</title>
-    <link>https://openai.com/index/astra-for-law</link>
-    <guid isPermaLink="false">openai.com/index/astra-for-law-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>法律垂直产品再落一子，法律科技从业者需评估其竞争与集成空间。（官方 · OpenAI · 原题 Introducing Astra for Law）</description>
-  </item>
-  <item>
-    <title>OpenAI 发布模型失准报告框架</title>
-    <link>https://openai.com/index/model-misalignment-reporting-framework</link>
-    <guid isPermaLink="false">openai.com/index/model-misalignment-reporting-framework-2026-09-18</guid>
-    <pubDate>Fri, 18 Sep 2026 01:56:38 GMT</pubDate>
-    <description>给出失准上报的结构化框架，安全与对齐团队可直接参考落地。（官方 · OpenAI · 原题 Our framework for reporting model misalignment）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/17/how-to-write-with-an-llm-2026-09-19</guid>
+    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
+    <description>Simon Willison 的实操方法，写作者与 prompt 工程师可直接参考。（博客 · Simon Willison · 原题 How To Write With An LLM）</description>
   </item>
 </channel>
 </rss>
