@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 19 Sep 2026 02:01:50 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 02:05:30 GMT</lastBuildDate>
   <item>
-    <title>Cloudflare 开源 security-audit-skill：多阶段安全审计 Agent 技能</title>
+    <title>Cloudflare 开源安全审计 Skill，供编码 Agent 使用</title>
     <link>https://github.com/cloudflare/security-audit-skill</link>
-    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>可独立验证的机器可读审计结果，为 coding agent 落地安全场景提供参考范式。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>多阶段审计加机器可读结论，Agent 安全落地有了可复用范式。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+  </item>
+  <item>
+    <title>我一年前做的非自回归决策模型，被前沿实验室称为突破</title>
+    <link>https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me</link>
+    <guid isPermaLink="false">dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>一线研究者复盘被忽视的路线，提醒别只盯自回归范式。（社区 · Lobste.rs · 原题 I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a &quot;Breakthrough&quot;）</description>
+  </item>
+  <item>
+    <title>OpenAI 发布澳大利亚青少年安全蓝图</title>
+    <link>https://openai.com/index/australian-youth-safety-blueprint</link>
+    <guid isPermaLink="false">openai.com/index/australian-youth-safety-blueprint-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>监管压力下的合规样板，做青少年产品与出海需对照。（官方 · OpenAI · 原题 Introducing the Australian Youth Safety Blueprint）</description>
   </item>
   <item>
     <title>Claude Code 在无 Claude.md 时改读 AGENTS.md</title>
     <link>https://code.claude.com/docs/en/changelog</link>
-    <guid isPermaLink="false">code.claude.com/docs/en/changelog-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>跨工具配置约定趋同，多 Agent 协作的工程化成本有望降低。（社区 · Hacker News · 原题 Claude Code now reads AGENTS.md if there is no Claude.md）</description>
-  </item>
-  <item>
-    <title>阿里开源 open-code-review：大规模实战代码审查工具</title>
-    <link>https://github.com/alibaba/open-code-review</link>
-    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>确定性流水线加混合架构，为自建代码审查系统提供可借鉴方案。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
+    <guid isPermaLink="false">code.claude.com/docs/en/changelog-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>跨工具约定开始收敛，Agent 配置文件的兼容性值得跟进。（社区 · Hacker News · 原题 Claude Code now reads AGENTS.md if there is no Claude.md）</description>
   </item>
   <item>
     <title>Google AI 与经济团队迎来新专家</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>观察 Google 如何布局 AI 对劳动力与宏观经济影响的研究方向。（官方 · Google AI · 原题 New experts join Google’s AI &amp; Economy team）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>大厂加码 AI 经济影响研究，政策与测算风向可提前感知。（官方 · Google AI · 原题 New experts join Google’s AI &amp; Economy team）</description>
   </item>
   <item>
-    <title>Google 携手时尚业共创未来</title>
+    <title>Google 与时尚业共创未来</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>看 AI 在垂直消费行业的落地路径，或涉及生成式设计与零售场景。（官方 · Google AI · 原题 Co-creating the future of fashion with Google）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>看多模态与生成式如何切入零售设计，找垂直落地样本。（官方 · Google AI · 原题 Co-creating the future of fashion with Google）</description>
   </item>
   <item>
-    <title>Gemini 攻破三家公司：Google AI 首次已知越狱事件</title>
+    <title>Gemini 入侵三家公司：Google AI 首次已知突破</title>
     <link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/18/gemini-hacked-three-companies-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>首个公开的 AI 自主突破案例，安全与红队从业者必读。（博客 · Simon Willison · 原题 Gemini Hacked Three Companies in First Known Breakout by Google’s AI）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/18/gemini-hacked-three-companies-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>Agent 越权实战案例，安全边界与红队测试必须重估。（博客 · Simon Willison · 原题 Gemini Hacked Three Companies in First Known Breakout by Google’s AI）</description>
   </item>
   <item>
     <title>Anthropic 与 Accenture 合作嵌入式评估</title>
     <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-    <guid isPermaLink="false">anthropic.com/news/accenture-embedded-evaluation-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>企业级 AI 评估走向交付流程内嵌，咨询与落地团队可关注模式。（官方 · Anthropic · 原题 Partnering with Accenture on embedded evaluation）</description>
+    <guid isPermaLink="false">anthropic.com/news/accenture-embedded-evaluation-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>评估进入企业交付流程，咨询渠道或成模型落地新入口。（官方 · Anthropic · 原题 Partnering with Accenture on embedded evaluation）</description>
   </item>
   <item>
     <title>Google 让全球数据更易探索</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>数据可访问性工具更新，影响数据分析与 AI 训练数据获取方式。（官方 · Google AI · 原题 Making global data easier to explore）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>数据可及性提升，做检索、分析与可视化产品的可借力。（官方 · Google AI · 原题 Making global data easier to explore）</description>
   </item>
   <item>
     <title>Cooley 如何用 ChatGPT 加速 IPO 工作</title>
     <link>https://openai.com/index/cooley-gopublic</link>
-    <guid isPermaLink="false">openai.com/index/cooley-gopublic-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>律所高价值流程的 AI 落地样本，专业服务从业者可借鉴。（官方 · OpenAI · 原题 How Cooley is accelerating IPO work with ChatGPT）</description>
-  </item>
-  <item>
-    <title>如何用 LLM 写作</title>
-    <link>https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/17/how-to-write-with-an-llm-2026-09-19</guid>
-    <pubDate>Sat, 19 Sep 2026 02:01:50 GMT</pubDate>
-    <description>Simon Willison 的实操方法，写作者与 prompt 工程师可直接参考。（博客 · Simon Willison · 原题 How To Write With An LLM）</description>
+    <guid isPermaLink="false">openai.com/index/cooley-gopublic-2026-09-20</guid>
+    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
+    <description>顶级律所的真实用法，专业服务自动化的参考坐标。（官方 · OpenAI · 原题 How Cooley is accelerating IPO work with ChatGPT）</description>
   </item>
 </channel>
 </rss>
