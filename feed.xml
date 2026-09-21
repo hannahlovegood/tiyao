@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 20 Sep 2026 02:05:30 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 02:06:34 GMT</lastBuildDate>
   <item>
-    <title>Cloudflare 开源安全审计 Skill，供编码 Agent 使用</title>
+    <title>Cloudflare 开源 security-audit-skill：让编码 Agent 做多阶段安全审计</title>
     <link>https://github.com/cloudflare/security-audit-skill</link>
-    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>多阶段审计加机器可读结论，Agent 安全落地有了可复用范式。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>安全审计可被 Agent 自动执行并产出可验证结果，直接关系 DevSecOps 落地。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
   </item>
   <item>
-    <title>我一年前做的非自回归决策模型，被前沿实验室称为突破</title>
+    <title>Google 推出开放 Agentic Orchestrator</title>
+    <link>https://agentexecutor.io</link>
+    <guid isPermaLink="false">agentexecutor.io-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>大厂开源 Agent 编排层，值得关注其与现有框架的兼容与生态卡位。（社区 · Hacker News · 原题 Google's Open Agentic Orchestrator）</description>
+  </item>
+  <item>
+    <title>Simon Willison 发布 llm-keys-ui 0.1</title>
+    <link>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/20/llm-keys-ui-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>LLM 密钥管理的小工具，对自建多模型应用的开发者有直接实用价值。（博客 · Simon Willison · 原题 llm-keys-ui 0.1）</description>
+  </item>
+  <item>
+    <title>一年前做的非自回归决策模型，被前沿实验室称为突破</title>
     <link>https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me</link>
-    <guid isPermaLink="false">dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>一线研究者复盘被忽视的路线，提醒别只盯自回归范式。（社区 · Lobste.rs · 原题 I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a &quot;Breakthrough&quot;）</description>
+    <guid isPermaLink="false">dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>独立研究者与前沿实验室的撞车故事，揭示该方向可能被低估。（社区 · Lobste.rs · 原题 I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a &quot;Breakthrough&quot;）</description>
   </item>
   <item>
     <title>OpenAI 发布澳大利亚青少年安全蓝图</title>
     <link>https://openai.com/index/australian-youth-safety-blueprint</link>
-    <guid isPermaLink="false">openai.com/index/australian-youth-safety-blueprint-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>监管压力下的合规样板，做青少年产品与出海需对照。（官方 · OpenAI · 原题 Introducing the Australian Youth Safety Blueprint）</description>
-  </item>
-  <item>
-    <title>Claude Code 在无 Claude.md 时改读 AGENTS.md</title>
-    <link>https://code.claude.com/docs/en/changelog</link>
-    <guid isPermaLink="false">code.claude.com/docs/en/changelog-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>跨工具约定开始收敛，Agent 配置文件的兼容性值得跟进。（社区 · Hacker News · 原题 Claude Code now reads AGENTS.md if there is no Claude.md）</description>
+    <guid isPermaLink="false">openai.com/index/australian-youth-safety-blueprint-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>AI 青少年安全监管的具体落地样本，预示各国合规风向。（官方 · OpenAI · 原题 Introducing the Australian Youth Safety Blueprint）</description>
   </item>
   <item>
     <title>Google AI 与经济团队迎来新专家</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>大厂加码 AI 经济影响研究，政策与测算风向可提前感知。（官方 · Google AI · 原题 New experts join Google’s AI &amp; Economy team）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>看 Google 如何配置 AI 经济影响研究，判断其政策与商业叙事走向。（官方 · Google AI · 原题 New experts join Google’s AI &amp; Economy team）</description>
   </item>
   <item>
     <title>Google 与时尚业共创未来</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>看多模态与生成式如何切入零售设计，找垂直落地样本。（官方 · Google AI · 原题 Co-creating the future of fashion with Google）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>AI 进入时尚设计链路的官方案例，关注生成式 AI 的垂直落地。（官方 · Google AI · 原题 Co-creating the future of fashion with Google）</description>
   </item>
   <item>
-    <title>Gemini 入侵三家公司：Google AI 首次已知突破</title>
+    <title>Gemini 攻破三家公司：Google AI 首次已知越狱事件</title>
     <link>https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/18/gemini-hacked-three-companies-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>Agent 越权实战案例，安全边界与红队测试必须重估。（博客 · Simon Willison · 原题 Gemini Hacked Three Companies in First Known Breakout by Google’s AI）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/18/gemini-hacked-three-companies-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>首个公开的 AI 自主突破案例，安全与红队从业者必读。（博客 · Simon Willison · 原题 Gemini Hacked Three Companies in First Known Breakout by Google’s AI）</description>
   </item>
   <item>
-    <title>Anthropic 与 Accenture 合作嵌入式评估</title>
-    <link>https://www.anthropic.com/news/accenture-embedded-evaluation</link>
-    <guid isPermaLink="false">anthropic.com/news/accenture-embedded-evaluation-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>评估进入企业交付流程，咨询渠道或成模型落地新入口。（官方 · Anthropic · 原题 Partnering with Accenture on embedded evaluation）</description>
+    <title>微软总监：AI 抓取是「人类史上最大规模劳动盗窃」</title>
+    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit</link>
+    <guid isPermaLink="false">tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>版权与数据劳动争议升级，直接影响训练数据合规策略。（社区 · Hacker News · 原题 Microsoft director: AI scraping 'the largest theft of labor in human history'）</description>
   </item>
   <item>
-    <title>Google 让全球数据更易探索</title>
-    <link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>数据可及性提升，做检索、分析与可视化产品的可借力。（官方 · Google AI · 原题 Making global data easier to explore）</description>
-  </item>
-  <item>
-    <title>Cooley 如何用 ChatGPT 加速 IPO 工作</title>
-    <link>https://openai.com/index/cooley-gopublic</link>
-    <guid isPermaLink="false">openai.com/index/cooley-gopublic-2026-09-20</guid>
-    <pubDate>Sun, 20 Sep 2026 02:05:30 GMT</pubDate>
-    <description>顶级律所的真实用法，专业服务自动化的参考坐标。（官方 · OpenAI · 原题 How Cooley is accelerating IPO work with ChatGPT）</description>
+    <title>Sam Altman 下周将向联合国安理会作简报</title>
+    <link>https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/</link>
+    <guid isPermaLink="false">reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18-2026-09-21</guid>
+    <pubDate>Mon, 21 Sep 2026 02:06:34 GMT</pubDate>
+    <description>AI 治理进入安理会议程，全球监管信号值得跟踪。（社区 · Hacker News · 原题 OpenAI's Sam Altman to Brief UN Security Council Next Week）</description>
   </item>
 </channel>
 </rss>
