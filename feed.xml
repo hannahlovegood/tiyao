@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 22 Sep 2026 02:12:24 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 02:11:56 GMT</lastBuildDate>
   <item>
-    <title>BuilderIO 开源 agent-native：构建智能体应用的新框架</title>
-    <link>https://github.com/BuilderIO/agent-native</link>
-    <guid isPermaLink="false">github.com/BuilderIO/agent-native-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>想搭 agent 应用的开发者可直接参考其架构，省去从零设计（开源 · GitHub · 原题 BuilderIO/agent-native）</description>
+    <title>Google 开源 agentic 编排运行时 ax</title>
+    <link>https://github.com/google/ax</link>
+    <guid isPermaLink="false">github.com/google/ax-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>想自建 Agent 调度层的团队，可直接对标 Google 的运行时设计取舍。（开源 · GitHub · 原题 google/ax）</description>
   </item>
   <item>
-    <title>HN 热议：Claude 妄想，还是我们对 AI 的幻觉？</title>
-    <link>https://pluralistic.net/2026/09/21/sunsetting/</link>
-    <guid isPermaLink="false">pluralistic.net/2026/09/21/sunsetting-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>看清当前 LLM 能力边界与社区情绪，避免过度预期（社区 · Hacker News · 原题 The Claude Delusion）</description>
+    <title>GPT-6 提示缓存机制升级</title>
+    <link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
+    <guid isPermaLink="false">openai.com/index/better-prompt-caching-for-gpt-6-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>缓存命中率直接影响推理成本，做长上下文应用的人必须重算账。（官方 · OpenAI · 原题 Better prompt caching for GPT-6）</description>
   </item>
   <item>
-    <title>OpenAI 成立数学与 AI 顾问组</title>
-    <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
-    <guid isPermaLink="false">openai.com/index/advisory-group-on-mathematics-and-ai-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>数学是推理能力试金石，此举暗示下一代模型方向（官方 · OpenAI · 原题 Advisory Group on Mathematics and Artificial Intelligence）</description>
+    <title>OpenAI 发布 GPT-6 Sol 与 Luna</title>
+    <link>https://openai.com/index/introducing-gpt-6-sol-and-luna</link>
+    <guid isPermaLink="false">openai.com/index/introducing-gpt-6-sol-and-luna-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>双模型定位决定你该选谁做主力、谁做廉价兜底，选型窗口已开。（官方 · OpenAI + Hacker News · 原题 Introducing GPT-6 Sol and Luna）</description>
   </item>
   <item>
-    <title>Higgsfield AI 一天内用 GPT-6 Astra 上线新视频功能</title>
-    <link>https://openai.com/index/higgsfield-from-prompt-to-production-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/higgsfield-from-prompt-to-production-with-astra-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>展示新模型落地速度，视频生成赛道竞争再提速（官方 · OpenAI · 原题 Higgsfield AI ships new video features in a day with GPT-6 Astra）</description>
+    <title>Claude Opus 5.5 现身 Hacker News</title>
+    <link>https://www.anthropic.com/claude-opus-5-5</link>
+    <guid isPermaLink="false">anthropic.com/claude-opus-5-5-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>Anthropic 新旗舰的社区实测反馈，比官方 benchmark 更能看出真实手感。（社区 · Hacker News · 原题 Claude Opus 5.5）</description>
   </item>
   <item>
-    <title>OpenAI 发布 AI 下一阶段建设标准</title>
-    <link>https://openai.com/index/building-standards-next-phase-ai</link>
-    <guid isPermaLink="false">openai.com/index/building-standards-next-phase-ai-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>标准制定者往往掌握话语权，从业者需关注合规风向（官方 · OpenAI · 原题 Building standards for the next phase of AI）</description>
+    <title>Parallel 用 GPT-6 Astra 将研究时间与成本减半</title>
+    <link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
+    <guid isPermaLink="false">openai.com/index/parallel-cuts-time-and-cost-with-astra-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>一个可复用的降本案例，说明 Astra 在长链路研究任务上的实际收益。（官方 · OpenAI · 原题 Parallel cut research time and cost in half with GPT‑6 Astra）</description>
   </item>
   <item>
-    <title>Simon Willison：Jev 提出 System One 决策模型新形态</title>
-    <link>https://simonwillison.net/2026/Sep/21/jev/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/21/jev-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>若成立，可能改变 LLM 推理架构的设计思路（博客 · Simon Willison · 原题 Jev introduces a new shape of LLM - System One, aka Decision Models）</description>
+    <title>Simon Willison 评 Opus 5.5、GPT-6 双模型与价格战</title>
+    <link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/22/opus-and-sol-and-luna-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>一篇厘清当日混战，帮你判断这轮降价对 API 预算的真实影响。（博客 · Simon Willison · 原题 Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war）</description>
   </item>
   <item>
-    <title>像物理学家一样剪枝：块移除作为 Ising 优化问题</title>
-    <link>https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an</link>
-    <guid isPermaLink="false">huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>为 LLM 压缩提供新数学视角，工程降本可借鉴（博客 · Hugging Face · 原题 Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem）</description>
+    <title>llm 0.36 发布</title>
+    <link>https://simonwillison.net/2026/Sep/22/llm/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/22/llm-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>命令行调用多模型的轻量工具更新，脚本化评测与批处理更顺手。（博客 · Simon Willison · 原题 llm 0.36）</description>
   </item>
   <item>
-    <title>Hugging Face tokenizers v1：编解码与扩展性实测</title>
-    <link>https://huggingface.co/blog/tokenizers-v1</link>
-    <guid isPermaLink="false">huggingface.co/blog/tokenizers-v1-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>分词是推理链路基础，v1 性能数据直接影响吞吐（博客 · Hugging Face · 原题 tokenizers v1: encode, decode and scaling, measured）</description>
+    <title>llm-anthropic 0.29 发布</title>
+    <link>https://simonwillison.net/2026/Sep/22/llm-anthropic/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/22/llm-anthropic-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>用 llm 接 Claude 的插件跟进新模型，旧脚本需确认兼容性。（博客 · Simon Willison · 原题 llm-anthropic 0.29）</description>
   </item>
   <item>
-    <title>ChatGPT 通过广告采集器获知你在其他网站的行为</title>
-    <link>https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/</link>
-    <guid isPermaLink="false">buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>隐私边界再扩张，做产品与合规的人必须了解（社区 · Lobste.rs · 原题 ChatGPT now knows what you do on other websites via ad collector）</description>
+    <title>UK AISI 与 EvalEval 推动基准结果可复现</title>
+    <link>https://huggingface.co/blog/evaleval-aisi</link>
+    <guid isPermaLink="false">huggingface.co/blog/evaleval-aisi-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>评测可信度是选型前提，这套可复现规范值得提前对齐。（博客 · Hugging Face · 原题 How UK AISI and EvalEval Are Making Benchmark Results Reproducible）</description>
   </item>
   <item>
-    <title>Project NOMAD 开源：离线优先的知识教育服务器</title>
-    <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
-    <guid isPermaLink="false">github.com/Crosstalk-Solutions/project-nomad-2026-09-22</guid>
-    <pubDate>Tue, 22 Sep 2026 02:12:24 GMT</pubDate>
-    <description>断网环境也能跑维基与课程，适合边缘与教育场景（开源 · GitHub · 原题 Crosstalk-Solutions/project-nomad）</description>
+    <title>Transformers 现已支持运行 llama.cpp 量化模型</title>
+    <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
+    <guid isPermaLink="false">huggingface.co/blog/transformers-llama-cpp-quants-2026-09-23</guid>
+    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
+    <description>本地量化推理并入主流库，部署侧少维护一条工具链。（博客 · Hugging Face · 原题 Transformers now runs llama.cpp quants）</description>
   </item>
 </channel>
 </rss>
