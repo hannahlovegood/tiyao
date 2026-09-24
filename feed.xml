@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 23 Sep 2026 02:11:56 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 01:58:19 GMT</lastBuildDate>
   <item>
     <title>Google 开源 agentic 编排运行时 ax</title>
     <link>https://github.com/google/ax</link>
-    <guid isPermaLink="false">github.com/google/ax-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>想自建 Agent 调度层的团队，可直接对标 Google 的运行时设计取舍。（开源 · GitHub · 原题 google/ax）</description>
+    <guid isPermaLink="false">github.com/google/ax-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>Agent 编排层再添大厂方案，可直接评估替代自研调度。（开源 · GitHub · 原题 google/ax）</description>
   </item>
   <item>
-    <title>GPT-6 提示缓存机制升级</title>
-    <link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
-    <guid isPermaLink="false">openai.com/index/better-prompt-caching-for-gpt-6-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>缓存命中率直接影响推理成本，做长上下文应用的人必须重算账。（官方 · OpenAI · 原题 Better prompt caching for GPT-6）</description>
+    <title>OpenAI Academy 两周年</title>
+    <link>https://openai.com/index/two-years-of-openai-academy</link>
+    <guid isPermaLink="false">openai.com/index/two-years-of-openai-academy-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>看官方如何做 AI 教育生态，可借鉴其开发者运营路径。（官方 · OpenAI · 原题 Two years of OpenAI Academy）</description>
   </item>
   <item>
-    <title>OpenAI 发布 GPT-6 Sol 与 Luna</title>
-    <link>https://openai.com/index/introducing-gpt-6-sol-and-luna</link>
-    <guid isPermaLink="false">openai.com/index/introducing-gpt-6-sol-and-luna-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>双模型定位决定你该选谁做主力、谁做廉价兜底，选型窗口已开。（官方 · OpenAI + Hacker News · 原题 Introducing GPT-6 Sol and Luna）</description>
+    <title>OpenAI 向乌克兰开放网络防御能力</title>
+    <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
+    <guid isPermaLink="false">openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>AI 介入民用网络战的首批案例，安全从业者需关注边界。（官方 · OpenAI · 原题 OpenAI extends cyber access to Ukraine for civilian defense）</description>
   </item>
   <item>
-    <title>Claude Opus 5.5 现身 Hacker News</title>
-    <link>https://www.anthropic.com/claude-opus-5-5</link>
-    <guid isPermaLink="false">anthropic.com/claude-opus-5-5-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>Anthropic 新旗舰的社区实测反馈，比官方 benchmark 更能看出真实手感。（社区 · Hacker News · 原题 Claude Opus 5.5）</description>
+    <title>Google Beam 扩展新区域与合作伙伴</title>
+    <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/research/google-beam-expansion-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>了解 Google 在通信/协作硬件上的商业化落地节奏。（官方 · Google AI · 原题 Google Beam expands with new regions, partners, and customers）</description>
   </item>
   <item>
-    <title>Parallel 用 GPT-6 Astra 将研究时间与成本减半</title>
-    <link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/parallel-cuts-time-and-cost-with-astra-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>一个可复用的降本案例，说明 Astra 在长链路研究任务上的实际收益。（官方 · OpenAI · 原题 Parallel cut research time and cost in half with GPT‑6 Astra）</description>
+    <title>Sam Altman 在联合国安理会发言</title>
+    <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+    <guid isPermaLink="false">openai.com/index/sam-altman-un-security-council-remarks-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>AI 治理进入国际安全议程，政策风向标的直接信号。（官方 · OpenAI · 原题 Sam Altman’s remarks at the United Nations Security Council）</description>
   </item>
   <item>
-    <title>Simon Willison 评 Opus 5.5、GPT-6 双模型与价格战</title>
-    <link>https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/22/opus-and-sol-and-luna-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>一篇厘清当日混战，帮你判断这轮降价对 API 预算的真实影响。（博客 · Simon Willison · 原题 Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war）</description>
+    <title>DeepMind 推进服务端私有 AI 内存安全</title>
+    <link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
+    <guid isPermaLink="false">deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>隐私计算关键一环，影响企业级 AI 部署的合规方案。（官方 · DeepMind · 原题 Advancing Private AI Compute with secure, server-side memory）</description>
   </item>
   <item>
-    <title>llm 0.36 发布</title>
-    <link>https://simonwillison.net/2026/Sep/22/llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/22/llm-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>命令行调用多模型的轻量工具更新，脚本化评测与批处理更顺手。（博客 · Simon Willison · 原题 llm 0.36）</description>
+    <title>Gemini 3.8 文本转语音发布</title>
+    <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
+    <guid isPermaLink="false">deepmind.google/blog/say-hello-to-gemini-38-text-to-speech-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>TTS 迭代直接影响语音 Agent 与多模态产品体验。（官方 · DeepMind · 原题 Gemini 3.8 text-to-speech says hello）</description>
   </item>
   <item>
-    <title>llm-anthropic 0.29 发布</title>
-    <link>https://simonwillison.net/2026/Sep/22/llm-anthropic/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/22/llm-anthropic-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>用 llm 接 Claude 的插件跟进新模型，旧脚本需确认兼容性。（博客 · Simon Willison · 原题 llm-anthropic 0.29）</description>
+    <title>用 NVIDIA Warp 与 MjWarp 加速机器人仿真</title>
+    <link>https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>实操教程，降低机器人学习工作流的 GPU 加速门槛。（博客 · Hugging Face · 原题 How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows）</description>
   </item>
   <item>
-    <title>UK AISI 与 EvalEval 推动基准结果可复现</title>
-    <link>https://huggingface.co/blog/evaleval-aisi</link>
-    <guid isPermaLink="false">huggingface.co/blog/evaleval-aisi-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>评测可信度是选型前提，这套可复现规范值得提前对齐。（博客 · Hugging Face · 原题 How UK AISI and EvalEval Are Making Benchmark Results Reproducible）</description>
+    <title>Claude 发现类 CRISPR 新型酶系统</title>
+    <link>https://www.anthropic.com/news/claude-discovers-novel-enzyme-system</link>
+    <guid isPermaLink="false">anthropic.com/news/claude-discovers-novel-enzyme-system-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>LLM 首次独立产出可验证生物发现，科研范式信号。（官方 · Anthropic + Hacker News · 原题 Claude discovers a novel enzyme system with CRISPR-like repeats）</description>
   </item>
   <item>
-    <title>Transformers 现已支持运行 llama.cpp 量化模型</title>
-    <link>https://huggingface.co/blog/transformers-llama-cpp-quants</link>
-    <guid isPermaLink="false">huggingface.co/blog/transformers-llama-cpp-quants-2026-09-23</guid>
-    <pubDate>Wed, 23 Sep 2026 02:11:56 GMT</pubDate>
-    <description>本地量化推理并入主流库，部署侧少维护一条工具链。（博客 · Hugging Face · 原题 Transformers now runs llama.cpp quants）</description>
+    <title>Univer：面向 AI Agent 的 Office 运行时</title>
+    <link>https://github.com/dream-num/univer</link>
+    <guid isPermaLink="false">github.com/dream-num/univer-2026-09-24</guid>
+    <pubDate>Thu, 24 Sep 2026 01:58:19 GMT</pubDate>
+    <description>一套运行时覆盖表格文档幻灯片，Agent 办公场景基建。（开源 · GitHub · 原题 dream-num/univer）</description>
   </item>
 </channel>
 </rss>
