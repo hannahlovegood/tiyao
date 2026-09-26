@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 25 Sep 2026 02:15:06 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 02:20:39 GMT</lastBuildDate>
   <item>
     <title>Hindsight：会学习的 Agent 记忆系统开源</title>
     <link>https://github.com/vectorize-io/hindsight</link>
-    <guid isPermaLink="false">github.com/vectorize-io/hindsight-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
+    <guid isPermaLink="false">github.com/vectorize-io/hindsight-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
     <description>Agent 记忆从静态存储转向可学习，直接影响长任务可靠性。（开源 · GitHub · 原题 vectorize-io/hindsight）</description>
   </item>
   <item>
-    <title>Apple 生态中机器学习与同态加密的结合</title>
-    <link>https://machinelearning.apple.com/research/homomorphic-encryption</link>
-    <guid isPermaLink="false">machinelearning.apple.com/research/homomorphic-encryption-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
-    <description>端侧隐私计算落地路径，做 iOS 端 AI 的值得细看。（社区 · Lobste.rs · 原题 Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem）</description>
+    <title>Proaction 用 Codex 提效：销售增 60%、省 75 小时</title>
+    <link>https://openai.com/index/proaction</link>
+    <guid isPermaLink="false">openai.com/index/proaction-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
+    <description>真实企业落地数据，可评估 Codex 在业务侧的 ROI。（官方 · OpenAI · 原题 Proaction boosts sales 60% and saves 75+ hours with Codex）</description>
+  </item>
+  <item>
+    <title>美上诉法院维持 Anthropic 供应链风险认定</title>
+    <link>https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</link>
+    <guid isPermaLink="false">cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
+    <description>AI 公司被列入供应链风险，影响采购与合规决策。（社区 · Hacker News · 原题 U.S. appeals court upholds designation of Anthropic as supply chain risk）</description>
   </item>
   <item>
     <title>Google 开源 Agent 编排运行时 ax</title>
     <link>https://github.com/google/ax</link>
-    <guid isPermaLink="false">github.com/google/ax-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
-    <description>大厂 Agent 基础设施开源，可对比现有编排方案选型。（开源 · GitHub · 原题 google/ax）</description>
+    <guid isPermaLink="false">github.com/google/ax-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
+    <description>大厂入局 Agent 编排，值得对比 LangGraph 等方案。（开源 · GitHub · 原题 google/ax）</description>
   </item>
   <item>
-    <title>Gemini 3.8 Live 发布，新增实时数字人</title>
+    <title>再见 Google</title>
+    <link>https://robert.ocallahan.org/2026/09/goodbye-google.html</link>
+    <guid isPermaLink="false">robert.ocallahan.org/2026/09/goodbye-google.html-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
+    <description>一篇引发共鸣的反思，折射搜索与 AI 入口的迁移。（社区 · Lobste.rs · 原题 Goodbye Google）</description>
+  </item>
+  <item>
+    <title>从零学 AI 工程：构建并交付</title>
+    <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+    <guid isPermaLink="false">github.com/rohitg00/ai-engineering-from-scratch-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
+    <description>面向实战的 AI 工程学习路径，适合团队培训参考。（开源 · GitHub · 原题 rohitg00/ai-engineering-from-scratch）</description>
+  </item>
+  <item>
+    <title>DeepMind 发布 Gemini 3.8 Live 与 Live Avatar</title>
     <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-38-live-with-live-avatar-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
-    <description>实时多模态交互升级，语音与虚拟人产品需重估体验。（官方 · DeepMind · 原题 Introducing Gemini 3.8 Live with Live Avatar）</description>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-38-live-with-live-avatar-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
+    <description>实时多模态加虚拟形象，指向下一代交互形态。（官方 · DeepMind · 原题 Introducing Gemini 3.8 Live with Live Avatar）</description>
   </item>
   <item>
-    <title>LFM2.5-VL-DSpark 加速视觉语言模型</title>
+    <title>Hugging Face 用 LFM2.5-VL-DSpark 加速视觉语言模型</title>
     <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
-    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
-    <description>VL 模型推理提速方案，直接影响多模态部署成本。（博客 · Hugging Face · 原题 Accelerating vision-language models with LFM2.5-VL-DSpark）</description>
+    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
+    <description>VL 模型推理加速方案，直接关系部署成本与延迟。（博客 · Hugging Face · 原题 Accelerating vision-language models with LFM2.5-VL-DSpark）</description>
   </item>
   <item>
-    <title>OpenAI Academy 两周年：教育布局成型</title>
+    <title>OpenAI Academy 两周年</title>
     <link>https://openai.com/index/two-years-of-openai-academy</link>
-    <guid isPermaLink="false">openai.com/index/two-years-of-openai-academy-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
-    <description>看 OpenAI 如何培育开发者生态与人才入口。（官方 · OpenAI · 原题 Two years of OpenAI Academy）</description>
+    <guid isPermaLink="false">openai.com/index/two-years-of-openai-academy-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
+    <description>官方教育项目进展，反映其生态与人才策略。（官方 · OpenAI · 原题 Two years of OpenAI Academy）</description>
   </item>
   <item>
-    <title>OpenAI 向乌克兰民用防务扩展网络能力</title>
+    <title>OpenAI 扩大对乌克兰民用防御的网络支持</title>
     <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
-    <guid isPermaLink="false">openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
-    <description>AI 公司介入地缘防务，安全与合规边界再受关注。（官方 · OpenAI · 原题 OpenAI extends cyber access to Ukraine for civilian defense）</description>
-  </item>
-  <item>
-    <title>Google Beam 扩展新区域、伙伴与客户</title>
-    <link>https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/research/google-beam-expansion-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
-    <description>通信与协作硬件商业化进展，关注其生态扩张节奏。（官方 · Google AI · 原题 Google Beam expands with new regions, partners, and customers）</description>
-  </item>
-  <item>
-    <title>Sam Altman 在联合国安理会发言</title>
-    <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-    <guid isPermaLink="false">openai.com/index/sam-altman-un-security-council-remarks-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
-    <description>AI 治理进入国际安全议程，政策风向标。（官方 · OpenAI · 原题 Sam Altman’s remarks at the United Nations Security Council）</description>
-  </item>
-  <item>
-    <title>DeepMind 推进私有 AI 计算与服务端安全内存</title>
-    <link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
-    <guid isPermaLink="false">deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory-2026-09-25</guid>
-    <pubDate>Fri, 25 Sep 2026 02:15:06 GMT</pubDate>
-    <description>机密计算支撑私有推理，企业级 AI 合规关键一环。（官方 · DeepMind · 原题 Advancing Private AI Compute with secure, server-side memory）</description>
+    <guid isPermaLink="false">openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense-2026-09-26</guid>
+    <pubDate>Sat, 26 Sep 2026 02:20:39 GMT</pubDate>
+    <description>AI 能力介入地缘冲突，涉及安全与政策边界。（官方 · OpenAI · 原题 OpenAI extends cyber access to Ukraine for civilian defense）</description>
   </item>
 </channel>
 </rss>
