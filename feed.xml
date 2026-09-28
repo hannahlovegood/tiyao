@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 27 Sep 2026 02:15:54 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 02:20:03 GMT</lastBuildDate>
   <item>
-    <title>Hindsight 开源：会学习的 Agent 记忆层</title>
+    <title>Hindsight 开源：会学习的 Agent 记忆系统</title>
     <link>https://github.com/vectorize-io/hindsight</link>
-    <guid isPermaLink="false">github.com/vectorize-io/hindsight-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
-    <description>Agent 记忆是当前落地瓶颈，此项目主打可学习记忆，值得评估。（开源 · GitHub · 原题 vectorize-io/hindsight）</description>
+    <guid isPermaLink="false">github.com/vectorize-io/hindsight-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
+    <description>Agent 记忆是当前落地瓶颈，可直接参考其学习式记忆架构。（开源 · GitHub · 原题 vectorize-io/hindsight）</description>
   </item>
   <item>
-    <title>OpenAI：Codex 助 Proaction 销售增 60%、省 75 小时</title>
+    <title>SNL 周末更新：Dario Amodei 谈 AI 威胁人类</title>
+    <link>https://www.youtube.com/watch?v=-Nvne3LzBls</link>
+    <guid isPermaLink="false">youtube.com/watch-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
+    <description>Anthropic CEO 公开场合的立场表达，折射监管与舆论风向。（社区 · Hacker News + Lobste.rs · 原题 SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]）</description>
+  </item>
+  <item>
+    <title>Simon Willison：2026 年 LLM 进展回顾</title>
+    <link>https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/27/2026-in-llms-so-far-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
+    <description>一线开发者视角梳理半年脉络，快速补齐行业认知。（博客 · Simon Willison · 原题 2026 in LLMs (so far)）</description>
+  </item>
+  <item>
+    <title>OpenAI 暂停新模型训练，Agent 失控报告增多</title>
+    <link>https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue</link>
+    <guid isPermaLink="false">theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
+    <description>若属实将影响模型迭代节奏与 Agent 部署的安全预期。（社区 · Hacker News · 原题 OpenAI halts training of latest models as reports mount of AI agents going rogue）</description>
+  </item>
+  <item>
+    <title>OpenAI：Proaction 用 Codex 销售增 60%、省 75 小时</title>
     <link>https://openai.com/index/proaction</link>
-    <guid isPermaLink="false">openai.com/index/proaction-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
-    <description>官方客户案例，可量化参考 Codex 在真实业务中的 ROI。（官方 · OpenAI · 原题 Proaction boosts sales 60% and saves 75+ hours with Codex）</description>
+    <guid isPermaLink="false">openai.com/index/proaction-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
+    <description>企业级 Codex 落地量化案例，可对照自身 ROI 测算。（官方 · OpenAI · 原题 Proaction boosts sales 60% and saves 75+ hours with Codex）</description>
   </item>
   <item>
-    <title>美上诉法院维持 Anthropic 供应链风险认定</title>
-    <link>https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html</link>
-    <guid isPermaLink="false">cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
-    <description>影响 Anthropic 政府采购与合规，从业者需关注政策风险。（社区 · Hacker News · 原题 U.S. appeals court upholds designation of Anthropic as supply chain risk）</description>
+    <title>你的 Transformer 能同时装两个念头：线性叠加证据</title>
+    <link>https://huggingface.co/papers/2609.29845</link>
+    <guid isPermaLink="false">huggingface.co/papers/2609.29845-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
+    <description>为可解释性与容量分析提供新实证，值得跟进后续复现。（论文 · HF Papers · 原题 Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs）</description>
   </item>
   <item>
-    <title>再见 Google：一次搜索引擎迁移实录</title>
+    <title>再见 Google</title>
     <link>https://robert.ocallahan.org/2026/09/goodbye-google.html</link>
-    <guid isPermaLink="false">robert.ocallahan.org/2026/09/goodbye-google.html-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
-    <description>搜索格局变动下，个人与团队选型的真实经验参考。（社区 · Lobste.rs · 原题 Goodbye Google）</description>
-  </item>
-  <item>
-    <title>DeepMind 发布 Gemini 3.8 Live 与 Live Avatar</title>
-    <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-38-live-with-live-avatar-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
-    <description>实时多模态与数字人能力升级，直接影响交互产品设计。（官方 · DeepMind · 原题 Introducing Gemini 3.8 Live with Live Avatar）</description>
-  </item>
-  <item>
-    <title>Hugging Face：LFM2.5-VL-DSpark 加速视觉语言模型</title>
-    <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
-    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
-    <description>VL 模型推理提速方案，对多模态部署成本有直接价值。（博客 · Hugging Face · 原题 Accelerating vision-language models with LFM2.5-VL-DSpark）</description>
+    <guid isPermaLink="false">robert.ocallahan.org/2026/09/goodbye-google.html-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
+    <description>搜索迁移讨论升温，关乎流量入口与 AI 答案引擎格局。（社区 · Lobste.rs · 原题 Goodbye Google）</description>
   </item>
   <item>
     <title>Univer 开源：面向 AI Agent 的 Office 运行时</title>
     <link>https://github.com/dream-num/univer</link>
-    <guid isPermaLink="false">github.com/dream-num/univer-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
+    <guid isPermaLink="false">github.com/dream-num/univer-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
     <description>表格文档幻灯片统一运行时，Agent 办公自动化的基建选项。（开源 · GitHub · 原题 dream-num/univer）</description>
   </item>
   <item>
-    <title>ai-engineering-from-scratch：从零构建 AI 工程</title>
+    <title>ai-engineering-from-scratch：从零学 AI 工程</title>
     <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-    <guid isPermaLink="false">github.com/rohitg00/ai-engineering-from-scratch-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
-    <description>系统化实战教程，适合工程师补齐 AI 工程链路。（开源 · GitHub · 原题 rohitg00/ai-engineering-from-scratch）</description>
+    <guid isPermaLink="false">github.com/rohitg00/ai-engineering-from-scratch-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
+    <description>体系化动手教程，适合团队新人快速上手工程实践。（开源 · GitHub · 原题 rohitg00/ai-engineering-from-scratch）</description>
   </item>
   <item>
-    <title>论文：在世界模型中训练客体永久性</title>
-    <link>https://huggingface.co/papers/2609.28654</link>
-    <guid isPermaLink="false">huggingface.co/papers/2609.28654-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
-    <description>世界模型基础能力补强，关乎具身与规划研究进展。（论文 · HF Papers · 原题 Training Object Permanence in World Models）</description>
-  </item>
-  <item>
-    <title>OpenAI 爬虫被指干扰多个美国政府机构网站</title>
-    <link>https://www.bbc.com/news/articles/cw62jje658dlo</link>
-    <guid isPermaLink="false">bbc.com/news/articles/cw62jje658dlo-2026-09-27</guid>
-    <pubDate>Sun, 27 Sep 2026 02:15:54 GMT</pubDate>
-    <description>爬虫合规与政府站点防护问题，AI 数据采集风险再警示。（社区 · Hacker News · 原题 OpenAI bots meddled with multiple US Government agency sites）</description>
+    <title>WanPE：面向文生视频的电影级提示增强</title>
+    <link>https://huggingface.co/papers/2609.30221</link>
+    <guid isPermaLink="false">huggingface.co/papers/2609.30221-2026-09-28</guid>
+    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
+    <description>提示增强直接影响视频生成质量，可迁移到自有管线。（论文 · HF Papers · 原题 WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation）</description>
   </item>
 </channel>
 </rss>
