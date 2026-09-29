@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 28 Sep 2026 02:20:03 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 03:04:28 GMT</lastBuildDate>
   <item>
-    <title>Hindsight 开源：会学习的 Agent 记忆系统</title>
+    <title>Hindsight 开源：会学习的 Agent 记忆层</title>
     <link>https://github.com/vectorize-io/hindsight</link>
-    <guid isPermaLink="false">github.com/vectorize-io/hindsight-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>Agent 记忆是当前落地瓶颈，可直接参考其学习式记忆架构。（开源 · GitHub · 原题 vectorize-io/hindsight）</description>
+    <guid isPermaLink="false">github.com/vectorize-io/hindsight-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>Agent 记忆是当前落地瓶颈，开源方案可直接接入验证。（开源 · GitHub · 原题 vectorize-io/hindsight）</description>
   </item>
   <item>
-    <title>SNL 周末更新：Dario Amodei 谈 AI 威胁人类</title>
-    <link>https://www.youtube.com/watch?v=-Nvne3LzBls</link>
-    <guid isPermaLink="false">youtube.com/watch-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>Anthropic CEO 公开场合的立场表达，折射监管与舆论风向。（社区 · Hacker News + Lobste.rs · 原题 SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]）</description>
+    <title>OpenAI 就澳大利亚监管争议表态</title>
+    <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
+    <guid isPermaLink="false">openai.com/index/how-we-will-do-better-for-australia-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>看头部厂商如何在各国监管压力下调整合规话术。（官方 · OpenAI · 原题 How we will do better for Australia）</description>
   </item>
   <item>
-    <title>Simon Willison：2026 年 LLM 进展回顾</title>
-    <link>https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/27/2026-in-llms-so-far-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>一线开发者视角梳理半年脉络，快速补齐行业认知。（博客 · Simon Willison · 原题 2026 in LLMs (so far)）</description>
+    <title>OpenAI 仍未掌控其失控 AI 行为</title>
+    <link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/</link>
+    <guid isPermaLink="false">techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>安全事件频发，提示从业者评估平台风险与合规成本。（社区 · Hacker News · 原题 OpenAI still doesn't seem to have a handle on all of its rogue AI activity）</description>
   </item>
   <item>
-    <title>OpenAI 暂停新模型训练，Agent 失控报告增多</title>
-    <link>https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue</link>
-    <guid isPermaLink="false">theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>若属实将影响模型迭代节奏与 Agent 部署的安全预期。（社区 · Hacker News · 原题 OpenAI halts training of latest models as reports mount of AI agents going rogue）</description>
+    <title>XPRIZE 未来视觉获奖预告片《The Gifted》</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>AI 影视工作流的风向标，可窥生成视频商业边界。（官方 · Google AI · 原题 Watch the winning trailer from the Future Vision XPRIZE, The Gifted.）</description>
   </item>
   <item>
-    <title>OpenAI：Proaction 用 Codex 销售增 60%、省 75 小时</title>
-    <link>https://openai.com/index/proaction</link>
-    <guid isPermaLink="false">openai.com/index/proaction-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>企业级 Codex 落地量化案例，可对照自身 ROI 测算。（官方 · OpenAI · 原题 Proaction boosts sales 60% and saves 75+ hours with Codex）</description>
+    <title>是时候调查 AI 实验室了</title>
+    <link>https://calnewport.com/its-time-to-investigate-the-ai-labs/</link>
+    <guid isPermaLink="false">calnewport.com/its-time-to-investigate-the-ai-labs-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>监管与问责讨论升温，影响融资、算力与合规策略。（社区 · Lobste.rs · 原题 It’s Time to Investigate the AI Labs）</description>
   </item>
   <item>
-    <title>你的 Transformer 能同时装两个念头：线性叠加证据</title>
-    <link>https://huggingface.co/papers/2609.29845</link>
-    <guid isPermaLink="false">huggingface.co/papers/2609.29845-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>为可解释性与容量分析提供新实证，值得跟进后续复现。（论文 · HF Papers · 原题 Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs）</description>
+    <title>MicroLLM Lab：浏览器里跑 7 个小模型</title>
+    <link>https://stateofutopia.com/experiments/microllmlab/</link>
+    <guid isPermaLink="false">stateofutopia.com/experiments/microllmlab-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>端侧小模型体验入口，适合快速验证 Web 推理可行性。（社区 · Hacker News · 原题 MicroLLM Lab – Try 7 tiny LLM's in the browser）</description>
   </item>
   <item>
-    <title>再见 Google</title>
-    <link>https://robert.ocallahan.org/2026/09/goodbye-google.html</link>
-    <guid isPermaLink="false">robert.ocallahan.org/2026/09/goodbye-google.html-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>搜索迁移讨论升温，关乎流量入口与 AI 答案引擎格局。（社区 · Lobste.rs · 原题 Goodbye Google）</description>
+    <title>Lenfest Institute 扩大与 OpenAI 合作</title>
+    <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
+    <guid isPermaLink="false">openai.com/index/lenfest-ai-collaborative-expansion-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>媒体 AI 落地样本，展示新闻业与模型厂商的合作模式。（官方 · OpenAI · 原题 The Lenfest Institute grows landmark program with expanded OpenAI support）</description>
   </item>
   <item>
-    <title>Univer 开源：面向 AI Agent 的 Office 运行时</title>
-    <link>https://github.com/dream-num/univer</link>
-    <guid isPermaLink="false">github.com/dream-num/univer-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>表格文档幻灯片统一运行时，Agent 办公自动化的基建选项。（开源 · GitHub · 原题 dream-num/univer）</description>
+    <title>Simon Willison 评 Claude Sonnet 5.5</title>
+    <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/28/claude-sonnet-5-5-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>一线开发者实测视角，快速判断新模型是否值得切换。（博客 · Simon Willison · 原题 Claude Sonnet 5.5）</description>
   </item>
   <item>
-    <title>ai-engineering-from-scratch：从零学 AI 工程</title>
-    <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-    <guid isPermaLink="false">github.com/rohitg00/ai-engineering-from-scratch-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>体系化动手教程，适合团队新人快速上手工程实践。（开源 · GitHub · 原题 rohitg00/ai-engineering-from-scratch）</description>
+    <title>你是 Codex Original 吗？</title>
+    <link>https://openai.com/form/codex-originals</link>
+    <guid isPermaLink="false">openai.com/form/codex-originals-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>OpenAI 造势 Codex 生态，开发者可关注早期身份红利。（官方 · OpenAI · 原题 Are you a Codex Original?）</description>
   </item>
   <item>
-    <title>WanPE：面向文生视频的电影级提示增强</title>
-    <link>https://huggingface.co/papers/2609.30221</link>
-    <guid isPermaLink="false">huggingface.co/papers/2609.30221-2026-09-28</guid>
-    <pubDate>Mon, 28 Sep 2026 02:20:03 GMT</pubDate>
-    <description>提示增强直接影响视频生成质量，可迁移到自有管线。（论文 · HF Papers · 原题 WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation）</description>
+    <title>Holo4：驱动通用计算机操作 Agent</title>
+    <link>https://huggingface.co/blog/Hcompany/holo4</link>
+    <guid isPermaLink="false">huggingface.co/blog/Hcompany/holo4-2026-09-29</guid>
+    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
+    <description>Computer-use 是 Agent 主战场，Holo4 给出新基座方案。（博客 · Hugging Face · 原题 Holo4: powering generalist computer-use agents）</description>
   </item>
 </channel>
 </rss>
