@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 29 Sep 2026 03:04:28 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 02:46:26 GMT</lastBuildDate>
   <item>
-    <title>Hindsight 开源：会学习的 Agent 记忆层</title>
+    <title>开源项目 Hindsight：会学习的 Agent 记忆系统</title>
     <link>https://github.com/vectorize-io/hindsight</link>
-    <guid isPermaLink="false">github.com/vectorize-io/hindsight-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>Agent 记忆是当前落地瓶颈，开源方案可直接接入验证。（开源 · GitHub · 原题 vectorize-io/hindsight）</description>
+    <guid isPermaLink="false">github.com/vectorize-io/hindsight-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>Agent 记忆从静态存储转向可学习，直接影响长任务可靠性。（开源 · GitHub · 原题 vectorize-io/hindsight）</description>
   </item>
   <item>
-    <title>OpenAI 就澳大利亚监管争议表态</title>
-    <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-    <guid isPermaLink="false">openai.com/index/how-we-will-do-better-for-australia-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>看头部厂商如何在各国监管压力下调整合规话术。（官方 · OpenAI · 原题 How we will do better for Australia）</description>
+    <title>Claude 出现部分服务中断</title>
+    <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
+    <guid isPermaLink="false">status.claude.com/incidents/4xvtc2gnq73l-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>依赖 Claude 的生产链路需关注可用性风险与冗余方案。（社区 · Hacker News · 原题 Claude partial outage）</description>
   </item>
   <item>
-    <title>OpenAI 仍未掌控其失控 AI 行为</title>
-    <link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/</link>
-    <guid isPermaLink="false">techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>安全事件频发，提示从业者评估平台风险与合规成本。（社区 · Hacker News · 原题 OpenAI still doesn't seem to have a handle on all of its rogue AI activity）</description>
+    <title>OpenAI 发布 GPT-6.1 Sol</title>
+    <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+    <guid isPermaLink="false">openai.com/index/introducing-gpt-6-1-sol-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>新旗舰模型发布，决定未来数月产品与成本基线。（官方 · OpenAI · 原题 Introducing GPT-6.1 Sol）</description>
   </item>
   <item>
-    <title>XPRIZE 未来视觉获奖预告片《The Gifted》</title>
-    <link>https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>AI 影视工作流的风向标，可窥生成视频商业边界。（官方 · Google AI · 原题 Watch the winning trailer from the Future Vision XPRIZE, The Gifted.）</description>
+    <title>OpenAI DevDay 2026 回顾</title>
+    <link>https://openai.com/index/devday-2026-recap</link>
+    <guid isPermaLink="false">openai.com/index/devday-2026-recap-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>一次性掌握 OpenAI 平台方向与开发者生态新动作。（官方 · OpenAI · 原题 DevDay 2026 Recap）</description>
   </item>
   <item>
-    <title>是时候调查 AI 实验室了</title>
-    <link>https://calnewport.com/its-time-to-investigate-the-ai-labs/</link>
-    <guid isPermaLink="false">calnewport.com/its-time-to-investigate-the-ai-labs-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>监管与问责讨论升温，影响融资、算力与合规策略。（社区 · Lobste.rs · 原题 It’s Time to Investigate the AI Labs）</description>
+    <title>Anthropic 前沿红队观点摘录</title>
+    <link>https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/29/anthropic-frontier-red-team-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>红队视角揭示前沿模型真实风险边界，值得安全从业者细读。（博客 · Simon Willison · 原题 Quoting Anthropic Frontier Red Team）</description>
   </item>
   <item>
-    <title>MicroLLM Lab：浏览器里跑 7 个小模型</title>
-    <link>https://stateofutopia.com/experiments/microllmlab/</link>
-    <guid isPermaLink="false">stateofutopia.com/experiments/microllmlab-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>端侧小模型体验入口，适合快速验证 Web 推理可行性。（社区 · Hacker News · 原题 MicroLLM Lab – Try 7 tiny LLM's in the browser）</description>
+    <title>NVIDIA Kumo 刷新表格预测精度效率前沿</title>
+    <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/kumo-tabular-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>表格数据仍是企业主战场，该方案兼顾精度与成本。（博客 · Hugging Face · 原题 NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction）</description>
   </item>
   <item>
-    <title>Lenfest Institute 扩大与 OpenAI 合作</title>
-    <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-    <guid isPermaLink="false">openai.com/index/lenfest-ai-collaborative-expansion-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>媒体 AI 落地样本，展示新闻业与模型厂商的合作模式。（官方 · OpenAI · 原题 The Lenfest Institute grows landmark program with expanded OpenAI support）</description>
+    <title>OpenAI 发布 dots</title>
+    <link>https://openai.com/index/introducing-dots</link>
+    <guid isPermaLink="false">openai.com/index/introducing-dots-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>新发布可能补足 OpenAI 产品矩阵，需评估接入价值。（官方 · OpenAI · 原题 Introducing dots）</description>
   </item>
   <item>
-    <title>Simon Willison 评 Claude Sonnet 5.5</title>
-    <link>https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/28/claude-sonnet-5-5-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>一线开发者实测视角，快速判断新模型是否值得切换。（博客 · Simon Willison · 原题 Claude Sonnet 5.5）</description>
+    <title>GPT-6.1 Sol：近 Astra 智能，价格仅五分之一</title>
+    <link>https://simonwillison.net/2026/Sep/29/hn-49898129/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/29/hn-49898129-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>性价比跃升将重塑模型选型与推理成本测算。（博客 · Simon Willison · 原题 GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price）</description>
   </item>
   <item>
-    <title>你是 Codex Original 吗？</title>
-    <link>https://openai.com/form/codex-originals</link>
-    <guid isPermaLink="false">openai.com/form/codex-originals-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>OpenAI 造势 Codex 生态，开发者可关注早期身份红利。（官方 · OpenAI · 原题 Are you a Codex Original?）</description>
+    <title>MCP Agent 的溯源验证：不止于事实正确</title>
+    <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
+    <guid isPermaLink="false">huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>来源可信是 Agent 落地关键，该研究给出可验证路径。（博客 · Hugging Face · 原题 Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents）</description>
   </item>
   <item>
-    <title>Holo4：驱动通用计算机操作 Agent</title>
-    <link>https://huggingface.co/blog/Hcompany/holo4</link>
-    <guid isPermaLink="false">huggingface.co/blog/Hcompany/holo4-2026-09-29</guid>
-    <pubDate>Tue, 29 Sep 2026 03:04:28 GMT</pubDate>
-    <description>Computer-use 是 Agent 主战场，Holo4 给出新基座方案。（博客 · Hugging Face · 原题 Holo4: powering generalist computer-use agents）</description>
+    <title>OpenAI DevDay 2026 实时博客</title>
+    <link>https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog-2026-09-30</guid>
+    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
+    <description>现场细节与演示比官方通稿更能反映真实能力边界。（博客 · Simon Willison · 原题 OpenAI DevDay 2026 live blog）</description>
   </item>
 </channel>
 </rss>
