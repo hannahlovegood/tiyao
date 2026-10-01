@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 30 Sep 2026 02:46:26 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 02:52:08 GMT</lastBuildDate>
   <item>
-    <title>开源项目 Hindsight：会学习的 Agent 记忆系统</title>
-    <link>https://github.com/vectorize-io/hindsight</link>
-    <guid isPermaLink="false">github.com/vectorize-io/hindsight-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>Agent 记忆从静态存储转向可学习，直接影响长任务可靠性。（开源 · GitHub · 原题 vectorize-io/hindsight）</description>
+    <title>NVIDIA 开源 OpenShell：自主 AI Agent 的安全私有运行时</title>
+    <link>https://github.com/NVIDIA/OpenShell</link>
+    <guid isPermaLink="false">github.com/NVIDIA/OpenShell-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>Agent 落地最大顾虑是权限与数据外泄，这是官方给出的运行时级答案。（开源 · GitHub · 原题 NVIDIA/OpenShell）</description>
   </item>
   <item>
-    <title>Claude 出现部分服务中断</title>
-    <link>https://status.claude.com/incidents/4xvtc2gnq73l</link>
-    <guid isPermaLink="false">status.claude.com/incidents/4xvtc2gnq73l-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>依赖 Claude 的生产链路需关注可用性风险与冗余方案。（社区 · Hacker News · 原题 Claude partial outage）</description>
+    <title>Gemini 4 Argon 现身 Hacker News 引热议</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>社区第一反应往往比发布会更真实，可快速判断这代模型的实际口碑。（社区 · Hacker News · 原题 Gemini 4 Argon）</description>
+  </item>
+  <item>
+    <title>25MB 跨平台数据库客户端 dbx，支持 100+ 数据库</title>
+    <link>https://github.com/t8y2/dbx</link>
+    <guid isPermaLink="false">github.com/t8y2/dbx-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>轻量替代 Navicat/DBeaver，本地开发与多库切换场景值得一试。（开源 · GitHub · 原题 t8y2/dbx）</description>
+  </item>
+  <item>
+    <title>PageIndex：不靠向量、走推理的文档索引 RAG 方案</title>
+    <link>https://github.com/VectifyAI/PageIndex</link>
+    <guid isPermaLink="false">github.com/VectifyAI/PageIndex-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>向量检索瓶颈已久，这是检索范式另一条路，做 RAG 的必看。（开源 · GitHub · 原题 VectifyAI/PageIndex）</description>
+  </item>
+  <item>
+    <title>DeepMind 发布 Gemini 4 Argon：新一代前沿智能</title>
+    <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>官方定调下一代旗舰，能力边界与定价将影响所有上层应用选型。（官方 · DeepMind · 原题 Gemini 4 Argon: our next era of frontier intelligence）</description>
+  </item>
+  <item>
+    <title>OpenAI 披露打击一起有组织的模型蒸馏行动</title>
+    <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+    <guid isPermaLink="false">openai.com/index/disrupting-a-coordinated-model-distillation-campaign-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>蒸馏攻防已成常态，涉及 API 合规与模型护城河，厂商与开发者都需警惕。（官方 · OpenAI + Hacker News · 原题 Disrupting a coordinated model-distillation campaign）</description>
+  </item>
+  <item>
+    <title>OpenAI 推出面向小企业的 AI 落地支持计划</title>
+    <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
+    <guid isPermaLink="false">openai.com/index/helping-small-businesses-put-ai-to-work-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>中小客户是 AI 变现增量市场，可观察其产品打包与渠道策略。（官方 · OpenAI · 原题 Helping small businesses put AI to work）</description>
+  </item>
+  <item>
+    <title>DeepMind 推出 SynthID Bio：生物内容水印</title>
+    <link>https://deepmind.google/blog/introducing-synthid-bio/</link>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-synthid-bio-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>AI 生成生物序列风险上升，水印是溯源与合规的关键基础设施。（官方 · DeepMind · 原题 Introducing SynthID Bio）</description>
   </item>
   <item>
     <title>OpenAI 发布 GPT-6.1 Sol</title>
     <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-    <guid isPermaLink="false">openai.com/index/introducing-gpt-6-1-sol-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>新旗舰模型发布，决定未来数月产品与成本基线。（官方 · OpenAI · 原题 Introducing GPT-6.1 Sol）</description>
+    <guid isPermaLink="false">openai.com/index/introducing-gpt-6-1-sol-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>版本号跳跃暗示能力或形态变化，直接决定下一轮产品迭代节奏。（官方 · OpenAI · 原题 Introducing GPT-6.1 Sol）</description>
   </item>
   <item>
-    <title>OpenAI DevDay 2026 回顾</title>
-    <link>https://openai.com/index/devday-2026-recap</link>
-    <guid isPermaLink="false">openai.com/index/devday-2026-recap-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>一次性掌握 OpenAI 平台方向与开发者生态新动作。（官方 · OpenAI · 原题 DevDay 2026 Recap）</description>
-  </item>
-  <item>
-    <title>Anthropic 前沿红队观点摘录</title>
-    <link>https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/29/anthropic-frontier-red-team-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>红队视角揭示前沿模型真实风险边界，值得安全从业者细读。（博客 · Simon Willison · 原题 Quoting Anthropic Frontier Red Team）</description>
-  </item>
-  <item>
-    <title>NVIDIA Kumo 刷新表格预测精度效率前沿</title>
-    <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/kumo-tabular-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>表格数据仍是企业主战场，该方案兼顾精度与成本。（博客 · Hugging Face · 原题 NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction）</description>
-  </item>
-  <item>
-    <title>OpenAI 发布 dots</title>
-    <link>https://openai.com/index/introducing-dots</link>
-    <guid isPermaLink="false">openai.com/index/introducing-dots-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>新发布可能补足 OpenAI 产品矩阵，需评估接入价值。（官方 · OpenAI · 原题 Introducing dots）</description>
-  </item>
-  <item>
-    <title>GPT-6.1 Sol：近 Astra 智能，价格仅五分之一</title>
-    <link>https://simonwillison.net/2026/Sep/29/hn-49898129/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/29/hn-49898129-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>性价比跃升将重塑模型选型与推理成本测算。（博客 · Simon Willison · 原题 GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price）</description>
-  </item>
-  <item>
-    <title>MCP Agent 的溯源验证：不止于事实正确</title>
-    <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
-    <guid isPermaLink="false">huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>来源可信是 Agent 落地关键，该研究给出可验证路径。（博客 · Hugging Face · 原题 Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents）</description>
-  </item>
-  <item>
-    <title>OpenAI DevDay 2026 实时博客</title>
-    <link>https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog-2026-09-30</guid>
-    <pubDate>Wed, 30 Sep 2026 02:46:26 GMT</pubDate>
-    <description>现场细节与演示比官方通稿更能反映真实能力边界。（博客 · Simon Willison · 原题 OpenAI DevDay 2026 live blog）</description>
+    <title>Hugging Face 上线开放 TTS 排行榜：多语言与声音克隆评测</title>
+    <link>https://huggingface.co/blog/open-tts-leaderboard</link>
+    <guid isPermaLink="false">huggingface.co/blog/open-tts-leaderboard-2026-10-01</guid>
+    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
+    <description>TTS 长期缺统一基准，此榜单将成选型与刷榜的新参照系。（博客 · Hugging Face · 原题 Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning）</description>
   </item>
 </channel>
 </rss>
