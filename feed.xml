@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 01 Oct 2026 02:52:08 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 02:54:31 GMT</lastBuildDate>
   <item>
-    <title>NVIDIA 开源 OpenShell：自主 AI Agent 的安全私有运行时</title>
+    <title>NVIDIA 开源 OpenShell：自主 AI 代理的安全私有运行时</title>
     <link>https://github.com/NVIDIA/OpenShell</link>
-    <guid isPermaLink="false">github.com/NVIDIA/OpenShell-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>Agent 落地最大顾虑是权限与数据外泄，这是官方给出的运行时级答案。（开源 · GitHub · 原题 NVIDIA/OpenShell）</description>
+    <guid isPermaLink="false">github.com/NVIDIA/OpenShell-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>代理执行环境的安全与隔离是落地瓶颈，NVIDIA 给出官方参考实现。（开源 · GitHub · 原题 NVIDIA/OpenShell）</description>
   </item>
   <item>
-    <title>Gemini 4 Argon 现身 Hacker News 引热议</title>
-    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>社区第一反应往往比发布会更真实，可快速判断这代模型的实际口碑。（社区 · Hacker News · 原题 Gemini 4 Argon）</description>
+    <title>OpenAI 谈「永恒的互补」</title>
+    <link>https://openai.com/index/the-eternal-complement</link>
+    <guid isPermaLink="false">openai.com/index/the-eternal-complement-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>官方叙事往往预示产品方向，值得揣摩其对人与 AI 关系的定位。（官方 · OpenAI · 原题 The eternal complement）</description>
   </item>
   <item>
-    <title>25MB 跨平台数据库客户端 dbx，支持 100+ 数据库</title>
-    <link>https://github.com/t8y2/dbx</link>
-    <guid isPermaLink="false">github.com/t8y2/dbx-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>轻量替代 Navicat/DBeaver，本地开发与多库切换场景值得一试。（开源 · GitHub · 原题 t8y2/dbx）</description>
+    <title>Albertsons 如何由内而外重塑零售</title>
+    <link>https://openai.com/index/albertsons-reimagining-retail</link>
+    <guid isPermaLink="false">openai.com/index/albertsons-reimagining-retail-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>传统零售巨头的 AI 改造案例，可看企业级落地的真实路径与收益。（官方 · OpenAI · 原题 How Albertsons Companies is reimagining retail from the inside out）</description>
   </item>
   <item>
-    <title>PageIndex：不靠向量、走推理的文档索引 RAG 方案</title>
-    <link>https://github.com/VectifyAI/PageIndex</link>
-    <guid isPermaLink="false">github.com/VectifyAI/PageIndex-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>向量检索瓶颈已久，这是检索范式另一条路，做 RAG 的必看。（开源 · GitHub · 原题 VectifyAI/PageIndex）</description>
+    <title>Barclays 规模化部署 Claude 升级运营与客户体验</title>
+    <link>https://www.anthropic.com/news/barclays-scales-claude</link>
+    <guid isPermaLink="false">anthropic.com/news/barclays-scales-claude-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>金融合规场景的大规模采用，是 Anthropic 企业化能力的关键背书。（官方 · Anthropic · 原题 Barclays scales Claude to upgrade operations and improve client experience）</description>
   </item>
   <item>
-    <title>DeepMind 发布 Gemini 4 Argon：新一代前沿智能</title>
+    <title>The Den 借 ChatGPT Work 每周省出 10–15 小时</title>
+    <link>https://openai.com/index/the-den-family-social</link>
+    <guid isPermaLink="false">openai.com/index/the-den-family-social-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>具体工时数据比空泛宣传更有说服力，可评估 AI 办公提效的真实量级。（官方 · OpenAI · 原题 The Den frees up 10-15 hours a week to grow with ChatGPT Work）</description>
+  </item>
+  <item>
+    <title>Hugging Face 发布 Olmo-core 3：面向大型 MoE 的开放训练基础设施</title>
+    <link>https://huggingface.co/blog/allenai/olmocore3</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/olmocore3-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>开源 MoE 训练栈稀缺，直接降低复现与自研大模型的工程门槛。（博客 · Hugging Face · 原题 Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs）</description>
+  </item>
+  <item>
+    <title>DeepMind 发布 Gemini 4 Argon：前沿智能新纪元</title>
     <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
-    <guid isPermaLink="false">deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>官方定调下一代旗舰，能力边界与定价将影响所有上层应用选型。（官方 · DeepMind · 原题 Gemini 4 Argon: our next era of frontier intelligence）</description>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>旗舰模型代际更新，决定未来半年应用能力上限与竞争格局。（官方 · DeepMind · 原题 Gemini 4 Argon: our next era of frontier intelligence）</description>
   </item>
   <item>
-    <title>OpenAI 披露打击一起有组织的模型蒸馏行动</title>
-    <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
-    <guid isPermaLink="false">openai.com/index/disrupting-a-coordinated-model-distillation-campaign-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>蒸馏攻防已成常态，涉及 API 合规与模型护城河，厂商与开发者都需警惕。（官方 · OpenAI + Hacker News · 原题 Disrupting a coordinated model-distillation campaign）</description>
+    <title>Hacker News 热议 Gemini 4 Argon</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>开发者社区的第一反应常暴露真实短板，比官方稿更有参考价值。（社区 · Hacker News · 原题 Gemini 4 Argon）</description>
   </item>
   <item>
-    <title>OpenAI 推出面向小企业的 AI 落地支持计划</title>
-    <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
-    <guid isPermaLink="false">openai.com/index/helping-small-businesses-put-ai-to-work-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>中小客户是 AI 变现增量市场，可观察其产品打包与渠道策略。（官方 · OpenAI · 原题 Helping small businesses put AI to work）</description>
+    <title>分层连续扩散语言模型</title>
+    <link>https://huggingface.co/papers/2610.02193</link>
+    <guid isPermaLink="false">huggingface.co/papers/2610.02193-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>连续扩散用于语言建模的新思路，关注非自回归路线的读者值得一读。（论文 · HF Papers · 原题 Hierarchical Continuous Diffusion Language Models）</description>
   </item>
   <item>
-    <title>DeepMind 推出 SynthID Bio：生物内容水印</title>
+    <title>DeepMind 推出 SynthID Bio</title>
     <link>https://deepmind.google/blog/introducing-synthid-bio/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-synthid-bio-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>AI 生成生物序列风险上升，水印是溯源与合规的关键基础设施。（官方 · DeepMind · 原题 Introducing SynthID Bio）</description>
-  </item>
-  <item>
-    <title>OpenAI 发布 GPT-6.1 Sol</title>
-    <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-    <guid isPermaLink="false">openai.com/index/introducing-gpt-6-1-sol-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>版本号跳跃暗示能力或形态变化，直接决定下一轮产品迭代节奏。（官方 · OpenAI · 原题 Introducing GPT-6.1 Sol）</description>
-  </item>
-  <item>
-    <title>Hugging Face 上线开放 TTS 排行榜：多语言与声音克隆评测</title>
-    <link>https://huggingface.co/blog/open-tts-leaderboard</link>
-    <guid isPermaLink="false">huggingface.co/blog/open-tts-leaderboard-2026-10-01</guid>
-    <pubDate>Thu, 01 Oct 2026 02:52:08 GMT</pubDate>
-    <description>TTS 长期缺统一基准，此榜单将成选型与刷榜的新参照系。（博客 · Hugging Face · 原题 Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning）</description>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-synthid-bio-2026-10-02</guid>
+    <pubDate>Fri, 02 Oct 2026 02:54:31 GMT</pubDate>
+    <description>生物领域合成内容水印，涉及生物安全与 AI 溯源的前沿治理议题。（官方 · DeepMind · 原题 Introducing SynthID Bio）</description>
   </item>
 </channel>
 </rss>
