@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 04 Oct 2026 03:12:21 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 02:47:18 GMT</lastBuildDate>
   <item>
-    <title>Agent-Reach：让 AI agent 读遍全网社交平台</title>
-    <link>https://github.com/Panniantong/Agent-Reach</link>
-    <guid isPermaLink="false">github.com/Panniantong/Agent-Reach-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>一个开源工具打通 Twitter、Reddit、B站等数据源，省去自建爬虫的麻烦。（开源 · GitHub · 原题 Panniantong/Agent-Reach）</description>
-  </item>
-  <item>
-    <title>OpenAI 安全负责人离职，称公司文化已崩坏</title>
-    <link>https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken</link>
-    <guid isPermaLink="false">theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>安全团队核心出走，直接关系 OpenAI 模型发布节奏与风险取向。（社区 · Hacker News · 原题 OpenAI safety leader quits, warning AI company's culture is 'broken'）</description>
-  </item>
-  <item>
-    <title>Agent 说搞定了，数据库说没有</title>
-    <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-    <guid isPermaLink="false">huggingface.co/blog/microsoft/thinkingbox-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>用真实翻车案例讲清 agent 自报成功的陷阱，做自动化必读。（博客 · Hugging Face · 原题 The Agent Said It Was Done. The Database Disagreed.）</description>
-  </item>
-  <item>
-    <title>ponytail：让 AI agent 像最懒的资深工程师那样写码</title>
+    <title>ponytail：让 AI agent 像最懒的资深工程师那样思考</title>
     <link>https://github.com/DietrichGebert/ponytail</link>
-    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>用「能不写就不写」的提示策略减少过度工程，可直接套用。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
+    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>用「不写代码」约束 agent 输出，直击过度工程化痛点，可即插即用。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
   </item>
   <item>
-    <title>在 Claude 与 Claude Code 中榨干 Opus 5.5</title>
-    <link>https://claude.dev/blog/getting-the-most-out-of-opus-5-5/</link>
-    <guid isPermaLink="false">claude.dev/blog/getting-the-most-out-of-opus-5-5-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>实操向调优技巧，帮重度用户把新模型的能力真正用满。（社区 · Hacker News · 原题 Getting the most out of Opus 5.5 in Claude and Claude Code）</description>
+    <title>Agent 说它完成了，数据库不同意</title>
+    <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+    <guid isPermaLink="false">huggingface.co/blog/microsoft/thinkingbox-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>揭示 agent 自评与真实状态脱节的经典失败模式，值得做可靠性的人一读。（博客 · Hugging Face · 原题 The Agent Said It Was Done. The Database Disagreed.）</description>
   </item>
   <item>
-    <title>GPT-6 家族模型选型指南</title>
+    <title>LeCun 对 AI 灭绝人类「零担忧」，回应近期失控事件</title>
+    <link>https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/</link>
+    <guid isPermaLink="false">fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>顶级研究者的公开定调，帮你校准对 AI 风险叙事的判断。（社区 · Hacker News · 原题 LeCun has &quot;zero concerns&quot; about AI wiping out humanity, recent &quot;rogue&quot; incidents）</description>
+  </item>
+  <item>
+    <title>impeccable：让 AI harness 更懂设计的语言规范</title>
+    <link>https://github.com/pbakaus/impeccable</link>
+    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>把设计品味编码成可复用规范，提升 agent 产出 UI 的可用性。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
+  </item>
+  <item>
+    <title>GPT-6 家族模型指南</title>
     <link>https://openai.com/index/practical-guide-building-gpt-6</link>
-    <guid isPermaLink="false">openai.com/index/practical-guide-building-gpt-6-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>官方选型文档，决定你下一个项目该用哪档模型与成本。（官方 · OpenAI · 原题 A model guide for the GPT-6 family）</description>
+    <guid isPermaLink="false">openai.com/index/practical-guide-building-gpt-6-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>官方选型与能力边界说明，直接影响你的模型路由与成本决策。（官方 · OpenAI · 原题 A model guide for the GPT-6 family）</description>
   </item>
   <item>
-    <title>我因 OpenAI 文化崩坏而离开</title>
-    <link>https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/</link>
-    <guid isPermaLink="false">theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>离职者第一人称长文，补充安全负责人事件的内部视角。（社区 · Hacker News · 原题 I Quit OpenAI Because Its Culture Is Broken）</description>
-  </item>
-  <item>
-    <title>Google AI 2026 年 9 月发布汇总</title>
+    <title>Google AI 九月 2026 发布汇总</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>一页扫完 Google 当月全部 AI 动作，快速对齐大厂节奏。（官方 · Google AI · 原题 The latest AI news we announced in September 2026）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>一页掌握 Google 当月模型与产品动向，省去逐条追踪。（官方 · Google AI · 原题 The latest AI news we announced in September 2026）</description>
   </item>
   <item>
-    <title>Hugging Face 开源 AstaBrief 快速报告生成模型</title>
+    <title>Agent-Reach：给 AI agent 一双看遍全网的眼睛</title>
+    <link>https://github.com/Panniantong/Agent-Reach</link>
+    <guid isPermaLink="false">github.com/Panniantong/Agent-Reach-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>统一接入 Twitter、Reddit、B站等平台读写，省去逐个爬虫开发。（开源 · GitHub · 原题 Panniantong/Agent-Reach）</description>
+  </item>
+  <item>
+    <title>Asta 开源 AstaBrief 快速报告生成模型</title>
     <link>https://huggingface.co/blog/allenai/astabrief</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/astabrief-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>报告生成类任务可直接替换的方案，开源可自部署。（博客 · Hugging Face · 原题 Open-sourcing AstaBrief, the fast report-generation model in Asta）</description>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/astabrief-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>可自部署的报告生成模型，适合做研究摘要与自动化简报。（博客 · Hugging Face · 原题 Open-sourcing AstaBrief, the fast report-generation model in Asta）</description>
   </item>
   <item>
-    <title>Anthropic 投 1 亿美元培训万名工程师</title>
-    <link>https://www.anthropic.com/news/claude-frontier-academy</link>
-    <guid isPermaLink="false">anthropic.com/news/claude-frontier-academy-2026-10-04</guid>
-    <pubDate>Sun, 04 Oct 2026 03:12:21 GMT</pubDate>
-    <description>企业 AI 人才缺口被真金白银下注，影响招聘与生态合作。（官方 · Anthropic · 原题 Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap）</description>
+    <title>AutoSynthData：为企业 agent 生成训练数据</title>
+    <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+    <guid isPermaLink="false">huggingface.co/blog/ServiceNow-AI/autosynthdata-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>解决企业场景数据稀缺，提供可复用的合成数据流水线思路。（博客 · Hugging Face · 原题 AutoSynthData: Generating Training Data for Enterprise Agents）</description>
+  </item>
+  <item>
+    <title>宗教伦理学者与 Anthropic 会面</title>
+    <link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</link>
+    <guid isPermaLink="false">nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html-2026-10-05</guid>
+    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
+    <description>AI 价值观对齐开始引入宗教视角，预示监管与伦理讨论的新变量。（社区 · Hacker News · 原题 Religious scholars met with Anthropic）</description>
   </item>
 </channel>
 </rss>
