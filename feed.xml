@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 05 Oct 2026 02:47:18 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 03:38:03 GMT</lastBuildDate>
   <item>
-    <title>ponytail：让 AI agent 像最懒的资深工程师那样思考</title>
-    <link>https://github.com/DietrichGebert/ponytail</link>
-    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>用「不写代码」约束 agent 输出，直击过度工程化痛点，可即插即用。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
-  </item>
-  <item>
-    <title>Agent 说它完成了，数据库不同意</title>
-    <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-    <guid isPermaLink="false">huggingface.co/blog/microsoft/thinkingbox-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>揭示 agent 自评与真实状态脱节的经典失败模式，值得做可靠性的人一读。（博客 · Hugging Face · 原题 The Agent Said It Was Done. The Database Disagreed.）</description>
-  </item>
-  <item>
-    <title>LeCun 对 AI 灭绝人类「零担忧」，回应近期失控事件</title>
-    <link>https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/</link>
-    <guid isPermaLink="false">fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>顶级研究者的公开定调，帮你校准对 AI 风险叙事的判断。（社区 · Hacker News · 原题 LeCun has &quot;zero concerns&quot; about AI wiping out humanity, recent &quot;rogue&quot; incidents）</description>
-  </item>
-  <item>
-    <title>impeccable：让 AI harness 更懂设计的语言规范</title>
-    <link>https://github.com/pbakaus/impeccable</link>
-    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>把设计品味编码成可复用规范，提升 agent 产出 UI 的可用性。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
-  </item>
-  <item>
-    <title>GPT-6 家族模型指南</title>
-    <link>https://openai.com/index/practical-guide-building-gpt-6</link>
-    <guid isPermaLink="false">openai.com/index/practical-guide-building-gpt-6-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>官方选型与能力边界说明，直接影响你的模型路由与成本决策。（官方 · OpenAI · 原题 A model guide for the GPT-6 family）</description>
-  </item>
-  <item>
-    <title>Google AI 九月 2026 发布汇总</title>
-    <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>一页掌握 Google 当月模型与产品动向，省去逐条追踪。（官方 · Google AI · 原题 The latest AI news we announced in September 2026）</description>
-  </item>
-  <item>
-    <title>Agent-Reach：给 AI agent 一双看遍全网的眼睛</title>
+    <title>Agent-Reach：让 AI agent 读取全网社交平台</title>
     <link>https://github.com/Panniantong/Agent-Reach</link>
-    <guid isPermaLink="false">github.com/Panniantong/Agent-Reach-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>统一接入 Twitter、Reddit、B站等平台读写，省去逐个爬虫开发。（开源 · GitHub · 原题 Panniantong/Agent-Reach）</description>
+    <guid isPermaLink="false">github.com/Panniantong/Agent-Reach-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>补齐 agent 的实时信息源，覆盖中英文主流社区，可直接接入现有工具链。（开源 · GitHub · 原题 Panniantong/Agent-Reach）</description>
   </item>
   <item>
-    <title>Asta 开源 AstaBrief 快速报告生成模型</title>
-    <link>https://huggingface.co/blog/allenai/astabrief</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/astabrief-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>可自部署的报告生成模型，适合做研究摘要与自动化简报。（博客 · Hugging Face · 原题 Open-sourcing AstaBrief, the fast report-generation model in Asta）</description>
+    <title>OpenAI 公布应对欧盟文本溯源规则的方案</title>
+    <link>https://openai.com/index/eu-text-provenance</link>
+    <guid isPermaLink="false">openai.com/index/eu-text-provenance-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>欧盟 AI 内容标注合规临近，做欧洲市场的产品需提前对齐技术路径。（官方 · OpenAI · 原题 Our approach to EU text provenance rules）</description>
   </item>
   <item>
-    <title>AutoSynthData：为企业 agent 生成训练数据</title>
-    <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
-    <guid isPermaLink="false">huggingface.co/blog/ServiceNow-AI/autosynthdata-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>解决企业场景数据稀缺，提供可复用的合成数据流水线思路。（博客 · Hugging Face · 原题 AutoSynthData: Generating Training Data for Enterprise Agents）</description>
+    <title>OpenAI 谈面向 AI 使用方式的广告构建</title>
+    <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
+    <guid isPermaLink="false">openai.com/index/new-chatgpt-ads-format-and-measurement-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>广告是 LLM 商业化的关键变量，透露 OpenAI 对交互式广告的底层判断。（官方 · OpenAI · 原题 Building advertising for the way people use AI）</description>
   </item>
   <item>
-    <title>宗教伦理学者与 Anthropic 会面</title>
-    <link>https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html</link>
-    <guid isPermaLink="false">nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html-2026-10-05</guid>
-    <pubDate>Mon, 05 Oct 2026 02:47:18 GMT</pubDate>
-    <description>AI 价值观对齐开始引入宗教视角，预示监管与伦理讨论的新变量。（社区 · Hacker News · 原题 Religious scholars met with Anthropic）</description>
+    <title>Anthropic 向警方举报日记内容，女子面临重罪</title>
+    <link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
+    <guid isPermaLink="false">techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>AI 隐私与举报边界的真实判例，涉及模型日志留存与法律责任。（社区 · Hacker News · 原题 Anthropic reported diary entry to police, woman faces felony charge）</description>
+  </item>
+  <item>
+    <title>agency-agents：开箱即用的完整 AI 代理团队</title>
+    <link>https://github.com/msitarzewski/agency-agents</link>
+    <guid isPermaLink="false">github.com/msitarzewski/agency-agents-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>多角色 agent 编排的现成模板，适合快速搭建营销与运营自动化。（开源 · GitHub · 原题 msitarzewski/agency-agents）</description>
+  </item>
+  <item>
+    <title>OpenMontage：首个开源 agentic 视频生产系统</title>
+    <link>https://github.com/calesthio/OpenMontage</link>
+    <guid isPermaLink="false">github.com/calesthio/OpenMontage-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>12 条流水线加 700+ 技能，视频自动化从 demo 走向可复用工程。（开源 · GitHub · 原题 calesthio/OpenMontage）</description>
+  </item>
+  <item>
+    <title>Agent 说完成了，数据库不同意</title>
+    <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
+    <guid isPermaLink="false">huggingface.co/blog/microsoft/thinkingbox-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>直击 agent 可靠性痛点，讲清验证与状态一致性为何是落地瓶颈。（博客 · Hugging Face · 原题 The Agent Said It Was Done. The Database Disagreed.）</description>
+  </item>
+  <item>
+    <title>OpenAI「失控」agent 活动现身 Wikimedia 项目</title>
+    <link>https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/</link>
+    <guid isPermaLink="false">diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>真实环境中的 agent 越权案例，提醒部署方加装权限与审计护栏。（社区 · Hacker News · 原题 OpenAI &quot;rogue&quot; agent activities found on Wikimedia projects）</description>
+  </item>
+  <item>
+    <title>PointWAM：面向灵巧操作的 3D 世界动作建模</title>
+    <link>https://huggingface.co/papers/2610.02840</link>
+    <guid isPermaLink="false">huggingface.co/papers/2610.02840-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>把世界模型引入机器人操作，是具身智能从感知走向执行的关键一步。（论文 · HF Papers · 原题 PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation）</description>
+  </item>
+  <item>
+    <title>4DCodeBench：评测 agent 对动态场景的逆图形学</title>
+    <link>https://huggingface.co/papers/2610.03715</link>
+    <guid isPermaLink="false">huggingface.co/papers/2610.03715-2026-10-06</guid>
+    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
+    <description>为动态 3D 理解提供统一基准，做空间智能与代码生成交叉方向必读。（论文 · HF Papers · 原题 4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes）</description>
   </item>
 </channel>
 </rss>
