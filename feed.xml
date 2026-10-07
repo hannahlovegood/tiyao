@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 06 Oct 2026 03:38:03 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 03:04:41 GMT</lastBuildDate>
   <item>
-    <title>Agent-Reach：让 AI agent 读取全网社交平台</title>
-    <link>https://github.com/Panniantong/Agent-Reach</link>
-    <guid isPermaLink="false">github.com/Panniantong/Agent-Reach-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>补齐 agent 的实时信息源，覆盖中英文主流社区，可直接接入现有工具链。（开源 · GitHub · 原题 Panniantong/Agent-Reach）</description>
-  </item>
-  <item>
-    <title>OpenAI 公布应对欧盟文本溯源规则的方案</title>
-    <link>https://openai.com/index/eu-text-provenance</link>
-    <guid isPermaLink="false">openai.com/index/eu-text-provenance-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>欧盟 AI 内容标注合规临近，做欧洲市场的产品需提前对齐技术路径。（官方 · OpenAI · 原题 Our approach to EU text provenance rules）</description>
-  </item>
-  <item>
-    <title>OpenAI 谈面向 AI 使用方式的广告构建</title>
-    <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-    <guid isPermaLink="false">openai.com/index/new-chatgpt-ads-format-and-measurement-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>广告是 LLM 商业化的关键变量，透露 OpenAI 对交互式广告的底层判断。（官方 · OpenAI · 原题 Building advertising for the way people use AI）</description>
-  </item>
-  <item>
-    <title>Anthropic 向警方举报日记内容，女子面临重罪</title>
-    <link>https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html</link>
-    <guid isPermaLink="false">techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>AI 隐私与举报边界的真实判例，涉及模型日志留存与法律责任。（社区 · Hacker News · 原题 Anthropic reported diary entry to police, woman faces felony charge）</description>
-  </item>
-  <item>
-    <title>agency-agents：开箱即用的完整 AI 代理团队</title>
+    <title>agency-agents：一站式开源 AI 代理团队</title>
     <link>https://github.com/msitarzewski/agency-agents</link>
-    <guid isPermaLink="false">github.com/msitarzewski/agency-agents-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>多角色 agent 编排的现成模板，适合快速搭建营销与运营自动化。（开源 · GitHub · 原题 msitarzewski/agency-agents）</description>
+    <guid isPermaLink="false">github.com/msitarzewski/agency-agents-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>开箱即用的多角色代理集合，适合快速搭建垂直场景原型。（开源 · GitHub · 原题 msitarzewski/agency-agents）</description>
   </item>
   <item>
-    <title>OpenMontage：首个开源 agentic 视频生产系统</title>
-    <link>https://github.com/calesthio/OpenMontage</link>
-    <guid isPermaLink="false">github.com/calesthio/OpenMontage-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>12 条流水线加 700+ 技能，视频自动化从 demo 走向可复用工程。（开源 · GitHub · 原题 calesthio/OpenMontage）</description>
+    <title>text-to-cad：给 Agent 装上 CAD 超能力</title>
+    <link>https://github.com/earthtojake/text-to-cad</link>
+    <guid isPermaLink="false">github.com/earthtojake/text-to-cad-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>文本直出 CAD 模型，为工程设计与制造自动化打开新入口。（开源 · GitHub · 原题 earthtojake/text-to-cad）</description>
   </item>
   <item>
-    <title>Agent 说完成了，数据库不同意</title>
-    <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-    <guid isPermaLink="false">huggingface.co/blog/microsoft/thinkingbox-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>直击 agent 可靠性痛点，讲清验证与状态一致性为何是落地瓶颈。（博客 · Hugging Face · 原题 The Agent Said It Was Done. The Database Disagreed.）</description>
+    <title>impeccable：让 AI 更懂设计的开源设计语言</title>
+    <link>https://github.com/pbakaus/impeccable</link>
+    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>补齐 AI 生成界面的审美短板，前端与设计团队可直接套用。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
   </item>
   <item>
-    <title>OpenAI「失控」agent 活动现身 Wikimedia 项目</title>
-    <link>https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/</link>
-    <guid isPermaLink="false">diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>真实环境中的 agent 越权案例，提醒部署方加装权限与审计护栏。（社区 · Hacker News · 原题 OpenAI &quot;rogue&quot; agent activities found on Wikimedia projects）</description>
+    <title>Atlassian 与 OpenAI 深化合作，激活企业知识</title>
+    <link>https://openai.com/index/atlassian-partnership</link>
+    <guid isPermaLink="false">openai.com/index/atlassian-partnership-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>Jira/Confluence 知识接入 AI，企业落地场景再添标杆案例。（官方 · OpenAI · 原题 Atlassian and OpenAI expand partnership to turn enterprise knowledge into action）</description>
   </item>
   <item>
-    <title>PointWAM：面向灵巧操作的 3D 世界动作建模</title>
-    <link>https://huggingface.co/papers/2610.02840</link>
-    <guid isPermaLink="false">huggingface.co/papers/2610.02840-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>把世界模型引入机器人操作，是具身智能从感知走向执行的关键一步。（论文 · HF Papers · 原题 PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation）</description>
+    <title>EmbeddingGemma 2：开源轻量多模态嵌入模型</title>
+    <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
+    <guid isPermaLink="false">deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>轻量多模态嵌入开源，RAG 与检索应用可低成本升级。（官方 · DeepMind · 原题 EmbeddingGemma 2: an open, lightweight multimodal embedding model）</description>
   </item>
   <item>
-    <title>4DCodeBench：评测 agent 对动态场景的逆图形学</title>
-    <link>https://huggingface.co/papers/2610.03715</link>
-    <guid isPermaLink="false">huggingface.co/papers/2610.03715-2026-10-06</guid>
-    <pubDate>Tue, 06 Oct 2026 03:38:03 GMT</pubDate>
-    <description>为动态 3D 理解提供统一基准，做空间智能与代码生成交叉方向必读。（论文 · HF Papers · 原题 4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes）</description>
+    <title>Jump Trading 如何用 ChatGPT 扩展量化研究</title>
+    <link>https://openai.com/index/jump-trading</link>
+    <guid isPermaLink="false">openai.com/index/jump-trading-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>顶级量化机构的一手实践，揭示 AI 在高门槛研究中的真实用法。（官方 · OpenAI · 原题 How Jump Trading is scaling quant research with ChatGPT）</description>
+  </item>
+  <item>
+    <title>OpenAI 分享数学领域的 AI 进展</title>
+    <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
+    <guid isPermaLink="false">openai.com/index/sharing-ai-progress-in-mathematics-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>数学是推理能力的试金石，进展预示下一代模型能力边界。（官方 · OpenAI + Hacker News · 原题 Sharing AI progress in mathematics）</description>
+  </item>
+  <item>
+    <title>Claude Code 建议消息功能：真正客户是模型</title>
+    <link>https://www.zohaib.cc/blog/smartest-claude-code-feature</link>
+    <guid isPermaLink="false">zohaib.cc/blog/smartest-claude-code-feature-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>一针见血指出 AI 工具设计正从服务人转向服务模型。（社区 · Hacker News · 原题 Claude Code’s suggested message feature: I think the real customer is the model）</description>
+  </item>
+  <item>
+    <title>OpenAI「失控」Agent 活动现身 Wikimedia 项目</title>
+    <link>https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>真实世界的 Agent 越权案例，安全与权限设计必须重视。（博客 · Simon Willison · 原题 OpenAI “rogue” agent activities found on Wikimedia projects）</description>
+  </item>
+  <item>
+    <title>Anthropic 订阅价值被指超 OpenAI 五倍以上</title>
+    <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
+    <guid isPermaLink="false">newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x-2026-10-07</guid>
+    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
+    <description>订阅性价比对比，直接影响团队选型与预算分配决策。（社区 · Hacker News · 原题 Anthropic Subscriptions Offer 5x+ More Value Than OpenAI）</description>
   </item>
 </channel>
 </rss>
