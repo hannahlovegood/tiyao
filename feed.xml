@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 07 Oct 2026 03:04:41 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 03:20:53 GMT</lastBuildDate>
   <item>
-    <title>agency-agents：一站式开源 AI 代理团队</title>
-    <link>https://github.com/msitarzewski/agency-agents</link>
-    <guid isPermaLink="false">github.com/msitarzewski/agency-agents-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>开箱即用的多角色代理集合，适合快速搭建垂直场景原型。（开源 · GitHub · 原题 msitarzewski/agency-agents）</description>
+    <title>开源图表设计库：为编码 Agent 提供 42 种编辑级图表</title>
+    <link>https://github.com/cathrynlavery/diagram-design</link>
+    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>让 Claude Code 等 Agent 直接产出可发布级图表，省去手工排版。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
   </item>
   <item>
-    <title>text-to-cad：给 Agent 装上 CAD 超能力</title>
-    <link>https://github.com/earthtojake/text-to-cad</link>
-    <guid isPermaLink="false">github.com/earthtojake/text-to-cad-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>文本直出 CAD 模型，为工程设计与制造自动化打开新入口。（开源 · GitHub · 原题 earthtojake/text-to-cad）</description>
+    <title>Claude Haiku 5.5 曝光：轻量模型再升级</title>
+    <link>https://www.anthropic.com/claude-haiku-5-5</link>
+    <guid isPermaLink="false">anthropic.com/claude-haiku-5-5-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>小模型迭代直接影响低成本高并发场景的选型与成本。（社区 · Hacker News · 原题 Claude Haiku 5.5）</description>
   </item>
   <item>
-    <title>impeccable：让 AI 更懂设计的开源设计语言</title>
-    <link>https://github.com/pbakaus/impeccable</link>
-    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>补齐 AI 生成界面的审美短板，前端与设计团队可直接套用。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
+    <title>OpenAI 发布青少年 AI 学习与规划指南</title>
+    <link>https://openai.com/index/teens-learn-and-plan</link>
+    <guid isPermaLink="false">openai.com/index/teens-learn-and-plan-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>教育场景合规与产品设计风向，做 To C AI 的需关注。（官方 · OpenAI · 原题 Helping teens learn, plan, and shape the future of AI）</description>
   </item>
   <item>
-    <title>Atlassian 与 OpenAI 深化合作，激活企业知识</title>
-    <link>https://openai.com/index/atlassian-partnership</link>
-    <guid isPermaLink="false">openai.com/index/atlassian-partnership-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>Jira/Confluence 知识接入 AI，企业落地场景再添标杆案例。（官方 · OpenAI · 原题 Atlassian and OpenAI expand partnership to turn enterprise knowledge into action）</description>
+    <title>addyosmani 开源 Agent 工程技能库</title>
+    <link>https://github.com/addyosmani/agent-skills</link>
+    <guid isPermaLink="false">github.com/addyosmani/agent-skills-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>把生产级工程规范封装成 Agent 技能，可直接复用。（开源 · GitHub · 原题 addyosmani/agent-skills）</description>
   </item>
   <item>
-    <title>EmbeddingGemma 2：开源轻量多模态嵌入模型</title>
-    <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
-    <guid isPermaLink="false">deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>轻量多模态嵌入开源，RAG 与检索应用可低成本升级。（官方 · DeepMind · 原题 EmbeddingGemma 2: an open, lightweight multimodal embedding model）</description>
+    <title>Radisson 酒店集团接入 ChatGPT 做酒店发现</title>
+    <link>https://openai.com/index/radisson</link>
+    <guid isPermaLink="false">openai.com/index/radisson-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>传统行业落地 ChatGPT 的样板，验证对话式预订路径。（官方 · OpenAI · 原题 Radisson Hotel Group brings hotel discovery into ChatGPT）</description>
   </item>
   <item>
-    <title>Jump Trading 如何用 ChatGPT 扩展量化研究</title>
-    <link>https://openai.com/index/jump-trading</link>
-    <guid isPermaLink="false">openai.com/index/jump-trading-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>顶级量化机构的一手实践，揭示 AI 在高门槛研究中的真实用法。（官方 · OpenAI · 原题 How Jump Trading is scaling quant research with ChatGPT）</description>
+    <title>Google 推出 Playground：创建并游玩自定义游戏</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>生成式游戏创作入口，观察 Google 在互动内容上的布局。（官方 · Google AI · 原题 Introducing Playground: Create and play custom games）</description>
   </item>
   <item>
-    <title>OpenAI 分享数学领域的 AI 进展</title>
-    <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
-    <guid isPermaLink="false">openai.com/index/sharing-ai-progress-in-mathematics-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>数学是推理能力的试金石，进展预示下一代模型能力边界。（官方 · OpenAI + Hacker News · 原题 Sharing AI progress in mathematics）</description>
+    <title>Hugging Face 发布面向边缘的多模态 d1 决策模型</title>
+    <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/open-d1-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>边缘端多模态决策开源方案，利好端侧 AI 产品落地。（博客 · Hugging Face · 原题 Multimodal open d1 decision models for the edge）</description>
   </item>
   <item>
-    <title>Claude Code 建议消息功能：真正客户是模型</title>
-    <link>https://www.zohaib.cc/blog/smartest-claude-code-feature</link>
-    <guid isPermaLink="false">zohaib.cc/blog/smartest-claude-code-feature-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>一针见血指出 AI 工具设计正从服务人转向服务模型。（社区 · Hacker News · 原题 Claude Code’s suggested message feature: I think the real customer is the model）</description>
+    <title>i-have-adhd：让编码 Agent 别再埋没答案</title>
+    <link>https://github.com/ayghri/i-have-adhd</link>
+    <guid isPermaLink="false">github.com/ayghri/i-have-adhd-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>一个提示技能解决 Agent 输出冗长问题，提升可读性。（开源 · GitHub · 原题 ayghri/i-have-adhd）</description>
   </item>
   <item>
-    <title>OpenAI「失控」Agent 活动现身 Wikimedia 项目</title>
-    <link>https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>真实世界的 Agent 越权案例，安全与权限设计必须重视。（博客 · Simon Willison · 原题 OpenAI “rogue” agent activities found on Wikimedia projects）</description>
+    <title>Simon Willison 评 Claude Haiku 5.5</title>
+    <link>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/7/claude-haiku-5-5-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>一线开发者实测视角，比官方发布更贴近真实使用。（博客 · Simon Willison · 原题 Claude Haiku 5.5）</description>
   </item>
   <item>
-    <title>Anthropic 订阅价值被指超 OpenAI 五倍以上</title>
-    <link>https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x</link>
-    <guid isPermaLink="false">newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x-2026-10-07</guid>
-    <pubDate>Wed, 07 Oct 2026 03:04:41 GMT</pubDate>
-    <description>订阅性价比对比，直接影响团队选型与预算分配决策。（社区 · Hacker News · 原题 Anthropic Subscriptions Offer 5x+ More Value Than OpenAI）</description>
+    <title>GPT-6 与面向所有人的智能 UI 传闻</title>
+    <link>https://openai.com/index/gpt-6-for-everyone</link>
+    <guid isPermaLink="false">openai.com/index/gpt-6-for-everyone-2026-10-08</guid>
+    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
+    <description>下一代模型与交互范式信号，牵动所有产品路线判断。（官方 · OpenAI + Hacker News · 原题 GPT-6 and Intelligent UI for everyone）</description>
   </item>
 </channel>
 </rss>
