@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 08 Oct 2026 03:20:53 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 03:27:01 GMT</lastBuildDate>
   <item>
-    <title>开源图表设计库：为编码 Agent 提供 42 种编辑级图表</title>
+    <title>开源图表设计库：为 Claude Code 等 42 种图表而生</title>
     <link>https://github.com/cathrynlavery/diagram-design</link>
-    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>让 Claude Code 等 Agent 直接产出可发布级图表，省去手工排版。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
+    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>给 AI 编程助手补上专业图表能力，前端与文档场景可直接复用。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
   </item>
   <item>
-    <title>Claude Haiku 5.5 曝光：轻量模型再升级</title>
-    <link>https://www.anthropic.com/claude-haiku-5-5</link>
-    <guid isPermaLink="false">anthropic.com/claude-haiku-5-5-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>小模型迭代直接影响低成本高并发场景的选型与成本。（社区 · Hacker News · 原题 Claude Haiku 5.5）</description>
+    <title>OpenAI 年化收入被指比此前信号少 200 亿美元</title>
+    <link>https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html</link>
+    <guid isPermaLink="false">cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>估值叙事的关键数字被下修，直接影响融资与竞争格局判断。（社区 · Hacker News · 原题 OpenAI annualised revenues $20B less than previously signalled）</description>
   </item>
   <item>
-    <title>OpenAI 发布青少年 AI 学习与规划指南</title>
-    <link>https://openai.com/index/teens-learn-and-plan</link>
-    <guid isPermaLink="false">openai.com/index/teens-learn-and-plan-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>教育场景合规与产品设计风向，做 To C AI 的需关注。（官方 · OpenAI · 原题 Helping teens learn, plan, and shape the future of AI）</description>
+    <title>Oracle 用 ChatGPT 与 Codex 把数天工作压缩到分钟</title>
+    <link>https://openai.com/index/oracle</link>
+    <guid isPermaLink="false">openai.com/index/oracle-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>企业级落地样本，看清大模型在真实工作流中的提效边界。（官方 · OpenAI · 原题 How Oracle turns days of work into minutes with ChatGPT and Codex）</description>
   </item>
   <item>
-    <title>addyosmani 开源 Agent 工程技能库</title>
-    <link>https://github.com/addyosmani/agent-skills</link>
-    <guid isPermaLink="false">github.com/addyosmani/agent-skills-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>把生产级工程规范封装成 Agent 技能，可直接复用。（开源 · GitHub · 原题 addyosmani/agent-skills）</description>
+    <title>Pollo AI 借 OpenAI 把创意想法变成营销战役</title>
+    <link>https://openai.com/index/pollo-ai</link>
+    <guid isPermaLink="false">openai.com/index/pollo-ai-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>创意行业 AI 工作流的商业化案例，值得广告与内容团队参考。（官方 · OpenAI · 原题 Pollo AI turns creative ideas into campaigns with OpenAI）</description>
   </item>
   <item>
-    <title>Radisson 酒店集团接入 ChatGPT 做酒店发现</title>
-    <link>https://openai.com/index/radisson</link>
-    <guid isPermaLink="false">openai.com/index/radisson-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>传统行业落地 ChatGPT 的样板，验证对话式预订路径。（官方 · OpenAI · 原题 Radisson Hotel Group brings hotel discovery into ChatGPT）</description>
+    <title>LegalOn 用 Codex 将成本减半且不牺牲开发速度</title>
+    <link>https://openai.com/index/legalon-halves-codex-costs</link>
+    <guid isPermaLink="false">openai.com/index/legalon-halves-codex-costs-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>法律科技降本实证，为评估 AI 编程投入产出提供参照。（官方 · OpenAI · 原题 LegalOn halves Codex costs while maintaining development speed）</description>
+  </item>
+  <item>
+    <title>Anthropic 重申对美国科学发现的投入承诺</title>
+    <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
+    <guid isPermaLink="false">anthropic.com/news/genesis-mission-commitment-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>了解头部实验室如何绑定国家科研资源与政策风向。（官方 · Anthropic · 原题 Building on our commitment to American scientific discovery）</description>
+  </item>
+  <item>
+    <title>Anthropic 推出 Cyber Mission 网络安全计划</title>
+    <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
+    <guid isPermaLink="false">anthropic.com/news/anthropic-cyber-mission-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>安全是 AI 落地的前置条件，该计划透露其企业级布局。（官方 · Anthropic · 原题 Introducing the Anthropic Cyber Mission）</description>
+  </item>
+  <item>
+    <title>Anthropic 发布 2026 年使用政策更新</title>
+    <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
+    <guid isPermaLink="false">anthropic.com/news/2026-usage-policy-update-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>合规红线有变，开发者与 API 使用者需据此调整产品。（官方 · Anthropic · 原题 2026 Usage Policy update）</description>
+  </item>
+  <item>
+    <title>那个不存在的模型，于是你自己造了一个</title>
+    <link>https://huggingface.co/blog/building-with-ml-intern</link>
+    <guid isPermaLink="false">huggingface.co/blog/building-with-ml-intern-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>Hugging Face 社区自造模型的实践，启发小团队定制路径。（博客 · Hugging Face · 原题 The model that didn't exist, so you made it yourself）</description>
   </item>
   <item>
     <title>Google 推出 Playground：创建并游玩自定义游戏</title>
     <link>https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>生成式游戏创作入口，观察 Google 在互动内容上的布局。（官方 · Google AI · 原题 Introducing Playground: Create and play custom games）</description>
-  </item>
-  <item>
-    <title>Hugging Face 发布面向边缘的多模态 d1 决策模型</title>
-    <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
-    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/open-d1-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>边缘端多模态决策开源方案，利好端侧 AI 产品落地。（博客 · Hugging Face · 原题 Multimodal open d1 decision models for the edge）</description>
-  </item>
-  <item>
-    <title>i-have-adhd：让编码 Agent 别再埋没答案</title>
-    <link>https://github.com/ayghri/i-have-adhd</link>
-    <guid isPermaLink="false">github.com/ayghri/i-have-adhd-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>一个提示技能解决 Agent 输出冗长问题，提升可读性。（开源 · GitHub · 原题 ayghri/i-have-adhd）</description>
-  </item>
-  <item>
-    <title>Simon Willison 评 Claude Haiku 5.5</title>
-    <link>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/7/claude-haiku-5-5-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>一线开发者实测视角，比官方发布更贴近真实使用。（博客 · Simon Willison · 原题 Claude Haiku 5.5）</description>
-  </item>
-  <item>
-    <title>GPT-6 与面向所有人的智能 UI 传闻</title>
-    <link>https://openai.com/index/gpt-6-for-everyone</link>
-    <guid isPermaLink="false">openai.com/index/gpt-6-for-everyone-2026-10-08</guid>
-    <pubDate>Thu, 08 Oct 2026 03:20:53 GMT</pubDate>
-    <description>下一代模型与交互范式信号，牵动所有产品路线判断。（官方 · OpenAI + Hacker News · 原题 GPT-6 and Intelligent UI for everyone）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform-2026-10-09</guid>
+    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
+    <description>生成式游戏创作入口，观察消费级 AI 交互的新形态。（官方 · Google AI · 原题 Introducing Playground: Create and play custom games）</description>
   </item>
 </channel>
 </rss>
