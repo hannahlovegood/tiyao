@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 09 Oct 2026 03:27:01 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 03:06:23 GMT</lastBuildDate>
   <item>
     <title>开源图表设计库：为 Claude Code 等 42 种图表而生</title>
     <link>https://github.com/cathrynlavery/diagram-design</link>
-    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>给 AI 编程助手补上专业图表能力，前端与文档场景可直接复用。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
+    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>一套自包含图表规范，可直接接入主流编码 Agent，省去自建可视化规范成本。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
   </item>
   <item>
-    <title>OpenAI 年化收入被指比此前信号少 200 亿美元</title>
-    <link>https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html</link>
-    <guid isPermaLink="false">cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>估值叙事的关键数字被下修，直接影响融资与竞争格局判断。（社区 · Hacker News · 原题 OpenAI annualised revenues $20B less than previously signalled）</description>
+    <title>Sophos 用 OpenAI Daybreak 将威胁调查时间缩短 96%</title>
+    <link>https://openai.com/index/sophos</link>
+    <guid isPermaLink="false">openai.com/index/sophos-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>安全运营场景的量化降本样本，可参考其把 LLM 嵌入调查流程的路径。（官方 · OpenAI · 原题 Sophos cuts threat investigation time by 96% with OpenAI Daybreak）</description>
   </item>
   <item>
-    <title>Oracle 用 ChatGPT 与 Codex 把数天工作压缩到分钟</title>
+    <title>Asana 浏览器测试模型成本降 76 倍，靠 GPT-6.1 Sol</title>
+    <link>https://openai.com/index/asana-browser-agent</link>
+    <guid isPermaLink="false">openai.com/index/asana-browser-agent-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>前端测试是烧钱大户，此案例给出可复制的成本压缩与选型思路。（官方 · OpenAI · 原题 Asana cuts model costs 76x in browser tests with GPT-6.1 Sol）</description>
+  </item>
+  <item>
+    <title>OpenAI 以「不当处理研究信息」解雇三名安全研究员</title>
+    <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
+    <guid isPermaLink="false">techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>安全团队人事动荡，直接影响其对齐研究与外部合作的可信度预期。（社区 · Hacker News · 原题 OpenAI fires three safety researchers for &quot;mishandling research information&quot;）</description>
+  </item>
+  <item>
+    <title>GPU 集群的高效调度实践</title>
+    <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/impactful-scheduling-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>算力仍是瓶颈，调度策略直接决定训练成本与利用率，值得工程团队细读。（博客 · Hugging Face · 原题 Impactful scheduling for GPU clusters）</description>
+  </item>
+  <item>
+    <title>Oracle 借 ChatGPT 与 Codex 把数天工作压到分钟级</title>
     <link>https://openai.com/index/oracle</link>
-    <guid isPermaLink="false">openai.com/index/oracle-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>企业级落地样本，看清大模型在真实工作流中的提效边界。（官方 · OpenAI · 原题 How Oracle turns days of work into minutes with ChatGPT and Codex）</description>
-  </item>
-  <item>
-    <title>Pollo AI 借 OpenAI 把创意想法变成营销战役</title>
-    <link>https://openai.com/index/pollo-ai</link>
-    <guid isPermaLink="false">openai.com/index/pollo-ai-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>创意行业 AI 工作流的商业化案例，值得广告与内容团队参考。（官方 · OpenAI · 原题 Pollo AI turns creative ideas into campaigns with OpenAI）</description>
-  </item>
-  <item>
-    <title>LegalOn 用 Codex 将成本减半且不牺牲开发速度</title>
-    <link>https://openai.com/index/legalon-halves-codex-costs</link>
-    <guid isPermaLink="false">openai.com/index/legalon-halves-codex-costs-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>法律科技降本实证，为评估 AI 编程投入产出提供参照。（官方 · OpenAI · 原题 LegalOn halves Codex costs while maintaining development speed）</description>
+    <guid isPermaLink="false">openai.com/index/oracle-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>大厂内部落地样本，展示编码 Agent 在既有工程体系中的真实收益边界。（官方 · OpenAI · 原题 How Oracle turns days of work into minutes with ChatGPT and Codex）</description>
   </item>
   <item>
     <title>Anthropic 重申对美国科学发现的投入承诺</title>
     <link>https://www.anthropic.com/news/genesis-mission-commitment</link>
-    <guid isPermaLink="false">anthropic.com/news/genesis-mission-commitment-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>了解头部实验室如何绑定国家科研资源与政策风向。（官方 · Anthropic · 原题 Building on our commitment to American scientific discovery）</description>
+    <guid isPermaLink="false">anthropic.com/news/genesis-mission-commitment-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>政策与资金风向标，关注其科研合作与算力资源分配走向。（官方 · Anthropic · 原题 Building on our commitment to American scientific discovery）</description>
   </item>
   <item>
-    <title>Anthropic 推出 Cyber Mission 网络安全计划</title>
+    <title>Anthropic 推出 Cyber Mission 计划</title>
     <link>https://www.anthropic.com/news/anthropic-cyber-mission</link>
-    <guid isPermaLink="false">anthropic.com/news/anthropic-cyber-mission-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>安全是 AI 落地的前置条件，该计划透露其企业级布局。（官方 · Anthropic · 原题 Introducing the Anthropic Cyber Mission）</description>
+    <guid isPermaLink="false">anthropic.com/news/anthropic-cyber-mission-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>安全厂商与模型方的合作新范式，涉及威胁情报与防御自动化的落地机会。（官方 · Anthropic · 原题 Introducing the Anthropic Cyber Mission）</description>
   </item>
   <item>
     <title>Anthropic 发布 2026 年使用政策更新</title>
     <link>https://www.anthropic.com/news/2026-usage-policy-update</link>
-    <guid isPermaLink="false">anthropic.com/news/2026-usage-policy-update-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>合规红线有变，开发者与 API 使用者需据此调整产品。（官方 · Anthropic · 原题 2026 Usage Policy update）</description>
+    <guid isPermaLink="false">anthropic.com/news/2026-usage-policy-update-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>合规红线变化，直接关系到 API 调用、内容审核与产品设计的边界。（官方 · Anthropic · 原题 2026 Usage Policy update）</description>
   </item>
   <item>
     <title>那个不存在的模型，于是你自己造了一个</title>
     <link>https://huggingface.co/blog/building-with-ml-intern</link>
-    <guid isPermaLink="false">huggingface.co/blog/building-with-ml-intern-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>Hugging Face 社区自造模型的实践，启发小团队定制路径。（博客 · Hugging Face · 原题 The model that didn't exist, so you made it yourself）</description>
-  </item>
-  <item>
-    <title>Google 推出 Playground：创建并游玩自定义游戏</title>
-    <link>https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform-2026-10-09</guid>
-    <pubDate>Fri, 09 Oct 2026 03:27:01 GMT</pubDate>
-    <description>生成式游戏创作入口，观察消费级 AI 交互的新形态。（官方 · Google AI · 原题 Introducing Playground: Create and play custom games）</description>
+    <guid isPermaLink="false">huggingface.co/blog/building-with-ml-intern-2026-10-10</guid>
+    <pubDate>Sat, 10 Oct 2026 03:06:23 GMT</pubDate>
+    <description>一篇关于自建模型的实践反思，适合评估「造轮子」与「用现成」的取舍。（博客 · Hugging Face · 原题 The model that didn't exist, so you made it yourself）</description>
   </item>
 </channel>
 </rss>
