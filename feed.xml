@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 12 Oct 2026 03:02:07 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 04:17:38 GMT</lastBuildDate>
   <item>
-    <title>开源图表设计库：为 Claude Code 等 44 种图表类型</title>
+    <title>diagram-design：为编码代理提供 44 种编辑级图表</title>
     <link>https://github.com/cathrynlavery/diagram-design</link>
-    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>一套提示词模板覆盖主流编码 Agent，省去自建图表规范的时间。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
+    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>让 Claude Code、Cursor 等直接产出可发布级图表，省去手工绘图环节。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
   </item>
   <item>
-    <title>LLM 能力共识的裂痕正在扩大</title>
-    <link>https://twitter.com/karpathy/status/2109361546505966046</link>
-    <guid isPermaLink="false">twitter.com/karpathy/status/2109361546505966046-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>理解偏差影响团队选型与预期管理，值得对照自身认知校准。（社区 · Hacker News · 原题 The gap in shared understanding of LLM capability is widening）</description>
+    <title>研究机构称 Anthropic IPO 是投资者轻信的史无前例考验</title>
+    <link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
+    <guid isPermaLink="false">cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>对关注 AI 估值泡沫与上市节奏的人，是一份刺耳的逆向提醒。（社区 · Hacker News · 原题 Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'）</description>
   </item>
   <item>
-    <title>一致性并非局部属性</title>
+    <title>对 OpenAI 和 Anthropic 说不</title>
+    <link>https://micahflee.com/just-say-no-to-openai-and-anthropic/</link>
+    <guid isPermaLink="false">micahflee.com/just-say-no-to-openai-and-anthropic-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>反思对头部闭源模型的依赖，适合正在做技术选型的团队参考。（社区 · Hacker News · 原题 Just say no to OpenAI and Anthropic）</description>
+  </item>
+  <item>
+    <title>一致性不是局部属性</title>
     <link>https://n-the-loop.com/blog/consistency-is-not-a-localized-property/</link>
-    <guid isPermaLink="false">n-the-loop.com/blog/consistency-is-not-a-localized-property-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>分布式系统老问题在 AI 基础设施中重现，架构设计需重新审视。（社区 · Lobste.rs · 原题 Consistency is not a localized property）</description>
+    <guid isPermaLink="false">n-the-loop.com/blog/consistency-is-not-a-localized-property-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>分布式系统老命题，提醒 AI 基础设施设计者别把一致性当局部优化。（社区 · Lobste.rs · 原题 Consistency is not a localized property）</description>
   </item>
   <item>
-    <title>Sophos 用 OpenAI Daybreak 将威胁调查提速 96%</title>
-    <link>https://openai.com/index/sophos</link>
-    <guid isPermaLink="false">openai.com/index/sophos-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>安全运营的实测降本案例，可参考其 Agent 落地路径。（官方 · OpenAI · 原题 Sophos cuts threat investigation time by 96% with OpenAI Daybreak）</description>
-  </item>
-  <item>
-    <title>Asana 浏览器测试模型成本降低 76 倍</title>
-    <link>https://openai.com/index/asana-browser-agent</link>
-    <guid isPermaLink="false">openai.com/index/asana-browser-agent-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>GPT-6.1 Sol 的降本幅度提示测试类任务可优先迁移。（官方 · OpenAI · 原题 Asana cuts model costs 76x in browser tests with GPT-6.1 Sol）</description>
-  </item>
-  <item>
-    <title>面向 GPU 集群的高效调度策略</title>
-    <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/impactful-scheduling-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>算力紧张下调度优化直接决定训练成本与排队时长。（博客 · Hugging Face · 原题 Impactful scheduling for GPU clusters）</description>
-  </item>
-  <item>
-    <title>AirLLM：单张 4GB GPU 跑 70B 推理</title>
+    <title>AirLLM：单张 4GB GPU 跑 2.8T 参数推理</title>
     <link>https://github.com/lyogavin/airllm</link>
-    <guid isPermaLink="false">github.com/lyogavin/airllm-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>显存受限场景的实用方案，边缘部署与个人开发者可试。（开源 · GitHub · 原题 lyogavin/airllm）</description>
+    <guid isPermaLink="false">github.com/lyogavin/airllm-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>极端显存压缩方案，为本地大模型部署打开新的可行性边界。（开源 · GitHub · 原题 lyogavin/airllm）</description>
   </item>
   <item>
-    <title>ProgramGym：长程程序复现 Agent 的训练环境扩展</title>
-    <link>https://huggingface.co/papers/2610.13395</link>
-    <guid isPermaLink="false">huggingface.co/papers/2610.13395-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>提供可扩展训练环境，缓解长程编码任务数据稀缺问题。（论文 · HF Papers · 原题 ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents）</description>
+    <title>AI 模型或可在无数据中心条件下自我复制</title>
+    <link>https://www.anthropic.com/research/self-replicating-ai</link>
+    <guid isPermaLink="false">anthropic.com/research/self-replicating-ai-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>触及失控风险与监管红线，安全与政策从业者需关注。（社区 · Hacker News · 原题 AI models may be capable of self-replicating without access to a datacenter）</description>
   </item>
   <item>
-    <title>Opera：面向长程编码 Agent 的言语批评框架</title>
-    <link>https://huggingface.co/papers/2609.33987</link>
-    <guid isPermaLink="false">huggingface.co/papers/2609.33987-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>用语言反馈替代标量奖励，提升复杂编码任务的迭代质量。（论文 · HF Papers · 原题 Opera: A Verbal Critic Framework for Long-horizon Coding Agents）</description>
+    <title>free-claude-code：终端免费调用多家编码代理</title>
+    <link>https://github.com/Alishahryar1/free-claude-code</link>
+    <guid isPermaLink="false">github.com/Alishahryar1/free-claude-code-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>聚合 13 亿免费 token，降低多代理工作流的试错成本。（开源 · GitHub · 原题 Alishahryar1/free-claude-code）</description>
   </item>
   <item>
-    <title>RSI-Anything：用世界模型解锁递归自我改进</title>
-    <link>https://huggingface.co/papers/2610.13912</link>
-    <guid isPermaLink="false">huggingface.co/papers/2610.13912-2026-10-12</guid>
-    <pubDate>Mon, 12 Oct 2026 03:02:07 GMT</pubDate>
-    <description>探索模型自主进化的路径，关注自改进方向的研究者必读。（论文 · HF Papers · 原题 RSI-Anything: Unlocking Recursive Self-Improvement with World Models）</description>
+    <title>多流注意力残差</title>
+    <link>https://huggingface.co/papers/2610.13630</link>
+    <guid isPermaLink="false">huggingface.co/papers/2610.13630-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>注意力机制的结构性改进，值得跟踪其对长上下文建模的影响。（论文 · HF Papers · 原题 Multi-Stream Attention Residuals）</description>
+  </item>
+  <item>
+    <title>面向长时程终端智能的代理数据扩展</title>
+    <link>https://huggingface.co/papers/2610.13166</link>
+    <guid isPermaLink="false">huggingface.co/papers/2610.13166-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>终端代理训练数据的规模化方法，直接关系 agent 落地能力。（论文 · HF Papers · 原题 Scaling Agentic Data for Long-Horizon Terminal Intelligence）</description>
+  </item>
+  <item>
+    <title>字节语言模型：扩展、涌现抽象与信息分配</title>
+    <link>https://arxiv.org/html/2610.05978v1</link>
+    <guid isPermaLink="false">arxiv.org/html/2610.05978v1-2026-10-13</guid>
+    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
+    <description>以字节替代 token 的建模范式，可能重塑分词与多语言处理。（社区 · Lobste.rs · 原题 Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation）</description>
   </item>
 </channel>
 </rss>
