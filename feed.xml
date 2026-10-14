@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 13 Oct 2026 04:17:38 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 02:29:00 GMT</lastBuildDate>
   <item>
-    <title>diagram-design：为编码代理提供 44 种编辑级图表</title>
+    <title>开源图表设计库：为 Claude Code 等 6 款 AI 编程工具而设</title>
     <link>https://github.com/cathrynlavery/diagram-design</link>
-    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>让 Claude Code、Cursor 等直接产出可发布级图表，省去手工绘图环节。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
+    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>44 种图表类型可直接复用，省去为 AI 生成内容配图的时间。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
   </item>
   <item>
-    <title>研究机构称 Anthropic IPO 是投资者轻信的史无前例考验</title>
-    <link>https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html</link>
-    <guid isPermaLink="false">cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>对关注 AI 估值泡沫与上市节奏的人，是一份刺耳的逆向提醒。（社区 · Hacker News · 原题 Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'）</description>
+    <title>DeepMind 联手新加坡政府推出反诈骗 AI 工具</title>
+    <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
+    <guid isPermaLink="false">deepmind.google/blog/on-device-ai-scam-detection-mddi-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>政府级落地案例，可参考公共部门 AI 采购与合规路径。（官方 · DeepMind · 原题 Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams）</description>
   </item>
   <item>
-    <title>对 OpenAI 和 Anthropic 说不</title>
-    <link>https://micahflee.com/just-say-no-to-openai-and-anthropic/</link>
-    <guid isPermaLink="false">micahflee.com/just-say-no-to-openai-and-anthropic-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>反思对头部闭源模型的依赖，适合正在做技术选型的团队参考。（社区 · Hacker News · 原题 Just say no to OpenAI and Anthropic）</description>
+    <title>Gemini 4 Argon 现身 Hacker News 社区</title>
+    <link>https://deepmind.google/models/gemini/</link>
+    <guid isPermaLink="false">deepmind.google/models/gemini-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>开发者一手讨论，快速感知新模型真实口碑与槽点。（社区 · Hacker News · 原题 Gemini 4 Argon）</description>
   </item>
   <item>
-    <title>一致性不是局部属性</title>
-    <link>https://n-the-loop.com/blog/consistency-is-not-a-localized-property/</link>
-    <guid isPermaLink="false">n-the-loop.com/blog/consistency-is-not-a-localized-property-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>分布式系统老命题，提醒 AI 基础设施设计者别把一致性当局部优化。（社区 · Lobste.rs · 原题 Consistency is not a localized property）</description>
+    <title>DeepMind 详解 Gemini 4 Argon 的安全与责任实践</title>
+    <link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</link>
+    <guid isPermaLink="false">deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>官方安全框架披露，做合规与风控的必读一手材料。（官方 · DeepMind · 原题 Developing Gemini 4 Argon responsibly and safely）</description>
   </item>
   <item>
-    <title>AirLLM：单张 4GB GPU 跑 2.8T 参数推理</title>
-    <link>https://github.com/lyogavin/airllm</link>
-    <guid isPermaLink="false">github.com/lyogavin/airllm-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>极端显存压缩方案，为本地大模型部署打开新的可行性边界。（开源 · GitHub · 原题 lyogavin/airllm）</description>
+    <title>Higgsfield 将 AI 视频时长从 1 分钟拉到 10 分钟以上</title>
+    <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+    <guid isPermaLink="false">openai.com/index/higgsfield-longer-videos-voice-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>时长突破意味着叙事型视频工作流可被 AI 重构。（官方 · OpenAI · 原题 Higgsfield takes AI video from 1 minute to over 10）</description>
   </item>
   <item>
-    <title>AI 模型或可在无数据中心条件下自我复制</title>
-    <link>https://www.anthropic.com/research/self-replicating-ai</link>
-    <guid isPermaLink="false">anthropic.com/research/self-replicating-ai-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>触及失控风险与监管红线，安全与政策从业者需关注。（社区 · Hacker News · 原题 AI models may be capable of self-replicating without access to a datacenter）</description>
+    <title>Gemini 4 Argon 进军机器人领域</title>
+    <link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-4-argon-for-robotics-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>模型能力向具身智能延伸，关注机器人栈的人需跟进。（官方 · DeepMind · 原题 Gemini 4 Argon for Robotics）</description>
   </item>
   <item>
-    <title>free-claude-code：终端免费调用多家编码代理</title>
-    <link>https://github.com/Alishahryar1/free-claude-code</link>
-    <guid isPermaLink="false">github.com/Alishahryar1/free-claude-code-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>聚合 13 亿免费 token，降低多代理工作流的试错成本。（开源 · GitHub · 原题 Alishahryar1/free-claude-code）</description>
+    <title>Gemini 4 Argon：为攻克最难问题而生</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>官方定位说明，判断其能否替代现有主力模型的关键。（官方 · Google AI · 原题 Gemini 4 Argon: Built to solve your hardest problems）</description>
   </item>
   <item>
-    <title>多流注意力残差</title>
-    <link>https://huggingface.co/papers/2610.13630</link>
-    <guid isPermaLink="false">huggingface.co/papers/2610.13630-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>注意力机制的结构性改进，值得跟踪其对长上下文建模的影响。（论文 · HF Papers · 原题 Multi-Stream Attention Residuals）</description>
+    <title>Anthropic 正在重新设计源代码管理</title>
+    <link>https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>头部实验室动刀 Git 工作流，或影响未来协作范式。（博客 · Simon Willison · 原题 Redesigning source control at Anthropic）</description>
   </item>
   <item>
-    <title>面向长时程终端智能的代理数据扩展</title>
-    <link>https://huggingface.co/papers/2610.13166</link>
-    <guid isPermaLink="false">huggingface.co/papers/2610.13166-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>终端代理训练数据的规模化方法，直接关系 agent 落地能力。（论文 · HF Papers · 原题 Scaling Agentic Data for Long-Horizon Terminal Intelligence）</description>
+    <title>llm-gemini 0.35 发布</title>
+    <link>https://simonwillison.net/2026/Oct/13/llm-gemini/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/13/llm-gemini-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>Simon Willison 的 CLI 工具更新，命令行调 Gemini 更顺手。（博客 · Simon Willison · 原题 llm-gemini 0.35）</description>
   </item>
   <item>
-    <title>字节语言模型：扩展、涌现抽象与信息分配</title>
-    <link>https://arxiv.org/html/2610.05978v1</link>
-    <guid isPermaLink="false">arxiv.org/html/2610.05978v1-2026-10-13</guid>
-    <pubDate>Tue, 13 Oct 2026 04:17:38 GMT</pubDate>
-    <description>以字节替代 token 的建模范式，可能重塑分词与多语言处理。（社区 · Lobste.rs · 原题 Byte Language Models: Scaling, Emergent Abstractions, and Information Allocation）</description>
+    <title>LFM2.5-24B-A2B：在设备上跑快速、私密的 agent</title>
+    <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm25-24b-a2b-2026-10-14</guid>
+    <pubDate>Wed, 14 Oct 2026 02:29:00 GMT</pubDate>
+    <description>端侧 agent 兼顾速度与隐私，边缘部署多一个选项。（博客 · Hugging Face · 原题 Run fast, private agents on-device with LFM2.5-24B-A2B）</description>
   </item>
 </channel>
 </rss>
