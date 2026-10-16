@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 15 Oct 2026 02:09:49 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 02:00:29 GMT</lastBuildDate>
   <item>
-    <title>ifixai-ai/iFixAi</title>
-    <link>https://github.com/ifixai-ai/iFixAi</link>
-    <guid isPermaLink="false">github.com/ifixai-ai/iFixAi-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>GitHub 今日新增 2109 星，正在起势的开源项目。（开源 · GitHub）</description>
+    <title>K-Dense-AI 发布科学 Agent Skills 库，25 万科学家在用</title>
+    <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
+    <guid isPermaLink="false">github.com/K-Dense-AI/scientific-agent-skills-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>科学 Agent 技能库开源，可直接复用，降低科研自动化门槛。（开源 · GitHub · 原题 K-Dense-AI/scientific-agent-skills）</description>
   </item>
   <item>
-    <title>Anthropic's Scion is heavily inspired by Mononoke</title>
-    <link>https://sunshowers.io/posts/anthropic-mononoke/</link>
-    <guid isPermaLink="false">sunshowers.io/posts/anthropic-mononoke-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>发布不到 6 小时就冲进榜单，时效性强。（社区 · Hacker News）</description>
+    <title>affaan-m/ECC：Agent 框架性能优化系统开源</title>
+    <link>https://github.com/affaan-m/ECC</link>
+    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>从记忆、安全到技能编排，为 Agent 工程化提供可借鉴架构。（开源 · GitHub · 原题 affaan-m/ECC）</description>
   </item>
   <item>
-    <title>Amp puts AI agents to work beyond code with OpenAI models</title>
-    <link>https://openai.com/index/amp-beyond-coding</link>
-    <guid isPermaLink="false">openai.com/index/amp-beyond-coding-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>OpenAI 官方发布，一手信息，今天刚出。（官方 · OpenAI）</description>
+    <title>OpenAI 将 GPT-Rosalind 引入学术研究实验室</title>
+    <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
+    <guid isPermaLink="false">openai.com/index/introducing-the-rosalind-academic-plan-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>学术用户可申请新模型权限，影响科研 AI 工具选型与合规。（官方 · OpenAI · 原题 Bringing GPT-Rosalind to academic research labs）</description>
   </item>
   <item>
-    <title>SentinelOne cuts malware analysis from weeks to hours</title>
-    <link>https://openai.com/index/sentinelone</link>
-    <guid isPermaLink="false">openai.com/index/sentinelone-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>OpenAI 官方发布，一手信息，今天刚出。（官方 · OpenAI）</description>
+    <title>OpenAI 谈如何用提问教学生思考与学习</title>
+    <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
+    <guid isPermaLink="false">openai.com/index/teaching-students-to-think-and-learn-through-questions-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>教育场景提示词与产品设计思路，值得 AI 教育从业者参考。（官方 · OpenAI · 原题 Teaching students to think and learn through questions）</description>
   </item>
   <item>
-    <title>OpenFatigue™ — Open is the new closed</title>
-    <link>https://openfatigue.ai/</link>
-    <guid isPermaLink="false">openfatigue.ai-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>Lobste.rs 当日高热（20 赞 / 2 评论），社区认可度高。（社区 · Lobste.rs）</description>
+    <title>mksglu/context-mode：AI 编程 Agent 上下文优化方案</title>
+    <link>https://github.com/mksglu/context-mode</link>
+    <guid isPermaLink="false">github.com/mksglu/context-mode-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>工具输出沙箱化降 98% 上下文，直接缓解编程 Agent 成本痛点。（开源 · GitHub · 原题 mksglu/context-mode）</description>
   </item>
   <item>
-    <title>How Third Moment Research runs 10,000 agents for 36+ hours</title>
-    <link>https://openai.com/index/third-moment-research</link>
-    <guid isPermaLink="false">openai.com/index/third-moment-research-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>OpenAI 官方发布，一手信息，今天刚出。（官方 · OpenAI）</description>
+    <title>DeepMind 用 Google Antigravity 加速抗菌肽搜索</title>
+    <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
+    <guid isPermaLink="false">deepmind.google/blog/accelerating-antimicrobial-discovery-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>AI 驱动新药发现案例，展示 Agent 在生物科研的落地路径。（官方 · DeepMind · 原题 Accelerating the search for antimicrobial peptides with Google Antigravity）</description>
   </item>
   <item>
-    <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
-    <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/hiro-acev2-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>Hugging Face 出品，长期高信噪比的信源。（博客 · Hugging Face）</description>
+    <title>Hugging Face 开源 2.8 万亿 token 印度语预训练管线</title>
+    <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/scaling-indic-pretraining-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>多语言预训练数据与流程全开源，利好低资源语言模型团队。（博客 · Hugging Face · 原题 Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline）</description>
   </item>
   <item>
-    <title>Anthropic opens Singapore office and signs MOU with the Government of Singapore</title>
-    <link>https://www.anthropic.com/news/singapore-office-opening</link>
-    <guid isPermaLink="false">anthropic.com/news/singapore-office-opening-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>Anthropic 官方发布，一手信息，仍在时效内。（官方 · Anthropic）</description>
+    <title>Granite Switch 4.1：单端点支持对话、决策与语音</title>
+    <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-granite/granite-switch-4-1-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>IBM 新模型统一多模态端点，企业集成语音与决策更省成本。（博客 · Hugging Face · 原题 Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint）</description>
   </item>
   <item>
-    <title>Preparing for the 2026 US midterms</title>
-    <link>https://www.anthropic.com/news/2026-us-midterms</link>
-    <guid isPermaLink="false">anthropic.com/news/2026-us-midterms-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>Anthropic 官方发布，一手信息，仍在时效内。（官方 · Anthropic）</description>
+    <title>Anthropic 更新独立评估者政策说明</title>
+    <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
+    <guid isPermaLink="false">anthropic.com/news/an-update-on-independent-evaluators-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>涉及模型安全评估的第三方机制，影响合规与审计预期。（官方 · Anthropic · 原题 An update on independent evaluators）</description>
   </item>
   <item>
-    <title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
-    <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
-    <guid isPermaLink="false">deepmind.google/blog/on-device-ai-scam-detection-mddi-2026-10-15</guid>
-    <pubDate>Thu, 15 Oct 2026 02:09:49 GMT</pubDate>
-    <description>DeepMind 官方发布，一手信息，仍在时效内。（官方 · DeepMind）</description>
+    <title>OpenAI 与 Sullivan &amp; Cromwell 合作审查法律协议</title>
+    <link>https://openai.com/index/sullivan-cromwell</link>
+    <guid isPermaLink="false">openai.com/index/sullivan-cromwell-2026-10-16</guid>
+    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
+    <description>法律文书审查接入 AI，律所与法务团队可关注落地范式。（官方 · OpenAI · 原题 Sullivan &amp; Cromwell brings legal expertise into agreement review）</description>
   </item>
 </channel>
 </rss>
