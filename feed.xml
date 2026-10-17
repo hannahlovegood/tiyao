@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 16 Oct 2026 02:00:29 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 01:54:57 GMT</lastBuildDate>
   <item>
-    <title>K-Dense-AI 发布科学 Agent Skills 库，25 万科学家在用</title>
-    <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
-    <guid isPermaLink="false">github.com/K-Dense-AI/scientific-agent-skills-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>科学 Agent 技能库开源，可直接复用，降低科研自动化门槛。（开源 · GitHub · 原题 K-Dense-AI/scientific-agent-skills）</description>
+    <title>XERJ：让 AI 无需 token 即可检索数据</title>
+    <link>https://github.com/xerj-org/xerj</link>
+    <guid isPermaLink="false">github.com/xerj-org/xerj-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>autoindex 让 agent 直接理解数据结构，或降低 RAG 的 token 成本。（开源 · GitHub · 原题 xerj-org/xerj）</description>
   </item>
   <item>
-    <title>affaan-m/ECC：Agent 框架性能优化系统开源</title>
-    <link>https://github.com/affaan-m/ECC</link>
-    <guid isPermaLink="false">github.com/affaan-m/ECC-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>从记忆、安全到技能编排，为 Agent 工程化提供可借鉴架构。（开源 · GitHub · 原题 affaan-m/ECC）</description>
+    <title>Anthropic 上线 Claude Code 官方插件目录</title>
+    <link>https://github.com/anthropics/claude-plugins-official</link>
+    <guid isPermaLink="false">github.com/anthropics/claude-plugins-official-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>官方筛选的高质量插件入口，Claude Code 生态开始规范化。（开源 · GitHub · 原题 anthropics/claude-plugins-official）</description>
   </item>
   <item>
-    <title>OpenAI 将 GPT-Rosalind 引入学术研究实验室</title>
+    <title>Claude 揭示 ECDSA 曲线参数来源</title>
+    <link>https://www.anthropic.com/research/ecdsa-curve-origins</link>
+    <guid isPermaLink="false">anthropic.com/research/ecdsa-curve-origins-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>模型还原密码学标准的历史细节，可观察其推理与溯源能力。（社区 · Hacker News · 原题 Claude reveals ECDSA curve origins）</description>
+  </item>
+  <item>
+    <title>Itaú 如何为全量客户构建生成式 AI</title>
+    <link>https://openai.com/index/itau-generative-ai</link>
+    <guid isPermaLink="false">openai.com/index/itau-generative-ai-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>大型银行规模化落地案例，含组织与工程层面的可复用经验。（官方 · OpenAI · 原题 How Itaú is building generative AI for its entire customer base）</description>
+  </item>
+  <item>
+    <title>Stack Overflow for Agents 靠插件注册量翻三倍</title>
+    <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+    <guid isPermaLink="false">openai.com/index/stack-overflow-chatgpt-plugin-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>ChatGPT 插件带来真实增长数据，可参考 agent 分发路径。（官方 · OpenAI · 原题 Stack Overflow for Agents triples signups with ChatGPT plugin）</description>
+  </item>
+  <item>
+    <title>GPT-Rosalind 进入学术研究实验室</title>
     <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-    <guid isPermaLink="false">openai.com/index/introducing-the-rosalind-academic-plan-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>学术用户可申请新模型权限，影响科研 AI 工具选型与合规。（官方 · OpenAI · 原题 Bringing GPT-Rosalind to academic research labs）</description>
+    <guid isPermaLink="false">openai.com/index/introducing-the-rosalind-academic-plan-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>了解 OpenAI 面向科研场景的模型能力与合作模式。（官方 · OpenAI · 原题 Bringing GPT-Rosalind to academic research labs）</description>
   </item>
   <item>
-    <title>OpenAI 谈如何用提问教学生思考与学习</title>
-    <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-    <guid isPermaLink="false">openai.com/index/teaching-students-to-think-and-learn-through-questions-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>教育场景提示词与产品设计思路，值得 AI 教育从业者参考。（官方 · OpenAI · 原题 Teaching students to think and learn through questions）</description>
-  </item>
-  <item>
-    <title>mksglu/context-mode：AI 编程 Agent 上下文优化方案</title>
-    <link>https://github.com/mksglu/context-mode</link>
-    <guid isPermaLink="false">github.com/mksglu/context-mode-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>工具输出沙箱化降 98% 上下文，直接缓解编程 Agent 成本痛点。（开源 · GitHub · 原题 mksglu/context-mode）</description>
-  </item>
-  <item>
-    <title>DeepMind 用 Google Antigravity 加速抗菌肽搜索</title>
+    <title>Google Antigravity 加速抗菌肽搜索</title>
     <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
-    <guid isPermaLink="false">deepmind.google/blog/accelerating-antimicrobial-discovery-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>AI 驱动新药发现案例，展示 Agent 在生物科研的落地路径。（官方 · DeepMind · 原题 Accelerating the search for antimicrobial peptides with Google Antigravity）</description>
+    <guid isPermaLink="false">deepmind.google/blog/accelerating-antimicrobial-discovery-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>AI 驱动科学发现的实操案例，展示搜索与实验闭环。（官方 · DeepMind · 原题 Accelerating the search for antimicrobial peptides with Google Antigravity）</description>
   </item>
   <item>
-    <title>Hugging Face 开源 2.8 万亿 token 印度语预训练管线</title>
+    <title>Indic 预训练扩展：2.8 万亿 token 与开放数据管线</title>
     <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/scaling-indic-pretraining-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>多语言预训练数据与流程全开源，利好低资源语言模型团队。（博客 · Hugging Face · 原题 Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline）</description>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/scaling-indic-pretraining-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>低资源语言大模型预训练的开放数据方法可直接借鉴。（博客 · Hugging Face · 原题 Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline）</description>
   </item>
   <item>
-    <title>Granite Switch 4.1：单端点支持对话、决策与语音</title>
-    <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-granite/granite-switch-4-1-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>IBM 新模型统一多模态端点，企业集成语音与决策更省成本。（博客 · Hugging Face · 原题 Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint）</description>
+    <title>K-Dense 科学 agent 技能库获 25 万科学家使用</title>
+    <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
+    <guid isPermaLink="false">github.com/K-Dense-AI/scientific-agent-skills-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>把通用 agent 变成科研工具的技能集合，可快速复用。（开源 · GitHub · 原题 K-Dense-AI/scientific-agent-skills）</description>
   </item>
   <item>
-    <title>Anthropic 更新独立评估者政策说明</title>
-    <link>https://www.anthropic.com/news/an-update-on-independent-evaluators</link>
-    <guid isPermaLink="false">anthropic.com/news/an-update-on-independent-evaluators-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>涉及模型安全评估的第三方机制，影响合规与审计预期。（官方 · Anthropic · 原题 An update on independent evaluators）</description>
-  </item>
-  <item>
-    <title>OpenAI 与 Sullivan &amp; Cromwell 合作审查法律协议</title>
-    <link>https://openai.com/index/sullivan-cromwell</link>
-    <guid isPermaLink="false">openai.com/index/sullivan-cromwell-2026-10-16</guid>
-    <pubDate>Fri, 16 Oct 2026 02:00:29 GMT</pubDate>
-    <description>法律文书审查接入 AI，律所与法务团队可关注落地范式。（官方 · OpenAI · 原题 Sullivan &amp; Cromwell brings legal expertise into agreement review）</description>
+    <title>Beam 发布：可自持、可定制的 501B 开放模型</title>
+    <link>https://huggingface.co/blog/reflection-beam</link>
+    <guid isPermaLink="false">huggingface.co/blog/reflection-beam-2026-10-17</guid>
+    <pubDate>Sat, 17 Oct 2026 01:54:57 GMT</pubDate>
+    <description>超大开放权重模型，关注私有化部署与微调成本边界。（博客 · Hugging Face · 原题 Welcome Beam: a 501B open model you can own, customize, and scale）</description>
   </item>
 </channel>
 </rss>
