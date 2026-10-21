@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 20 Oct 2026 02:26:18 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 02:19:47 GMT</lastBuildDate>
   <item>
-    <title>MadsLorentzen 推出本地 AI 求职框架 ai-job-search</title>
+    <title>开源AI求职框架：在本地跑完整个求职流程</title>
     <link>https://github.com/MadsLorentzen/ai-job-search</link>
-    <guid isPermaLink="false">github.com/MadsLorentzen/ai-job-search-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>基于 Claude Code 的求职自动化框架，展示 Agent 落地个人场景的可行路径。（开源 · GitHub · 原题 MadsLorentzen/ai-job-search）</description>
+    <guid isPermaLink="false">github.com/MadsLorentzen/ai-job-search-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>基于Claude Code的本地求职工具，可评估职位并定制简历，隐私可控。（开源 · GitHub · 原题 MadsLorentzen/ai-job-search）</description>
   </item>
   <item>
-    <title>OpenAI 推进低资源编程语言的编码能力</title>
-    <link>https://openai.com/index/low-resource-programming-languages</link>
-    <guid isPermaLink="false">openai.com/index/low-resource-programming-languages-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>揭示模型在冷门语言上的短板与改进方向，影响多语言开发者工具选型。（官方 · OpenAI · 原题 Advancing coding in low‑resource programming languages）</description>
+    <title>Anthropic 2026上半年净亏损超800亿美元</title>
+    <link>https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/</link>
+    <guid isPermaLink="false">reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>头部实验室烧钱规模首次量化，直接影响融资与算力叙事判断。（社区 · Hacker News · 原题 Anthropic logged net loss of over $80B in first half of 2026）</description>
   </item>
   <item>
-    <title>Anthropic IPO 背后鲜为人知的信托结构</title>
-    <link>https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&amp;reflink=desktopwebshare_permalink</link>
-    <guid isPermaLink="false">wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>厘清其治理与资本安排，判断公司长期走向与合规风险的关键线索。（社区 · Hacker News · 原题 The obscure trust looming over Anthropic's IPO）</description>
+    <title>Claude设计出抗蝎毒神经毒素的蛋白结合体</title>
+    <link>https://www.anthropic.com/research/claude-scorpion-toxin-binder-design</link>
+    <guid isPermaLink="false">anthropic.com/research/claude-scorpion-toxin-binder-design-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>AI生成蛋白进入真实靶点验证，生物设计落地再添一例。（社区 · Hacker News · 原题 Claude designed protein binders against scorpion neurotoxins）</description>
   </item>
   <item>
-    <title>Timestral：Mistral 发布时间序列基础模型</title>
-    <link>https://mistral.ai/news/timestral/</link>
-    <guid isPermaLink="false">mistral.ai/news/timestral-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>基础模型向时序预测延伸，为金融、运维等场景提供新选型。（社区 · Lobste.rs · 原题 Timestral: Mistral's time-series foundation models）</description>
+    <title>加盟商用ChatGPT Work对账时间减少94%</title>
+    <link>https://openai.com/index/ted-taylor-restaurant</link>
+    <guid isPermaLink="false">openai.com/index/ted-taylor-restaurant-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>具体业务场景的效率数字，比通用benchmark更能说服企业采购。（官方 · OpenAI · 原题 Franchisee reconciles cash in 94% less time with ChatGPT Work）</description>
   </item>
   <item>
-    <title>TorchNeuron：在 AWS Trainium 上跑 HF 模型更简单</title>
-    <link>https://huggingface.co/blog/hf-torchneuron</link>
-    <guid isPermaLink="false">huggingface.co/blog/hf-torchneuron-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>降低非 Nvidia 硬件迁移门槛，直接影响推理成本与部署策略。（博客 · Hugging Face · 原题 TorchNeuron: running HF models on AWS Trainium is easier than ever）</description>
+    <title>Terminal X用GPT-6.1匹配资深投资人判断达88.6%</title>
+    <link>https://openai.com/index/terminal-x</link>
+    <guid isPermaLink="false">openai.com/index/terminal-x-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>专业判断类任务的量化对标，关乎AI在高价值决策中的边界。（官方 · OpenAI · 原题 Terminal X matches senior investor judgment 88.6% with GPT-6.1）</description>
   </item>
   <item>
-    <title>llm-tools-datasette 0.1.1 发布</title>
-    <link>https://simonwillison.net/2026/Oct/18/llm-tools-datasette/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/18/llm-tools-datasette-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>让 LLM 直接查询 Datasette 数据，快速搭建数据问答原型。（博客 · Simon Willison · 原题 llm-tools-datasette 0.1.1）</description>
+    <title>NVIDIA Cosmos3-H-Dreams：用生成仿真还原临床手术</title>
+    <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/cosmos3-h-dreams-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>世界模型切入医疗仿真训练，值得关注其数据与合规路径。（博客 · Hugging Face · 原题 NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation）</description>
   </item>
   <item>
-    <title>llm-echo 0.5 发布</title>
-    <link>https://simonwillison.net/2026/Oct/18/llm-echo/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/18/llm-echo-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>轻量调试插件更新，便于开发者验证 LLM 工具链调用逻辑。（博客 · Simon Willison · 原题 llm-echo 0.5）</description>
+    <title>FairStress：更深入评估LLM决策中的公平性</title>
+    <link>https://huggingface.co/blog/allenai/fairstress</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/fairstress-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>公平性评测从静态数据集走向压力测试，风控与合规团队可参考。（博客 · Hugging Face · 原题 FairStress: A deeper evaluation of fairness in LLM decision-making）</description>
   </item>
   <item>
-    <title>Anthropic 发文：投资公共利益</title>
-    <link>https://www.anthropic.com/news/public-benefit-fund</link>
-    <guid isPermaLink="false">anthropic.com/news/public-benefit-fund-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>官方阐述其社会价值取向，理解其政策与安全立场的窗口。（官方 · Anthropic · 原题 Investing in the public benefit）</description>
+    <title>ALTK-Evolve：靠学习记忆登顶τ²-bench客服榜</title>
+    <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-research/altk-evolve-bc-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>不靠前沿模型、用记忆机制取胜，提示工程外的另一条优化路径。（博客 · Hugging Face · 原题 ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model）</description>
   </item>
   <item>
-    <title>orca：统一管理多编码 Agent 的开源工作台</title>
-    <link>https://github.com/stablyai/orca</link>
-    <guid isPermaLink="false">github.com/stablyai/orca-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>解决多 Agent 编排与自有环境接入痛点，提升团队协作效率。（开源 · GitHub · 原题 stablyai/orca）</description>
+    <title>OpenAI收购Orchestra Bio</title>
+    <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
+    <guid isPermaLink="false">openai.com/index/openai-to-acquire-orchestra-bio-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>收购动作透露OpenAI在生物方向的布局意图，需跟进整合细节。（官方 · OpenAI · 原题 OpenAI acquires Orchestra Bio）</description>
   </item>
   <item>
-    <title>opencode：开源编码 Agent 新选择</title>
-    <link>https://github.com/anomalyco/opencode</link>
-    <guid isPermaLink="false">github.com/anomalyco/opencode-2026-10-20</guid>
-    <pubDate>Tue, 20 Oct 2026 02:26:18 GMT</pubDate>
-    <description>开源可自托管的编码 Agent，为替代闭源方案提供实践样本。（开源 · GitHub · 原题 anomalyco/opencode）</description>
+    <title>Sage-A1.5：从长程执行到能力组合的科学探索</title>
+    <link>https://huggingface.co/papers/2610.28578</link>
+    <guid isPermaLink="false">huggingface.co/papers/2610.28578-2026-10-21</guid>
+    <pubDate>Wed, 21 Oct 2026 02:19:47 GMT</pubDate>
+    <description>长程任务与能力组合是新范式关键词，适合跟踪Agent演进路线。（论文 · HF Papers · 原题 Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition）</description>
   </item>
 </channel>
 </rss>
