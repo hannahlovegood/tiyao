@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 22 Oct 2026 02:14:38 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 02:20:17 GMT</lastBuildDate>
   <item>
-    <title>ponytail：让 AI agent 像最懒的资深工程师那样思考</title>
-    <link>https://github.com/DietrichGebert/ponytail</link>
-    <guid isPermaLink="false">github.com/DietrichGebert/ponytail-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>用「不写代码」约束 agent 输出，可直接借鉴其提示与评测思路。（开源 · GitHub · 原题 DietrichGebert/ponytail）</description>
-  </item>
-  <item>
-    <title>Cloudflare 开源 security-audit-skill：多阶段安全审计 agent 技能</title>
+    <title>Cloudflare 开源安全审计 Agent Skill</title>
     <link>https://github.com/cloudflare/security-audit-skill</link>
-    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>提供可机器验证的审计流程，适合接入自有 coding agent 做安全左移。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>多阶段审计与机器可读结果，可直接接入编码 Agent 工作流。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
   </item>
   <item>
-    <title>Claude Duet：社区热议的双模型协作玩法</title>
-    <link>https://claude.com/product/claude-duet</link>
-    <guid isPermaLink="false">claude.com/product/claude-duet-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>了解用户如何组合 Claude 完成复杂任务，启发产品交互设计。（社区 · Hacker News · 原题 Claude Duet）</description>
+    <title>HN 热议：模型这么强，OpenAI 为何不直接开 100 家公司？</title>
+    <link>https://news.ycombinator.com/item?id=50200997</link>
+    <guid isPermaLink="false">news.ycombinator.com/item-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>直击模型能力与商业落地之间的真实鸿沟，值得创业者思考。（社区 · Hacker News · 原题 Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?）</description>
   </item>
   <item>
-    <title>OpenAI 以一致标准扩大模型访问权限</title>
-    <link>https://openai.com/index/broad-access-through-consistent-standards</link>
-    <guid isPermaLink="false">openai.com/index/broad-access-through-consistent-standards-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>访问政策调整直接影响开发者可用模型范围与合规边界。（官方 · OpenAI · 原题 Broad access through consistent standards）</description>
+    <title>OpenAI 推出 Decisions API，构建更灵敏的应用</title>
+    <link>https://openai.com/index/decisions-api</link>
+    <guid isPermaLink="false">openai.com/index/decisions-api-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>新 API 影响应用响应式设计，开发者需评估接入成本与收益。（官方 · OpenAI · 原题 Build more responsive apps with the Decisions API）</description>
   </item>
   <item>
-    <title>AT&amp;T 如何用 OpenAI 重塑内部法务工作</title>
-    <link>https://openai.com/index/att-legal</link>
-    <guid isPermaLink="false">openai.com/index/att-legal-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>企业法务落地案例，含流程改造与 ROI 参考，非泛泛宣传。（官方 · OpenAI · 原题 How AT&amp;T is rethinking in-house legal work with OpenAI）</description>
+    <title>DeepMind 绘制全球森林类型地图，超越树冠覆盖</title>
+    <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
+    <guid isPermaLink="false">deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>遥感与 AI 结合的环境数据新基准，可复用于地理空间建模。（官方 · DeepMind · 原题 Beyond tree cover: mapping the world’s forest types）</description>
   </item>
   <item>
-    <title>ChatGPT Ads 扩展至 26 国，广告主超 10 万</title>
-    <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
-    <guid isPermaLink="false">openai.com/index/chatgpt-ads-expands-26-new-countries-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>AI 对话广告商业化提速，影响流量分发与投放策略判断。（官方 · OpenAI · 原题 ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform）</description>
+    <title>Hugging Face：用 ThinkingBox 将数据库评分转为 RL 奖励</title>
+    <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
+    <guid isPermaLink="false">huggingface.co/blog/microsoft/thinkingbox-training-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>给出 Agent 后训练的奖励设计范式，工程可复现。（博客 · Hugging Face · 原题 Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox）</description>
   </item>
   <item>
-    <title>NVIDIA Kumo 关系型模型无需训练即超越监督学习</title>
-    <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/kumo-relational-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>免训练方案若可复现，将改变关系型数据建模的成本结构。（博客 · Hugging Face · 原题 NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required）</description>
+    <title>OpenAI 解读 FDE 角色意味着什么</title>
+    <link>https://openai.com/index/forward-deployed-engineering-means</link>
+    <guid isPermaLink="false">openai.com/index/forward-deployed-engineering-means-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>了解前沿部署工程师职责，判断 AI 落地岗位的能力要求。（官方 · OpenAI · 原题 What FDE means at OpenAI）</description>
   </item>
   <item>
-    <title>专精 SLM 词表可将实际推理成本降低 77%</title>
-    <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
-    <guid isPermaLink="false">huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>给出词表裁剪的可量化收益，小模型部署降本可直接照做。（博客 · Hugging Face · 原题 How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications）</description>
+    <title>OlmoEarth v1.3 发布：全球尺度 SOTA 嵌入</title>
+    <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/olmoearth-v1-3-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>开放地球观测嵌入模型，地理空间应用可直接受益。（博客 · Hugging Face · 原题 OlmoEarth v1.3: State-of-the-art embeddings for the whole planet）</description>
   </item>
   <item>
-    <title>TorchNeuron 性能剖析（一）：AWS Trainium 系统级分析</title>
-    <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
-    <guid isPermaLink="false">huggingface.co/blog/amazon/profiling-torchneuron-part-1-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>Trainium 上 PyTorch 调优的一手方法，适合自研推理栈团队。（博客 · Hugging Face · 原题 Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.）</description>
+    <title>Anthropic 公开招募生命科学客座研究员</title>
+    <link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
+    <guid isPermaLink="false">anthropic.com/news/open-call-guest-investigators-life-sciences-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>生命科学与 AI 交叉的合作入口，关注科研落地者留意。（官方 · Anthropic · 原题 Open call for guest investigators in the life sciences）</description>
   </item>
   <item>
-    <title>物理学家 Christopher Stubbs 加入 Anthropic 长期利益信托</title>
-    <link>https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust</link>
-    <guid isPermaLink="false">anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust-2026-10-22</guid>
-    <pubDate>Thu, 22 Oct 2026 02:14:38 GMT</pubDate>
-    <description>信托治理引入硬科学背景，关乎 Anthropic 长期决策结构。（官方 · Anthropic · 原题 Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust）</description>
+    <title>Anthropic 向 Agentic AI Foundation 捐赠 Agent Skills</title>
+    <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
+    <guid isPermaLink="false">anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>Agent 技能标准化动向，影响跨平台互操作与生态格局。（官方 · Anthropic · 原题 Donating Agent Skills to the Agentic AI Foundation）</description>
+  </item>
+  <item>
+    <title>Uber 全员上线 ChatGPT Work</title>
+    <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
+    <guid isPermaLink="false">openai.com/index/uber-chatgpt-work-rollout-2026-10-23</guid>
+    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
+    <description>大规模企业部署案例，揭示 AI 办公工具的真实采用路径。（官方 · OpenAI · 原题 Uber brings ChatGPT Work to all employees with OpenAI）</description>
   </item>
 </channel>
 </rss>
