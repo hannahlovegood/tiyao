@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 23 Oct 2026 02:20:17 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 02:18:07 GMT</lastBuildDate>
   <item>
-    <title>Cloudflare 开源安全审计 Agent Skill</title>
+    <title>Cloudflare 开源安全审计 Agent 技能</title>
     <link>https://github.com/cloudflare/security-audit-skill</link>
-    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>多阶段审计与机器可读结果，可直接接入编码 Agent 工作流。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>多阶段审计加机器可读结论，可直接接入编码 Agent 工作流。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
   </item>
   <item>
-    <title>HN 热议：模型这么强，OpenAI 为何不直接开 100 家公司？</title>
+    <title>OpenAI 如何撑起 10 亿 ChatGPT 用户的在线存储</title>
+    <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+    <guid isPermaLink="false">openai.com/index/scaling-storage-one-billion-users-part-two-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>超大规模存储架构一手细节，后端与基础设施团队可借鉴。（官方 · OpenAI · 原题 Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)）</description>
+  </item>
+  <item>
+    <title>OpenAI 披露前沿模型训练环境安全方案</title>
+    <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+    <guid isPermaLink="false">openai.com/index/securing-our-frontier-model-training-environment-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>训练集群防护的官方实践，安全与 ML 平台方必读。（官方 · OpenAI · 原题 Securing our frontier model training environment）</description>
+  </item>
+  <item>
+    <title>LitPivot：用动态语境化在文献中找研究选题</title>
+    <link>https://huggingface.co/blog/allenai/litpivot</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/litpivot-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>把文献综述变成选题工具，科研 AI 产品思路可复用。（博客 · Hugging Face · 原题 LitPivot: Developing research ideas through dynamic contextualization within the literature landscape）</description>
+  </item>
+  <item>
+    <title>OpenAI 与波兰 NASK 合作推进 AI 安全</title>
+    <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
+    <guid isPermaLink="false">openai.com/index/openai-nask-ai-safety-security-partnership-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>国家级安全合作样本，看监管落地与合规路径。（官方 · OpenAI · 原题 OpenAI and Poland’s NASK partner to advance AI safety and security）</description>
+  </item>
+  <item>
+    <title>Kimi K3.1 Pro 与 Highspeed 版本现身</title>
+    <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
+    <guid isPermaLink="false">kimi.ai/blog/kimi-k3-1-pro-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>国产模型新版本动向，关注推理与速度取舍的读者必看。（社区 · Hacker News · 原题 Kimi K3.1 Pro and K3.1 Pro Highspeed）</description>
+  </item>
+  <item>
+    <title>Simon Willison 实测 Kimi K3.1 Pro</title>
+    <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/23/kimi-k31-pro-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>可信第三方上手评测，比官方 benchmark 更接近真实体感。（博客 · Simon Willison · 原题 Introducing Kimi K3.1 Pro）</description>
+  </item>
+  <item>
+    <title>HN 讨论：模型这么强，OpenAI 为何不直接开 100 家公司</title>
     <link>https://news.ycombinator.com/item?id=50200997</link>
-    <guid isPermaLink="false">news.ycombinator.com/item-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>直击模型能力与商业落地之间的真实鸿沟，值得创业者思考。（社区 · Hacker News · 原题 Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?）</description>
+    <guid isPermaLink="false">news.ycombinator.com/item-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>一线从业者对模型能力边界的真实争论，值得一读。（社区 · Hacker News · 原题 Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?）</description>
   </item>
   <item>
-    <title>OpenAI 推出 Decisions API，构建更灵敏的应用</title>
-    <link>https://openai.com/index/decisions-api</link>
-    <guid isPermaLink="false">openai.com/index/decisions-api-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>新 API 影响应用响应式设计，开发者需评估接入成本与收益。（官方 · OpenAI · 原题 Build more responsive apps with the Decisions API）</description>
-  </item>
-  <item>
-    <title>DeepMind 绘制全球森林类型地图，超越树冠覆盖</title>
+    <title>DeepMind 绘制全球森林类型地图</title>
     <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
-    <guid isPermaLink="false">deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>遥感与 AI 结合的环境数据新基准，可复用于地理空间建模。（官方 · DeepMind · 原题 Beyond tree cover: mapping the world’s forest types）</description>
+    <guid isPermaLink="false">deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>超越树冠覆盖的遥感建模，地球观测 AI 应用新范例。（官方 · DeepMind · 原题 Beyond tree cover: mapping the world’s forest types）</description>
   </item>
   <item>
-    <title>Hugging Face：用 ThinkingBox 将数据库评分转为 RL 奖励</title>
-    <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-    <guid isPermaLink="false">huggingface.co/blog/microsoft/thinkingbox-training-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>给出 Agent 后训练的奖励设计范式，工程可复现。（博客 · Hugging Face · 原题 Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox）</description>
-  </item>
-  <item>
-    <title>OpenAI 解读 FDE 角色意味着什么</title>
-    <link>https://openai.com/index/forward-deployed-engineering-means</link>
-    <guid isPermaLink="false">openai.com/index/forward-deployed-engineering-means-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>了解前沿部署工程师职责，判断 AI 落地岗位的能力要求。（官方 · OpenAI · 原题 What FDE means at OpenAI）</description>
-  </item>
-  <item>
-    <title>OlmoEarth v1.3 发布：全球尺度 SOTA 嵌入</title>
-    <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/olmoearth-v1-3-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>开放地球观测嵌入模型，地理空间应用可直接受益。（博客 · Hugging Face · 原题 OlmoEarth v1.3: State-of-the-art embeddings for the whole planet）</description>
-  </item>
-  <item>
-    <title>Anthropic 公开招募生命科学客座研究员</title>
-    <link>https://www.anthropic.com/news/open-call-guest-investigators-life-sciences</link>
-    <guid isPermaLink="false">anthropic.com/news/open-call-guest-investigators-life-sciences-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>生命科学与 AI 交叉的合作入口，关注科研落地者留意。（官方 · Anthropic · 原题 Open call for guest investigators in the life sciences）</description>
-  </item>
-  <item>
-    <title>Anthropic 向 Agentic AI Foundation 捐赠 Agent Skills</title>
-    <link>https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation</link>
-    <guid isPermaLink="false">anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>Agent 技能标准化动向，影响跨平台互操作与生态格局。（官方 · Anthropic · 原题 Donating Agent Skills to the Agentic AI Foundation）</description>
-  </item>
-  <item>
-    <title>Uber 全员上线 ChatGPT Work</title>
-    <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
-    <guid isPermaLink="false">openai.com/index/uber-chatgpt-work-rollout-2026-10-23</guid>
-    <pubDate>Fri, 23 Oct 2026 02:20:17 GMT</pubDate>
-    <description>大规模企业部署案例，揭示 AI 办公工具的真实采用路径。（官方 · OpenAI · 原题 Uber brings ChatGPT Work to all employees with OpenAI）</description>
+    <title>你的模型能在 AWS Trainium 上跑吗？查一下</title>
+    <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+    <guid isPermaLink="false">huggingface.co/blog/torch-neuronx-model-support-2026-10-24</guid>
+    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
+    <description>低成本替代算力的适配查询工具，降本选型可直接用。（博客 · Hugging Face · 原题 Does Your Model Run on AWS Trainium? Look It Up）</description>
   </item>
 </channel>
 </rss>
