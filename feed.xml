@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 24 Oct 2026 02:18:07 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 02:04:58 GMT</lastBuildDate>
   <item>
-    <title>Cloudflare 开源安全审计 Agent 技能</title>
+    <title>Cloudflare 开源 security-audit-skill：多阶段安全审计 agent 技能</title>
     <link>https://github.com/cloudflare/security-audit-skill</link>
-    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>多阶段审计加机器可读结论，可直接接入编码 Agent 工作流。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>给 coding agent 装上可验证、机器可读的审计流程，安全落地有了现成参考。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
   </item>
   <item>
-    <title>OpenAI 如何撑起 10 亿 ChatGPT 用户的在线存储</title>
+    <title>OpenAI 如何把在线存储扩展到 10 亿 ChatGPT 用户（下）</title>
     <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-    <guid isPermaLink="false">openai.com/index/scaling-storage-one-billion-users-part-two-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>超大规模存储架构一手细节，后端与基础设施团队可借鉴。（官方 · OpenAI · 原题 Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)）</description>
+    <guid isPermaLink="false">openai.com/index/scaling-storage-one-billion-users-part-two-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>一线超大规模存储架构细节，做基础设施和成本优化的人值得细读。（官方 · OpenAI · 原题 Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)）</description>
   </item>
   <item>
-    <title>OpenAI 披露前沿模型训练环境安全方案</title>
+    <title>OpenAI 披露前沿模型训练环境的安全防护</title>
     <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-    <guid isPermaLink="false">openai.com/index/securing-our-frontier-model-training-environment-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>训练集群防护的官方实践，安全与 ML 平台方必读。（官方 · OpenAI · 原题 Securing our frontier model training environment）</description>
+    <guid isPermaLink="false">openai.com/index/securing-our-frontier-model-training-environment-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>前沿实验室首次系统讲训练环境安全，模型安全从业者的必读基线。（官方 · OpenAI · 原题 Securing our frontier model training environment）</description>
   </item>
   <item>
-    <title>LitPivot：用动态语境化在文献中找研究选题</title>
+    <title>Scrawl：把问题直接展示给 agent</title>
+    <link>https://scrawl.kitlangton.com/</link>
+    <guid isPermaLink="false">scrawl.kitlangton.com-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>换一种 agent 交互范式，提示工程之外值得试的工程思路。（社区 · Lobste.rs · 原题 Scrawl: show an agent the problem）</description>
+  </item>
+  <item>
+    <title>Next-Concept Modeling：快速并行的由粗到细文本生成</title>
+    <link>https://arxiv.org/abs/2610.14162</link>
+    <guid isPermaLink="false">arxiv.org/abs/2610.14162-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>并行解码新路线，关注推理加速与生成质量权衡的人可跟进。（社区 · Lobste.rs · 原题 Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation）</description>
+  </item>
+  <item>
+    <title>Kimi K3.1 Pro 与 K3.1 Pro Highspeed 发布</title>
+    <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
+    <guid isPermaLink="false">kimi.ai/blog/kimi-k3-1-pro-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>国产模型新版本上线，选型与 benchmark 对比的第一手信号。（社区 · Hacker News · 原题 Kimi K3.1 Pro and K3.1 Pro Highspeed）</description>
+  </item>
+  <item>
+    <title>LitPivot：在文献版图中动态语境化研究想法</title>
     <link>https://huggingface.co/blog/allenai/litpivot</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/litpivot-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>把文献综述变成选题工具，科研 AI 产品思路可复用。（博客 · Hugging Face · 原题 LitPivot: Developing research ideas through dynamic contextualization within the literature landscape）</description>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/litpivot-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>用 AI 定位研究空白，科研工具与 RAG 应用的可借鉴设计。（博客 · Hugging Face · 原题 LitPivot: Developing research ideas through dynamic contextualization within the literature landscape）</description>
   </item>
   <item>
     <title>OpenAI 与波兰 NASK 合作推进 AI 安全</title>
     <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-    <guid isPermaLink="false">openai.com/index/openai-nask-ai-safety-security-partnership-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>国家级安全合作样本，看监管落地与合规路径。（官方 · OpenAI · 原题 OpenAI and Poland’s NASK partner to advance AI safety and security）</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 Pro 与 Highspeed 版本现身</title>
-    <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
-    <guid isPermaLink="false">kimi.ai/blog/kimi-k3-1-pro-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>国产模型新版本动向，关注推理与速度取舍的读者必看。（社区 · Hacker News · 原题 Kimi K3.1 Pro and K3.1 Pro Highspeed）</description>
+    <guid isPermaLink="false">openai.com/index/openai-nask-ai-safety-security-partnership-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>政府级 AI 安全合作样本，看监管落地与合规路径的实际走向。（官方 · OpenAI · 原题 OpenAI and Poland’s NASK partner to advance AI safety and security）</description>
   </item>
   <item>
     <title>Simon Willison 实测 Kimi K3.1 Pro</title>
     <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/23/kimi-k31-pro-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>可信第三方上手评测，比官方 benchmark 更接近真实体感。（博客 · Simon Willison · 原题 Introducing Kimi K3.1 Pro）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/23/kimi-k31-pro-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>可信第三方上手评测，比官方 benchmark 更接近真实使用体感。（博客 · Simon Willison · 原题 Introducing Kimi K3.1 Pro）</description>
   </item>
   <item>
-    <title>HN 讨论：模型这么强，OpenAI 为何不直接开 100 家公司</title>
-    <link>https://news.ycombinator.com/item?id=50200997</link>
-    <guid isPermaLink="false">news.ycombinator.com/item-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>一线从业者对模型能力边界的真实争论，值得一读。（社区 · Hacker News · 原题 Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?）</description>
-  </item>
-  <item>
-    <title>DeepMind 绘制全球森林类型地图</title>
+    <title>DeepMind 绘制全球森林类型地图，超越树冠覆盖</title>
     <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
-    <guid isPermaLink="false">deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>超越树冠覆盖的遥感建模，地球观测 AI 应用新范例。（官方 · DeepMind · 原题 Beyond tree cover: mapping the world’s forest types）</description>
-  </item>
-  <item>
-    <title>你的模型能在 AWS Trainium 上跑吗？查一下</title>
-    <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-    <guid isPermaLink="false">huggingface.co/blog/torch-neuronx-model-support-2026-10-24</guid>
-    <pubDate>Sat, 24 Oct 2026 02:18:07 GMT</pubDate>
-    <description>低成本替代算力的适配查询工具，降本选型可直接用。（博客 · Hugging Face · 原题 Does Your Model Run on AWS Trainium? Look It Up）</description>
+    <guid isPermaLink="false">deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types-2026-10-25</guid>
+    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
+    <description>遥感加 AI 的环境监测新粒度，地球观测应用的具体范例。（官方 · DeepMind · 原题 Beyond tree cover: mapping the world’s forest types）</description>
   </item>
 </channel>
 </rss>
