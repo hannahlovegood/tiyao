@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 25 Oct 2026 02:04:58 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 02:06:05 GMT</lastBuildDate>
   <item>
-    <title>Cloudflare 开源 security-audit-skill：多阶段安全审计 agent 技能</title>
+    <title>Cloudflare 开源 coding-agent 安全审计技能</title>
     <link>https://github.com/cloudflare/security-audit-skill</link>
-    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>给 coding agent 装上可验证、机器可读的审计流程，安全落地有了现成参考。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>多阶段审计、机器可读结论，可直接接入 agent 流水线。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
   </item>
   <item>
-    <title>OpenAI 如何把在线存储扩展到 10 亿 ChatGPT 用户（下）</title>
+    <title>OpenAI 如何为 10 亿 ChatGPT 用户扩容在线存储</title>
     <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-    <guid isPermaLink="false">openai.com/index/scaling-storage-one-billion-users-part-two-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>一线超大规模存储架构细节，做基础设施和成本优化的人值得细读。（官方 · OpenAI · 原题 Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)）</description>
+    <guid isPermaLink="false">openai.com/index/scaling-storage-one-billion-users-part-two-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>超大规模存储架构一手细节，做基础设施的值得细读。（官方 · OpenAI · 原题 Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)）</description>
   </item>
   <item>
     <title>OpenAI 披露前沿模型训练环境的安全防护</title>
     <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-    <guid isPermaLink="false">openai.com/index/securing-our-frontier-model-training-environment-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>前沿实验室首次系统讲训练环境安全，模型安全从业者的必读基线。（官方 · OpenAI · 原题 Securing our frontier model training environment）</description>
+    <guid isPermaLink="false">openai.com/index/securing-our-frontier-model-training-environment-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>前沿实验室如何防训练环境被攻破，安全从业者必看。（官方 · OpenAI · 原题 Securing our frontier model training environment）</description>
   </item>
   <item>
-    <title>Scrawl：把问题直接展示给 agent</title>
-    <link>https://scrawl.kitlangton.com/</link>
-    <guid isPermaLink="false">scrawl.kitlangton.com-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>换一种 agent 交互范式，提示工程之外值得试的工程思路。（社区 · Lobste.rs · 原题 Scrawl: show an agent the problem）</description>
-  </item>
-  <item>
-    <title>Next-Concept Modeling：快速并行的由粗到细文本生成</title>
-    <link>https://arxiv.org/abs/2610.14162</link>
-    <guid isPermaLink="false">arxiv.org/abs/2610.14162-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>并行解码新路线，关注推理加速与生成质量权衡的人可跟进。（社区 · Lobste.rs · 原题 Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation）</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 Pro 与 K3.1 Pro Highspeed 发布</title>
-    <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
-    <guid isPermaLink="false">kimi.ai/blog/kimi-k3-1-pro-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>国产模型新版本上线，选型与 benchmark 对比的第一手信号。（社区 · Hacker News · 原题 Kimi K3.1 Pro and K3.1 Pro Highspeed）</description>
-  </item>
-  <item>
-    <title>LitPivot：在文献版图中动态语境化研究想法</title>
+    <title>LitPivot：在文献版图中动态定位研究想法</title>
     <link>https://huggingface.co/blog/allenai/litpivot</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/litpivot-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>用 AI 定位研究空白，科研工具与 RAG 应用的可借鉴设计。（博客 · Hugging Face · 原题 LitPivot: Developing research ideas through dynamic contextualization within the literature landscape）</description>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/litpivot-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>把文献综述变成可交互的选题工具，科研 AI 有新范式。（博客 · Hugging Face · 原题 LitPivot: Developing research ideas through dynamic contextualization within the literature landscape）</description>
   </item>
   <item>
-    <title>OpenAI 与波兰 NASK 合作推进 AI 安全</title>
-    <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-    <guid isPermaLink="false">openai.com/index/openai-nask-ai-safety-security-partnership-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>政府级 AI 安全合作样本，看监管落地与合规路径的实际走向。（官方 · OpenAI · 原题 OpenAI and Poland’s NASK partner to advance AI safety and security）</description>
-  </item>
-  <item>
-    <title>Simon Willison 实测 Kimi K3.1 Pro</title>
+    <title>Simon Willison 评测 Kimi K3.1 Pro</title>
     <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/23/kimi-k31-pro-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>可信第三方上手评测，比官方 benchmark 更接近真实使用体感。（博客 · Simon Willison · 原题 Introducing Kimi K3.1 Pro）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/23/kimi-k31-pro-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>一线开发者实测国产模型，判断是否值得接入的参考。（博客 · Simon Willison · 原题 Introducing Kimi K3.1 Pro）</description>
   </item>
   <item>
-    <title>DeepMind 绘制全球森林类型地图，超越树冠覆盖</title>
-    <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
-    <guid isPermaLink="false">deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types-2026-10-25</guid>
-    <pubDate>Sun, 25 Oct 2026 02:04:58 GMT</pubDate>
-    <description>遥感加 AI 的环境监测新粒度，地球观测应用的具体范例。（官方 · DeepMind · 原题 Beyond tree cover: mapping the world’s forest types）</description>
+    <title>Next-Concept Modeling：快速并行的粗到细文本生成</title>
+    <link>https://arxiv.org/abs/2610.14162</link>
+    <guid isPermaLink="false">arxiv.org/abs/2610.14162-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>绕开逐 token 解码的并行生成思路，推理加速新方向。（社区 · Lobste.rs · 原题 Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation）</description>
+  </item>
+  <item>
+    <title>Kimi K3.1 Pro 及 Highspeed 版本引发热议</title>
+    <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
+    <guid isPermaLink="false">kimi.ai/blog/kimi-k3-1-pro-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>社区真实反馈与速度版差异，选型前看口碑再决定。（社区 · Hacker News · 原题 Kimi K3.1 Pro and K3.1 Pro Highspeed）</description>
+  </item>
+  <item>
+    <title>hallmark：对抗 AI 味设计的 Claude Code 技能</title>
+    <link>https://github.com/Nutlope/hallmark</link>
+    <guid isPermaLink="false">github.com/Nutlope/hallmark-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>直接治「AI 生成感」的提示技能，前端与产品可即用。（开源 · GitHub · 原题 Nutlope/hallmark）</description>
+  </item>
+  <item>
+    <title>impeccable：让 AI harness 更懂设计的语言规范</title>
+    <link>https://github.com/pbakaus/impeccable</link>
+    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>把设计约束前置到 harness 层，提升生成 UI 的稳定性。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
+  </item>
+  <item>
+    <title>十年前的老 CNN 在皮肤癌诊断上胜过前沿 LLM</title>
+    <link>https://lynchlab.net/llm-skin-cancer</link>
+    <guid isPermaLink="false">lynchlab.net/llm-skin-cancer-2026-10-26</guid>
+    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
+    <description>提醒垂直任务上专用小模型仍占优，别盲目上大模型。（社区 · Hacker News · 原题 A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis）</description>
   </item>
 </channel>
 </rss>
