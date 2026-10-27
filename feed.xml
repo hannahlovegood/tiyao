@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 26 Oct 2026 02:06:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 02:43:14 GMT</lastBuildDate>
   <item>
-    <title>Cloudflare 开源 coding-agent 安全审计技能</title>
-    <link>https://github.com/cloudflare/security-audit-skill</link>
-    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>多阶段审计、机器可读结论，可直接接入 agent 流水线。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
-  </item>
-  <item>
-    <title>OpenAI 如何为 10 亿 ChatGPT 用户扩容在线存储</title>
-    <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-    <guid isPermaLink="false">openai.com/index/scaling-storage-one-billion-users-part-two-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>超大规模存储架构一手细节，做基础设施的值得细读。（官方 · OpenAI · 原题 Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)）</description>
-  </item>
-  <item>
-    <title>OpenAI 披露前沿模型训练环境的安全防护</title>
-    <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-    <guid isPermaLink="false">openai.com/index/securing-our-frontier-model-training-environment-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>前沿实验室如何防训练环境被攻破，安全从业者必看。（官方 · OpenAI · 原题 Securing our frontier model training environment）</description>
-  </item>
-  <item>
-    <title>LitPivot：在文献版图中动态定位研究想法</title>
-    <link>https://huggingface.co/blog/allenai/litpivot</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/litpivot-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>把文献综述变成可交互的选题工具，科研 AI 有新范式。（博客 · Hugging Face · 原题 LitPivot: Developing research ideas through dynamic contextualization within the literature landscape）</description>
-  </item>
-  <item>
-    <title>Simon Willison 评测 Kimi K3.1 Pro</title>
-    <link>https://simonwillison.net/2026/Oct/23/kimi-k31-pro/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/23/kimi-k31-pro-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>一线开发者实测国产模型，判断是否值得接入的参考。（博客 · Simon Willison · 原题 Introducing Kimi K3.1 Pro）</description>
-  </item>
-  <item>
-    <title>Next-Concept Modeling：快速并行的粗到细文本生成</title>
-    <link>https://arxiv.org/abs/2610.14162</link>
-    <guid isPermaLink="false">arxiv.org/abs/2610.14162-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>绕开逐 token 解码的并行生成思路，推理加速新方向。（社区 · Lobste.rs · 原题 Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation）</description>
-  </item>
-  <item>
-    <title>Kimi K3.1 Pro 及 Highspeed 版本引发热议</title>
-    <link>https://www.kimi.ai/blog/kimi-k3-1-pro</link>
-    <guid isPermaLink="false">kimi.ai/blog/kimi-k3-1-pro-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>社区真实反馈与速度版差异，选型前看口碑再决定。（社区 · Hacker News · 原题 Kimi K3.1 Pro and K3.1 Pro Highspeed）</description>
-  </item>
-  <item>
-    <title>hallmark：对抗 AI 味设计的 Claude Code 技能</title>
+    <title>Nutlope 开源 hallmark：为 Claude Code 等注入反 AI 味设计技能</title>
     <link>https://github.com/Nutlope/hallmark</link>
-    <guid isPermaLink="false">github.com/Nutlope/hallmark-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>直接治「AI 生成感」的提示技能，前端与产品可即用。（开源 · GitHub · 原题 Nutlope/hallmark）</description>
+    <guid isPermaLink="false">github.com/Nutlope/hallmark-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>直击 AI 生成界面千篇一律的痛点，前端与 Agent 开发者可直接复用。（开源 · GitHub · 原题 Nutlope/hallmark）</description>
   </item>
   <item>
-    <title>impeccable：让 AI harness 更懂设计的语言规范</title>
+    <title>Greptile 借 GPT-6 Astra 将缺陷检测拓展至代码评审之外</title>
+    <link>https://openai.com/index/greptile-code-review-codex-astra</link>
+    <guid isPermaLink="false">openai.com/index/greptile-code-review-codex-astra-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>展示模型能力如何重塑代码质量工具边界，值得工程团队评估替代方案。（官方 · OpenAI · 原题 Greptile takes bug detection beyond code review with GPT-6 Astra）</description>
+  </item>
+  <item>
+    <title>OpenAI 携手学术社区共建科学理解</title>
+    <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
+    <guid isPermaLink="false">openai.com/index/building-scientific-understanding-with-academic-communities-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>透露 OpenAI 学术合作路径，研究者可关注申请入口与资源倾斜方向。（官方 · OpenAI · 原题 Working with academic communities to build scientific understanding）</description>
+  </item>
+  <item>
+    <title>GPT-6.1 Sol 助 CodeRabbit 强化复杂代码库安全</title>
+    <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
+    <guid isPermaLink="false">openai.com/index/gpt-6-1-sol-coderabbit-code-security-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>安全审查是 AI 编码落地的关键卡点，此案例给出可参考的集成范式。（官方 · OpenAI · 原题 GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases）</description>
+  </item>
+  <item>
+    <title>Google 新 AI Quest：绘制人脑图谱</title>
+    <link>https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/education/ai-quests-polar-peaks-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>神经科学与 AI 交叉的官方投入信号，关注多模态与脑启发架构者可跟踪。（官方 · Google AI · 原题 Our newest AI Quest: Mapping the human brain）</description>
+  </item>
+  <item>
+    <title>Simon Willison 实测 GPT-6.1 Terra</title>
+    <link>https://simonwillison.net/2026/Oct/26/gpt-61-terra/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/26/gpt-61-terra-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>一线开发者的独立评测，比官方 benchmark 更能反映真实可用性差异。（博客 · Simon Willison · 原题 GPT-6.1 Terra）</description>
+  </item>
+  <item>
+    <title>Anthropic 向 SEC 提交 S-1 启动 IPO</title>
+    <link>https://www.anthropic.com/news/s1-sec</link>
+    <guid isPermaLink="false">anthropic.com/news/s1-sec-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>头部模型公司资本化里程碑，影响行业估值锚点与人才、算力竞争格局。（官方 · Anthropic · 原题 Anthropic files S-1 with the SEC for proposed initial public offering）</description>
+  </item>
+  <item>
+    <title>OpenAI 与 Anthropic 数月内 LLM 降价最高 80%，原因何在</title>
+    <link>https://minimaxir.com/2026/10/cheap-llms/</link>
+    <guid isPermaLink="false">minimaxir.com/2026/10/cheap-llms-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>价格战直接改变应用成本结构，创业者需重算单位经济与护城河。（社区 · Hacker News · 原题 OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?）</description>
+  </item>
+  <item>
+    <title>impeccable 开源：让 AI harness 更懂设计的语言规范</title>
     <link>https://github.com/pbakaus/impeccable</link>
-    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>把设计约束前置到 harness 层，提升生成 UI 的稳定性。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
+    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>把设计约束前置到 Agent 层，是提升生成质量的可复用工程思路。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
   </item>
   <item>
-    <title>十年前的老 CNN 在皮肤癌诊断上胜过前沿 LLM</title>
-    <link>https://lynchlab.net/llm-skin-cancer</link>
-    <guid isPermaLink="false">lynchlab.net/llm-skin-cancer-2026-10-26</guid>
-    <pubDate>Mon, 26 Oct 2026 02:06:05 GMT</pubDate>
-    <description>提醒垂直任务上专用小模型仍占优，别盲目上大模型。（社区 · Hacker News · 原题 A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis）</description>
+    <title>TradingAgents 开源多智能体 LLM 金融交易框架</title>
+    <link>https://github.com/TauricResearch/TradingAgents</link>
+    <guid isPermaLink="false">github.com/TauricResearch/TradingAgents-2026-10-27</guid>
+    <pubDate>Tue, 27 Oct 2026 02:43:14 GMT</pubDate>
+    <description>多 Agent 协作在金融场景的完整实现，量化与 Agent 开发者可直接借鉴。（开源 · GitHub · 原题 TauricResearch/TradingAgents）</description>
   </item>
 </channel>
 </rss>
