@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 28 Oct 2026 02:52:02 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 03:15:24 GMT</lastBuildDate>
   <item>
-    <title>Hallmark：为 Claude Code 等打造的反 AI 味设计技能</title>
+    <title>elayadesign/ai-design-skills 开源设计技能库</title>
+    <link>https://github.com/elayadesign/ai-design-skills</link>
+    <guid isPermaLink="false">github.com/elayadesign/ai-design-skills-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>可直接复用的AI设计技能集，省去从零搭建提示词与工作流。（开源 · GitHub · 原题 elayadesign/ai-design-skills）</description>
+  </item>
+  <item>
+    <title>Hallmark：对抗AI味设计的Claude Code技能</title>
     <link>https://github.com/Nutlope/hallmark</link>
-    <guid isPermaLink="false">github.com/Nutlope/hallmark-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>开源提示词工程，直击 AI 生成设计同质化痛点，可即插即用。（开源 · GitHub · 原题 Nutlope/hallmark）</description>
+    <guid isPermaLink="false">github.com/Nutlope/hallmark-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>专治AI生成界面千篇一律，给编码代理加一层审美约束。（开源 · GitHub · 原题 Nutlope/hallmark）</description>
   </item>
   <item>
-    <title>Anthropic 被指用非法获取的斯坦福教授书籍训练 Claude</title>
-    <link>https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</link>
-    <guid isPermaLink="false">stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>版权诉讼风向标，训练数据合规风险再成焦点。（社区 · Hacker News · 原题 Anthropic trained Claude on illegally obtained Stanford professors' books）</description>
+    <title>Gemini 4 Carbon 引发社区热议</title>
+    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>新模型在HN的实测反馈，比官方benchmark更接近真实体感。（社区 · Hacker News · 原题 Gemini 4 Carbon）</description>
   </item>
   <item>
-    <title>Retell 借 OpenAI 模型支撑每月 1 亿通电话</title>
-    <link>https://openai.com/index/retell-ai</link>
-    <guid isPermaLink="false">openai.com/index/retell-ai-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>语音 Agent 规模化落地样本，看真实调用量级与成本结构。（官方 · OpenAI · 原题 Retell uses OpenAI models to help power 100M monthly calls）</description>
+    <title>OpenAI 与 ServiceNow 扩大企业工作流合作</title>
+    <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
+    <guid isPermaLink="false">openai.com/index/openai-servicenow-partnership-expansion-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>看清AI落地企业系统的真实路径与渠道分成格局。（官方 · OpenAI · 原题 OpenAI and ServiceNow expand partnership across enterprise workflows）</description>
   </item>
   <item>
-    <title>DeepMind 发布 Genie 4：新一代世界模拟模型</title>
-    <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
-    <guid isPermaLink="false">deepmind.google/blog/genie-4-a-new-generation-of-world-simulation-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>世界模型迭代，关乎具身智能与交互式内容生成路线。（官方 · DeepMind · 原题 Genie 4: A new generation of world simulation）</description>
+    <title>DeepMind 发布下一代前沿模型 Gemini 4 Carbon</title>
+    <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-4-carbon-our-next-frontier-model-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>前沿模型能力边界再移动，直接决定产品上限与成本曲线。（官方 · DeepMind · 原题 Gemini 4 Carbon: Our next frontier model）</description>
   </item>
   <item>
-    <title>OpenAI 扩大与 Oracle 合作，应用接入 ChatGPT</title>
-    <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
-    <guid isPermaLink="false">openai.com/index/oracle-apps-in-chatgpt-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>企业软件入口争夺战，ChatGPT 正变成分发平台。（官方 · OpenAI · 原题 OpenAI expands partnership with Oracle to bring its apps to ChatGPT）</description>
+    <title>OpenAI 谈公司组织的未来形态</title>
+    <link>https://openai.com/index/the-future-of-the-firm</link>
+    <guid isPermaLink="false">openai.com/index/the-future-of-the-firm-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>官方视角的AI原生组织论，影响团队编制与协作设计。（官方 · OpenAI · 原题 The future of the firm）</description>
   </item>
   <item>
-    <title>用 LFM3 构建专用多模态模型</title>
-    <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
-    <guid isPermaLink="false">huggingface.co/blog/LiquidAI/lfm3-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>小模型定制化实操指南，适合垂直场景落地参考。（博客 · Hugging Face · 原题 Build specialized multimodal models with LFM3）</description>
+    <title>Legora 为法律工作构建代理式操作系统</title>
+    <link>https://openai.com/index/legora</link>
+    <guid isPermaLink="false">openai.com/index/legora-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>垂直Agent落地法律的高价值样本，可迁移到其他专业服务。（官方 · OpenAI · 原题 Legora is building the agentic operating system for legal work）</description>
   </item>
   <item>
-    <title>LLM 能可信地评判研究想法的新颖性吗？</title>
-    <link>https://huggingface.co/blog/allenai/novelty-bench</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/novelty-bench-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>AI 审稿与科研评估的可靠性边界，值得研究者警惕。（博客 · Hugging Face · 原题 Can we trust LLMs to judge whether a research idea is novel?）</description>
+    <title>基准测试的信任危机</title>
+    <link>http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html</link>
+    <guid isPermaLink="false">databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>模型评测失真已成共识，读榜前先读这篇再下结论。（社区 · Lobste.rs · 原题 The Benchmarking Crisis）</description>
   </item>
   <item>
-    <title>Anthropic 用 Claude 加速药物研发的早期进展</title>
-    <link>https://www.anthropic.com/research/early-progress-drug-development</link>
-    <guid isPermaLink="false">anthropic.com/research/early-progress-drug-development-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>AI for Science 从演示走向管线，看真实研发提效证据。（官方 · Anthropic + Hacker News · 原题 Early progress on accelerating drug development with Claude）</description>
+    <title>Anthropic 将 AI for Science 扩展至基金会与科研机构</title>
+    <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
+    <guid isPermaLink="false">anthropic.com/news/ai-for-science-expands-foundations-research-institutions-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>科研侧资源与准入放开，是找合作与申请支持的窗口。（官方 · Anthropic · 原题 AI for Science expands to foundations and research institutions）</description>
   </item>
   <item>
-    <title>Anthropic 扩大与 GSA 合作，将 Claude 推向各级政府</title>
-    <link>https://www.anthropic.com/news/expanding-partnership-gsa</link>
-    <guid isPermaLink="false">anthropic.com/news/expanding-partnership-gsa-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>政府采购通道打开，公共部门 AI 合规落地信号。（官方 · Anthropic + Hacker News · 原题 Expanding our partnership with GSA to bring Claude to all levels of government）</description>
-  </item>
-  <item>
-    <title>Check Point 如何用 Daybreak 加速漏洞研究</title>
-    <link>https://openai.com/index/check-point-daybreak</link>
-    <guid isPermaLink="false">openai.com/index/check-point-daybreak-2026-10-28</guid>
-    <pubDate>Wed, 28 Oct 2026 02:52:02 GMT</pubDate>
-    <description>安全团队用 AI 做漏洞挖掘的一线案例，攻防效率参考。（官方 · OpenAI · 原题 How Check Point accelerates vulnerability research with Daybreak）</description>
+    <title>NVIDIA Nemotron 3.5 Transcribe 与 Granary v2 发布</title>
+    <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/nemotron-transcribe-granary-2026-10-29</guid>
+    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
+    <description>可提示、可适配的多语转写，直接改善语音产品落地效果。（博客 · Hugging Face · 原题 NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt）</description>
   </item>
 </channel>
 </rss>
