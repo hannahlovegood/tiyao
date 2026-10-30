@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 29 Oct 2026 03:15:24 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 03:17:58 GMT</lastBuildDate>
   <item>
-    <title>elayadesign/ai-design-skills 开源设计技能库</title>
-    <link>https://github.com/elayadesign/ai-design-skills</link>
-    <guid isPermaLink="false">github.com/elayadesign/ai-design-skills-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>可直接复用的AI设计技能集，省去从零搭建提示词与工作流。（开源 · GitHub · 原题 elayadesign/ai-design-skills）</description>
+    <title>impeccable：给编码 agent 的设计词汇表</title>
+    <link>https://github.com/pbakaus/impeccable</link>
+    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>用统一术语指挥 AI 做设计，减少返工与「AI 味」产出。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
   </item>
   <item>
-    <title>Hallmark：对抗AI味设计的Claude Code技能</title>
-    <link>https://github.com/Nutlope/hallmark</link>
-    <guid isPermaLink="false">github.com/Nutlope/hallmark-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>专治AI生成界面千篇一律，给编码代理加一层审美约束。（开源 · GitHub · 原题 Nutlope/hallmark）</description>
+    <title>OpenAI 更新 Model Spec，强化能力与有益性</title>
+    <link>https://openai.com/index/updated-model-spec</link>
+    <guid isPermaLink="false">openai.com/index/updated-model-spec-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>模型行为规范再修订，直接影响产品对齐与合规策略。（官方 · OpenAI · 原题 An updated Model Spec for more capable and beneficial AI）</description>
   </item>
   <item>
-    <title>Gemini 4 Carbon 引发社区热议</title>
-    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>新模型在HN的实测反馈，比官方benchmark更接近真实体感。（社区 · Hacker News · 原题 Gemini 4 Carbon）</description>
+    <title>OpenAI 如何检测前沿模型失准</title>
+    <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+    <guid isPermaLink="false">openai.com/index/how-we-detect-frontier-model-misalignment-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>披露失准检测方法，为模型安全评估提供可复用思路。（官方 · OpenAI · 原题 How we detect frontier model misalignment）</description>
   </item>
   <item>
-    <title>OpenAI 与 ServiceNow 扩大企业工作流合作</title>
-    <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-    <guid isPermaLink="false">openai.com/index/openai-servicenow-partnership-expansion-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>看清AI落地企业系统的真实路径与渠道分成格局。（官方 · OpenAI · 原题 OpenAI and ServiceNow expand partnership across enterprise workflows）</description>
+    <title>Ropes &amp; Gray 用 AI 做交易尽职调查</title>
+    <link>https://openai.com/index/ropes-gray-ai-diligence</link>
+    <guid isPermaLink="false">openai.com/index/ropes-gray-ai-diligence-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>律所落地案例，展示专业服务场景的 AI 工程细节。（官方 · OpenAI · 原题 How Ropes &amp; Gray is developing AI for transactional diligence）</description>
   </item>
   <item>
-    <title>DeepMind 发布下一代前沿模型 Gemini 4 Carbon</title>
+    <title>Qwenputer：在 Qwen3.5 内跑确定性 RISC-V CPU</title>
+    <link>https://divagr.com/blog/qwenputer</link>
+    <guid isPermaLink="false">divagr.com/blog/qwenputer-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>极端创意验证 LLM 可执行逻辑，启发新型计算范式探索。（社区 · Lobste.rs · 原题 Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5）</description>
+  </item>
+  <item>
+    <title>ChatGPT 订阅可获 API 额度</title>
+    <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/29/api-credits-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>订阅与 API 打通，改变开发者成本结构与调用方式。（博客 · Simon Willison · 原题 API credits benefit for eligible ChatGPT subscriptions）</description>
+  </item>
+  <item>
+    <title>Granite Switch 4.1.1：像更新软件一样更新模型</title>
+    <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-granite/granite-switch-4-1-1-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>模型版本管理思路，降低生产环境升级与回滚成本。（博客 · Hugging Face · 原题 Granite Switch 4.1.1 — Update models like you update software）</description>
+  </item>
+  <item>
+    <title>Gemini 4 Carbon：下一代前沿模型发布</title>
     <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-    <guid isPermaLink="false">deepmind.google/blog/gemini-4-carbon-our-next-frontier-model-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>前沿模型能力边界再移动，直接决定产品上限与成本曲线。（官方 · DeepMind · 原题 Gemini 4 Carbon: Our next frontier model）</description>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-4-carbon-our-next-frontier-model-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>新旗舰登场，基准与能力变化牵动选型与竞争格局。（官方 · DeepMind · 原题 Gemini 4 Carbon: Our next frontier model）</description>
   </item>
   <item>
-    <title>OpenAI 谈公司组织的未来形态</title>
-    <link>https://openai.com/index/the-future-of-the-firm</link>
-    <guid isPermaLink="false">openai.com/index/the-future-of-the-firm-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>官方视角的AI原生组织论，影响团队编制与协作设计。（官方 · OpenAI · 原题 The future of the firm）</description>
+    <title>Project ProtoStar：让公共资助科研 AI 就绪</title>
+    <link>https://huggingface.co/blog/announcing-project-protostar</link>
+    <guid isPermaLink="false">huggingface.co/blog/announcing-project-protostar-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>科研数据与模型基建项目，影响开放科学生态供给。（博客 · Hugging Face · 原题 Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready）</description>
   </item>
   <item>
-    <title>Legora 为法律工作构建代理式操作系统</title>
-    <link>https://openai.com/index/legora</link>
-    <guid isPermaLink="false">openai.com/index/legora-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>垂直Agent落地法律的高价值样本，可迁移到其他专业服务。（官方 · OpenAI · 原题 Legora is building the agentic operating system for legal work）</description>
-  </item>
-  <item>
-    <title>基准测试的信任危机</title>
-    <link>http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html</link>
-    <guid isPermaLink="false">databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>模型评测失真已成共识，读榜前先读这篇再下结论。（社区 · Lobste.rs · 原题 The Benchmarking Crisis）</description>
-  </item>
-  <item>
-    <title>Anthropic 将 AI for Science 扩展至基金会与科研机构</title>
-    <link>https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions</link>
-    <guid isPermaLink="false">anthropic.com/news/ai-for-science-expands-foundations-research-institutions-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>科研侧资源与准入放开，是找合作与申请支持的窗口。（官方 · Anthropic · 原题 AI for Science expands to foundations and research institutions）</description>
-  </item>
-  <item>
-    <title>NVIDIA Nemotron 3.5 Transcribe 与 Granary v2 发布</title>
-    <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/nemotron-transcribe-granary-2026-10-29</guid>
-    <pubDate>Thu, 29 Oct 2026 03:15:24 GMT</pubDate>
-    <description>可提示、可适配的多语转写，直接改善语音产品落地效果。（博客 · Hugging Face · 原题 NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt）</description>
+    <title>Le Chonk 登场：Mistral Large 4 上线 Hugging Face</title>
+    <link>https://huggingface.co/blog/mistral-large4</link>
+    <guid isPermaLink="false">huggingface.co/blog/mistral-large4-2026-10-30</guid>
+    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <description>新大模型即取即用，欧洲开源阵营再添可选方案。（博客 · Hugging Face · 原题 Welcome Le Chonk: Mistral Large 4 on Hugging Face）</description>
   </item>
 </channel>
 </rss>
