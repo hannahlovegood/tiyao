@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 30 Oct 2026 03:17:58 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 03:01:32 GMT</lastBuildDate>
   <item>
-    <title>impeccable：给编码 agent 的设计词汇表</title>
+    <title>impeccable：给编码 Agent 的设计词汇表</title>
     <link>https://github.com/pbakaus/impeccable</link>
-    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
+    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
     <description>用统一术语指挥 AI 做设计，减少返工与「AI 味」产出。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
   </item>
   <item>
-    <title>OpenAI 更新 Model Spec，强化能力与有益性</title>
-    <link>https://openai.com/index/updated-model-spec</link>
-    <guid isPermaLink="false">openai.com/index/updated-model-spec-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
-    <description>模型行为规范再修订，直接影响产品对齐与合规策略。（官方 · OpenAI · 原题 An updated Model Spec for more capable and beneficial AI）</description>
+    <title>OpenAI 让网站更易表达 AI 训练偏好</title>
+    <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
+    <guid isPermaLink="false">openai.com/index/helping-websites-express-ai-training-preferences-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
+    <description>训练数据合规风向标，内容方与模型方博弈的新接口。（官方 · OpenAI · 原题 Making it easier for websites to express AI training preferences）</description>
   </item>
   <item>
-    <title>OpenAI 如何检测前沿模型失准</title>
-    <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
-    <guid isPermaLink="false">openai.com/index/how-we-detect-frontier-model-misalignment-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
-    <description>披露失准检测方法，为模型安全评估提供可复用思路。（官方 · OpenAI · 原题 How we detect frontier model misalignment）</description>
+    <title>OpenAI 社区安全报告与青少年新保护</title>
+    <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+    <guid isPermaLink="false">openai.com/index/community-safety-report-and-new-protections-for-teens-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
+    <description>面向未成年人的产品合规要点，直接影响应用上线策略。（官方 · OpenAI · 原题 Community safety report and new protections for teens）</description>
   </item>
   <item>
-    <title>Ropes &amp; Gray 用 AI 做交易尽职调查</title>
-    <link>https://openai.com/index/ropes-gray-ai-diligence</link>
-    <guid isPermaLink="false">openai.com/index/ropes-gray-ai-diligence-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
-    <description>律所落地案例，展示专业服务场景的 AI 工程细节。（官方 · OpenAI · 原题 How Ropes &amp; Gray is developing AI for transactional diligence）</description>
+    <title>Hugging Face 上线 nemotron-halloween</title>
+    <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/nemotron-halloween-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
+    <description>万圣节主题模型玩法，可看小团队创意微调的路数。（博客 · Hugging Face · 原题 nemotron-halloween）</description>
   </item>
   <item>
-    <title>Qwenputer：在 Qwen3.5 内跑确定性 RISC-V CPU</title>
-    <link>https://divagr.com/blog/qwenputer</link>
-    <guid isPermaLink="false">divagr.com/blog/qwenputer-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
-    <description>极端创意验证 LLM 可执行逻辑，启发新型计算范式探索。（社区 · Lobste.rs · 原题 Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5）</description>
+    <title>OpenAI 谈合理使用：为何惠及所有人</title>
+    <link>https://openai.com/index/fair-use-benefits-everyone</link>
+    <guid isPermaLink="false">openai.com/index/fair-use-benefits-everyone-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
+    <description>理解其版权立场，预判训练数据诉讼与授权走向。（官方 · OpenAI · 原题 Fair use benefits everyone）</description>
   </item>
   <item>
-    <title>ChatGPT 订阅可获 API 额度</title>
+    <title>ChatGPT 付费订阅可获 API 额度</title>
     <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/29/api-credits-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
-    <description>订阅与 API 打通，改变开发者成本结构与调用方式。（博客 · Simon Willison · 原题 API credits benefit for eligible ChatGPT subscriptions）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/29/api-credits-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
+    <description>订阅与 API 打通，开发者成本结构可能因此改变。（博客 · Simon Willison · 原题 API credits benefit for eligible ChatGPT subscriptions）</description>
   </item>
   <item>
     <title>Granite Switch 4.1.1：像更新软件一样更新模型</title>
     <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-granite/granite-switch-4-1-1-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
-    <description>模型版本管理思路，降低生产环境升级与回滚成本。（博客 · Hugging Face · 原题 Granite Switch 4.1.1 — Update models like you update software）</description>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-granite/granite-switch-4-1-1-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
+    <description>模型版本化交付思路，值得借鉴到自有模型运维。（博客 · Hugging Face · 原题 Granite Switch 4.1.1 — Update models like you update software）</description>
   </item>
   <item>
-    <title>Gemini 4 Carbon：下一代前沿模型发布</title>
+    <title>superpowers：可落地的 Agent 技能框架与方法论</title>
+    <link>https://github.com/obra/superpowers</link>
+    <guid isPermaLink="false">github.com/obra/superpowers-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
+    <description>把 Agent 开发流程工程化，适合直接对照落地。（开源 · GitHub · 原题 obra/superpowers）</description>
+  </item>
+  <item>
+    <title>DeepMind 发布下一代前沿模型 Gemini 4 Carbon</title>
     <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-    <guid isPermaLink="false">deepmind.google/blog/gemini-4-carbon-our-next-frontier-model-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
-    <description>新旗舰登场，基准与能力变化牵动选型与竞争格局。（官方 · DeepMind · 原题 Gemini 4 Carbon: Our next frontier model）</description>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-4-carbon-our-next-frontier-model-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
+    <description>前沿能力与碳排权衡，影响选型与算力成本判断。（官方 · DeepMind · 原题 Gemini 4 Carbon: Our next frontier model）</description>
   </item>
   <item>
     <title>Project ProtoStar：让公共资助科研 AI 就绪</title>
     <link>https://huggingface.co/blog/announcing-project-protostar</link>
-    <guid isPermaLink="false">huggingface.co/blog/announcing-project-protostar-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
-    <description>科研数据与模型基建项目，影响开放科学生态供给。（博客 · Hugging Face · 原题 Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready）</description>
-  </item>
-  <item>
-    <title>Le Chonk 登场：Mistral Large 4 上线 Hugging Face</title>
-    <link>https://huggingface.co/blog/mistral-large4</link>
-    <guid isPermaLink="false">huggingface.co/blog/mistral-large4-2026-10-30</guid>
-    <pubDate>Fri, 30 Oct 2026 03:17:58 GMT</pubDate>
-    <description>新大模型即取即用，欧洲开源阵营再添可选方案。（博客 · Hugging Face · 原题 Welcome Le Chonk: Mistral Large 4 on Hugging Face）</description>
+    <guid isPermaLink="false">huggingface.co/blog/announcing-project-protostar-2026-10-31</guid>
+    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
+    <description>科研数据 AI 化基础设施，关注开放科学生态者必读。（博客 · Hugging Face · 原题 Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready）</description>
   </item>
 </channel>
 </rss>
