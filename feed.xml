@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 31 Oct 2026 03:01:32 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 02:56:59 GMT</lastBuildDate>
+  <item>
+    <title>claude-mem：为每个 Agent 提供跨会话持久记忆</title>
+    <link>https://github.com/thedotmack/claude-mem</link>
+    <guid isPermaLink="false">github.com/thedotmack/claude-mem-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>解决 Agent 会话失忆痛点，开源方案可直接集成到工作流。（开源 · GitHub · 原题 thedotmack/claude-mem）</description>
+  </item>
   <item>
     <title>impeccable：给编码 Agent 的设计词汇表</title>
     <link>https://github.com/pbakaus/impeccable</link>
-    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>用统一术语指挥 AI 做设计，减少返工与「AI 味」产出。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
+    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>用 critique、audit 等指令约束 AI 输出，减少千篇一律的 AI 味。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
+  </item>
+  <item>
+    <title>我们如何接管 ChatGPT 账户</title>
+    <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>Simon Willison 复盘真实攻击路径，暴露账户安全盲区。（博客 · Simon Willison · 原题 How We Took Over ChatGPT Accounts）</description>
+  </item>
+  <item>
+    <title>datasette-llm 0.1a9 发布</title>
+    <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/31/datasette-llm-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>Datasette 生态接入 LLM，数据探索工具链再添新能力。（博客 · Simon Willison · 原题 datasette-llm 0.1a9）</description>
+  </item>
+  <item>
+    <title>OpenMausBot：带虚拟机的开源 Grok Bot 替代品</title>
+    <link>https://github.com/milind-soni/OpenMausBot</link>
+    <guid isPermaLink="false">github.com/milind-soni/OpenMausBot-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>Bot 可调用完整 VM 执行任务，开源方案降低自动化门槛。（开源 · GitHub · 原题 milind-soni/OpenMausBot）</description>
   </item>
   <item>
     <title>OpenAI 让网站更易表达 AI 训练偏好</title>
     <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
-    <guid isPermaLink="false">openai.com/index/helping-websites-express-ai-training-preferences-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>训练数据合规风向标，内容方与模型方博弈的新接口。（官方 · OpenAI · 原题 Making it easier for websites to express AI training preferences）</description>
+    <guid isPermaLink="false">openai.com/index/helping-websites-express-ai-training-preferences-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>训练数据合规再进一步，内容方与模型方的博弈规则更新。（官方 · OpenAI · 原题 Making it easier for websites to express AI training preferences）</description>
   </item>
   <item>
     <title>OpenAI 社区安全报告与青少年新保护</title>
     <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
-    <guid isPermaLink="false">openai.com/index/community-safety-report-and-new-protections-for-teens-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>面向未成年人的产品合规要点，直接影响应用上线策略。（官方 · OpenAI · 原题 Community safety report and new protections for teens）</description>
+    <guid isPermaLink="false">openai.com/index/community-safety-report-and-new-protections-for-teens-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>监管压力下的合规动作，涉及产品设计与内容策略调整。（官方 · OpenAI · 原题 Community safety report and new protections for teens）</description>
   </item>
   <item>
-    <title>Hugging Face 上线 nemotron-halloween</title>
+    <title>Hugging Face 发布 nemotron-halloween</title>
     <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/nemotron-halloween-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>万圣节主题模型玩法，可看小团队创意微调的路数。（博客 · Hugging Face · 原题 nemotron-halloween）</description>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/nemotron-halloween-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>万圣节主题模型上新，观察社区微调与营销玩法。（博客 · Hugging Face · 原题 nemotron-halloween）</description>
   </item>
   <item>
-    <title>OpenAI 谈合理使用：为何惠及所有人</title>
+    <title>合理使用惠及所有人</title>
     <link>https://openai.com/index/fair-use-benefits-everyone</link>
-    <guid isPermaLink="false">openai.com/index/fair-use-benefits-everyone-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>理解其版权立场，预判训练数据诉讼与授权走向。（官方 · OpenAI · 原题 Fair use benefits everyone）</description>
+    <guid isPermaLink="false">openai.com/index/fair-use-benefits-everyone-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>OpenAI 正面回应版权争议，从业者需关注其法律立场走向。（官方 · OpenAI · 原题 Fair use benefits everyone）</description>
   </item>
   <item>
-    <title>ChatGPT 付费订阅可获 API 额度</title>
-    <link>https://simonwillison.net/2026/Oct/29/api-credits/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/29/api-credits-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>订阅与 API 打通，开发者成本结构可能因此改变。（博客 · Simon Willison · 原题 API credits benefit for eligible ChatGPT subscriptions）</description>
-  </item>
-  <item>
-    <title>Granite Switch 4.1.1：像更新软件一样更新模型</title>
-    <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-granite/granite-switch-4-1-1-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>模型版本化交付思路，值得借鉴到自有模型运维。（博客 · Hugging Face · 原题 Granite Switch 4.1.1 — Update models like you update software）</description>
-  </item>
-  <item>
-    <title>superpowers：可落地的 Agent 技能框架与方法论</title>
-    <link>https://github.com/obra/superpowers</link>
-    <guid isPermaLink="false">github.com/obra/superpowers-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>把 Agent 开发流程工程化，适合直接对照落地。（开源 · GitHub · 原题 obra/superpowers）</description>
-  </item>
-  <item>
-    <title>DeepMind 发布下一代前沿模型 Gemini 4 Carbon</title>
-    <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
-    <guid isPermaLink="false">deepmind.google/blog/gemini-4-carbon-our-next-frontier-model-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>前沿能力与碳排权衡，影响选型与算力成本判断。（官方 · DeepMind · 原题 Gemini 4 Carbon: Our next frontier model）</description>
-  </item>
-  <item>
-    <title>Project ProtoStar：让公共资助科研 AI 就绪</title>
-    <link>https://huggingface.co/blog/announcing-project-protostar</link>
-    <guid isPermaLink="false">huggingface.co/blog/announcing-project-protostar-2026-10-31</guid>
-    <pubDate>Sat, 31 Oct 2026 03:01:32 GMT</pubDate>
-    <description>科研数据 AI 化基础设施，关注开放科学生态者必读。（博客 · Hugging Face · 原题 Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready）</description>
+    <title>算笔账：我们如何接管 ChatGPT 账户</title>
+    <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
+    <guid isPermaLink="false">parameter.ai/labs/we-found-a-gap-at-openai-2026-11-01</guid>
+    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
+    <description>HN 热议的攻击复盘，安全从业者不可错过的实战细节。（社区 · Hacker News · 原题 Do the math: How we took over ChatGPT accounts）</description>
   </item>
 </channel>
 </rss>
