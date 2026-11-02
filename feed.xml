@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 01 Nov 2026 02:56:59 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 03:05:31 GMT</lastBuildDate>
   <item>
     <title>claude-mem：为每个 Agent 提供跨会话持久记忆</title>
     <link>https://github.com/thedotmack/claude-mem</link>
-    <guid isPermaLink="false">github.com/thedotmack/claude-mem-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>解决 Agent 会话失忆痛点，开源方案可直接集成到工作流。（开源 · GitHub · 原题 thedotmack/claude-mem）</description>
+    <guid isPermaLink="false">github.com/thedotmack/claude-mem-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>解决 Agent 无状态痛点，压缩历史上下文，可直接借鉴记忆层设计。（开源 · GitHub · 原题 thedotmack/claude-mem）</description>
   </item>
   <item>
-    <title>impeccable：给编码 Agent 的设计词汇表</title>
-    <link>https://github.com/pbakaus/impeccable</link>
-    <guid isPermaLink="false">github.com/pbakaus/impeccable-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>用 critique、audit 等指令约束 AI 输出，减少千篇一律的 AI 味。（开源 · GitHub · 原题 pbakaus/impeccable）</description>
+    <title>ai-engineering-hub：LLM、RAG 与 Agent 实战教程合集</title>
+    <link>https://github.com/patchy631/ai-engineering-hub</link>
+    <guid isPermaLink="false">github.com/patchy631/ai-engineering-hub-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>系统化实战教程，适合快速补齐 RAG 与 Agent 工程落地能力。（开源 · GitHub · 原题 patchy631/ai-engineering-hub）</description>
   </item>
   <item>
-    <title>我们如何接管 ChatGPT 账户</title>
+    <title>ChatGPT 与 Codex 使用额度即将合并</title>
+    <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
+    <guid isPermaLink="false">help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>额度规则变化直接影响开发者调用成本与产品配额规划。（社区 · Hacker News · 原题 ChatGPT and Codex usage limits merging）</description>
+  </item>
+  <item>
+    <title>Claude-Code-Game-Studios：49 个 Agent 组成游戏工作室</title>
+    <link>https://github.com/Donchitos/Claude-Code-Game-Studios</link>
+    <guid isPermaLink="false">github.com/Donchitos/Claude-Code-Game-Studios-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>多 Agent 协作与工作流编排的完整范例，可迁移到其他复杂项目。（开源 · GitHub · 原题 Donchitos/Claude-Code-Game-Studios）</description>
+  </item>
+  <item>
+    <title>我们是如何接管 ChatGPT 账户的</title>
     <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>Simon Willison 复盘真实攻击路径，暴露账户安全盲区。（博客 · Simon Willison · 原题 How We Took Over ChatGPT Accounts）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>真实账户接管案例，暴露 AI 产品鉴权与安全设计的薄弱环节。（博客 · Simon Willison · 原题 How We Took Over ChatGPT Accounts）</description>
+  </item>
+  <item>
+    <title>让我们造一个大脑</title>
+    <link>https://aatishb.com/myriad/lets-build-a-brain/</link>
+    <guid isPermaLink="false">aatishb.com/myriad/lets-build-a-brain-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>从底层理解智能系统构建思路，拓展对模型架构的直觉。（社区 · Lobste.rs · 原题 Let’s Build a Brain）</description>
   </item>
   <item>
     <title>datasette-llm 0.1a9 发布</title>
     <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/31/datasette-llm-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>Datasette 生态接入 LLM，数据探索工具链再添新能力。（博客 · Simon Willison · 原题 datasette-llm 0.1a9）</description>
-  </item>
-  <item>
-    <title>OpenMausBot：带虚拟机的开源 Grok Bot 替代品</title>
-    <link>https://github.com/milind-soni/OpenMausBot</link>
-    <guid isPermaLink="false">github.com/milind-soni/OpenMausBot-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>Bot 可调用完整 VM 执行任务，开源方案降低自动化门槛。（开源 · GitHub · 原题 milind-soni/OpenMausBot）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Oct/31/datasette-llm-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>把 LLM 能力接入数据工具链，展示轻量级 AI 集成实践。（博客 · Simon Willison · 原题 datasette-llm 0.1a9）</description>
   </item>
   <item>
     <title>OpenAI 让网站更易表达 AI 训练偏好</title>
     <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
-    <guid isPermaLink="false">openai.com/index/helping-websites-express-ai-training-preferences-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>训练数据合规再进一步，内容方与模型方的博弈规则更新。（官方 · OpenAI · 原题 Making it easier for websites to express AI training preferences）</description>
+    <guid isPermaLink="false">openai.com/index/helping-websites-express-ai-training-preferences-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>训练数据合规风向标，影响爬虫策略与内容方授权谈判。（官方 · OpenAI · 原题 Making it easier for websites to express AI training preferences）</description>
   </item>
   <item>
-    <title>OpenAI 社区安全报告与青少年新保护</title>
+    <title>OpenAI 发布社区安全报告并加强对青少年的保护</title>
     <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
-    <guid isPermaLink="false">openai.com/index/community-safety-report-and-new-protections-for-teens-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>监管压力下的合规动作，涉及产品设计与内容策略调整。（官方 · OpenAI · 原题 Community safety report and new protections for teens）</description>
+    <guid isPermaLink="false">openai.com/index/community-safety-report-and-new-protections-for-teens-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>AI 产品合规与青少年保护要求趋严，关乎上线审核与风控设计。（官方 · OpenAI · 原题 Community safety report and new protections for teens）</description>
   </item>
   <item>
-    <title>Hugging Face 发布 nemotron-halloween</title>
-    <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/nemotron-halloween-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>万圣节主题模型上新，观察社区微调与营销玩法。（博客 · Hugging Face · 原题 nemotron-halloween）</description>
-  </item>
-  <item>
-    <title>合理使用惠及所有人</title>
-    <link>https://openai.com/index/fair-use-benefits-everyone</link>
-    <guid isPermaLink="false">openai.com/index/fair-use-benefits-everyone-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>OpenAI 正面回应版权争议，从业者需关注其法律立场走向。（官方 · OpenAI · 原题 Fair use benefits everyone）</description>
-  </item>
-  <item>
-    <title>算笔账：我们如何接管 ChatGPT 账户</title>
-    <link>https://www.parameter.ai/labs/we-found-a-gap-at-openai</link>
-    <guid isPermaLink="false">parameter.ai/labs/we-found-a-gap-at-openai-2026-11-01</guid>
-    <pubDate>Sun, 01 Nov 2026 02:56:59 GMT</pubDate>
-    <description>HN 热议的攻击复盘，安全从业者不可错过的实战细节。（社区 · Hacker News · 原题 Do the math: How we took over ChatGPT accounts）</description>
+    <title>Anthropic 出手阻止 Claude 逆向工程电子游戏</title>
+    <link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
+    <guid isPermaLink="false">mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering-2026-11-02</guid>
+    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
+    <description>揭示模型滥用边界与厂商管控手段，影响 Agent 能力开放预期。（社区 · Hacker News · 原题 Anthropic takes steps to block Claude from reverse-engineering video games）</description>
   </item>
 </channel>
 </rss>
