@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 02 Nov 2026 03:05:31 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 04:22:53 GMT</lastBuildDate>
   <item>
-    <title>claude-mem：为每个 Agent 提供跨会话持久记忆</title>
+    <title>Vercel 发布 agent-desktop：为 AI agent 提供电脑操作 CLI</title>
+    <link>https://github.com/vercel-labs/agent-desktop</link>
+    <guid isPermaLink="false">github.com/vercel-labs/agent-desktop-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>开源 computer use 工具链，可直接接入 agent 做桌面自动化。（开源 · GitHub · 原题 vercel-labs/agent-desktop）</description>
+  </item>
+  <item>
+    <title>OpenAI 提高漏洞赏金，奖励安全防御者</title>
+    <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+    <guid isPermaLink="false">openai.com/index/rewarding-defenders-with-bigger-bug-bounties-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>安全研究者可关注新赏金档位与攻击面变化。（官方 · OpenAI · 原题 Rewarding defenders with bigger bug bounties）</description>
+  </item>
+  <item>
+    <title>OpenAI 启动新一轮安全加固冲刺</title>
+    <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+    <guid isPermaLink="false">openai.com/index/preparing-our-next-security-sprint-to-harden-openai-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>了解其安全工程节奏，评估依赖其 API 的风险。（官方 · OpenAI · 原题 Preparing our next security sprint to harden OpenAI）</description>
+  </item>
+  <item>
+    <title>Anthropic 内部 AI 用量按零售价计已超员工薪资</title>
+    <link>https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11</link>
+    <guid isPermaLink="false">businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>直观数据点：AI 成本正重塑公司内部预算结构。（社区 · Hacker News · 原题 Anthropic's internal AI use, at retail prices, now exceeds its employee pay）</description>
+  </item>
+  <item>
+    <title>OpenAI 如何规模化扩展 Git</title>
+    <link>https://openai.com/index/scaling-git-at-openai</link>
+    <guid isPermaLink="false">openai.com/index/scaling-git-at-openai-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>大型工程团队 Git 架构实践，可借鉴迁移经验。（官方 · OpenAI + Hacker News · 原题 Scaling Git at OpenAI）</description>
+  </item>
+  <item>
+    <title>Google 十月 AI 发布汇总</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>一页扫完 Google 当月模型与产品更新，省时间。（官方 · Google AI · 原题 The latest AI news we announced in October 2026）</description>
+  </item>
+  <item>
+    <title>claude-mem：为 agent 提供跨会话持久记忆</title>
     <link>https://github.com/thedotmack/claude-mem</link>
-    <guid isPermaLink="false">github.com/thedotmack/claude-mem-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>解决 Agent 无状态痛点，压缩历史上下文，可直接借鉴记忆层设计。（开源 · GitHub · 原题 thedotmack/claude-mem）</description>
+    <guid isPermaLink="false">github.com/thedotmack/claude-mem-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>开源记忆压缩方案，解决 agent 上下文断裂痛点。（开源 · GitHub · 原题 thedotmack/claude-mem）</description>
   </item>
   <item>
-    <title>ai-engineering-hub：LLM、RAG 与 Agent 实战教程合集</title>
-    <link>https://github.com/patchy631/ai-engineering-hub</link>
-    <guid isPermaLink="false">github.com/patchy631/ai-engineering-hub-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>系统化实战教程，适合快速补齐 RAG 与 Agent 工程落地能力。（开源 · GitHub · 原题 patchy631/ai-engineering-hub）</description>
+    <title>Simon Willison 发布 llm 0.37</title>
+    <link>https://simonwillison.net/2026/Nov/2/llm/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Nov/2/llm-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>常用 CLI 工具更新，插件与模型调用有变动。（博客 · Simon Willison · 原题 llm 0.37）</description>
   </item>
   <item>
-    <title>ChatGPT 与 Codex 使用额度即将合并</title>
-    <link>https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits</link>
-    <guid isPermaLink="false">help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>额度规则变化直接影响开发者调用成本与产品配额规划。（社区 · Hacker News · 原题 ChatGPT and Codex usage limits merging）</description>
+    <title>社区呼吁 SEC 阻止 Anthropic IPO</title>
+    <link>https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</link>
+    <guid isPermaLink="false">techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>争议观点，折射 AI 公司治理与监管张力。（社区 · Hacker News · 原题 The SEC Should Block Anthropic's IPO to Protect the Public）</description>
   </item>
   <item>
-    <title>Claude-Code-Game-Studios：49 个 Agent 组成游戏工作室</title>
-    <link>https://github.com/Donchitos/Claude-Code-Game-Studios</link>
-    <guid isPermaLink="false">github.com/Donchitos/Claude-Code-Game-Studios-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>多 Agent 协作与工作流编排的完整范例，可迁移到其他复杂项目。（开源 · GitHub · 原题 Donchitos/Claude-Code-Game-Studios）</description>
-  </item>
-  <item>
-    <title>我们是如何接管 ChatGPT 账户的</title>
-    <link>https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>真实账户接管案例，暴露 AI 产品鉴权与安全设计的薄弱环节。（博客 · Simon Willison · 原题 How We Took Over ChatGPT Accounts）</description>
-  </item>
-  <item>
-    <title>让我们造一个大脑</title>
-    <link>https://aatishb.com/myriad/lets-build-a-brain/</link>
-    <guid isPermaLink="false">aatishb.com/myriad/lets-build-a-brain-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>从底层理解智能系统构建思路，拓展对模型架构的直觉。（社区 · Lobste.rs · 原题 Let’s Build a Brain）</description>
-  </item>
-  <item>
-    <title>datasette-llm 0.1a9 发布</title>
-    <link>https://simonwillison.net/2026/Oct/31/datasette-llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Oct/31/datasette-llm-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>把 LLM 能力接入数据工具链，展示轻量级 AI 集成实践。（博客 · Simon Willison · 原题 datasette-llm 0.1a9）</description>
-  </item>
-  <item>
-    <title>OpenAI 让网站更易表达 AI 训练偏好</title>
-    <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
-    <guid isPermaLink="false">openai.com/index/helping-websites-express-ai-training-preferences-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>训练数据合规风向标，影响爬虫策略与内容方授权谈判。（官方 · OpenAI · 原题 Making it easier for websites to express AI training preferences）</description>
-  </item>
-  <item>
-    <title>OpenAI 发布社区安全报告并加强对青少年的保护</title>
-    <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
-    <guid isPermaLink="false">openai.com/index/community-safety-report-and-new-protections-for-teens-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>AI 产品合规与青少年保护要求趋严，关乎上线审核与风控设计。（官方 · OpenAI · 原题 Community safety report and new protections for teens）</description>
-  </item>
-  <item>
-    <title>Anthropic 出手阻止 Claude 逆向工程电子游戏</title>
-    <link>https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering</link>
-    <guid isPermaLink="false">mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering-2026-11-02</guid>
-    <pubDate>Mon, 02 Nov 2026 03:05:31 GMT</pubDate>
-    <description>揭示模型滥用边界与厂商管控手段，影响 Agent 能力开放预期。（社区 · Hacker News · 原题 Anthropic takes steps to block Claude from reverse-engineering video games）</description>
+    <title>Anthropic 增长曲线刚刚走平</title>
+    <link>https://www.regenerator1.com/p/anthropics-growth-just-flattened</link>
+    <guid isPermaLink="false">regenerator1.com/p/anthropics-growth-just-flattened-2026-11-03</guid>
+    <pubDate>Tue, 03 Nov 2026 04:22:53 GMT</pubDate>
+    <description>关键信号：头部 AI 公司增速放缓值得警惕。（社区 · Hacker News · 原题 Anthropic's growth just flattened）</description>
   </item>
 </channel>
 </rss>
