@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 06 Nov 2026 03:58:07 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 03:33:24 GMT</lastBuildDate>
   <item>
-    <title>NVIDIA 开源 Auto Ontology：为数据构建语义图推理层</title>
+    <title>Cloudflare 开源安全审计 Agent 技能</title>
+    <link>https://github.com/cloudflare/security-audit-skill</link>
+    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>多阶段审计加机器可读结论，可直接接入编码 Agent 工作流。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+  </item>
+  <item>
+    <title>Anthropic IPO 估值低至 1.1 万亿美元</title>
+    <link>https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout</link>
+    <guid isPermaLink="false">bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>一级市场定价信号，反映资本对头部模型公司的预期锚点。（社区 · Hacker News · 原题 Anthropic IPO buyers see valuation as low as $1.1T）</description>
+  </item>
+  <item>
+    <title>OpenAI 联手 Hacktron 排查自身系统漏洞</title>
+    <link>https://openai.com/index/partnering-with-hacktron</link>
+    <guid isPermaLink="false">openai.com/index/partnering-with-hacktron-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>头部厂商公开红队合作模式，可参考其漏洞披露与协作机制。（官方 · OpenAI + Hacker News · 原题 Partnering with Hacktron to find vulnerabilities in OpenAI’s systems）</description>
+  </item>
+  <item>
+    <title>NVIDIA 开源 Auto Ontology 语义推理框架</title>
     <link>https://github.com/NVIDIA/auto-ontology</link>
-    <guid isPermaLink="false">github.com/NVIDIA/auto-ontology-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>想给企业数据加确定性推理层的团队，可评估这套图语义框架。（开源 · GitHub · 原题 NVIDIA/auto-ontology）</description>
+    <guid isPermaLink="false">github.com/NVIDIA/auto-ontology-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>在数据上构建确定性图推理层，补足 LLM 推理的可控性短板。（开源 · GitHub · 原题 NVIDIA/auto-ontology）</description>
   </item>
   <item>
-    <title>Claude Code 被曝向访问网站泄露用户邮箱</title>
-    <link>https://github.com/anthropics/claude-code/issues/107757</link>
-    <guid isPermaLink="false">github.com/anthropics/claude-code/issues/107757-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>用 Claude Code 做网页调试的开发者，需立即核查隐私暴露风险。（社区 · Hacker News · 原题 Claude Code sends your email address to websites）</description>
+    <title>OpenAI 评测 AI Agent 做湿实验的能力</title>
+    <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+    <guid isPermaLink="false">openai.com/index/measuring-how-ai-agents-handle-wet-lab-science-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>把 Agent 评估推进到真实科研场景，暴露自动化边界。（官方 · OpenAI · 原题 Measuring how AI agents handle everyday wet-lab science）</description>
   </item>
   <item>
-    <title>Cult.fit 用 Codex 打造运营能力</title>
+    <title>ToyBlocks：机器人学习的受控评测世界</title>
+    <link>https://huggingface.co/blog/allenai/toyblocks</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/toyblocks-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>提供可复现环境，缓解机器人学习基准碎片化问题。（博客 · Hugging Face · 原题 ToyBlocks: A controlled world for robot learning and evaluation）</description>
+  </item>
+  <item>
+    <title>Cult.fit 用 Codex 构建运营能力</title>
     <link>https://openai.com/index/cultfit-builds-with-codex</link>
-    <guid isPermaLink="false">openai.com/index/cultfit-builds-with-codex-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>看真实企业如何把 Codex 嵌入运营流程，而非停留在演示。（官方 · OpenAI · 原题 Cult.fit builds operational muscle with Codex）</description>
+    <guid isPermaLink="false">openai.com/index/cultfit-builds-with-codex-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>企业落地案例，展示编码 Agent 在非软件核心业务的用法。（官方 · OpenAI · 原题 Cult.fit builds operational muscle with Codex）</description>
   </item>
   <item>
-    <title>澳洲高校正培养 AI 原生毕业生</title>
-    <link>https://openai.com/index/australian-universities-ai-native-graduates</link>
-    <guid isPermaLink="false">openai.com/index/australian-universities-ai-native-graduates-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>教育端开始批量输出 AI 原生人才，招聘与培训策略需提前调整。（官方 · OpenAI · 原题 Australian universities are creating AI-native graduates）</description>
-  </item>
-  <item>
-    <title>软件流水线专家</title>
-    <link>https://lovro-bikic.github.io/software-line-specialist/</link>
-    <guid isPermaLink="false">lovro-bikic.github.io/software-line-specialist-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>一篇关于软件产线分工的讨论，适合思考 AI 时代工程角色重构。（社区 · Lobste.rs · 原题 Software Line Specialist）</description>
-  </item>
-  <item>
-    <title>Gemini Omni 1.2 Flash：更快更省，支持更长片段</title>
+    <title>Gemini Omni 1.2 Flash：更快更便宜、支持更长片段</title>
     <link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-    <guid isPermaLink="false">deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>多模态长片段成本下降，直接影响视频类应用的架构选型。（官方 · DeepMind · 原题 Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips）</description>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>性价比与长上下文双升，影响多模态应用的成本测算。（官方 · DeepMind · 原题 Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips）</description>
   </item>
   <item>
-    <title>Gemini Omni 1.2 Flash：更快更省，支持更长片段</title>
+    <title>Gemini Omni 1.2 Flash 发布，主打低成本长片段</title>
     <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>官方发布口径，适合对照评估多模态推理的性价比拐点。（官方 · Google AI · 原题 Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>同款模型二次上榜，说明价格与时长是当前竞争焦点。（官方 · Google AI + Hacker News · 原题 Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips）</description>
   </item>
   <item>
-    <title>Vercel Labs 开源 agent-desktop：AI 智能体的电脑操作 CLI</title>
-    <link>https://github.com/vercel-labs/agent-desktop</link>
-    <guid isPermaLink="false">github.com/vercel-labs/agent-desktop-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>想让智能体直接操作桌面的团队，多了一个轻量开源起点。（开源 · GitHub · 原题 vercel-labs/agent-desktop）</description>
-  </item>
-  <item>
-    <title>GPT-6 Cyber：推进对齐的网络安全智能体前沿</title>
-    <link>https://openai.com/index/introducing-gpt-6-cyber</link>
-    <guid isPermaLink="false">openai.com/index/introducing-gpt-6-cyber-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>安全智能体的对齐与能力边界，是攻防双方都该读的信号。（官方 · OpenAI + Hacker News · 原题 GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents）</description>
-  </item>
-  <item>
-    <title>NVIDIA Cosmos 3 开源模型：面向交互式世界模拟</title>
-    <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/cosmos-interactive-world-simulation-2026-11-06</guid>
-    <pubDate>Fri, 06 Nov 2026 03:58:07 GMT</pubDate>
-    <description>世界模型开源再加码，机器人与仿真方向可直接上手验证。（博客 · Hugging Face · 原题 New NVIDIA Cosmos 3 Open Models for Interactive World Simulation）</description>
+    <title>埃及与尼日利亚英语加入 Open ASR 榜单</title>
+    <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
+    <guid isPermaLink="false">huggingface.co/blog/open-asr-leaderboard-liva-2026-11-07</guid>
+    <pubDate>Sat, 07 Nov 2026 03:33:24 GMT</pubDate>
+    <description>语音识别评测覆盖更多口音，直接影响全球化产品选型。（博客 · Hugging Face · 原题 Egyptian and Nigerian English join the Open ASR Leaderboard）</description>
   </item>
 </channel>
 </rss>

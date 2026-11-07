@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>提要 · 第 125 期 · 2026-11-07</title>
+<meta name="description" content="每天替你把 AI 世界读一遍，只留提要。每日 Top 10 AI 资讯，每条一句「为什么值得读」。">
+<meta property="og:title" content="提要 · AI DAILY DIGEST">
+<meta property="og:description" content="每天替你把 AI 世界读一遍，只留提要。">
+<link rel="alternate" type="application/rss+xml" title="提要" href="feed.xml">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%23161412'/%3E%3Ctext x='50' y='72' font-size='62' text-anchor='middle' fill='%23c9a962' font-family='serif'%3E%E6%8F%90%3C/text%3E%3C/svg%3E">
+<style>
+:root{
+  --paper:#f7f3ec; --ink:#1c1a17; --ink2:#57524a; --mut:#8d867b;
+  --gold:#8f6f2e; --line:#e2dbce; --line2:#cfc6b4;
+}
+@media (prefers-color-scheme: dark){
+  :root{--paper:#161412; --ink:#e8e2d6; --ink2:#b0a897; --mut:#7d7669; --gold:#c9a962; --line:#2b2823; --line2:#3d382f;}
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font:16px/1.75 Georgia,"Songti SC","STSong","Noto Serif SC","Source Han Serif SC","SimSun",serif;
+}
+a{color:inherit; text-decoration:none}
+.wrap{max-width:720px; margin:0 auto; padding:0 22px 72px}
+
+/* ── 刊头 ── */
+header{text-align:center; padding:52px 0 0}
+.masthead{font-size:56px; line-height:1.1; letter-spacing:.18em; margin:0; font-weight:700; text-indent:.18em}
+.tagline{font-size:11px; letter-spacing:.42em; text-indent:.42em; color:var(--gold); margin:10px 0 0; text-transform:uppercase}
+.rule{border:0; border-top:1px solid var(--ink); margin:26px 0 0; position:relative}
+.rule+.rule{border-top:1px solid var(--line2); margin-top:3px}
+.issue{display:flex; justify-content:space-between; gap:8px; flex-wrap:wrap; font-size:12.5px; color:var(--ink2); padding:10px 0; letter-spacing:.06em}
+.issue b{color:var(--ink); font-weight:400}
+.motto{font-size:14px; color:var(--ink2); margin:34px 0 0; letter-spacing:.12em}
+
+/* ── 头条 ── */
+.lead{margin:44px 0 8px; padding-bottom:36px; border-bottom:1px solid var(--line)}
+.kind{font-size:11px; letter-spacing:.28em; color:var(--gold); margin-bottom:12px}
+.lead h2{font-size:30px; line-height:1.45; margin:0 0 10px; font-weight:700}
+.lead h2 a:hover,.item h3 a:hover{border-bottom:1px solid var(--gold)}
+.orig{font-size:13px; color:var(--mut); font-style:italic; margin-bottom:10px; overflow-wrap:anywhere}
+.why{font-size:15px; color:var(--ink2); margin:8px 0 0}
+.why::before{content:"── "; color:var(--gold)}
+
+/* ── 条目 ── */
+.item{display:flex; gap:20px; padding:30px 0; border-bottom:1px solid var(--line)}
+.no{font-size:26px; color:var(--line2); font-style:italic; min-width:44px; line-height:1.3}
+.item h3{font-size:19.5px; line-height:1.5; margin:0 0 6px; font-weight:700}
+.item .why{font-size:14px}
+.item .kind{margin-bottom:8px}
+
+/* ── 订阅 ── */
+.subscribe{margin:56px 0 0; padding:34px 30px; border:1px solid var(--line2); text-align:center}
+.subscribe h4{margin:0 0 8px; font-size:17px; letter-spacing:.2em}
+.subscribe p{margin:0 0 18px; font-size:13.5px; color:var(--ink2)}
+.rss{display:inline-block; border:1px solid var(--gold); color:var(--gold); padding:9px 26px; font-size:13px; letter-spacing:.18em; cursor:pointer; background:none; font-family:inherit}
+.rss:hover{background:var(--gold); color:var(--paper)}
+.hint{font-size:12px; color:var(--mut); margin-top:12px; overflow-wrap:anywhere}
+
+/* ── 候选池 / 往期 ── */
+details{margin-top:48px}
+summary{cursor:pointer; font-size:13px; color:var(--mut); letter-spacing:.1em}
+.row{padding:7px 0; border-bottom:1px solid var(--line); font-size:13.5px; overflow-wrap:anywhere}
+.row span{color:var(--line2); font-style:italic; margin-right:6px}
+.row em{color:var(--mut); font-size:12px; font-style:normal; margin-left:6px}
+.row a:hover{color:var(--gold)}
+.past{display:flex; flex-direction:column; gap:6px; padding-top:10px; font-size:13.5px}
+.past a:hover{color:var(--gold)}
+
+footer{margin-top:64px; padding-top:18px; border-top:1px solid var(--ink); font-size:12px; color:var(--mut); display:flex; justify-content:space-between; flex-wrap:wrap; gap:6px; letter-spacing:.05em}
+footer a{border-bottom:1px solid var(--line2)}
+footer a:hover{color:var(--gold)}
+
+@media (max-width:520px){
+  .masthead{font-size:42px}
+  .lead h2{font-size:24px}
+  .item{gap:14px}
+  .no{min-width:34px; font-size:21px}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1 class="masthead">提要</h1>
+  <p class="tagline">AI DAILY DIGEST</p>
+  <hr class="rule"><hr class="rule">
+  <div class="issue">
+    <span>第 <b>125</b> 期</span>
+    <span>2026 年 11 月 7 日 · 星期六</span>
+    <span>9 源 54 条 → 精选 <b>10</b></span>
+  </div>
+  <p class="motto">每天替你把 AI 世界读一遍，只留提要。</p>
+</header>
+
+<main>
+
+<article class="lead">
+  <div class="kind">今日头条 · 开源 · GitHub</div>
+  <h2><a href="https://github.com/cloudflare/security-audit-skill" target="_blank" rel="noopener noreferrer">Cloudflare 开源安全审计 Agent 技能</a></h2>
+  <div class="orig">cloudflare/security-audit-skill</div>
+  <p class="why">多阶段审计加机器可读结论，可直接接入编码 Agent 工作流。</p>
+</article>
+
+<article class="item">
+  <div class="no">02</div>
+  <div class="body">
+    <div class="kind">社区 · Hacker News</div>
+    <h3><a href="https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout" target="_blank" rel="noopener noreferrer">Anthropic IPO 估值低至 1.1 万亿美元</a></h3>
+    <div class="orig">Anthropic IPO buyers see valuation as low as $1.1T</div>
+    <p class="why">一级市场定价信号，反映资本对头部模型公司的预期锚点。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">03</div>
+  <div class="body">
+    <div class="kind">官方 · OpenAI + Hacker News</div>
+    <h3><a href="https://openai.com/index/partnering-with-hacktron" target="_blank" rel="noopener noreferrer">OpenAI 联手 Hacktron 排查自身系统漏洞</a></h3>
+    <div class="orig">Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</div>
+    <p class="why">头部厂商公开红队合作模式，可参考其漏洞披露与协作机制。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">04</div>
+  <div class="body">
+    <div class="kind">开源 · GitHub</div>
+    <h3><a href="https://github.com/NVIDIA/auto-ontology" target="_blank" rel="noopener noreferrer">NVIDIA 开源 Auto Ontology 语义推理框架</a></h3>
+    <div class="orig">NVIDIA/auto-ontology</div>
+    <p class="why">在数据上构建确定性图推理层，补足 LLM 推理的可控性短板。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">05</div>
+  <div class="body">
+    <div class="kind">官方 · OpenAI</div>
+    <h3><a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science" target="_blank" rel="noopener noreferrer">OpenAI 评测 AI Agent 做湿实验的能力</a></h3>
+    <div class="orig">Measuring how AI agents handle everyday wet-lab science</div>
+    <p class="why">把 Agent 评估推进到真实科研场景，暴露自动化边界。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">06</div>
+  <div class="body">
+    <div class="kind">博客 · Hugging Face</div>
+    <h3><a href="https://huggingface.co/blog/allenai/toyblocks" target="_blank" rel="noopener noreferrer">ToyBlocks：机器人学习的受控评测世界</a></h3>
+    <div class="orig">ToyBlocks: A controlled world for robot learning and evaluation</div>
+    <p class="why">提供可复现环境，缓解机器人学习基准碎片化问题。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">07</div>
+  <div class="body">
+    <div class="kind">官方 · OpenAI</div>
+    <h3><a href="https://openai.com/index/cultfit-builds-with-codex" target="_blank" rel="noopener noreferrer">Cult.fit 用 Codex 构建运营能力</a></h3>
+    <div class="orig">Cult.fit builds operational muscle with Codex</div>
+    <p class="why">企业落地案例，展示编码 Agent 在非软件核心业务的用法。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">08</div>
+  <div class="body">
+    <div class="kind">官方 · DeepMind</div>
+    <h3><a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/" target="_blank" rel="noopener noreferrer">Gemini Omni 1.2 Flash：更快更便宜、支持更长片段</a></h3>
+    <div class="orig">Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</div>
+    <p class="why">性价比与长上下文双升，影响多模态应用的成本测算。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">09</div>
+  <div class="body">
+    <div class="kind">官方 · Google AI + Hacker News</div>
+    <h3><a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/" target="_blank" rel="noopener noreferrer">Gemini Omni 1.2 Flash 发布，主打低成本长片段</a></h3>
+    <div class="orig">Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</div>
+    <p class="why">同款模型二次上榜，说明价格与时长是当前竞争焦点。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">10</div>
+  <div class="body">
+    <div class="kind">博客 · Hugging Face</div>
+    <h3><a href="https://huggingface.co/blog/open-asr-leaderboard-liva" target="_blank" rel="noopener noreferrer">埃及与尼日利亚英语加入 Open ASR 榜单</a></h3>
+    <div class="orig">Egyptian and Nigerian English join the Open ASR Leaderboard</div>
+    <p class="why">语音识别评测覆盖更多口音，直接影响全球化产品选型。</p>
+  </div>
+</article>
+
+<section class="subscribe">
+  <h4>订　阅</h4>
+  <p>每天早晨八点（北京时间）自动出刊。用任意 RSS 阅读器（Follow、Feedly、NetNewsWire）即可订阅。</p>
+  <button class="rss" id="rss-btn" type="button">复制 RSS 订阅链接</button>
+  <div class="hint" id="rss-hint">feed.xml</div>
+</section>
+
+<details>
+  <summary>完整候选池（51 条，按分数排序，展示前 60）</summary>
+  <div class="row"><span>01</span> <a href="https://github.com/cloudflare/security-audit-skill" target="_blank" rel="noopener noreferrer">cloudflare/security-audit-skill</a> <em>开源 · 100 分</em></div>
+<div class="row"><span>02</span> <a href="https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout" target="_blank" rel="noopener noreferrer">Anthropic IPO buyers see valuation as low as $1.1T</a> <em>社区 · 86 分</em></div>
+<div class="row"><span>03</span> <a href="https://openai.com/index/partnering-with-hacktron" target="_blank" rel="noopener noreferrer">Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</a> <em>官方 · 79 分</em></div>
+<div class="row"><span>04</span> <a href="https://github.com/NVIDIA/auto-ontology" target="_blank" rel="noopener noreferrer">NVIDIA/auto-ontology</a> <em>开源 · 74 分</em></div>
+<div class="row"><span>05</span> <a href="https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science" target="_blank" rel="noopener noreferrer">Measuring how AI agents handle everyday wet-lab science</a> <em>官方 · 73 分</em></div>
+<div class="row"><span>06</span> <a href="https://huggingface.co/blog/allenai/toyblocks" target="_blank" rel="noopener noreferrer">ToyBlocks: A controlled world for robot learning and evaluation</a> <em>博客 · 72 分</em></div>
+<div class="row"><span>07</span> <a href="https://openai.com/index/cultfit-builds-with-codex" target="_blank" rel="noopener noreferrer">Cult.fit builds operational muscle with Codex</a> <em>官方 · 70 分</em></div>
+<div class="row"><span>08</span> <a href="https://openai.com/index/australian-universities-ai-native-graduates" target="_blank" rel="noopener noreferrer">Australian universities are creating AI-native graduates</a> <em>官方 · 68 分</em></div>
+<div class="row"><span>09</span> <a href="https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/" target="_blank" rel="noopener noreferrer">Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</a> <em>官方 · 65 分</em></div>
+<div class="row"><span>10</span> <a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/" target="_blank" rel="noopener noreferrer">Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</a> <em>官方 · 65 分</em></div>
+<div class="row"><span>11</span> <a href="https://openai.com/index/introducing-gpt-6-cyber" target="_blank" rel="noopener noreferrer">GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</a> <em>官方 · 63 分</em></div>
+<div class="row"><span>12</span> <a href="https://huggingface.co/blog/open-asr-leaderboard-liva" target="_blank" rel="noopener noreferrer">Egyptian and Nigerian English join the Open ASR Leaderboard</a> <em>博客 · 63 分</em></div>
+<div class="row"><span>13</span> <a href="https://openai.com/index/merge-builds-with-openai" target="_blank" rel="noopener noreferrer">Merge builds product and business tools with OpenAI technology</a> <em>官方 · 62 分</em></div>
+<div class="row"><span>14</span> <a href="https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation" target="_blank" rel="noopener noreferrer">New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</a> <em>博客 · 60 分</em></div>
+<div class="row"><span>15</span> <a href="https://openai.com/index/setting-new-standard-responsible-ai-infrastructure" target="_blank" rel="noopener noreferrer">Setting a new standard for responsible AI infrastructure</a> <em>官方 · 59 分</em></div>
+<div class="row"><span>16</span> <a href="https://openai.com/ads/customers/flipsnack" target="_blank" rel="noopener noreferrer">Flipsnack grows product signups with conversion optimization</a> <em>官方 · 58 分</em></div>
+<div class="row"><span>17</span> <a href="https://openai.com/index/franklin-templeton" target="_blank" rel="noopener noreferrer">Franklin Templeton uses OpenAI to support investment research</a> <em>官方 · 58 分</em></div>
+<div class="row"><span>18</span> <a href="https://openai.com/index/openai-to-acquire-pierre" target="_blank" rel="noopener noreferrer">OpenAI to acquire Pierre Computer Company, Inc.</a> <em>官方 · 53 分</em></div>
+<div class="row"><span>19</span> <a href="https://huggingface.co/blog/phonon-tts" target="_blank" rel="noopener noreferrer">A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</a> <em>博客 · 50 分</em></div>
+<div class="row"><span>20</span> <a href="https://openai.com/index/a-thousand-fewer-paths-to-root" target="_blank" rel="noopener noreferrer">A thousand fewer paths to root</a> <em>官方 · 50 分</em></div>
+<div class="row"><span>21</span> <a href="https://openai.com/index/daybreak-red-aws-govcloud" target="_blank" rel="noopener noreferrer">Daybreak Red is now available in AWS GovCloud (US-East)</a> <em>官方 · 49 分</em></div>
+<div class="row"><span>22</span> <a href="https://huggingface.co/blog/Dharma-AI/dharma-field-extractor" target="_blank" rel="noopener noreferrer">Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</a> <em>博客 · 47 分</em></div>
+<div class="row"><span>23</span> <a href="https://huggingface.co/papers/2611.08373" target="_blank" rel="noopener noreferrer">SLA: Scaling Spatial-Language-Action Model via Continual Pre-training</a> <em>论文 · 44 分</em></div>
+<div class="row"><span>24</span> <a href="https://simonwillison.net/2026/Nov/4/datasette-llm/" target="_blank" rel="noopener noreferrer">datasette-llm 0.1a10</a> <em>博客 · 44 分</em></div>
+<div class="row"><span>25</span> <a href="https://huggingface.co/papers/2611.08449" target="_blank" rel="noopener noreferrer">VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding</a> <em>论文 · 43 分</em></div>
+<div class="row"><span>26</span> <a href="https://www.youtube.com/watch?v=5D7QPOIZ7gY" target="_blank" rel="noopener noreferrer">Reflections on Rust in the LLM Age</a> <em>社区 · 37 分</em></div>
+<div class="row"><span>27</span> <a href="https://news.ycombinator.com/item?id=50363461" target="_blank" rel="noopener noreferrer">Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)</a> <em>社区 · 35 分</em></div>
+<div class="row"><span>28</span> <a href="https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’" target="_blank" rel="noopener noreferrer">Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation</a> <em>社区 · 16 分</em></div>
+<div class="row"><span>29</span> <a href="https://huggingface.co/papers/2611.04277" target="_blank" rel="noopener noreferrer">Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training</a> <em>论文 · 13 分</em></div>
+<div class="row"><span>30</span> <a href="https://huggingface.co/papers/2611.06741" target="_blank" rel="noopener noreferrer">TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing</a> <em>论文 · 12 分</em></div>
+<div class="row"><span>31</span> <a href="https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053" target="_blank" rel="noopener noreferrer">ChatGPT silently passes data between connectors and the bounty wants an ID card</a> <em>社区 · 11 分</em></div>
+<div class="row"><span>32</span> <a href="https://www.anthropic.com/research/how-researchers-use-claude" target="_blank" rel="noopener noreferrer">AI for scientific discovery: How researchers use Claude</a> <em>社区 · 9 分</em></div>
+<div class="row"><span>33</span> <a href="https://arxiv.org/abs/2610.21375" target="_blank" rel="noopener noreferrer">Memorilla: Latent Semantic Memory for LLMs</a> <em>社区 · 7 分</em></div>
+<div class="row"><span>34</span> <a href="https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors" target="_blank" rel="noopener noreferrer">Anthropic IPO valuation talks drop to $1.3T</a> <em>社区 · 6 分</em></div>
+<div class="row"><span>35</span> <a href="https://huggingface.co/papers/2611.08237" target="_blank" rel="noopener noreferrer">Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling</a> <em>论文 · 5 分</em></div>
+<div class="row"><span>36</span> <a href="https://huggingface.co/papers/2611.06976" target="_blank" rel="noopener noreferrer">On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer</a> <em>论文 · 4 分</em></div>
+<div class="row"><span>37</span> <a href="https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs" target="_blank" rel="noopener noreferrer">OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel</a> <em>社区 · 4 分</em></div>
+<div class="row"><span>38</span> <a href="https://huggingface.co/papers/2611.08089" target="_blank" rel="noopener noreferrer">SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization</a> <em>论文 · 3 分</em></div>
+<div class="row"><span>39</span> <a href="https://huggingface.co/papers/2611.08376" target="_blank" rel="noopener noreferrer">Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout</a> <em>论文 · 2 分</em></div>
+<div class="row"><span>40</span> <a href="https://huggingface.co/papers/2611.04527" target="_blank" rel="noopener noreferrer">Future Representation Distillation for Imagination-free World Action Models</a> <em>论文 · 2 分</em></div>
+<div class="row"><span>41</span> <a href="https://huggingface.co/papers/2611.06982" target="_blank" rel="noopener noreferrer">Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models</a> <em>论文 · 2 分</em></div>
+<div class="row"><span>42</span> <a href="https://www.complexsystemspodcast.com/episodes/reading-the-anthropic-s-1-with-zvi-mowshowitz/" target="_blank" rel="noopener noreferrer">Reading the Anthropic S-1, with Zvi Mowshowitz</a> <em>社区 · 1 分</em></div>
+<div class="row"><span>43</span> <a href="https://huggingface.co/papers/2611.05376" target="_blank" rel="noopener noreferrer">From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence</a> <em>论文 · 1 分</em></div>
+<div class="row"><span>44</span> <a href="https://huggingface.co/papers/2611.07613" target="_blank" rel="noopener noreferrer">Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation</a> <em>论文 · 1 分</em></div>
+<div class="row"><span>45</span> <a href="https://huggingface.co/papers/2611.08483" target="_blank" rel="noopener noreferrer">SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization</a> <em>论文 · 1 分</em></div>
+<div class="row"><span>46</span> <a href="https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b" target="_blank" rel="noopener noreferrer">Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation</a> <em>社区 · 1 分</em></div>
+<div class="row"><span>47</span> <a href="https://huggingface.co/papers/2609.37820" target="_blank" rel="noopener noreferrer">Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space</a> <em>论文 · 0 分</em></div>
+<div class="row"><span>48</span> <a href="https://sketchagent.dev/" target="_blank" rel="noopener noreferrer">SketchAgentBench – evaluate LLMs on 3D spatial reasoning</a> <em>社区 · 0 分</em></div>
+<div class="row"><span>49</span> <a href="https://huggingface.co/papers/2611.04386" target="_blank" rel="noopener noreferrer">StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models</a> <em>论文 · 0 分</em></div>
+<div class="row"><span>50</span> <a href="https://www.doubleai.com/research/can-llms-redesign-themselves-as-they-train" target="_blank" rel="noopener noreferrer">Can LLMs redesign themselves as they train?</a> <em>社区 · 0 分</em></div>
+<div class="row"><span>51</span> <a href="https://github.com/google/skills" target="_blank" rel="noopener noreferrer">google/skills</a> <em>开源 · 0 分</em></div>
+</details>
+
+<details open>
+  <summary>往期（124 期）</summary>
+  <div class="past"><a href="archive/2026-11-06.html">第 124 期 · 2026-11-06</a>
+<a href="archive/2026-11-05.html">第 123 期 · 2026-11-05</a>
+<a href="archive/2026-11-04.html">第 122 期 · 2026-11-04</a>
+<a href="archive/2026-11-03.html">第 121 期 · 2026-11-03</a>
+<a href="archive/2026-11-02.html">第 120 期 · 2026-11-02</a>
+<a href="archive/2026-11-01.html">第 119 期 · 2026-11-01</a>
+<a href="archive/2026-10-31.html">第 118 期 · 2026-10-31</a>
+<a href="archive/2026-10-30.html">第 117 期 · 2026-10-30</a>
+<a href="archive/2026-10-29.html">第 116 期 · 2026-10-29</a>
+<a href="archive/2026-10-28.html">第 115 期 · 2026-10-28</a>
+<a href="archive/2026-10-27.html">第 114 期 · 2026-10-27</a>
+<a href="archive/2026-10-26.html">第 113 期 · 2026-10-26</a>
+<a href="archive/2026-10-25.html">第 112 期 · 2026-10-25</a>
+<a href="archive/2026-10-24.html">第 111 期 · 2026-10-24</a>
+<a href="archive/2026-10-23.html">第 110 期 · 2026-10-23</a>
+<a href="archive/2026-10-22.html">第 109 期 · 2026-10-22</a>
+<a href="archive/2026-10-21.html">第 108 期 · 2026-10-21</a>
+<a href="archive/2026-10-20.html">第 107 期 · 2026-10-20</a>
+<a href="archive/2026-10-19.html">第 106 期 · 2026-10-19</a>
+<a href="archive/2026-10-18.html">第 105 期 · 2026-10-18</a>
+<a href="archive/2026-10-17.html">第 104 期 · 2026-10-17</a>
+<a href="archive/2026-10-16.html">第 103 期 · 2026-10-16</a>
+<a href="archive/2026-10-15.html">第 102 期 · 2026-10-15</a>
+<a href="archive/2026-10-14.html">第 101 期 · 2026-10-14</a>
+<a href="archive/2026-10-13.html">第 100 期 · 2026-10-13</a>
+<a href="archive/2026-10-12.html">第 99 期 · 2026-10-12</a>
+<a href="archive/2026-10-11.html">第 98 期 · 2026-10-11</a>
+<a href="archive/2026-10-10.html">第 97 期 · 2026-10-10</a>
+<a href="archive/2026-10-09.html">第 96 期 · 2026-10-09</a>
+<a href="archive/2026-10-08.html">第 95 期 · 2026-10-08</a></div>
+</details>
+</main>
+
+<footer>
+  <span>提要 · 抓取 → 去重 → 打分 → 精选，每日自动出刊</span>
+  <span><a href="https://github.com/hannahlovegood/tiyao" target="_blank" rel="noopener noreferrer">源码</a> · <a href="feed.xml">RSS</a></span>
+</footer>
+
+</div>
+<script>
+(function(){
+  var btn=document.getElementById('rss-btn'),hint=document.getElementById('rss-hint');
+  var url=new URL('feed.xml',location.href).href;
+  hint.textContent=url;
+  btn.addEventListener('click',function(){
+    function ok(){btn.textContent='已复制 ✓';setTimeout(function(){btn.textContent='复制 RSS 订阅链接'},1600)}
+    if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(ok,function(){fallback()})}
+    else{fallback()}
+    function fallback(){
+      try{var ta=document.createElement('textarea');ta.value=url;document.body.appendChild(ta);ta.select();document.execCommand('copy');document.body.removeChild(ta);ok()}
+      catch(e){hint.textContent='请手动复制：'+url}
+    }
+  });
+})();
+</script>
+</body>
+</html>
