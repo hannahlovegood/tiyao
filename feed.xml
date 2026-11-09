@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 08 Nov 2026 03:03:15 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 03:25:47 GMT</lastBuildDate>
   <item>
-    <title>Cloudflare 开源安全审计 Agent 技能</title>
-    <link>https://github.com/cloudflare/security-audit-skill</link>
-    <guid isPermaLink="false">github.com/cloudflare/security-audit-skill-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>多阶段审计产出可机器验证的发现，可直接接入编码 Agent 工作流。（开源 · GitHub · 原题 cloudflare/security-audit-skill）</description>
+    <title>OpenMausBot：可调用虚拟机的开源 Grok Bot 替代方案</title>
+    <link>https://github.com/milind-soni/OpenMausBot</link>
+    <guid isPermaLink="false">github.com/milind-soni/OpenMausBot-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>想在自有环境复刻 Grok 式 Agent，这个开源实现提供了可运行的虚拟机执行框架。（开源 · GitHub · 原题 milind-soni/OpenMausBot）</description>
   </item>
   <item>
-    <title>OpenMausBot：带虚拟机的开源 Grok Bot 替代</title>
-    <link>https://github.com/milind-soni/OpenMausBot</link>
-    <guid isPermaLink="false">github.com/milind-soni/OpenMausBot-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>Bot 可操作 VM，为自托管 Agent 提供可参考的执行环境方案。（开源 · GitHub · 原题 milind-soni/OpenMausBot）</description>
+    <title>高盛要求银行家与交易员停用 Claude Code</title>
+    <link>https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</link>
+    <guid isPermaLink="false">thestateofai.com/news/goldman-sachs-claude-code-traders-bankers-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>头部投行主动撤出，说明金融业对 AI 编码工具的合规与数据边界仍高度敏感。（社区 · Hacker News · 原题 Goldman Sachs is pulling Claude Code from its bankers and traders）</description>
+  </item>
+  <item>
+    <title>Mac mini M5 Pro 48GB 本地 AI 实测能做什么</title>
+    <link>https://lobste.rs/s/umsitb</link>
+    <guid isPermaLink="false">lobste.rs/s/umsitb-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>一份真实硬件上的本地模型能力边界参考，比参数表更能指导选型。（社区 · Lobste.rs · 原题 What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?）</description>
+  </item>
+  <item>
+    <title>Meta 开源设计系统 astryx，面向 Agent 可定制</title>
+    <link>https://github.com/meta/astryx</link>
+    <guid isPermaLink="false">github.com/meta/astryx-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>大厂把设计系统做成 Agent 就绪组件，前端与 AI 工作流的接口正在标准化。（开源 · GitHub · 原题 meta/astryx）</description>
+  </item>
+  <item>
+    <title>Vercel 推出 agent-browser：面向 AI Agent 的浏览器自动化 CLI</title>
+    <link>https://github.com/vercel-labs/agent-browser</link>
+    <guid isPermaLink="false">github.com/vercel-labs/agent-browser-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>Agent 操作网页的基建又多一个官方选项，可直接接入现有工具链。（开源 · GitHub · 原题 vercel-labs/agent-browser）</description>
   </item>
   <item>
     <title>OpenAI 联手 Hacktron 排查自身系统漏洞</title>
     <link>https://openai.com/index/partnering-with-hacktron</link>
-    <guid isPermaLink="false">openai.com/index/partnering-with-hacktron-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>看头部厂商如何用外部红队做安全验证，可借鉴其协作模式。（官方 · OpenAI + Hacker News · 原题 Partnering with Hacktron to find vulnerabilities in OpenAI’s systems）</description>
+    <guid isPermaLink="false">openai.com/index/partnering-with-hacktron-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>看头部实验室如何引入外部红队，对做 AI 安全与渗透测试的人有方法参考。（官方 · OpenAI · 原题 Partnering with Hacktron to find vulnerabilities in OpenAI’s systems）</description>
   </item>
   <item>
-    <title>Anthropic IPO 买方估值低至 1.1 万亿美元</title>
-    <link>https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout</link>
-    <guid isPermaLink="false">bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>一级市场对头部模型公司的定价锚，影响融资与人才预期。（社区 · Hacker News · 原题 Anthropic IPO buyers see valuation as low as $1.1T）</description>
-  </item>
-  <item>
-    <title>OpenAI 评测 AI Agent 做湿实验室日常科研</title>
-    <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
-    <guid isPermaLink="false">openai.com/index/measuring-how-ai-agents-handle-wet-lab-science-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>把 Agent 评测推进到真实实验台，暴露落地边界与数据缺口。（官方 · OpenAI · 原题 Measuring how AI agents handle everyday wet-lab science）</description>
-  </item>
-  <item>
-    <title>ToyBlocks：机器人学习与评测的可控世界</title>
+    <title>ToyBlocks：面向机器人学习与评测的可控世界</title>
     <link>https://huggingface.co/blog/allenai/toyblocks</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/toyblocks-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>提供可复现的受控基准，缓解机器人学习评测难以对比的问题。（博客 · Hugging Face · 原题 ToyBlocks: A controlled world for robot learning and evaluation）</description>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/toyblocks-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>机器人学习缺可复现的评测环境，这个受控沙盒补上了对比实验的短板。（博客 · Hugging Face · 原题 ToyBlocks: A controlled world for robot learning and evaluation）</description>
   </item>
   <item>
-    <title>Cult.fit 用 Codex 构建运营能力</title>
-    <link>https://openai.com/index/cultfit-builds-with-codex</link>
-    <guid isPermaLink="false">openai.com/index/cultfit-builds-with-codex-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>真实企业落地案例，可看 Codex 在非工程流程中的实际收益。（官方 · OpenAI · 原题 Cult.fit builds operational muscle with Codex）</description>
+    <title>OpenAI 完成 110 亿美元融资，估值达 1.25 万亿美元</title>
+    <link>https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/</link>
+    <guid isPermaLink="false">247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>估值与融资规模再刷新，直接影响算力投入节奏与上下游议价预期。（社区 · Hacker News · 原题 OpenAI raises $11B at a $1.25T valuation）</description>
   </item>
   <item>
-    <title>Gemini Omni 1.2 Flash：更快更省，支持更长片段</title>
-    <link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-    <guid isPermaLink="false">deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>长片段加低成本，直接影响视频类应用的成本与产品设计。（官方 · DeepMind · 原题 Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips）</description>
+    <title>Muir：带敏感度分配门控与匹配滤波读出的线性注意力</title>
+    <link>https://huggingface.co/papers/2611.08376</link>
+    <guid isPermaLink="false">huggingface.co/papers/2611.08376-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>线性注意力在长序列效率上的新改进，值得关注推理成本优化的读者细读。（论文 · HF Papers · 原题 Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout）</description>
   </item>
   <item>
-    <title>Gemini Omni 1.2 Flash：更快更省，支持更长片段</title>
+    <title>Gemini Omni 1.2 Flash 现身社区讨论</title>
     <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>同一发布的重复条目，关注定价与时长上限的具体变化。（官方 · Google AI + Hacker News · 原题 Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips）</description>
-  </item>
-  <item>
-    <title>埃及与尼日利亚英语加入 Open ASR 榜单</title>
-    <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-    <guid isPermaLink="false">huggingface.co/blog/open-asr-leaderboard-liva-2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 03:03:15 GMT</pubDate>
-    <description>补齐非洲英语口音评测，做多语种语音产品需重看基线。（博客 · Hugging Face · 原题 Egyptian and Nigerian English join the Open ASR Leaderboard）</description>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash-2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 03:25:47 GMT</pubDate>
+    <description>新版本 Flash 型号的动向，关系到低成本高吞吐场景的模型选型。（社区 · Hacker News · 原题 Gemini Omni 1.2 Flash）</description>
   </item>
 </channel>
 </rss>
