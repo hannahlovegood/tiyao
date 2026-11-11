@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 10 Nov 2026 05:00:06 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 03:33:22 GMT</lastBuildDate>
   <item>
-    <title>Meta 开源设计系统 astryx，原生支持 agent</title>
+    <title>Meta 开源可定制、面向 Agent 的设计系统 Astryx</title>
     <link>https://github.com/meta/astryx</link>
-    <guid isPermaLink="false">github.com/meta/astryx-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>设计系统开始为 agent 而生，前端与 AI 协作方式或将被改写。（开源 · GitHub · 原题 meta/astryx）</description>
+    <guid isPermaLink="false">github.com/meta/astryx-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>Agent 交互界面缺标准，此项目或成前端接入 AI 的参考底座。（开源 · GitHub · 原题 meta/astryx）</description>
   </item>
   <item>
-    <title>Claude Fable 5.2 得分 65，创 Artificial Analysis 新高</title>
-    <link>https://artificialanalysis.ai/models/claude-fable-5-2</link>
-    <guid isPermaLink="false">artificialanalysis.ai/models/claude-fable-5-2-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>第三方基准刷新纪录，可作模型选型的硬参考。（社区 · Hacker News · 原题 Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far）</description>
+    <title>Gilbert + Tobin 用 AI 重塑法律业务</title>
+    <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
+    <guid isPermaLink="false">openai.com/index/gilbert-tobin-sam-nickless-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>律所落地案例，看专业服务如何重构计费与工作流。（官方 · OpenAI · 原题 Gilbert + Tobin rethinks the business of law with AI）</description>
   </item>
   <item>
-    <title>ChatGPT Enterprise 上架 AWS Marketplace</title>
-    <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-    <guid isPermaLink="false">openai.com/index/chatgpt-enterprise-aws-marketplace-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>采购走云市场账单，企业落地阻力显著降低。（官方 · OpenAI · 原题 ChatGPT Enterprise now available in AWS Marketplace）</description>
+    <title>Gemini Intelligence 新功能登陆更多设备</title>
+    <link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>端侧 AI 分发扩围，影响应用入口与硬件生态判断。（官方 · Google AI · 原题 Gemini Intelligence: New features, on more devices）</description>
   </item>
   <item>
-    <title>OpenAI 推出 Control Room，统一追踪并叫停模型任务</title>
-    <link>https://openai.com/index/control-room</link>
-    <guid isPermaLink="false">openai.com/index/control-room-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>大规模训练治理的工程范本，值得基础设施团队细读。（官方 · OpenAI · 原题 Control Room: A central system to track and stop model workloads across our research infrastructure）</description>
+    <title>OpenAI 帮助照护者把 AI 用于日常</title>
+    <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
+    <guid isPermaLink="false">openai.com/index/helping-caregivers-use-ai-in-everyday-life-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>垂直场景示范，看 AI 如何切入高频刚需人群。（官方 · OpenAI · 原题 Helping caregivers use AI in everyday life）</description>
   </item>
   <item>
-    <title>Gemini 被指将个人 Drive 文件与邮件转交人工标注</title>
-    <link>https://github.com/thisisme6598/gemini_files/</link>
-    <guid isPermaLink="false">github.com/thisisme6598/gemini_files-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>企业数据合规红线问题，部署前必须评估。（社区 · Hacker News · 原题 Google Gemini routes personal Drive files and emails to human annotators）</description>
+    <title>Gemini 4 Carbon 正式开放</title>
+    <link>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</link>
+    <guid isPermaLink="false">deepmind.google/blog/gemini-4-carbon-is-now-available-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>新模型可用性更新，直接影响选型与成本评估。（官方 · DeepMind · 原题 Gemini 4 Carbon is now available）</description>
   </item>
   <item>
-    <title>CodeRabbit 借 agent 开发提效，交付量增至 20 倍</title>
-    <link>https://openai.com/index/coderabbit-codex-daybreak</link>
-    <guid isPermaLink="false">openai.com/index/coderabbit-codex-daybreak-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>agent 编码的真实生产案例，含可复用的落地经验。（官方 · OpenAI · 原题 CodeRabbit scales agentic software development and ships 20x more）</description>
+    <title>ChatGPT 上线 Businesses 企业功能</title>
+    <link>https://openai.com/index/introducing-businesses-chatgpt</link>
+    <guid isPermaLink="false">openai.com/index/introducing-businesses-chatgpt-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>OpenAI 加速商业化，企业采购与集成路径生变。（官方 · OpenAI + Hacker News · 原题 Introducing Businesses in ChatGPT）</description>
   </item>
   <item>
-    <title>llm-anthropic 0.31 发布</title>
-    <link>https://simonwillison.net/2026/Nov/9/llm-anthropic/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/9/llm-anthropic-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>插件小幅更新，影响基于 LLM 的 Anthropic 调用链。（博客 · Simon Willison · 原题 llm-anthropic 0.31）</description>
+    <title>Google 应用接入 Adobe 创意与生产力工具</title>
+    <link>https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</link>
+    <guid isPermaLink="false">blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>办公套件与创作工具融合，生态竞争再升级。（官方 · Google AI · 原题 We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.）</description>
   </item>
   <item>
-    <title>用 Claude 定位神秘蜂鸣声的来源</title>
-    <link>https://simonwillison.net/2026/Nov/9/mysterious-beeps/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/9/mysterious-beeps-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>一次完整的 AI 辅助硬件排障实录，方法可直接借鉴。（博客 · Simon Willison · 原题 Locating the source of a mysterious beep with Claude）</description>
+    <title>Google Cloud 推出医疗版 Gemini</title>
+    <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>医疗合规场景落地，看行业 AI 商业化边界。（官方 · Google AI · 原题 Google Cloud launches Gemini for healthcare.）</description>
   </item>
   <item>
-    <title>Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2</title>
-    <link>https://www.anthropic.com/claude-fable-and-mythos-5-2</link>
-    <guid isPermaLink="false">anthropic.com/claude-fable-and-mythos-5-2-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>双模型同发，需看清各自定位再决定迁移。（官方 · Anthropic + Hacker News · 原题 Introducing Claude Fable 5.2 and Claude Mythos 5.2）</description>
+    <title>DeepMind 发布 AlphaProof Code，深度验证复杂软件</title>
+    <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-alphaproof-code-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>形式化验证突破，关乎关键软件可靠性与安全。（官方 · DeepMind · 原题 Introducing AlphaProof Code: a breakthrough in verifying complex software at depth）</description>
   </item>
   <item>
-    <title>Hugging Face 发布日本金融合成人格数据集</title>
-    <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/nemotron-personas-finance-japan-2026-11-10</guid>
-    <pubDate>Tue, 10 Nov 2026 05:00:06 GMT</pubDate>
-    <description>填补日语金融数据空白，可直接用于微调与评测。（博客 · Hugging Face · 原题 Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context）</description>
+    <title>Anthropic 启动 IPO 路演</title>
+    <link>https://www.anthropic.com/news/roadshow-launch</link>
+    <guid isPermaLink="false">anthropic.com/news/roadshow-launch-2026-11-11</guid>
+    <pubDate>Wed, 11 Nov 2026 03:33:22 GMT</pubDate>
+    <description>头部 AI 公司上市进程，牵动行业估值与资本节奏。（官方 · Anthropic · 原题 Anthropic launches roadshow for proposed initial public offering）</description>
   </item>
 </channel>
 </rss>
