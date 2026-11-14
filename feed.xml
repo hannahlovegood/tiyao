@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 13 Nov 2026 03:54:26 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 03:52:56 GMT</lastBuildDate>
   <item>
-    <title>Meta 开源可定制、面向 agent 的设计系统 astryx</title>
-    <link>https://github.com/meta/astryx</link>
-    <guid isPermaLink="false">github.com/meta/astryx-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>设计系统开始原生适配 agent，前端与 AI 工程协作方式或变。（开源 · GitHub · 原题 meta/astryx）</description>
+    <title>Google 开源现代 Web 指南，为编码 Agent 提供最佳实践</title>
+    <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
+    <guid isPermaLink="false">github.com/GoogleChrome/modern-web-guidance-src-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>让 AI 编码助手跟上最新 Web 规范，前端团队可直接接入。（开源 · GitHub · 原题 GoogleChrome/modern-web-guidance-src）</description>
   </item>
   <item>
-    <title>Amplitude 借 OpenAI 将产品迭代压缩至 1–2 天</title>
+    <title>OpenAI 推出 ChatGPT Wallet</title>
+    <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+    <guid isPermaLink="false">openai.com/index/introducing-chatgpt-wallet-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>支付能力进入 ChatGPT，或重塑 AI 应用商业化路径。（官方 · OpenAI · 原题 Introducing ChatGPT Wallet）</description>
+  </item>
+  <item>
+    <title>Shield 借助 OpenAI 帮技师交接遗留门户工作</title>
+    <link>https://openai.com/business/customer-stories/shield</link>
+    <guid isPermaLink="false">openai.com/business/customer-stories/shield-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>真实企业落地案例，展示 AI 如何接手老旧系统运维。（官方 · OpenAI · 原题 Shield helps technicians hand off legacy portal work with OpenAI）</description>
+  </item>
+  <item>
+    <title>用 SimReady 资产搭建机器人抓取仿真</title>
+    <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>降低机器人仿真门槛，开发者可快速验证抓取策略。（博客 · Hugging Face · 原题 Build a Robot Pick-and-Place Simulation with SimReady Assets）</description>
+  </item>
+  <item>
+    <title>XYBench：帮你看清问题背后的问题</title>
+    <link>https://huggingface.co/blog/allenai/xybench</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/xybench-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>新评测基准，揭示模型在真实任务中的隐性短板。（博客 · Hugging Face · 原题 XYBench: Helping with the problem behind the question）</description>
+  </item>
+  <item>
+    <title>llama.cpp v1.0.0：本地 AI 生态更稳固的基石</title>
+    <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+    <guid isPermaLink="false">huggingface.co/blog/ggml-org/llama-cpp-v1-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>本地推理核心库迎里程碑，部署与兼容性更可靠。（博客 · Hugging Face · 原题 llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem）</description>
+  </item>
+  <item>
+    <title>Amplitude 用 OpenAI 将产品改进压缩到 1–2 天</title>
     <link>https://openai.com/business/customer-stories/amplitude</link>
-    <guid isPermaLink="false">openai.com/business/customer-stories/amplitude-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>真实企业落地案例，可参考其缩短交付周期的具体路径。（官方 · OpenAI · 原题 How Amplitude ships product improvements in 1–2 days with OpenAI）</description>
-  </item>
-  <item>
-    <title>libreagi：为开源模型提供保存方案</title>
-    <link>https://libreagi.com/</link>
-    <guid isPermaLink="false">libreagi.com-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>模型权重管理痛点，关注开源部署者值得一看。（社区 · Lobste.rs · 原题 libreagi - save OS models）</description>
+    <guid isPermaLink="false">openai.com/business/customer-stories/amplitude-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>具体提效数据，为 AI 辅助研发提供可参照样本。（官方 · OpenAI · 原题 How Amplitude ships product improvements in 1–2 days with OpenAI）</description>
   </item>
   <item>
     <title>DeepMind 发布 Gemini 4 Hydrogen</title>
     <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-4-hydrogen-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>新一代模型发布，直接关系能力边界与选型判断。（官方 · DeepMind · 原题 Introducing Gemini 4 Hydrogen）</description>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-4-hydrogen-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>新一代模型登场，能力边界与竞品格局值得关注。（官方 · DeepMind · 原题 Introducing Gemini 4 Hydrogen）</description>
   </item>
   <item>
-    <title>Google 搜索接入 Gemini 4 Hydrogen 大升级</title>
+    <title>Google 搜索借 Gemini 4 Hydrogen 重大升级</title>
     <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>搜索入口级产品更新，影响流量与内容生态格局。（官方 · Google AI · 原题 Google Search gets a major upgrade with Gemini 4 Hydrogen）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>搜索入口接入新模型，直接影响流量与内容生态。（官方 · Google AI · 原题 Google Search gets a major upgrade with Gemini 4 Hydrogen）</description>
   </item>
   <item>
-    <title>Gondola 借 Codex 实现营收翻倍</title>
-    <link>https://openai.com/business/customer-stories/gondola</link>
-    <guid isPermaLink="false">openai.com/business/customer-stories/gondola-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>小团队用编码 agent 放大产出的可量化样本。（官方 · OpenAI · 原题 Gondola doubles revenue as its team builds more with Codex）</description>
-  </item>
-  <item>
-    <title>Holiday Extras 用 Codex 重思可构建的边界</title>
-    <link>https://openai.com/business/customer-stories/holidays-extras-codex</link>
-    <guid isPermaLink="false">openai.com/business/customer-stories/holidays-extras-codex-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>传统企业重构研发流程的实践，含组织层面启示。（官方 · OpenAI · 原题 Holiday Extras is rethinking what it can build with Codex）</description>
-  </item>
-  <item>
-    <title>Anthropic IPO 传闻引热议</title>
-    <link>https://ipo.anthropic.com/us/</link>
-    <guid isPermaLink="false">ipo.anthropic.com/us-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>头部 AI 公司资本动向，牵动行业估值与竞争节奏。（社区 · Hacker News · 原题 Anthropic IPO）</description>
-  </item>
-  <item>
-    <title>LLMON：LLM 原生标记语言登陆 Granite 4.1</title>
-    <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-    <guid isPermaLink="false">huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>面向模型的标记语言落地小模型，值得关注新范式。（博客 · Hugging Face · 原题 LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B）</description>
-  </item>
-  <item>
-    <title>llm-gemini 0.37 发布</title>
-    <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/12/llm-gemini-2026-11-13</guid>
-    <pubDate>Fri, 13 Nov 2026 03:54:26 GMT</pubDate>
-    <description>常用 CLI 插件更新，Gemini 开发者可快速跟进变化。（博客 · Simon Willison · 原题 llm-gemini 0.37）</description>
+    <title>libreagi：为操作系统模型提供保存方案</title>
+    <link>https://libreagi.com/</link>
+    <guid isPermaLink="false">libreagi.com-2026-11-14</guid>
+    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
+    <description>开源项目探索 OS 级模型持久化，值得跟踪。（社区 · Lobste.rs · 原题 libreagi - save OS models）</description>
   </item>
 </channel>
 </rss>
