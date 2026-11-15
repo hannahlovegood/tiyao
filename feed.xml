@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sat, 14 Nov 2026 03:52:56 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 03:34:57 GMT</lastBuildDate>
   <item>
-    <title>Google 开源现代 Web 指南，为编码 Agent 提供最佳实践</title>
+    <title>Google 开源 modern-web-guidance，为编码 Agent 注入最新 Web 最佳实践</title>
     <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
-    <guid isPermaLink="false">github.com/GoogleChrome/modern-web-guidance-src-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>让 AI 编码助手跟上最新 Web 规范，前端团队可直接接入。（开源 · GitHub · 原题 GoogleChrome/modern-web-guidance-src）</description>
+    <guid isPermaLink="false">github.com/GoogleChrome/modern-web-guidance-src-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>官方维护的 Web 规范源，可让 AI 编码助手少犯过时 API 错误。（开源 · GitHub · 原题 GoogleChrome/modern-web-guidance-src）</description>
+  </item>
+  <item>
+    <title>Datasette-llm 0.1a11 发布</title>
+    <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Nov/14/datasette-llm-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>在 Datasette 中直接调用 LLM 做数据探索，轻量工具链再进一步。（博客 · Simon Willison · 原题 datasette-llm 0.1a11）</description>
+  </item>
+  <item>
+    <title>阿里开源 open-code-review：大规模实战的混合架构代码审查工具</title>
+    <link>https://github.com/alibaba/open-code-review</link>
+    <guid isPermaLink="false">github.com/alibaba/open-code-review-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>经阿里规模验证的确定性流水线方案，可参考其工程取舍。（开源 · GitHub · 原题 alibaba/open-code-review）</description>
   </item>
   <item>
     <title>OpenAI 推出 ChatGPT Wallet</title>
     <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-    <guid isPermaLink="false">openai.com/index/introducing-chatgpt-wallet-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>支付能力进入 ChatGPT，或重塑 AI 应用商业化路径。（官方 · OpenAI · 原题 Introducing ChatGPT Wallet）</description>
+    <guid isPermaLink="false">openai.com/index/introducing-chatgpt-wallet-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>支付能力接入 ChatGPT，意味着 Agent 商业化闭环开始成形。（官方 · OpenAI + Hacker News · 原题 Introducing ChatGPT Wallet）</description>
   </item>
   <item>
-    <title>Shield 借助 OpenAI 帮技师交接遗留门户工作</title>
+    <title>Shield 用 OpenAI 帮技术员交接遗留门户工作</title>
     <link>https://openai.com/business/customer-stories/shield</link>
-    <guid isPermaLink="false">openai.com/business/customer-stories/shield-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>真实企业落地案例，展示 AI 如何接手老旧系统运维。（官方 · OpenAI · 原题 Shield helps technicians hand off legacy portal work with OpenAI）</description>
+    <guid isPermaLink="false">openai.com/business/customer-stories/shield-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>遗留系统交接的真实落地案例，可借鉴其流程拆解思路。（官方 · OpenAI · 原题 Shield helps technicians hand off legacy portal work with OpenAI）</description>
   </item>
   <item>
-    <title>用 SimReady 资产搭建机器人抓取仿真</title>
+    <title>用 SimReady 资产搭建机器人抓取放置仿真</title>
     <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>降低机器人仿真门槛，开发者可快速验证抓取策略。（博客 · Hugging Face · 原题 Build a Robot Pick-and-Place Simulation with SimReady Assets）</description>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>提供可复用的仿真资产与流程，降低机器人训练环境搭建门槛。（博客 · Hugging Face · 原题 Build a Robot Pick-and-Place Simulation with SimReady Assets）</description>
   </item>
   <item>
-    <title>XYBench：帮你看清问题背后的问题</title>
+    <title>XYBench：解决“问题背后的问题”</title>
     <link>https://huggingface.co/blog/allenai/xybench</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/xybench-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>新评测基准，揭示模型在真实任务中的隐性短板。（博客 · Hugging Face · 原题 XYBench: Helping with the problem behind the question）</description>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/xybench-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>新基准聚焦真实意图理解，提示评测正从答题转向任务对齐。（博客 · Hugging Face · 原题 XYBench: Helping with the problem behind the question）</description>
   </item>
   <item>
-    <title>llama.cpp v1.0.0：本地 AI 生态更稳固的基石</title>
+    <title>llama.cpp v1.0.0：本地 AI 生态迎来更稳固地基</title>
     <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-    <guid isPermaLink="false">huggingface.co/blog/ggml-org/llama-cpp-v1-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>本地推理核心库迎里程碑，部署与兼容性更可靠。（博客 · Hugging Face · 原题 llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem）</description>
+    <guid isPermaLink="false">huggingface.co/blog/ggml-org/llama-cpp-v1-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>首个正式版本号，本地推理的事实标准进入稳定维护期。（博客 · Hugging Face · 原题 llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem）</description>
   </item>
   <item>
-    <title>Amplitude 用 OpenAI 将产品改进压缩到 1–2 天</title>
+    <title>Amplitude 借助 OpenAI 将产品改进周期压缩至 1–2 天</title>
     <link>https://openai.com/business/customer-stories/amplitude</link>
-    <guid isPermaLink="false">openai.com/business/customer-stories/amplitude-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>具体提效数据，为 AI 辅助研发提供可参照样本。（官方 · OpenAI · 原题 How Amplitude ships product improvements in 1–2 days with OpenAI）</description>
+    <guid isPermaLink="false">openai.com/business/customer-stories/amplitude-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>具体交付提速数据，可作为评估 AI 编码投入产出的参照。（官方 · OpenAI · 原题 How Amplitude ships product improvements in 1–2 days with OpenAI）</description>
   </item>
   <item>
     <title>DeepMind 发布 Gemini 4 Hydrogen</title>
     <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-4-hydrogen-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>新一代模型登场，能力边界与竞品格局值得关注。（官方 · DeepMind · 原题 Introducing Gemini 4 Hydrogen）</description>
-  </item>
-  <item>
-    <title>Google 搜索借 Gemini 4 Hydrogen 重大升级</title>
-    <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>搜索入口接入新模型，直接影响流量与内容生态。（官方 · Google AI · 原题 Google Search gets a major upgrade with Gemini 4 Hydrogen）</description>
-  </item>
-  <item>
-    <title>libreagi：为操作系统模型提供保存方案</title>
-    <link>https://libreagi.com/</link>
-    <guid isPermaLink="false">libreagi.com-2026-11-14</guid>
-    <pubDate>Sat, 14 Nov 2026 03:52:56 GMT</pubDate>
-    <description>开源项目探索 OS 级模型持久化，值得跟踪。（社区 · Lobste.rs · 原题 libreagi - save OS models）</description>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-4-hydrogen-2026-11-15</guid>
+    <pubDate>Sun, 15 Nov 2026 03:34:57 GMT</pubDate>
+    <description>新一代模型发布，直接影响多模态能力选型与竞品格局。（官方 · DeepMind · 原题 Introducing Gemini 4 Hydrogen）</description>
   </item>
 </channel>
 </rss>
