@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 16 Nov 2026 03:34:20 GMT</lastBuildDate>
-  <item>
-    <title>Google 开源 Web 最佳实践库，为编码 Agent 供料</title>
-    <link>https://github.com/GoogleChrome/modern-web-guidance-src</link>
-    <guid isPermaLink="false">github.com/GoogleChrome/modern-web-guidance-src-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>让 AI 编码助手紧跟最新 Web 规范，前端团队可直接接入。（开源 · GitHub · 原题 GoogleChrome/modern-web-guidance-src）</description>
-  </item>
-  <item>
-    <title>OpenAI 发布格点标准模型研究新进展</title>
-    <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-    <guid isPermaLink="false">openai.com/index/step-toward-defining-the-standard-model-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>AI 辅助理论物理的实证，关注科学计算者可看方法论。（官方 · OpenAI · 原题 A step toward defining the Standard Model on a lattice）</description>
-  </item>
-  <item>
-    <title>OpenAI 上线科学专属博客</title>
-    <link>https://openai.com/index/our-new-blog-for-science</link>
-    <guid isPermaLink="false">openai.com/index/our-new-blog-for-science-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>官方释放科研方向信号，判断其学术合作与产品走向。（官方 · OpenAI · 原题 Our new blog for science）</description>
-  </item>
+  <lastBuildDate>Tue, 17 Nov 2026 05:31:36 GMT</lastBuildDate>
   <item>
     <title>Univer 开源 Office SDK，可自建 AI 办公套件</title>
     <link>https://github.com/dream-num/univer</link>
-    <guid isPermaLink="false">github.com/dream-num/univer-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>编辑、计算、协作一体，做 AI 办公产品的低成本底座。（开源 · GitHub · 原题 dream-num/univer）</description>
+    <guid isPermaLink="false">github.com/dream-num/univer-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>想给产品嵌入表格文档协作能力，这是可自托管的开源底座。（开源 · GitHub · 原题 dream-num/univer）</description>
   </item>
   <item>
-    <title>Datasette-agent 0.6a0 发布</title>
-    <link>https://simonwillison.net/2026/Nov/15/datasette-agent/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/15/datasette-agent-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>数据工具接入 Agent 的最新形态，数据工程师可试用。（博客 · Simon Willison · 原题 datasette-agent 0.6a0）</description>
+    <title>Claude Mythos 将 AMD GPU 适配软件工作压至三天</title>
+    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat</link>
+    <guid isPermaLink="false">tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>AI 编码代理真实缩短底层适配周期，硬件软件栈门槛在降。（社区 · Hacker News · 原题 Claude Mythos slashed software work to onboard AMD GPUs to around three days）</description>
   </item>
   <item>
-    <title>Datasette-llm 0.1a11 发布</title>
-    <link>https://simonwillison.net/2026/Nov/14/datasette-llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/14/datasette-llm-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>SQL 数据与 LLM 结合的插件更新，关注数据问答者可跟。（博客 · Simon Willison · 原题 datasette-llm 0.1a11）</description>
+    <title>OpenAI 扩大科学家使用 AI 的准入范围</title>
+    <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+    <guid isPermaLink="false">openai.com/index/expanding-chatgpt-for-academic-researchers-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>科研场景是模型厂商争夺的高价值入口，关注配额与工具变化。（官方 · OpenAI · 原题 Broadening access to AI for scientists）</description>
   </item>
   <item>
-    <title>Claude Code 交易技能包开源</title>
-    <link>https://github.com/tradermonty/claude-trading-skills</link>
-    <guid isPermaLink="false">github.com/tradermonty/claude-trading-skills-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>把 Agent 技能用于选股与图表分析，量化爱好者可参考。（开源 · GitHub · 原题 tradermonty/claude-trading-skills）</description>
+    <title>OpenAI 上线新工具打击网络儿童性虐待内容</title>
+    <link>https://openai.com/index/strengthening-online-child-safety</link>
+    <guid isPermaLink="false">openai.com/index/strengthening-online-child-safety-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>内容安全合规是平台落地硬约束，可参考其检测与上报机制。（官方 · OpenAI · 原题 Strengthening the fight against online child sexual abuse with new tools and support）</description>
   </item>
   <item>
-    <title>OpenAI 推出 ChatGPT Wallet</title>
-    <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-    <guid isPermaLink="false">openai.com/index/introducing-chatgpt-wallet-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>支付入口落地，关乎 Agent 商业化与电商生态走向。（官方 · OpenAI · 原题 Introducing ChatGPT Wallet）</description>
+    <title>Science at the Frontier：科学家如何用 ChatGPT</title>
+    <link>https://openai.com/index/science-at-the-frontier</link>
+    <guid isPermaLink="false">openai.com/index/science-at-the-frontier-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>一线科研用法案例，比基准分数更能判断模型实际可用边界。（官方 · OpenAI · 原题 Science at the Frontier: How scientists use ChatGPT）</description>
   </item>
   <item>
-    <title>HN 招聘帖跌至十二年低点，AI 覆盖半数岗位</title>
-    <link>https://www.hntrends.com/2026/november.html</link>
-    <guid isPermaLink="false">hntrends.com/2026/november.html-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>就业市场结构性信号，从业者判断岗位竞争与转型方向。（社区 · Hacker News · 原题 &quot;Who is Hiring?&quot; postings stuck near 12-year lows as AI reaches half of all jobs）</description>
+    <title>Google Ask Maps 新增假日出行规划功能</title>
+    <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>地图与生成式问答融合，是消费级 AI 落地最直接的样板。（官方 · Google AI · 原题 New Ask Maps features to help with holiday travel and prep）</description>
   </item>
   <item>
-    <title>你的 Agent 会挑那个能被黑的</title>
-    <link>https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/</link>
-    <guid isPermaLink="false">geoffstearns.com/blog/your-agent-will-pick-the-hackable-one-2026-11-16</guid>
-    <pubDate>Mon, 16 Nov 2026 03:34:20 GMT</pubDate>
-    <description>Agent 选型的安全盲区，做工具集成者需重估信任边界。（社区 · Hacker News · 原题 Your Agent Will Pick the Hackable One）</description>
+    <title>Simon Willison 发布 llm 0.37.3</title>
+    <link>https://simonwillison.net/2026/Nov/16/llm/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Nov/16/llm-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>命令行调用多模型的轻量工具更新，脚本化实验值得跟进。（博客 · Simon Willison · 原题 llm 0.37.3）</description>
+  </item>
+  <item>
+    <title>Hugging Face 联手 OpenRouter 简化开源权重模型运行</title>
+    <link>https://huggingface.co/blog/openrouter</link>
+    <guid isPermaLink="false">huggingface.co/blog/openrouter-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>开源模型分发与推理入口打通，降低选型到上线的摩擦。（博客 · Hugging Face · 原题 Hugging Face and OpenRouter join forces to make open-weight models easy to run）</description>
+  </item>
+  <item>
+    <title>Claude-BugHunter：82 项技能的漏洞挖掘技能包</title>
+    <link>https://github.com/elementalsouls/Claude-BugHunter</link>
+    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>红队与安全测试的代理技能编排范例，可借鉴其命令设计。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
+  </item>
+  <item>
+    <title>开源贡献是否该以「使用证明」为门槛？</title>
+    <link>https://lobste.rs/s/ki1l5r</link>
+    <guid isPermaLink="false">lobste.rs/s/ki1l5r-2026-11-17</guid>
+    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
+    <description>触及开源治理与维护者负担的核心争议，影响社区协作规则。（社区 · Lobste.rs · 原题 &quot;Proof of use&quot; as a requirement for open source contributions?）</description>
   </item>
 </channel>
 </rss>
