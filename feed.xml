@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 17 Nov 2026 05:31:36 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 04:57:18 GMT</lastBuildDate>
   <item>
-    <title>Univer 开源 Office SDK，可自建 AI 办公套件</title>
+    <title>obra/superpowers：可落地的智能体技能框架与开发方法论</title>
+    <link>https://github.com/obra/superpowers</link>
+    <guid isPermaLink="false">github.com/obra/superpowers-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>把 agent 能力工程化、方法化，可直接借鉴到团队开发流程。（开源 · GitHub · 原题 obra/superpowers）</description>
+  </item>
+  <item>
+    <title>Univer：用 Office SDK 自建 AI 办公套件</title>
     <link>https://github.com/dream-num/univer</link>
-    <guid isPermaLink="false">github.com/dream-num/univer-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>想给产品嵌入表格文档协作能力，这是可自托管的开源底座。（开源 · GitHub · 原题 dream-num/univer）</description>
+    <guid isPermaLink="false">github.com/dream-num/univer-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>编辑、计算、协作、文件处理一站式，适合做办公类 AI 产品底座。（开源 · GitHub · 原题 dream-num/univer）</description>
   </item>
   <item>
-    <title>Claude Mythos 将 AMD GPU 适配软件工作压至三天</title>
-    <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat</link>
-    <guid isPermaLink="false">tomshardware.com/tech-industry/artificial-intelligence/anthropic-says-claude-mythos-slashed-software-work-to-onboard-amd-gpus-from-up-to-12-months-to-around-three-days-writing-almost-100-percent-of-kernels-autonomously-chips-away-at-nvidias-cuda-moat-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>AI 编码代理真实缩短底层适配周期，硬件软件栈门槛在降。（社区 · Hacker News · 原题 Claude Mythos slashed software work to onboard AMD GPUs to around three days）</description>
+    <title>OpenAI 发布 GPT-6.2 Astra 与 Sol</title>
+    <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+    <guid isPermaLink="false">openai.com/index/introducing-gpt-6-2-astra-sol-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>新模型直接决定产品能力上限，需第一时间评估迁移与成本。（官方 · OpenAI + Hacker News · 原题 Introducing GPT-6.2 Astra and Sol）</description>
   </item>
   <item>
-    <title>OpenAI 扩大科学家使用 AI 的准入范围</title>
-    <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-    <guid isPermaLink="false">openai.com/index/expanding-chatgpt-for-academic-researchers-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>科研场景是模型厂商争夺的高价值入口，关注配额与工具变化。（官方 · OpenAI · 原题 Broadening access to AI for scientists）</description>
+    <title>Google 官方：让 Gemini 为你干活</title>
+    <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>看 Google 如何定位 Gemini 的实用场景，判断生态竞争格局。（官方 · Google AI · 原题 Put Gemini to work for you）</description>
   </item>
   <item>
-    <title>OpenAI 上线新工具打击网络儿童性虐待内容</title>
-    <link>https://openai.com/index/strengthening-online-child-safety</link>
-    <guid isPermaLink="false">openai.com/index/strengthening-online-child-safety-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>内容安全合规是平台落地硬约束，可参考其检测与上报机制。（官方 · OpenAI · 原题 Strengthening the fight against online child sexual abuse with new tools and support）</description>
+    <title>社区质疑：Anthropic 借 METR 实现监管俘获</title>
+    <link>https://nitter.cf/kevinnbass/status/2099621874279817638</link>
+    <guid isPermaLink="false">nitter.cf/kevinnbass/status/2099621874279817638-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>涉及 AI 监管话语权与利益博弈，影响行业规则走向。（社区 · Hacker News · 原题 Regulatory Capture by Anthropic Through METR）</description>
   </item>
   <item>
-    <title>Science at the Frontier：科学家如何用 ChatGPT</title>
-    <link>https://openai.com/index/science-at-the-frontier</link>
-    <guid isPermaLink="false">openai.com/index/science-at-the-frontier-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>一线科研用法案例，比基准分数更能判断模型实际可用边界。（官方 · OpenAI · 原题 Science at the Frontier: How scientists use ChatGPT）</description>
+    <title>OpenAI 推出面向销售场景的 ChatGPT</title>
+    <link>https://openai.com/index/introducing-chatgpt-for-sales</link>
+    <guid isPermaLink="false">openai.com/index/introducing-chatgpt-for-sales-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>垂直场景商业化落地样本，可参考其产品化与定价思路。（官方 · OpenAI · 原题 Introducing ChatGPT for Sales）</description>
   </item>
   <item>
-    <title>Google Ask Maps 新增假日出行规划功能</title>
+    <title>Simon Willison 评 GPT-6.2 Astra 与 Sol</title>
+    <link>https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Nov/17/gpt62-astra-and-sol-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>一线开发者的实测视角，比官方发布更贴近真实使用体验。（博客 · Simon Willison · 原题 GPT‑6.2 Astra and GPT‑6.2 Sol）</description>
+  </item>
+  <item>
+    <title>AG-UI：把 Agent 接入前端应用的交互协议</title>
+    <link>https://github.com/ag-ui-protocol/ag-ui</link>
+    <guid isPermaLink="false">github.com/ag-ui-protocol/ag-ui-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>补齐 agent 与 UI 的标准化接口，前端集成 agent 的重要参考。（开源 · GitHub · 原题 ag-ui-protocol/ag-ui）</description>
+  </item>
+  <item>
+    <title>OpenAI 用 AI 强化 NATO 及盟友网络防御</title>
+    <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
+    <guid isPermaLink="false">openai.com/index/strengthening-nato-allied-cyber-defences-ai-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>AI 安全进入国家级防务合作，关乎合规与地缘风险判断。（官方 · OpenAI · 原题 Strengthening NATO and allied cyber defenses with AI）</description>
+  </item>
+  <item>
+    <title>Google Ask Maps 新增假日出行准备功能</title>
     <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>地图与生成式问答融合，是消费级 AI 落地最直接的样板。（官方 · Google AI · 原题 New Ask Maps features to help with holiday travel and prep）</description>
-  </item>
-  <item>
-    <title>Simon Willison 发布 llm 0.37.3</title>
-    <link>https://simonwillison.net/2026/Nov/16/llm/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/16/llm-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>命令行调用多模型的轻量工具更新，脚本化实验值得跟进。（博客 · Simon Willison · 原题 llm 0.37.3）</description>
-  </item>
-  <item>
-    <title>Hugging Face 联手 OpenRouter 简化开源权重模型运行</title>
-    <link>https://huggingface.co/blog/openrouter</link>
-    <guid isPermaLink="false">huggingface.co/blog/openrouter-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>开源模型分发与推理入口打通，降低选型到上线的摩擦。（博客 · Hugging Face · 原题 Hugging Face and OpenRouter join forces to make open-weight models easy to run）</description>
-  </item>
-  <item>
-    <title>Claude-BugHunter：82 项技能的漏洞挖掘技能包</title>
-    <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>红队与安全测试的代理技能编排范例，可借鉴其命令设计。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
-  </item>
-  <item>
-    <title>开源贡献是否该以「使用证明」为门槛？</title>
-    <link>https://lobste.rs/s/ki1l5r</link>
-    <guid isPermaLink="false">lobste.rs/s/ki1l5r-2026-11-17</guid>
-    <pubDate>Tue, 17 Nov 2026 05:31:36 GMT</pubDate>
-    <description>触及开源治理与维护者负担的核心争议，影响社区协作规则。（社区 · Lobste.rs · 原题 &quot;Proof of use&quot; as a requirement for open source contributions?）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026-2026-11-18</guid>
+    <pubDate>Wed, 18 Nov 2026 04:57:18 GMT</pubDate>
+    <description>看 AI 如何改造地图类高频应用，消费级落地风向标。（官方 · Google AI · 原题 New Ask Maps features to help with holiday travel and prep）</description>
   </item>
 </channel>
 </rss>
