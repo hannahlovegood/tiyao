@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Thu, 19 Nov 2026 04:51:30 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 04:41:38 GMT</lastBuildDate>
   <item>
-    <title>Google 开源 PaperOrchestra：多智能体自动写 AI 论文</title>
-    <link>https://github.com/google-research/paper-orchestra</link>
-    <guid isPermaLink="false">github.com/google-research/paper-orchestra-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>自动生成研究论文的完整流水线，可窥见 AI 科研自动化的工程范式。（开源 · GitHub · 原题 google-research/paper-orchestra）</description>
+    <title>obra/superpowers：可落地的智能体技能框架与开发方法论</title>
+    <link>https://github.com/obra/superpowers</link>
+    <guid isPermaLink="false">github.com/obra/superpowers-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>开源智能体工程化范式，可直接借鉴其技能组织与开发流程。（开源 · GitHub · 原题 obra/superpowers）</description>
   </item>
   <item>
-    <title>Gemini 4 Neon 引爆 Hacker News 社区讨论</title>
-    <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>社区热度是模型真实口碑的先行指标，值得对照官方叙事看。（社区 · Hacker News · 原题 Gemini 4 Neon）</description>
+    <title>Anthropic 登陆纳斯达克</title>
+    <link>https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/</link>
+    <guid isPermaLink="false">reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>头部模型公司上市，估值与商业模式成行业风向标。（社区 · Hacker News · 原题 Anthropic’s Nasdaq debut）</description>
   </item>
   <item>
-    <title>DeepMind 正式发布 Gemini 4 Neon</title>
+    <title>Gemini API 推出 Tool Retrieval 功能</title>
+    <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>工具检索降低大工具集调用成本，直接影响 Agent 架构设计。（官方 · Google AI · 原题 Introducing Tool Retrieval in the Gemini API）</description>
+  </item>
+  <item>
+    <title>Walter Isaacson 谈 AI 时代的好奇心与创造力</title>
+    <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
+    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>传记名家视角，为 AI 与人类创造力关系提供叙事框架。（官方 · Google AI · 原题 Walter Isaacson on curiosity and creativity in the AI age.）</description>
+  </item>
+  <item>
+    <title>OpenAI 如何用 Performance Factory 保持 ChatGPT 高速</title>
+    <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+    <guid isPermaLink="false">openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>窥见超大规模推理性能工程实践，运维团队可参考。（官方 · OpenAI · 原题 How OpenAI’s Performance Factory keeps ChatGPT fast）</description>
+  </item>
+  <item>
+    <title>OpenAI 部署 Daybreak Red</title>
+    <link>https://openai.com/business/learn/deploying-daybreak-red</link>
+    <guid isPermaLink="false">openai.com/business/learn/deploying-daybreak-red-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>新模型/系统上线细节，关乎能力边界与安全策略。（官方 · OpenAI · 原题 Deploying Daybreak Red）</description>
+  </item>
+  <item>
+    <title>OpenAI PR 扫描功能实战演示</title>
+    <link>https://openai.com/business/learn/pr-scans-demo</link>
+    <guid isPermaLink="false">openai.com/business/learn/pr-scans-demo-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>代码审查自动化落地示例，评估其对研发流程的实际增益。（官方 · OpenAI · 原题 See PR scans in action）</description>
+  </item>
+  <item>
+    <title>DeepMind 发布 Gemini 4 Neon</title>
     <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
-    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-4-neon-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>新旗舰模型的能力边界与定价，直接决定下游产品选型。（官方 · DeepMind · 原题 Introducing Gemini 4 Neon）</description>
+    <guid isPermaLink="false">deepmind.google/blog/introducing-gemini-4-neon-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>新一代 Gemini 能力升级，影响模型选型与产品规划。（官方 · DeepMind · 原题 Introducing Gemini 4 Neon）</description>
   </item>
   <item>
-    <title>Genie 4 开放使用：世界模型再进一步</title>
+    <title>Claude-BugHunter：82 项技能的漏洞挖掘工具包</title>
+    <link>https://github.com/elementalsouls/Claude-BugHunter</link>
+    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>开源红队技能集，安全从业者可快速搭建 Claude 工作流。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
+  </item>
+  <item>
+    <title>Genie 4 正式开放</title>
     <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
-    <guid isPermaLink="false">deepmind.google/blog/genie-4-is-now-available-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>可交互世界模型开放，意味着具身与仿真训练成本可能重估。（官方 · DeepMind · 原题 Genie 4 is now available）</description>
-  </item>
-  <item>
-    <title>Gemini 应用下探低内存 Android 设备</title>
-    <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>端侧 AI 覆盖长尾机型，影响应用分发的用户基数假设。（官方 · Google AI · 原题 The Gemini app is now available on lower-memory Android devices.）</description>
-  </item>
-  <item>
-    <title>OpenAI 谈「沉默的共识」</title>
-    <link>https://openai.com/index/the-silent-consensus</link>
-    <guid isPermaLink="false">openai.com/index/the-silent-consensus-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>官方口径透露行业协作与治理取向，读懂监管风向的线索。（官方 · OpenAI · 原题 The Silent Consensus）</description>
-  </item>
-  <item>
-    <title>OpenAI：研究加速与「锯齿状前沿」</title>
-    <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
-    <guid isPermaLink="false">openai.com/index/research-acceleration-jagged-frontier-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>解释 AI 能力不均衡分布的成因，关乎产品落地的预期管理。（官方 · OpenAI · 原题 Research acceleration: The jagged frontier）</description>
-  </item>
-  <item>
-    <title>住友生命如何推动团队采用 ChatGPT Enterprise</title>
-    <link>https://openai.com/business/customer-stories/sumitomo-life</link>
-    <guid isPermaLink="false">openai.com/business/customer-stories/sumitomo-life-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>一线企业落地案例，比宣传更可信地展示组织变革路径。（官方 · OpenAI · 原题 How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise）</description>
-  </item>
-  <item>
-    <title>DaisyRose-27B：后训练效率的新前沿</title>
-    <link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
-    <guid isPermaLink="false">huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>后训练效率突破，直接降低小团队微调强模型的算力门槛。（博客 · Hugging Face · 原题 DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency）</description>
-  </item>
-  <item>
-    <title>为何你的微调任务比 FLOPs 算的慢得多</title>
-    <link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
-    <guid isPermaLink="false">huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time-2026-11-19</guid>
-    <pubDate>Thu, 19 Nov 2026 04:51:30 GMT</pubDate>
-    <description>拆解微调真实瓶颈，帮工程师避开性能估算的常见误区。（博客 · Hugging Face · 原题 Why your fine-tuning job takes longer than the FLOPs say）</description>
+    <guid isPermaLink="false">deepmind.google/blog/genie-4-is-now-available-2026-11-20</guid>
+    <pubDate>Fri, 20 Nov 2026 04:41:38 GMT</pubDate>
+    <description>世界模型新版本可用，关注其交互生成能力与落地场景。（官方 · DeepMind · 原题 Genie 4 is now available）</description>
   </item>
 </channel>
 </rss>
