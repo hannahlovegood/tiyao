@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Sun, 22 Nov 2026 03:51:19 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 04:29:37 GMT</lastBuildDate>
   <item>
-    <title>Claude-BugHunter：82项技能的红队漏洞猎手工具包</title>
+    <title>Claude-BugHunter：82 项技能的红队漏洞猎手工具包</title>
     <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>开源Claude Code技能包，直接复用于漏洞挖掘与外部红队实战。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
+    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>开源 Claude Code 技能包，直接复用于漏洞挖掘与红队外测。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
   </item>
   <item>
-    <title>OpenAI谈如何对抗对抗性蒸馏</title>
+    <title>2028 年 Anthropic 电力 87% 来自天然气、11% 来自煤</title>
+    <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
+    <guid isPermaLink="false">betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>揭示 AI 算力扩张的真实能源结构，碳排与选址判断的关键数据。（社区 · Hacker News · 原题 87% of the Anthropic power will come from gas and 11% from coal in 2028）</description>
+  </item>
+  <item>
+    <title>Perplexity 与智能：OpenAI 谈检索增强的下一步</title>
+    <link>https://openai.com/index/perplexity-and-intelligence</link>
+    <guid isPermaLink="false">openai.com/index/perplexity-and-intelligence-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>官方视角梳理检索与推理融合，做 RAG 产品者必读。（官方 · OpenAI · 原题 Perplexity and Intelligence）</description>
+  </item>
+  <item>
+    <title>对抗性蒸馏：OpenAI 谈模型窃取的攻防</title>
     <link>https://openai.com/index/combatting-adversarial-distillation</link>
-    <guid isPermaLink="false">openai.com/index/combatting-adversarial-distillation-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>模型蒸馏攻防的官方立场，关乎API滥用与模型保护策略。（官方 · OpenAI · 原题 Combatting adversarial distillation）</description>
+    <guid isPermaLink="false">openai.com/index/combatting-adversarial-distillation-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>模型蒸馏攻击的官方应对，涉及 API 风控与合规红线。（官方 · OpenAI · 原题 Combatting adversarial distillation）</description>
   </item>
   <item>
-    <title>Anthropic完成IPO及同步私募交割</title>
-    <link>https://www.anthropic.com/news/ipo-close</link>
-    <guid isPermaLink="false">anthropic.com/news/ipo-close-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>头部模型公司资本化落地，影响行业估值与竞争格局判断。（官方 · Anthropic · 原题 Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement）</description>
+    <title>superpowers：可落地的 agentic 技能框架与开发方法论</title>
+    <link>https://github.com/obra/superpowers</link>
+    <guid isPermaLink="false">github.com/obra/superpowers-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>给出可复用的 agent 工程范式，比零散 prompt 更成体系。（开源 · GitHub · 原题 obra/superpowers）</description>
   </item>
   <item>
-    <title>Hebbia用GPT-6 Astra提升金融研究效率</title>
-    <link>https://openai.com/business/customer-stories/hebbia</link>
-    <guid isPermaLink="false">openai.com/business/customer-stories/hebbia-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>金融场景落地案例，可参考其检索与推理工作流设计。（官方 · OpenAI · 原题 Hebbia sees improvements in financial research with GPT-6 Astra）</description>
+    <title>CLI-Anything：让所有软件成为 Agent 原生</title>
+    <link>https://github.com/HKUDS/CLI-Anything</link>
+    <guid isPermaLink="false">github.com/HKUDS/CLI-Anything-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>港大团队把 CLI 变成 agent 接口层，工具接入思路值得借鉴。（开源 · GitHub · 原题 HKUDS/CLI-Anything）</description>
   </item>
   <item>
-    <title>AI能否帮科学家锁定潜力药物候选</title>
-    <link>https://openai.com/index/introducing-medchembench</link>
-    <guid isPermaLink="false">openai.com/index/introducing-medchembench-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>药物发现中的AI实际边界，适合评估落地可行性。（官方 · OpenAI · 原题 Can AI help scientists identify promising drug candidates?）</description>
+    <title>扩散 Transformer 的 RL 后训练本质是激活引导</title>
+    <link>https://huggingface.co/papers/2611.26627</link>
+    <guid isPermaLink="false">huggingface.co/papers/2611.26627-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>重新解释 RL 微调机制，或改变扩散模型对齐的训练策略。（论文 · HF Papers · 原题 RL Post-Training in Diffusion Transformers Is Activation Steering）</description>
   </item>
   <item>
-    <title>Gemini API 推出工具检索功能</title>
-    <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>工具调用规模化后的检索方案，直接影响Agent架构设计。（官方 · Google AI · 原题 Introducing Tool Retrieval in the Gemini API）</description>
+    <title>为 LLM 驱动的权重空间编程训练视觉模型</title>
+    <link>https://huggingface.co/papers/2611.26408</link>
+    <guid isPermaLink="false">huggingface.co/papers/2611.26408-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>让 LLM 直接生成视觉模型权重，跨模态权重生成的新路径。（论文 · HF Papers · 原题 Training Vision Models for LLM-Driven Weight-Space Programming）</description>
   </item>
   <item>
-    <title>谷歌员工呼吁勿惩罚拒用AI的学校</title>
-    <link>https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/</link>
-    <guid isPermaLink="false">motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>内部伦理张力外溢，反映AI进校园的真实阻力。（社区 · Hacker News · 原题 Google workers tell their employer not to punish schools that don't want AI）</description>
+    <title>指令条件下的流程视频在线错误检测</title>
+    <link>https://huggingface.co/papers/2611.25567</link>
+    <guid isPermaLink="false">huggingface.co/papers/2611.25567-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>面向操作流程的实时纠错，工业与教学场景落地价值明确。（论文 · HF Papers · 原题 Online Mistake Detection in Instruction-Conditioned Procedural Video）</description>
   </item>
   <item>
-    <title>Walter Isaacson谈AI时代的好奇心与创造力</title>
-    <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
-    <guid isPermaLink="false">blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>传记作者的宏观视角，适合校准对创造力议题的判断。（官方 · Google AI · 原题 Walter Isaacson on curiosity and creativity in the AI age.）</description>
-  </item>
-  <item>
-    <title>Inkling 2 Mini 发布：本地部署的顶尖性能</title>
-    <link>https://huggingface.co/blog/inkling2mini</link>
-    <guid isPermaLink="false">huggingface.co/blog/inkling2mini-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>小模型本地化新选项，值得对比显存占用与推理成本。（博客 · Hugging Face · 原题 Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup）</description>
-  </item>
-  <item>
-    <title>Hugging Face 推出 harness adapters</title>
-    <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
-    <guid isPermaLink="false">huggingface.co/blog/harness-adapters-at-scale-2026-11-22</guid>
-    <pubDate>Sun, 22 Nov 2026 03:51:19 GMT</pubDate>
-    <description>适配器统一模型与工具链，可降本提效，工程侧值得试。（博客 · Hugging Face · 原题 Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost）</description>
+    <title>Agent 集群尝试攻克 P vs. NP</title>
+    <link>https://pequalnp.com/</link>
+    <guid isPermaLink="false">pequalnp.com-2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
+    <description>多智能体协作挑战数学难题，观察 agent 推理边界的实验。（社区 · Hacker News · 原题 Agent swarm trying to solve P vs. NP）</description>
   </item>
 </channel>
 </rss>
