@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Mon, 23 Nov 2026 04:29:37 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 07:24:20 GMT</lastBuildDate>
   <item>
-    <title>Claude-BugHunter：82 项技能的红队漏洞猎手工具包</title>
+    <title>Claude-BugHunter：84 项技能的漏洞挖掘工具包</title>
     <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>开源 Claude Code 技能包，直接复用于漏洞挖掘与红队外测。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
+    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>开源红队技能包，可直接接入 Claude Code 做外网渗透测试。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
   </item>
   <item>
-    <title>2028 年 Anthropic 电力 87% 来自天然气、11% 来自煤</title>
-    <link>https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</link>
-    <guid isPermaLink="false">betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>揭示 AI 算力扩张的真实能源结构，碳排与选址判断的关键数据。（社区 · Hacker News · 原题 87% of the Anthropic power will come from gas and 11% from coal in 2028）</description>
+    <title>Declare：为人与 AI 设计的 UI 语言</title>
+    <link>https://davidtemkin.github.io/declarelang/</link>
+    <guid isPermaLink="false">davidtemkin.github.io/declarelang-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>探索 AI 原生界面范式，前端与产品设计者可参考。（社区 · Hacker News · 原题 Declare is a UI language for you and your AI）</description>
   </item>
   <item>
-    <title>Perplexity 与智能：OpenAI 谈检索增强的下一步</title>
-    <link>https://openai.com/index/perplexity-and-intelligence</link>
-    <guid isPermaLink="false">openai.com/index/perplexity-and-intelligence-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>官方视角梳理检索与推理融合，做 RAG 产品者必读。（官方 · OpenAI · 原题 Perplexity and Intelligence）</description>
+    <title>OpenAI 与 Cisco 联合推出 Shirudo</title>
+    <link>https://openai.com/index/introducing-shirudo</link>
+    <guid isPermaLink="false">openai.com/index/introducing-shirudo-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>安全巨头联手模型厂商，企业 AI 安全落地风向标。（官方 · OpenAI + Hacker News · 原题 OpenAI and Cisco introduce Shirudo）</description>
   </item>
   <item>
-    <title>对抗性蒸馏：OpenAI 谈模型窃取的攻防</title>
-    <link>https://openai.com/index/combatting-adversarial-distillation</link>
-    <guid isPermaLink="false">openai.com/index/combatting-adversarial-distillation-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>模型蒸馏攻击的官方应对，涉及 API 风控与合规红线。（官方 · OpenAI · 原题 Combatting adversarial distillation）</description>
+    <title>Google 搜索更个性化，专属于你</title>
+    <link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>搜索个性化升级，直接影响 SEO 与内容分发策略。（官方 · Google AI · 原题 A more tailored Google Search that’s uniquely yours）</description>
   </item>
   <item>
-    <title>superpowers：可落地的 agentic 技能框架与开发方法论</title>
-    <link>https://github.com/obra/superpowers</link>
-    <guid isPermaLink="false">github.com/obra/superpowers-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>给出可复用的 agent 工程范式，比零散 prompt 更成体系。（开源 · GitHub · 原题 obra/superpowers）</description>
+    <title>DeepMind 用智能体与形式验证加速量子算法发现</title>
+    <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
+    <guid isPermaLink="false">deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>AI 加形式化验证做科研，可复用的自动化发现范式。（官方 · DeepMind · 原题 Finding faster quantum algorithms with agents and formal verification）</description>
   </item>
   <item>
-    <title>CLI-Anything：让所有软件成为 Agent 原生</title>
-    <link>https://github.com/HKUDS/CLI-Anything</link>
-    <guid isPermaLink="false">github.com/HKUDS/CLI-Anything-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>港大团队把 CLI 变成 agent 接口层，工具接入思路值得借鉴。（开源 · GitHub · 原题 HKUDS/CLI-Anything）</description>
+    <title>OpenAI 为法务团队推出互联智能方案</title>
+    <link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
+    <guid isPermaLink="false">openai.com/business/learn/connected-intelligence-for-in-house-legal-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>垂直行业落地样本，看模型厂商如何切企业法务场景。（官方 · OpenAI · 原题 Connected intelligence for in-house legal）</description>
   </item>
   <item>
-    <title>扩散 Transformer 的 RL 后训练本质是激活引导</title>
-    <link>https://huggingface.co/papers/2611.26627</link>
-    <guid isPermaLink="false">huggingface.co/papers/2611.26627-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>重新解释 RL 微调机制，或改变扩散模型对齐的训练策略。（论文 · HF Papers · 原题 RL Post-Training in Diffusion Transformers Is Activation Steering）</description>
+    <title>Richpanel 30 天自动化 50% 客服量</title>
+    <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
+    <guid isPermaLink="false">openai.com/business/customer-stories/richpanel-ai-customer-support-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>可量化的客服自动化案例，含落地节奏与 ROI 参考。（官方 · OpenAI · 原题 Richpanel helps companies automate 50% of support in 30 days）</description>
   </item>
   <item>
-    <title>为 LLM 驱动的权重空间编程训练视觉模型</title>
-    <link>https://huggingface.co/papers/2611.26408</link>
-    <guid isPermaLink="false">huggingface.co/papers/2611.26408-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>让 LLM 直接生成视觉模型权重，跨模态权重生成的新路径。（论文 · HF Papers · 原题 Training Vision Models for LLM-Driven Weight-Space Programming）</description>
+    <title>datasette-agent 0.7a1 发布</title>
+    <link>https://simonwillison.net/2026/Nov/24/datasette-agent/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Nov/24/datasette-agent-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>数据工具接入 agent 的新版本，关注其接口设计变化。（博客 · Simon Willison · 原题 datasette-agent 0.7a1）</description>
   </item>
   <item>
-    <title>指令条件下的流程视频在线错误检测</title>
-    <link>https://huggingface.co/papers/2611.25567</link>
-    <guid isPermaLink="false">huggingface.co/papers/2611.25567-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>面向操作流程的实时纠错，工业与教学场景落地价值明确。（论文 · HF Papers · 原题 Online Mistake Detection in Instruction-Conditioned Procedural Video）</description>
+    <title>GLM-5.4：首个 Loop Transformer 迈向通用编码</title>
+    <link>https://simonwillison.net/2026/Nov/23/glm-54/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Nov/23/glm-54-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>新架构尝试通用编码，值得关注其训练与评测细节。（博客 · Simon Willison · 原题 GLM-5.4: Toward Generalized Coding with Our First Loop Transformer）</description>
   </item>
   <item>
-    <title>Agent 集群尝试攻克 P vs. NP</title>
-    <link>https://pequalnp.com/</link>
-    <guid isPermaLink="false">pequalnp.com-2026-11-23</guid>
-    <pubDate>Mon, 23 Nov 2026 04:29:37 GMT</pubDate>
-    <description>多智能体协作挑战数学难题，观察 agent 推理边界的实验。（社区 · Hacker News · 原题 Agent swarm trying to solve P vs. NP）</description>
+    <title>RoboTrack：面向真实机器人操作的点跟踪</title>
+    <link>https://huggingface.co/blog/allenai/robotrack</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/robotrack-2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
+    <description>真机操作的点跟踪方案，机器人感知与操控可直接借鉴。（博客 · Hugging Face · 原题 RoboTrack: Point tracking for real-world robotic manipulation）</description>
   </item>
 </channel>
 </rss>

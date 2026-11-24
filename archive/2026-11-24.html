@@ -1,0 +1,319 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>提要 · 第 142 期 · 2026-11-24</title>
+<meta name="description" content="每天替你把 AI 世界读一遍，只留提要。每日 Top 10 AI 资讯，每条一句「为什么值得读」。">
+<meta property="og:title" content="提要 · AI DAILY DIGEST">
+<meta property="og:description" content="每天替你把 AI 世界读一遍，只留提要。">
+<link rel="alternate" type="application/rss+xml" title="提要" href="feed.xml">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%23161412'/%3E%3Ctext x='50' y='72' font-size='62' text-anchor='middle' fill='%23c9a962' font-family='serif'%3E%E6%8F%90%3C/text%3E%3C/svg%3E">
+<style>
+:root{
+  --paper:#f7f3ec; --ink:#1c1a17; --ink2:#57524a; --mut:#8d867b;
+  --gold:#8f6f2e; --line:#e2dbce; --line2:#cfc6b4;
+}
+@media (prefers-color-scheme: dark){
+  :root{--paper:#161412; --ink:#e8e2d6; --ink2:#b0a897; --mut:#7d7669; --gold:#c9a962; --line:#2b2823; --line2:#3d382f;}
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--paper); color:var(--ink);
+  font:16px/1.75 Georgia,"Songti SC","STSong","Noto Serif SC","Source Han Serif SC","SimSun",serif;
+}
+a{color:inherit; text-decoration:none}
+.wrap{max-width:720px; margin:0 auto; padding:0 22px 72px}
+
+/* ── 刊头 ── */
+header{text-align:center; padding:52px 0 0}
+.masthead{font-size:56px; line-height:1.1; letter-spacing:.18em; margin:0; font-weight:700; text-indent:.18em}
+.tagline{font-size:11px; letter-spacing:.42em; text-indent:.42em; color:var(--gold); margin:10px 0 0; text-transform:uppercase}
+.rule{border:0; border-top:1px solid var(--ink); margin:26px 0 0; position:relative}
+.rule+.rule{border-top:1px solid var(--line2); margin-top:3px}
+.issue{display:flex; justify-content:space-between; gap:8px; flex-wrap:wrap; font-size:12.5px; color:var(--ink2); padding:10px 0; letter-spacing:.06em}
+.issue b{color:var(--ink); font-weight:400}
+.motto{font-size:14px; color:var(--ink2); margin:34px 0 0; letter-spacing:.12em}
+
+/* ── 头条 ── */
+.lead{margin:44px 0 8px; padding-bottom:36px; border-bottom:1px solid var(--line)}
+.kind{font-size:11px; letter-spacing:.28em; color:var(--gold); margin-bottom:12px}
+.lead h2{font-size:30px; line-height:1.45; margin:0 0 10px; font-weight:700}
+.lead h2 a:hover,.item h3 a:hover{border-bottom:1px solid var(--gold)}
+.orig{font-size:13px; color:var(--mut); font-style:italic; margin-bottom:10px; overflow-wrap:anywhere}
+.why{font-size:15px; color:var(--ink2); margin:8px 0 0}
+.why::before{content:"── "; color:var(--gold)}
+
+/* ── 条目 ── */
+.item{display:flex; gap:20px; padding:30px 0; border-bottom:1px solid var(--line)}
+.no{font-size:26px; color:var(--line2); font-style:italic; min-width:44px; line-height:1.3}
+.item h3{font-size:19.5px; line-height:1.5; margin:0 0 6px; font-weight:700}
+.item .why{font-size:14px}
+.item .kind{margin-bottom:8px}
+
+/* ── 订阅 ── */
+.subscribe{margin:56px 0 0; padding:34px 30px; border:1px solid var(--line2); text-align:center}
+.subscribe h4{margin:0 0 8px; font-size:17px; letter-spacing:.2em}
+.subscribe p{margin:0 0 18px; font-size:13.5px; color:var(--ink2)}
+.rss{display:inline-block; border:1px solid var(--gold); color:var(--gold); padding:9px 26px; font-size:13px; letter-spacing:.18em; cursor:pointer; background:none; font-family:inherit}
+.rss:hover{background:var(--gold); color:var(--paper)}
+.hint{font-size:12px; color:var(--mut); margin-top:12px; overflow-wrap:anywhere}
+
+/* ── 候选池 / 往期 ── */
+details{margin-top:48px}
+summary{cursor:pointer; font-size:13px; color:var(--mut); letter-spacing:.1em}
+.row{padding:7px 0; border-bottom:1px solid var(--line); font-size:13.5px; overflow-wrap:anywhere}
+.row span{color:var(--line2); font-style:italic; margin-right:6px}
+.row em{color:var(--mut); font-size:12px; font-style:normal; margin-left:6px}
+.row a:hover{color:var(--gold)}
+.past{display:flex; flex-direction:column; gap:6px; padding-top:10px; font-size:13.5px}
+.past a:hover{color:var(--gold)}
+
+footer{margin-top:64px; padding-top:18px; border-top:1px solid var(--ink); font-size:12px; color:var(--mut); display:flex; justify-content:space-between; flex-wrap:wrap; gap:6px; letter-spacing:.05em}
+footer a{border-bottom:1px solid var(--line2)}
+footer a:hover{color:var(--gold)}
+
+@media (max-width:520px){
+  .masthead{font-size:42px}
+  .lead h2{font-size:24px}
+  .item{gap:14px}
+  .no{min-width:34px; font-size:21px}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1 class="masthead">提要</h1>
+  <p class="tagline">AI DAILY DIGEST</p>
+  <hr class="rule"><hr class="rule">
+  <div class="issue">
+    <span>第 <b>142</b> 期</span>
+    <span>2026 年 11 月 24 日 · 星期二</span>
+    <span>8 源 51 条 → 精选 <b>10</b></span>
+  </div>
+  <p class="motto">每天替你把 AI 世界读一遍，只留提要。</p>
+</header>
+
+<main>
+
+<article class="lead">
+  <div class="kind">今日头条 · 开源 · GitHub</div>
+  <h2><a href="https://github.com/elementalsouls/Claude-BugHunter" target="_blank" rel="noopener noreferrer">Claude-BugHunter：84 项技能的漏洞挖掘工具包</a></h2>
+  <div class="orig">elementalsouls/Claude-BugHunter</div>
+  <p class="why">开源红队技能包，可直接接入 Claude Code 做外网渗透测试。</p>
+</article>
+
+<article class="item">
+  <div class="no">02</div>
+  <div class="body">
+    <div class="kind">社区 · Hacker News</div>
+    <h3><a href="https://davidtemkin.github.io/declarelang/" target="_blank" rel="noopener noreferrer">Declare：为人与 AI 设计的 UI 语言</a></h3>
+    <div class="orig">Declare is a UI language for you and your AI</div>
+    <p class="why">探索 AI 原生界面范式，前端与产品设计者可参考。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">03</div>
+  <div class="body">
+    <div class="kind">官方 · OpenAI + Hacker News</div>
+    <h3><a href="https://openai.com/index/introducing-shirudo" target="_blank" rel="noopener noreferrer">OpenAI 与 Cisco 联合推出 Shirudo</a></h3>
+    <div class="orig">OpenAI and Cisco introduce Shirudo</div>
+    <p class="why">安全巨头联手模型厂商，企业 AI 安全落地风向标。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">04</div>
+  <div class="body">
+    <div class="kind">官方 · Google AI</div>
+    <h3><a href="https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/" target="_blank" rel="noopener noreferrer">Google 搜索更个性化，专属于你</a></h3>
+    <div class="orig">A more tailored Google Search that’s uniquely yours</div>
+    <p class="why">搜索个性化升级，直接影响 SEO 与内容分发策略。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">05</div>
+  <div class="body">
+    <div class="kind">官方 · DeepMind</div>
+    <h3><a href="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/" target="_blank" rel="noopener noreferrer">DeepMind 用智能体与形式验证加速量子算法发现</a></h3>
+    <div class="orig">Finding faster quantum algorithms with agents and formal verification</div>
+    <p class="why">AI 加形式化验证做科研，可复用的自动化发现范式。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">06</div>
+  <div class="body">
+    <div class="kind">官方 · OpenAI</div>
+    <h3><a href="https://openai.com/business/learn/connected-intelligence-for-in-house-legal" target="_blank" rel="noopener noreferrer">OpenAI 为法务团队推出互联智能方案</a></h3>
+    <div class="orig">Connected intelligence for in-house legal</div>
+    <p class="why">垂直行业落地样本，看模型厂商如何切企业法务场景。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">07</div>
+  <div class="body">
+    <div class="kind">官方 · OpenAI</div>
+    <h3><a href="https://openai.com/business/customer-stories/richpanel-ai-customer-support" target="_blank" rel="noopener noreferrer">Richpanel 30 天自动化 50% 客服量</a></h3>
+    <div class="orig">Richpanel helps companies automate 50% of support in 30 days</div>
+    <p class="why">可量化的客服自动化案例，含落地节奏与 ROI 参考。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">08</div>
+  <div class="body">
+    <div class="kind">博客 · Simon Willison</div>
+    <h3><a href="https://simonwillison.net/2026/Nov/24/datasette-agent/" target="_blank" rel="noopener noreferrer">datasette-agent 0.7a1 发布</a></h3>
+    <div class="orig">datasette-agent 0.7a1</div>
+    <p class="why">数据工具接入 agent 的新版本，关注其接口设计变化。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">09</div>
+  <div class="body">
+    <div class="kind">博客 · Simon Willison</div>
+    <h3><a href="https://simonwillison.net/2026/Nov/23/glm-54/" target="_blank" rel="noopener noreferrer">GLM-5.4：首个 Loop Transformer 迈向通用编码</a></h3>
+    <div class="orig">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</div>
+    <p class="why">新架构尝试通用编码，值得关注其训练与评测细节。</p>
+  </div>
+</article>
+
+<article class="item">
+  <div class="no">10</div>
+  <div class="body">
+    <div class="kind">博客 · Hugging Face</div>
+    <h3><a href="https://huggingface.co/blog/allenai/robotrack" target="_blank" rel="noopener noreferrer">RoboTrack：面向真实机器人操作的点跟踪</a></h3>
+    <div class="orig">RoboTrack: Point tracking for real-world robotic manipulation</div>
+    <p class="why">真机操作的点跟踪方案，机器人感知与操控可直接借鉴。</p>
+  </div>
+</article>
+
+<section class="subscribe">
+  <h4>订　阅</h4>
+  <p>每天早晨八点（北京时间）自动出刊。用任意 RSS 阅读器（Follow、Feedly、NetNewsWire）即可订阅。</p>
+  <button class="rss" id="rss-btn" type="button">复制 RSS 订阅链接</button>
+  <div class="hint" id="rss-hint">feed.xml</div>
+</section>
+
+<details>
+  <summary>完整候选池（50 条，按分数排序，展示前 60）</summary>
+  <div class="row"><span>01</span> <a href="https://github.com/elementalsouls/Claude-BugHunter" target="_blank" rel="noopener noreferrer">elementalsouls/Claude-BugHunter</a> <em>开源 · 100 分</em></div>
+<div class="row"><span>02</span> <a href="https://davidtemkin.github.io/declarelang/" target="_blank" rel="noopener noreferrer">Declare is a UI language for you and your AI</a> <em>社区 · 93 分</em></div>
+<div class="row"><span>03</span> <a href="https://openai.com/index/introducing-shirudo" target="_blank" rel="noopener noreferrer">OpenAI and Cisco introduce Shirudo</a> <em>官方 · 86 分</em></div>
+<div class="row"><span>04</span> <a href="https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/" target="_blank" rel="noopener noreferrer">A more tailored Google Search that’s uniquely yours</a> <em>官方 · 78 分</em></div>
+<div class="row"><span>05</span> <a href="https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/" target="_blank" rel="noopener noreferrer">Finding faster quantum algorithms with agents and formal verification</a> <em>官方 · 78 分</em></div>
+<div class="row"><span>06</span> <a href="https://openai.com/business/learn/connected-intelligence-for-in-house-legal" target="_blank" rel="noopener noreferrer">Connected intelligence for in-house legal</a> <em>官方 · 76 分</em></div>
+<div class="row"><span>07</span> <a href="https://openai.com/business/customer-stories/richpanel-ai-customer-support" target="_blank" rel="noopener noreferrer">Richpanel helps companies automate 50% of support in 30 days</a> <em>官方 · 76 分</em></div>
+<div class="row"><span>08</span> <a href="https://simonwillison.net/2026/Nov/24/datasette-agent/" target="_blank" rel="noopener noreferrer">datasette-agent 0.7a1</a> <em>博客 · 75 分</em></div>
+<div class="row"><span>09</span> <a href="https://simonwillison.net/2026/Nov/23/glm-54/" target="_blank" rel="noopener noreferrer">GLM-5.4: Toward Generalized Coding with Our First Loop Transformer</a> <em>博客 · 72 分</em></div>
+<div class="row"><span>10</span> <a href="https://huggingface.co/blog/allenai/robotrack" target="_blank" rel="noopener noreferrer">RoboTrack: Point tracking for real-world robotic manipulation</a> <em>博客 · 72 分</em></div>
+<div class="row"><span>11</span> <a href="https://claude.com/resources/articles/introducing-claude-ship" target="_blank" rel="noopener noreferrer">Claude Ship</a> <em>社区 · 65 分</em></div>
+<div class="row"><span>12</span> <a href="https://huggingface.co/blog/agentic-evals" target="_blank" rel="noopener noreferrer">How to build and maintain an agentic evaluation</a> <em>博客 · 61 分</em></div>
+<div class="row"><span>13</span> <a href="https://huggingface.co/papers/2611.29897" target="_blank" rel="noopener noreferrer">Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control</a> <em>论文 · 59 分</em></div>
+<div class="row"><span>14</span> <a href="https://arxiv.org/abs/2602.20031" target="_blank" rel="noopener noreferrer">Latent Introspection: LLMs Can Detect Prior Concept Injections</a> <em>社区 · 56 分</em></div>
+<div class="row"><span>15</span> <a href="https://openai.com/index/perplexity-and-intelligence" target="_blank" rel="noopener noreferrer">Perplexity and Intelligence</a> <em>官方 · 56 分</em></div>
+<div class="row"><span>16</span> <a href="https://github.com/zhouxiaoka/autoclip" target="_blank" rel="noopener noreferrer">zhouxiaoka/autoclip</a> <em>开源 · 39 分</em></div>
+<div class="row"><span>17</span> <a href="https://github.com/obra/superpowers" target="_blank" rel="noopener noreferrer">obra/superpowers</a> <em>开源 · 36 分</em></div>
+<div class="row"><span>18</span> <a href="https://github.com/jingyaogong/minimind" target="_blank" rel="noopener noreferrer">jingyaogong/minimind</a> <em>开源 · 35 分</em></div>
+<div class="row"><span>19</span> <a href="https://github.com/mvanhorn/last30days-skill" target="_blank" rel="noopener noreferrer">mvanhorn/last30days-skill</a> <em>开源 · 33 分</em></div>
+<div class="row"><span>20</span> <a href="https://github.com/HKUDS/CLI-Anything" target="_blank" rel="noopener noreferrer">HKUDS/CLI-Anything</a> <em>开源 · 33 分</em></div>
+<div class="row"><span>21</span> <a href="https://github.com/mjmirza/app-store-compliance" target="_blank" rel="noopener noreferrer">mjmirza/app-store-compliance</a> <em>开源 · 31 分</em></div>
+<div class="row"><span>22</span> <a href="https://huggingface.co/papers/2611.30013" target="_blank" rel="noopener noreferrer">3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets</a> <em>论文 · 28 分</em></div>
+<div class="row"><span>23</span> <a href="https://github.com/cathrynlavery/diagram-design" target="_blank" rel="noopener noreferrer">cathrynlavery/diagram-design</a> <em>开源 · 24 分</em></div>
+<div class="row"><span>24</span> <a href="https://github.com/Tracer-Cloud/opensre" target="_blank" rel="noopener noreferrer">Tracer-Cloud/opensre</a> <em>开源 · 14 分</em></div>
+<div class="row"><span>25</span> <a href="https://github.com/google-labs-code/stitch-skills" target="_blank" rel="noopener noreferrer">google-labs-code/stitch-skills</a> <em>开源 · 13 分</em></div>
+<div class="row"><span>26</span> <a href="https://huggingface.co/papers/2611.29338" target="_blank" rel="noopener noreferrer">A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation</a> <em>论文 · 10 分</em></div>
+<div class="row"><span>27</span> <a href="https://huggingface.co/papers/2611.31115" target="_blank" rel="noopener noreferrer">RUIBench: What Makes a Good Robot-Use Interface?</a> <em>论文 · 8 分</em></div>
+<div class="row"><span>28</span> <a href="https://huggingface.co/papers/2611.28202" target="_blank" rel="noopener noreferrer">AutoPILOT: A Visual Agent Harness for Real-Time Gameplay</a> <em>论文 · 7 分</em></div>
+<div class="row"><span>29</span> <a href="https://huggingface.co/papers/2611.29238" target="_blank" rel="noopener noreferrer">GameAnything: From Any Inspirations to Playable Game Worlds</a> <em>论文 · 7 分</em></div>
+<div class="row"><span>30</span> <a href="https://huggingface.co/papers/2611.30989" target="_blank" rel="noopener noreferrer">WorldLeague: Benchmarking Physical Agency</a> <em>论文 · 7 分</em></div>
+<div class="row"><span>31</span> <a href="https://twitter.com/openrouter/status/2124925631012209137" target="_blank" rel="noopener noreferrer">OpenRouter users spent more $ on models from Google than OpenAI last week</a> <em>社区 · 6 分</em></div>
+<div class="row"><span>32</span> <a href="https://github.com/NPC-Worldwide/incognide" target="_blank" rel="noopener noreferrer">Incognide, the AI-native IDE for research and development, reaches 500 gh stars</a> <em>社区 · 5 分</em></div>
+<div class="row"><span>33</span> <a href="https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26" target="_blank" rel="noopener noreferrer">Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in</a> <em>社区 · 4 分</em></div>
+<div class="row"><span>34</span> <a href="https://www.reddit.com/r/RedditEng/comments/1y3wbkw/we_let_ai_approve_prs_at_reddit_heres_what/" target="_blank" rel="noopener noreferrer">r/RedditEngin: We Let AI Approve PRs at Reddit. Here's What Happened</a> <em>社区 · 4 分</em></div>
+<div class="row"><span>35</span> <a href="https://huggingface.co/papers/2611.27689" target="_blank" rel="noopener noreferrer">Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation</a> <em>论文 · 3 分</em></div>
+<div class="row"><span>36</span> <a href="https://linch.substack.com/p/ai-is-already-massively-speeding" target="_blank" rel="noopener noreferrer">AI is massively speeding up AI research</a> <em>社区 · 3 分</em></div>
+<div class="row"><span>37</span> <a href="https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html" target="_blank" rel="noopener noreferrer">Don't Play Anthropic's Game</a> <em>社区 · 3 分</em></div>
+<div class="row"><span>38</span> <a href="https://huggingface.co/papers/2611.28618" target="_blank" rel="noopener noreferrer">Distilling Visual Agents from Limited Interaction Experience</a> <em>论文 · 2 分</em></div>
+<div class="row"><span>39</span> <a href="https://huggingface.co/papers/2611.30207" target="_blank" rel="noopener noreferrer">What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym</a> <em>论文 · 2 分</em></div>
+<div class="row"><span>40</span> <a href="https://huggingface.co/papers/2611.30813" target="_blank" rel="noopener noreferrer">HIVE-Bench: Evaluating Patch-Level Visual Representations for Egocentric Robot Manipulation</a> <em>论文 · 2 分</em></div>
+<div class="row"><span>41</span> <a href="https://github.com/StockGorilla/skill-scan" target="_blank" rel="noopener noreferrer">Toolfence-scan – static checks for Cursor/Claude/Copilot skills</a> <em>社区 · 2 分</em></div>
+<div class="row"><span>42</span> <a href="https://huggingface.co/papers/2611.30581" target="_blank" rel="noopener noreferrer">A Pipeline-Parallel System for Depth-Recurrent Models</a> <em>论文 · 2 分</em></div>
+<div class="row"><span>43</span> <a href="https://www.windowslatest.com/2026/11/23/the-thing-that-hit-us-satya-nadella-admits-vs-code-faded-in-six-months-after-a-decade-on-top-because-of-claude-code-and-some-developers-say-theyve-stopped-opening-it/" target="_blank" rel="noopener noreferrer">&quot;IDEs kind of faded away&quot; – Nadella on VS Studio, as Claude Code takes the lead</a> <em>社区 · 1 分</em></div>
+<div class="row"><span>44</span> <a href="https://github.com/SandeepAi369/Agent-first-browse" target="_blank" rel="noopener noreferrer">Show HN: Agent-first-browse – Web automation with delta snapshots and LangGraph</a> <em>社区 · 1 分</em></div>
+<div class="row"><span>45</span> <a href="https://echo.ls/zden-level-halv/" target="_blank" rel="noopener noreferrer">Gemini 4 Neon solves Bitcoin puzzle from 2024</a> <em>社区 · 1 分</em></div>
+<div class="row"><span>46</span> <a href="https://huggingface.co/papers/2611.27319" target="_blank" rel="noopener noreferrer">SAVIOR: Sample-efficient Adaptation of Vision-Language Models for OCR Representation</a> <em>论文 · 1 分</em></div>
+<div class="row"><span>47</span> <a href="https://huggingface.co/papers/2611.31048" target="_blank" rel="noopener noreferrer">Distill the Correction, Not the Rewrite: Hindsight Twins for Self-Improving Text-to-Image Models</a> <em>论文 · 0 分</em></div>
+<div class="row"><span>48</span> <a href="https://huggingface.co/papers/2611.30771" target="_blank" rel="noopener noreferrer">GameDojo: Benchmarking Real-Time Interactive Agents in Video Games</a> <em>论文 · 0 分</em></div>
+<div class="row"><span>49</span> <a href="https://notnottalmud.substack.com/p/the-lottery-of-career-success-or" target="_blank" rel="noopener noreferrer">The lottery of career success: or why you may want to bribe OpenAI</a> <em>社区 · 0 分</em></div>
+<div class="row"><span>50</span> <a href="https://github.com/openvinotoolkit/openvino" target="_blank" rel="noopener noreferrer">openvinotoolkit/openvino</a> <em>开源 · 0 分</em></div>
+</details>
+
+<details open>
+  <summary>往期（141 期）</summary>
+  <div class="past"><a href="archive/2026-11-23.html">第 141 期 · 2026-11-23</a>
+<a href="archive/2026-11-22.html">第 140 期 · 2026-11-22</a>
+<a href="archive/2026-11-21.html">第 139 期 · 2026-11-21</a>
+<a href="archive/2026-11-20.html">第 138 期 · 2026-11-20</a>
+<a href="archive/2026-11-19.html">第 137 期 · 2026-11-19</a>
+<a href="archive/2026-11-18.html">第 136 期 · 2026-11-18</a>
+<a href="archive/2026-11-17.html">第 135 期 · 2026-11-17</a>
+<a href="archive/2026-11-16.html">第 134 期 · 2026-11-16</a>
+<a href="archive/2026-11-15.html">第 133 期 · 2026-11-15</a>
+<a href="archive/2026-11-14.html">第 132 期 · 2026-11-14</a>
+<a href="archive/2026-11-13.html">第 131 期 · 2026-11-13</a>
+<a href="archive/2026-11-12.html">第 130 期 · 2026-11-12</a>
+<a href="archive/2026-11-11.html">第 129 期 · 2026-11-11</a>
+<a href="archive/2026-11-10.html">第 128 期 · 2026-11-10</a>
+<a href="archive/2026-11-09.html">第 127 期 · 2026-11-09</a>
+<a href="archive/2026-11-08.html">第 126 期 · 2026-11-08</a>
+<a href="archive/2026-11-07.html">第 125 期 · 2026-11-07</a>
+<a href="archive/2026-11-06.html">第 124 期 · 2026-11-06</a>
+<a href="archive/2026-11-05.html">第 123 期 · 2026-11-05</a>
+<a href="archive/2026-11-04.html">第 122 期 · 2026-11-04</a>
+<a href="archive/2026-11-03.html">第 121 期 · 2026-11-03</a>
+<a href="archive/2026-11-02.html">第 120 期 · 2026-11-02</a>
+<a href="archive/2026-11-01.html">第 119 期 · 2026-11-01</a>
+<a href="archive/2026-10-31.html">第 118 期 · 2026-10-31</a>
+<a href="archive/2026-10-30.html">第 117 期 · 2026-10-30</a>
+<a href="archive/2026-10-29.html">第 116 期 · 2026-10-29</a>
+<a href="archive/2026-10-28.html">第 115 期 · 2026-10-28</a>
+<a href="archive/2026-10-27.html">第 114 期 · 2026-10-27</a>
+<a href="archive/2026-10-26.html">第 113 期 · 2026-10-26</a>
+<a href="archive/2026-10-25.html">第 112 期 · 2026-10-25</a></div>
+</details>
+</main>
+
+<footer>
+  <span>提要 · 抓取 → 去重 → 打分 → 精选，每日自动出刊</span>
+  <span><a href="https://github.com/hannahlovegood/tiyao" target="_blank" rel="noopener noreferrer">源码</a> · <a href="feed.xml">RSS</a></span>
+</footer>
+
+</div>
+<script>
+(function(){
+  var btn=document.getElementById('rss-btn'),hint=document.getElementById('rss-hint');
+  var url=new URL('feed.xml',location.href).href;
+  hint.textContent=url;
+  btn.addEventListener('click',function(){
+    function ok(){btn.textContent='已复制 ✓';setTimeout(function(){btn.textContent='复制 RSS 订阅链接'},1600)}
+    if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(ok,function(){fallback()})}
+    else{fallback()}
+    function fallback(){
+      try{var ta=document.createElement('textarea');ta.value=url;document.body.appendChild(ta);ta.select();document.execCommand('copy');document.body.removeChild(ta);ok()}
+      catch(e){hint.textContent='请手动复制：'+url}
+    }
+  });
+})();
+</script>
+</body>
+</html>
