@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Tue, 24 Nov 2026 07:24:20 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 05:54:54 GMT</lastBuildDate>
   <item>
-    <title>Claude-BugHunter：84 项技能的漏洞挖掘工具包</title>
+    <title>Claude-BugHunter：84 项技能的开源红队工具包</title>
     <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>开源红队技能包，可直接接入 Claude Code 做外网渗透测试。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
+    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>把 Claude Code 变成漏洞挖掘助手，安全从业者可即取即用。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
   </item>
   <item>
-    <title>Declare：为人与 AI 设计的 UI 语言</title>
-    <link>https://davidtemkin.github.io/declarelang/</link>
-    <guid isPermaLink="false">davidtemkin.github.io/declarelang-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>探索 AI 原生界面范式，前端与产品设计者可参考。（社区 · Hacker News · 原题 Declare is a UI language for you and your AI）</description>
+    <title>9/UX：为 9front 打造 Macintosh 风格桌面</title>
+    <link>https://progrium.github.io/9ux/</link>
+    <guid isPermaLink="false">progrium.github.io/9ux-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>另类系统美学实验，看复古交互如何被重新实现。（社区 · Lobste.rs · 原题 9/UX: a Macintosh-inspired desktop for 9front）</description>
   </item>
   <item>
-    <title>OpenAI 与 Cisco 联合推出 Shirudo</title>
-    <link>https://openai.com/index/introducing-shirudo</link>
-    <guid isPermaLink="false">openai.com/index/introducing-shirudo-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>安全巨头联手模型厂商，企业 AI 安全落地风向标。（官方 · OpenAI + Hacker News · 原题 OpenAI and Cisco introduce Shirudo）</description>
+    <title>GPT-6 展现内在蛋白质设计能力</title>
+    <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
+    <guid isPermaLink="false">openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>通用模型触及结构生物学，AI for Science 边界再扩。（官方 · OpenAI + Hacker News · 原题 GPT-6 models demonstrate intrinsic protein-design capabilities）</description>
   </item>
   <item>
-    <title>Google 搜索更个性化，专属于你</title>
-    <link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>搜索个性化升级，直接影响 SEO 与内容分发策略。（官方 · Google AI · 原题 A more tailored Google Search that’s uniquely yours）</description>
+    <title>OpenAI 用 Astra 搜寻遥远行星</title>
+    <link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
+    <guid isPermaLink="false">openai.com/index/searching-for-distant-planets-with-astra-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>看大模型如何进入天文观测流程，而非只做文本。（官方 · OpenAI · 原题 Searching for distant planets with Astra）</description>
   </item>
   <item>
-    <title>DeepMind 用智能体与形式验证加速量子算法发现</title>
-    <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
-    <guid isPermaLink="false">deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>AI 加形式化验证做科研，可复用的自动化发现范式。（官方 · DeepMind · 原题 Finding faster quantum algorithms with agents and formal verification）</description>
+    <title>Anthropic 股价跌破 83 美元 IPO 发行价</title>
+    <link>https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading</link>
+    <guid isPermaLink="false">bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>头部 AI 公司估值承压，直接影响融资与人才预期。（社区 · Hacker News · 原题 Anthropic breaks below $83 IPO price）</description>
   </item>
   <item>
-    <title>OpenAI 为法务团队推出互联智能方案</title>
-    <link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
-    <guid isPermaLink="false">openai.com/business/learn/connected-intelligence-for-in-house-legal-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>垂直行业落地样本，看模型厂商如何切企业法务场景。（官方 · OpenAI · 原题 Connected intelligence for in-house legal）</description>
+    <title>Gemini 如何改变 Golden State 的组织与球迷体验</title>
+    <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</link>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/gemini/gemini-golden-state-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>体育场景的 Gemini 落地案例，可参考其工作流设计。（官方 · Google AI · 原题 How Gemini is changing the game for Golden State's organization and fans.）</description>
   </item>
   <item>
-    <title>Richpanel 30 天自动化 50% 客服量</title>
-    <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
-    <guid isPermaLink="false">openai.com/business/customer-stories/richpanel-ai-customer-support-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>可量化的客服自动化案例，含落地节奏与 ROI 参考。（官方 · OpenAI · 原题 Richpanel helps companies automate 50% of support in 30 days）</description>
+    <title>Simon Willison：十二个月内的三个 LLM 拐点</title>
+    <link>https://simonwillison.net/2026/Nov/24/llm-inflection-points/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Nov/24/llm-inflection-points-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>一线开发者梳理能力跃迁节点，帮你校准技术判断。（博客 · Simon Willison · 原题 Three LLM inflection points in twelve months）</description>
   </item>
   <item>
-    <title>datasette-agent 0.7a1 发布</title>
-    <link>https://simonwillison.net/2026/Nov/24/datasette-agent/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/24/datasette-agent-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>数据工具接入 agent 的新版本，关注其接口设计变化。（博客 · Simon Willison · 原题 datasette-agent 0.7a1）</description>
+    <title>Microduck 避障：基于 Isaac Lab 与 Newton 的 Sim2Real 流程</title>
+    <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/microduck-obstacle-avoidance-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>完整机器人仿真到真机迁移范例，工程细节可直接借鉴。（博客 · Hugging Face · 原题 Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton）</description>
   </item>
   <item>
-    <title>GLM-5.4：首个 Loop Transformer 迈向通用编码</title>
-    <link>https://simonwillison.net/2026/Nov/23/glm-54/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/23/glm-54-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>新架构尝试通用编码，值得关注其训练与评测细节。（博客 · Simon Willison · 原题 GLM-5.4: Toward Generalized Coding with Our First Loop Transformer）</description>
+    <title>Intentful 如何用 dots 腾出增长时间</title>
+    <link>https://openai.com/business/customer-stories/intentful-dots</link>
+    <guid isPermaLink="false">openai.com/business/customer-stories/intentful-dots-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>小团队用 AI 工具压缩流程的实操案例，重效率而非炫技。（官方 · OpenAI · 原题 How Intentful uses dots to make more time for growth）</description>
   </item>
   <item>
-    <title>RoboTrack：面向真实机器人操作的点跟踪</title>
-    <link>https://huggingface.co/blog/allenai/robotrack</link>
-    <guid isPermaLink="false">huggingface.co/blog/allenai/robotrack-2026-11-24</guid>
-    <pubDate>Tue, 24 Nov 2026 07:24:20 GMT</pubDate>
-    <description>真机操作的点跟踪方案，机器人感知与操控可直接借鉴。（博客 · Hugging Face · 原题 RoboTrack: Point tracking for real-world robotic manipulation）</description>
+    <title>GPT 6.2 Astra 破解一桩历史悬案</title>
+    <link>https://simonwillison.net/2026/Nov/24/astra-historical-mystery/</link>
+    <guid isPermaLink="false">simonwillison.net/2026/Nov/24/astra-historical-mystery-2026-11-25</guid>
+    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
+    <description>展示模型跨文献推理上限，也是能力评估的鲜活样本。（博客 · Simon Willison · 原题 GPT 6.2 Astra Solves a Historical Mystery）</description>
   </item>
 </channel>
 </rss>
