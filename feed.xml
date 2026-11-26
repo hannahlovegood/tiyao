@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Wed, 25 Nov 2026 05:54:54 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 05:46:30 GMT</lastBuildDate>
   <item>
-    <title>Claude-BugHunter：84 项技能的开源红队工具包</title>
+    <title>Claude-BugHunter：85 项技能的红队漏洞猎手工具包</title>
     <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>把 Claude Code 变成漏洞挖掘助手，安全从业者可即取即用。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
+    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>把 Claude Code 变成可复用的漏洞挖掘工作流，安全从业者可直接上手。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
   </item>
   <item>
-    <title>9/UX：为 9front 打造 Macintosh 风格桌面</title>
-    <link>https://progrium.github.io/9ux/</link>
-    <guid isPermaLink="false">progrium.github.io/9ux-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>另类系统美学实验，看复古交互如何被重新实现。（社区 · Lobste.rs · 原题 9/UX: a Macintosh-inspired desktop for 9front）</description>
+    <title>Anthropic 发布 GRH Lean 验证精简版</title>
+    <link>https://github.com/lsernau/grh-lean</link>
+    <guid isPermaLink="false">github.com/lsernau/grh-lean-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>形式化验证门槛再降，AI 数学可靠性研究多了一个轻量参照。（社区 · Hacker News · 原题 Much shorter version of GRH Lean verification from Anthropic）</description>
+  </item>
+  <item>
+    <title>基于 Nemotron 3.5 Parse 的开放数据与推理加速</title>
+    <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>给出开放数据加微调加推理优化的完整路径，落地成本可算。（博客 · Hugging Face · 原题 Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference）</description>
+  </item>
+  <item>
+    <title>科学家为 AI agent 划定的能力边界</title>
+    <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+    <guid isPermaLink="false">huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>看清研究者对 agent 自主性的真实顾虑，判断产品合规红线。（博客 · Hugging Face · 原题 Where scientists draw the line on AI agents）</description>
+  </item>
+  <item>
+    <title>用 CUGA 构建 Indic 语音 agent</title>
+    <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
+    <guid isPermaLink="false">huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>多语言语音 agent 的实操范例，出海与本地化团队可借鉴。（博客 · Hugging Face · 原题 An Indic Voice Agent with CUGA）</description>
+  </item>
+  <item>
+    <title>diagram-design：52 种图表类型的编辑级设计技能</title>
+    <link>https://github.com/cathrynlavery/diagram-design</link>
+    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>让编码 agent 直接产出可发布图表，省去设计与排版返工。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
   </item>
   <item>
     <title>GPT-6 展现内在蛋白质设计能力</title>
     <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
-    <guid isPermaLink="false">openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>通用模型触及结构生物学，AI for Science 边界再扩。（官方 · OpenAI + Hacker News · 原题 GPT-6 models demonstrate intrinsic protein-design capabilities）</description>
+    <guid isPermaLink="false">openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>模型能力外溢到生物设计，AI for Science 从业者需重估边界。（官方 · OpenAI · 原题 GPT-6 models demonstrate intrinsic protein-design capabilities）</description>
   </item>
   <item>
-    <title>OpenAI 用 Astra 搜寻遥远行星</title>
+    <title>用 Astra 搜寻遥远行星</title>
     <link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
-    <guid isPermaLink="false">openai.com/index/searching-for-distant-planets-with-astra-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>看大模型如何进入天文观测流程，而非只做文本。（官方 · OpenAI · 原题 Searching for distant planets with Astra）</description>
+    <guid isPermaLink="false">openai.com/index/searching-for-distant-planets-with-astra-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>AI 介入天文发现流程，展示科研自动化的真实落地场景。（官方 · OpenAI · 原题 Searching for distant planets with Astra）</description>
   </item>
   <item>
-    <title>Anthropic 股价跌破 83 美元 IPO 发行价</title>
-    <link>https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading</link>
-    <guid isPermaLink="false">bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>头部 AI 公司估值承压，直接影响融资与人才预期。（社区 · Hacker News · 原题 Anthropic breaks below $83 IPO price）</description>
+    <title>CLI-Anything：让所有软件原生支持 agent</title>
+    <link>https://github.com/HKUDS/CLI-Anything</link>
+    <guid isPermaLink="false">github.com/HKUDS/CLI-Anything-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>若成立将重塑 agent 工具调用层，开发者应关注其接口范式。（开源 · GitHub · 原题 HKUDS/CLI-Anything）</description>
   </item>
   <item>
     <title>Gemini 如何改变 Golden State 的组织与球迷体验</title>
     <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</link>
-    <guid isPermaLink="false">blog.google/products-and-platforms/products/gemini/gemini-golden-state-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>体育场景的 Gemini 落地案例，可参考其工作流设计。（官方 · Google AI · 原题 How Gemini is changing the game for Golden State's organization and fans.）</description>
-  </item>
-  <item>
-    <title>Simon Willison：十二个月内的三个 LLM 拐点</title>
-    <link>https://simonwillison.net/2026/Nov/24/llm-inflection-points/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/24/llm-inflection-points-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>一线开发者梳理能力跃迁节点，帮你校准技术判断。（博客 · Simon Willison · 原题 Three LLM inflection points in twelve months）</description>
-  </item>
-  <item>
-    <title>Microduck 避障：基于 Isaac Lab 与 Newton 的 Sim2Real 流程</title>
-    <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/microduck-obstacle-avoidance-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>完整机器人仿真到真机迁移范例，工程细节可直接借鉴。（博客 · Hugging Face · 原题 Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton）</description>
-  </item>
-  <item>
-    <title>Intentful 如何用 dots 腾出增长时间</title>
-    <link>https://openai.com/business/customer-stories/intentful-dots</link>
-    <guid isPermaLink="false">openai.com/business/customer-stories/intentful-dots-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>小团队用 AI 工具压缩流程的实操案例，重效率而非炫技。（官方 · OpenAI · 原题 How Intentful uses dots to make more time for growth）</description>
-  </item>
-  <item>
-    <title>GPT 6.2 Astra 破解一桩历史悬案</title>
-    <link>https://simonwillison.net/2026/Nov/24/astra-historical-mystery/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/24/astra-historical-mystery-2026-11-25</guid>
-    <pubDate>Wed, 25 Nov 2026 05:54:54 GMT</pubDate>
-    <description>展示模型跨文献推理上限，也是能力评估的鲜活样本。（博客 · Simon Willison · 原题 GPT 6.2 Astra Solves a Historical Mystery）</description>
+    <guid isPermaLink="false">blog.google/products-and-platforms/products/gemini/gemini-golden-state-2026-11-26</guid>
+    <pubDate>Thu, 26 Nov 2026 05:46:30 GMT</pubDate>
+    <description>大模型进入体育运营一线，是观察企业级 agent 落地的样本。（官方 · Google AI · 原题 How Gemini is changing the game for Golden State's organization and fans.）</description>
   </item>
 </channel>
 </rss>
