@@ -5,76 +5,76 @@
   <link>https://hannahlovegood.github.io/tiyao/</link>
   <description>每天替你把 AI 世界读一遍，只留提要。每日 Top 10，每条一句「为什么值得读」。</description>
   <language>zh-cn</language>
-  <lastBuildDate>Fri, 27 Nov 2026 05:41:06 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 05:19:53 GMT</lastBuildDate>
   <item>
-    <title>Claude-BugHunter：85 项技能的漏洞挖掘工具包</title>
+    <title>Claude-BugHunter：85 项技能的红队漏洞猎手工具包</title>
     <link>https://github.com/elementalsouls/Claude-BugHunter</link>
-    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>开源红队技能包，可直接接入 Claude Code 做外网渗透测试。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
+    <guid isPermaLink="false">github.com/elementalsouls/Claude-BugHunter-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>把 Claude Code 变成可复用的漏洞挖掘流水线，安全从业者可直接借鉴。（开源 · GitHub · 原题 elementalsouls/Claude-BugHunter）</description>
   </item>
   <item>
-    <title>llama.cpp 推出 AMD Ryzen 与 Radeon 基准面板</title>
+    <title>房东 AI 助手误答延迟交租，租客遭驱逐</title>
+    <link>https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai</link>
+    <guid isPermaLink="false">drmahfouz.substack.com/p/woman-evicted-after-landlords-ai-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>AI 代理越权承诺引发真实法律后果，产品责任边界案例。（社区 · Hacker News · 原题 Woman evicted after landlord's AI assistant told her she could delay rent）</description>
+  </item>
+  <item>
+    <title>主流语言为何需要形式化可验证</title>
+    <link>https://blainehansen.me/post/mainstream-verifiable-language/</link>
+    <guid isPermaLink="false">blainehansen.me/post/mainstream-verifiable-language-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>厘清形式验证落地的工程障碍，关乎下一代语言设计取向。（社区 · Lobste.rs · 原题 The need for a formally verifiable mainstream programming language）</description>
+  </item>
+  <item>
+    <title>在 Trainium3 上用 LTX-2.5 生成视频</title>
+    <link>https://huggingface.co/blog/video-trainium3</link>
+    <guid isPermaLink="false">huggingface.co/blog/video-trainium3-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>非 NVIDIA 芯片跑视频生成的实测，牵动推理成本与选型。（博客 · Hugging Face · 原题 Taking Trainium3 to the Track: Generating Videos with LTX-2.5）</description>
+  </item>
+  <item>
+    <title>llama.cpp 推出 AMD Ryzen/Radeon 基准面板</title>
     <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
-    <guid isPermaLink="false">huggingface.co/blog/ggml-org/llamacpp-amd-bench-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>AMD 平台本地推理性能有了统一对照，选型不必再靠猜。（博客 · Hugging Face · 原题 Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon）</description>
+    <guid isPermaLink="false">huggingface.co/blog/ggml-org/llamacpp-amd-bench-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>本地推理有了可比的 AMD 性能数据，选型不再靠猜。（博客 · Hugging Face · 原题 Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon）</description>
+  </item>
+  <item>
+    <title>superpowers：可落地的 agent 技能框架与方法论</title>
+    <link>https://github.com/obra/superpowers</link>
+    <guid isPermaLink="false">github.com/obra/superpowers-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>把 agent 开发从演示推向工程规范，团队可直接套用。（开源 · GitHub · 原题 obra/superpowers）</description>
   </item>
   <item>
     <title>基于 Nemotron 3.5 Parse 的开放数据与微调实践</title>
     <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
-    <guid isPermaLink="false">huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>给出开放数据、微调到加速推理的完整路径，可复现。（博客 · Hugging Face · 原题 Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference）</description>
-  </item>
-  <item>
-    <title>Anthropic 发布 GRH Lean 验证精简版</title>
-    <link>https://github.com/lsernau/grh-lean</link>
-    <guid isPermaLink="false">github.com/lsernau/grh-lean-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>形式化验证门槛降低，便于快速核验模型推理链。（社区 · Hacker News · 原题 Much shorter version of GRH Lean verification from Anthropic）</description>
-  </item>
-  <item>
-    <title>多智能体系统：构建、训练与评估方法</title>
-    <link>https://huggingface.co/blog/training-swarms</link>
-    <guid isPermaLink="false">huggingface.co/blog/training-swarms-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>系统梳理群体智能体的工程与评测要点，少走弯路。（博客 · Hugging Face · 原题 Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems）</description>
+    <guid isPermaLink="false">huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>开放数据加微调加推理加速的完整链路，可复现参考。（博客 · Hugging Face · 原题 Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference）</description>
   </item>
   <item>
     <title>纽约时报警告摄影师勿因 AI 功能升级 Photoshop</title>
     <link>https://simonwillison.net/2026/Nov/26/hn-50651685/</link>
-    <guid isPermaLink="false">simonwillison.net/2026/Nov/26/hn-50651685-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>版权与授权风险落到具体工具，内容团队需重审流程。（博客 · Simon Willison · 原题 The New York Times warns photographers not to update Photoshop over AI features）</description>
+    <guid isPermaLink="false">simonwillison.net/2026/Nov/26/hn-50651685-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>版权与授权条款暗藏 AI 风险，内容行业需重审工具链。（博客 · Simon Willison · 原题 The New York Times warns photographers not to update Photoshop over AI features）</description>
   </item>
   <item>
-    <title>OpenAI 削减 GPT-6.2 用量：Astra 与 Sol 限额收紧</title>
-    <link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
-    <guid isPermaLink="false">twitter.com/thsottiaux/status/2125784147889393806-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>配额变化直接影响成本模型与产品限流设计。（社区 · Hacker News · 原题 OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster）</description>
-  </item>
-  <item>
-    <title>diagram-design：面向多款 AI 编程工具的图表设计</title>
+    <title>diagram-design：52 种编辑级图表设计技能</title>
     <link>https://github.com/cathrynlavery/diagram-design</link>
-    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>52 种图表类型，补齐 AI 编码工具的文档可视化短板。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
+    <guid isPermaLink="false">github.com/cathrynlavery/diagram-design-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>让编码 agent 直接产出可发布图表，省去设计与排版环节。（开源 · GitHub · 原题 cathrynlavery/diagram-design）</description>
   </item>
   <item>
-    <title>OpenAI 或已进入成本控制模式</title>
-    <link>https://micjm.com/blog/openai-is-in-cost-control-mode/</link>
-    <guid isPermaLink="false">micjm.com/blog/openai-is-in-cost-control-mode-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>头部厂商转向降本，预示定价与算力策略将调整。（社区 · Hacker News · 原题 OpenAI may be in cost control mode）</description>
-  </item>
-  <item>
-    <title>GPT-6 模型展现内在蛋白质设计能力</title>
-    <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
-    <guid isPermaLink="false">openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-2026-11-27</guid>
-    <pubDate>Fri, 27 Nov 2026 05:41:06 GMT</pubDate>
-    <description>通用模型切入结构生物学，科研工具链或迎替代。（官方 · OpenAI · 原题 GPT-6 models demonstrate intrinsic protein-design capabilities）</description>
+    <title>Stable Gated DeltaNet-2：抑制循环状态不稳定</title>
+    <link>https://huggingface.co/papers/2611.34051</link>
+    <guid isPermaLink="false">huggingface.co/papers/2611.34051-2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 05:19:53 GMT</pubDate>
+    <description>直击线性注意力训练不稳的痛点，影响长序列模型可靠性。（论文 · HF Papers · 原题 Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability）</description>
   </item>
 </channel>
 </rss>
